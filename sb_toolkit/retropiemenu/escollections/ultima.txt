@@ -1,0 +1,84 @@
+Ultima - Escape From Mount Drash (USA);vic20
+Ultima - Exodus (Hack);nesh
+Ultima - Exodus (USA);nes
+Ultima - Quest of the Avatar (USA);nes
+Ultima - Runes of Virtue (USA);gb
+Ultima - Runes of Virtue II (USA);gb
+Ultima - Runes of Virtue II (USA);snes
+Ultima - Warriors of Destiny (USA);nes
+Ultima I (USA) (Disk 1);apple2
+Ultima I (USA) (Disk 2);apple2
+Ultima I - The First Age of Darkness (USA) (Disk 1);apple2
+Ultima I - The First Age of Darkness (USA) (Disk 2);apple2
+Ultima I - The First Age of Darkness (USA);c64
+Ultima II (USA);atarist
+Ultima II - Revenge of the Enchantress (USA) (Disk 1);apple2
+Ultima II - Revenge of the Enchantress (USA) (Disk 1);atari800
+Ultima II - Revenge of the Enchantress (USA) (Disk 2) (Master);apple2
+Ultima II - Revenge of the Enchantress (USA) (Disk 3) (Player);apple2
+Ultima II - Revenge of the Enchantress (USA) (Disk 3);atari800
+Ultima II - Revenge of the Enchantress (USA) (Disk 4) (Galaxy);apple2
+Ultima II - The Revenge of the Enchantress! (USA) (Side A);c64
+Ultima II - The Revenge of the Enchantress! (USA) (Side B);c64
+Ultima III - Exodus (Japan);msx2
+Ultima III - Exodus (USA) (Disk 1);apple2
+Ultima III - Exodus (USA) (Disk 1);atari800
+Ultima III - Exodus (USA) (Disk 2);apple2
+Ultima III - Exodus (USA);atarist
+Ultima III - Exodus (USA);c64
+Ultima IV - Quest of the Avatar (Europe);mastersystem
+Ultima IV - Quest of the Avatar (USA) (Disk 1);apple2
+Ultima IV - Quest of the Avatar (USA) (Disk 2) (Britania);apple2
+Ultima IV - Quest of the Avatar (USA) (Disk 3) (Dungeon);apple2
+Ultima IV - Quest of the Avatar (USA) (Disk 4) (Town);apple2
+Ultima IV - Quest of the Avatar (USA) (Side A);c64
+Ultima IV - Quest of the Avatar (USA) (Side B);c64
+Ultima IV - Quest of the Avatar (USA);atarist
+Ultima IV Remastered (USA) (Unl) (Disk 1);c64
+Ultima IV Remastered (USA) (Unl) (Disk 2);c64
+Ultima V - Warriors of Destiny (USA) (Disk 1 Side A);c64
+Ultima V - Warriors of Destiny (USA) (Disk 1 Side B);c64
+Ultima V - Warriors of Destiny (USA) (Disk 1);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 1);atarist
+Ultima V - Warriors of Destiny (USA) (Disk 2 Side A);c64
+Ultima V - Warriors of Destiny (USA) (Disk 2 Side B);c64
+Ultima V - Warriors of Destiny (USA) (Disk 2) (Britania);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 2);atarist
+Ultima V - Warriors of Destiny (USA) (Disk 3 Side A);c64
+Ultima V - Warriors of Destiny (USA) (Disk 3 Side B);c64
+Ultima V - Warriors of Destiny (USA) (Disk 3) (Castle);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 4 Side A);c64
+Ultima V - Warriors of Destiny (USA) (Disk 4 Side B);c64
+Ultima V - Warriors of Destiny (USA) (Disk 4) (Dungeon);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 5) (Dwelling);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 6) (Keeper);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 7) (Town);apple2
+Ultima V - Warriors of Destiny (USA) (Disk 8) (Underworld);apple2
+Ultima V - Warriors of Destiny(Disk 1 of 4 Side A)(Main);c128
+Ultima V - Warriors of Destiny(Disk 1 of 4 Side B)(Dungeon);c128
+Ultima V - Warriors of Destiny(Disk 2 of 4 Side A)(Britannia);c128
+Ultima V - Warriors of Destiny(Disk 2 of 4 Side B)(Underworld);c128
+Ultima V - Warriors of Destiny(Disk 3 of 4 Side A)(Town);c128
+Ultima V - Warriors of Destiny(Disk 3 of 4 Side B)(Dwelling);c128
+Ultima V - Warriors of Destiny(Disk 4 of 4 Side A)(Castle);c128
+Ultima V - Warriors of Destiny(Disk 4 of 4 Side B)(Keep);c128
+Ultima VI - The False Prophet (Europe);atarist
+Ultima VI - The False Prophet (USA) (Disk 1 Side A);c64
+Ultima VI - The False Prophet (USA) (Disk 1 Side B);c64
+Ultima VI - The False Prophet (USA) (Disk 2 Side A);c64
+Ultima VI - The False Prophet (USA) (Disk 2 Side B);c64
+Ultima VI - The False Prophet (USA) (Disk 3 Side A);c64
+Ultima VI - The False Prophet (USA) (Disk 3 Side B);c64
+Ultima VI - The False Prophet (USA) (Disk 4);c64
+Ultima VI - The False Prophet (USA);snes
+Ultima VII - The Black Gate (USA);snes
+Ultima3_v1.1;amiga1200
+Ultima3_v1.1;amiga
+Ultima4_v1.0_1390;amiga1200
+Ultima4_v1.0_1390;amiga
+Ultima5_v1.2_0785;amiga1200
+Ultima5_v1.2_0785;amiga
+Ultima6_v1.0_0294;amiga1200
+Ultima6_v1.0_0294;amiga
+ultimau2;pc
+ultimau;pc

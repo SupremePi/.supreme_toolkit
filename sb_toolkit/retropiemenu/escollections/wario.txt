@@ -1,0 +1,29 @@
+Game & Wario (USA);wiiu
+Mario to Wario (Japan);sfc
+Virtual Boy Wario Land (Japan, USA);virtualboy
+Wario - Master of Disguise (USA);nds
+Wario Blast - PAPORB (Hack);nesh
+Wario Blast Featuring Bomberman! (USA, Europe);gb
+Wario Blast Featuring Bomberman! (USA, Europe);sgb
+Wario Bros 3 (Hack);nesh
+Wario Bros. (R);dendy
+Wario Land - Shake It (USA);wii
+Wario Land - Super Mario Land 3 (World);gb
+Wario Land - Super Mario Land 3 (World);sgb
+Wario Land 3 (World);gbc
+Wario Land 4 (USA, Europe);gba
+Wario Land II (USA, Europe);gbc
+Wario Land II (USA, Europe);gb
+Wario Land II (USA, Europe);sgb
+Wario World (USA);gc
+Wario World Subcon (Hack);snesh
+Wario's Woods (USA);nes
+Wario's Woods (USA);snes
+WarioWare - D.I.Y. (USA);nds
+WarioWare - Touched! (USA);nds
+WarioWare - Twisted! (USA);gba
+WarioWare, Inc. - Mega Microgame$! (USA);gba
+WarioWare, Inc. - Mega Party Game$! (USA);gc
+Warioland II (Hack);nesh
+Warios Woods - G Autumn Yesterday (Hack);nesh
+wario no mori;satellaview

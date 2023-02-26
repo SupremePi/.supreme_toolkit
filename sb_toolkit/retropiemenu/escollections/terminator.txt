@@ -1,0 +1,167 @@
+RoboCop versus The Terminator (Europe);mastersystem
+RoboCop versus The Terminator (Japan);megadrive-japan
+RoboCop versus The Terminator (USA) (Proto);nes
+RoboCop versus The Terminator (USA);megadrive
+RoboCop versus The Terminator (USA);snes
+RoboCop versus The Terminator (USA, Europe);gamegear
+RoboCop vs. The Terminator (USA);gb
+T2 - Terminator 2 - Judgment Day (USA, Europe);megadrive
+Terminator (Europe);c64
+Terminator (R);dendy
+Terminator 2 - Judgement Day (Europe);amstradcpc
+Terminator 2 - Judgement Day (Europe);zxspectrum
+Terminator 2 - Judgment Day (Europe);mastersystem
+Terminator 2 - Judgment Day (R);dendy
+Terminator 2 - Judgment Day (USA);nes
+Terminator 2 - Judgment Day (USA);snes
+Terminator 2 - Judgment Day (USA, Europe);gb
+Terminator 2 - Judgment Day (USA, Europe);gamegear
+Terminator 3 - Rise of the Machines (USA);gba
+Terminator 3 - The Redemption (USA);gc
+Terminator II - Judgemant Day (Europe) (Disk 1);atarist
+Terminator II - Judgemant Day (Europe) (Disk 2);atarist
+Terminator II - Judgment Day (Europe) (Side A);c64
+Terminator II - Judgment Day (Europe) (Side B);c64
+Terminator, The  (USA);pspminis
+Terminator, The (Europe);atari800
+Terminator, The (Europe);mastersystem
+Terminator, The (USA);segacd
+Terminator, The (USA);megadrive
+Terminator, The (USA);snes
+Terminator, The (USA, Europe);nes
+Terminator, The (USA, Europe);gamegear
+Terminator2ArcadeGame_v1.2_0151;amiga1200
+Terminator2ArcadeGame_v1.2_0151;amiga
+Terminator2JudgmentDay_v1.1_1339;amiga1200
+Terminator2JudgmentDay_v1.1_1339;amiga
+The Terminator (Hack);nesh
+j5term;arcade
+j5term;fba
+j5term;mame-advmame
+j5term;mame-libretro
+j5term;mame-mame4all
+t2_l2;arcade
+t2_l2;fba
+t2_l2;mame-advmame
+t2_l2;mame-libretro
+t2_l2;mame-mame4all
+t2_l3;arcade
+t2_l3;fba
+t2_l3;mame-advmame
+t2_l3;mame-libretro
+t2_l3;mame-mame4all
+t2_l4;arcade
+t2_l4;fba
+t2_l4;mame-advmame
+t2_l4;mame-libretro
+t2_l4;mame-mame4all
+t2_l6;arcade
+t2_l6;fba
+t2_l6;mame-advmame
+t2_l6;mame-libretro
+t2_l6;mame-mame4all
+t2_l8;arcade
+t2_l8;fba
+t2_l8;mame-advmame
+t2_l8;mame-libretro
+t2_l8;mame-mame4all
+t2_p2f;arcade
+t2_p2f;fba
+t2_p2f;mame-advmame
+t2_p2f;mame-libretro
+t2_p2f;mame-mame4all
+t3new;arcade
+t3new;fba
+t3new;mame-advmame
+t3new;mame-libretro
+t3new;mame-mame4all
+term2;arcade
+term2;fba
+term2;mame-advmame
+term2;mame-libretro
+term2;mame-mame4all
+term2la1;arcade
+term2la1;fba
+term2la1;mame-advmame
+term2la1;mame-libretro
+term2la1;mame-mame4all
+term2la2;arcade
+term2la2;fba
+term2la2;mame-advmame
+term2la2;mame-libretro
+term2la2;mame-mame4all
+term2la3;arcade
+term2la3;fba
+term2la3;mame-advmame
+term2la3;mame-libretro
+term2la3;mame-mame4all
+term3;arcade
+term3;fba
+term3;mame-advmame
+term3;mame-libretro
+term3;mame-mame4all
+term3_205;arcade
+term3_205;fba
+term3_205;mame-advmame
+term3_205;mame-libretro
+term3_205;mame-mame4all
+term3_301;arcade
+term3_301;fba
+term3_301;mame-advmame
+term3_301;mame-libretro
+term3_301;mame-mame4all
+term3f;arcade
+term3f;fba
+term3f;mame-advmame
+term3f;mame-libretro
+term3f;mame-mame4all
+term3f_205;arcade
+term3f_205;fba
+term3f_205;mame-advmame
+term3f_205;mame-libretro
+term3f_205;mame-mame4all
+term3f_301;arcade
+term3f_301;fba
+term3f_301;mame-advmame
+term3f_301;mame-libretro
+term3f_301;mame-mame4all
+term3g;arcade
+term3g;fba
+term3g;mame-advmame
+term3g;mame-libretro
+term3g;mame-mame4all
+term3g_301;arcade
+term3g_301;fba
+term3g_301;mame-advmame
+term3g_301;mame-libretro
+term3g_301;mame-mame4all
+term3i;arcade
+term3i;fba
+term3i;mame-advmame
+term3i;mame-libretro
+term3i;mame-mame4all
+term3i_205;arcade
+term3i_205;fba
+term3i_205;mame-advmame
+term3i_205;mame-libretro
+term3i_205;mame-mame4all
+term3i_301;arcade
+term3i_301;fba
+term3i_301;mame-advmame
+term3i_301;mame-libretro
+term3i_301;mame-mame4all
+term3l;arcade
+term3l;fba
+term3l;mame-advmame
+term3l;mame-libretro
+term3l;mame-mame4all
+term3l_205;arcade
+term3l_205;fba
+term3l_205;mame-advmame
+term3l_205;mame-libretro
+term3l_205;mame-mame4all
+term3l_301;arcade
+term3l_301;fba
+term3l_301;mame-advmame
+term3l_301;mame-libretro
+term3l_301;mame-mame4all

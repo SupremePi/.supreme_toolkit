@@ -1,0 +1,66 @@
+Tron (Germany) (Unl);amstradcpc
+Tron Warrior (Spain);amstradcpc
+Tron (Europe);amstradcpc
+Tron (USA) (Unl);apple2
+Tron (S+S Soft Vertriebs GmbH) (Europe);c64
+Tron (Systems Editoriale s.r.l.) (Italy);c64
+Tron (THS Software Studio) (USA) (Unl);c64
+Tron (1988);plus4
+Tron (Europe) (Unl);vic20
+Tron (Europe) (Unl);vic20
+Tron Light Cycles (Dragon User Magazine);dragon32
+Tron (Stern) (2011) (1.3);futurepinball
+Tron Disco-Theque (Original) (1.0);futurepinball
+Tron Legacy (Original) (2012) (Ultra Edition) (1.01);futurepinball
+dotrone;arcade
+dotrone;fba
+dotrone;mame-advmame
+dotrone;mame-libretro
+dotrone;mame-mame4all
+dotrona;arcade
+dotrona;fba
+dotrona;mame-advmame
+dotrona;mame-libretro
+dotrona;mame-mame4all
+dotron;arcade
+dotron;fba
+dotron;mame-advmame
+dotron;mame-libretro
+dotron;mame-mame4all
+tron4;arcade
+tron4;fba
+tron4;mame-advmame
+tron4;mame-libretro
+tron4;mame-mame4all
+tron3;arcade
+tron3;fba
+tron3;mame-advmame
+tron3;mame-libretro
+tron3;mame-mame4all
+tron2;arcade
+tron2;fba
+tron2;mame-advmame
+tron2;mame-libretro
+tron2;mame-mame4all
+tron;arcade
+tron;fba
+tron;mame-advmame
+tron;mame-libretro
+tron;mame-mame4all
+tronger;arcade
+tronger;fba
+tronger;mame-advmame
+tronger;mame-libretro
+tronger;mame-mame4all
+truco;arcade
+truco;fba
+truco;mame-advmame
+truco;mame-libretro
+truco;mame-mame4all
+TRON - Maze-A-Tron (World);intellivision
+Tron - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b];nds
+Tron (Tomytronic);gameandwatch
+Tron 2.0 - Killer App (USA);gba
+Tron (Europe);zxspectrum
+Tron (Poland);atari800
+Tron - The Race (Germany) (Unl);atari800

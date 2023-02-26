@@ -1,0 +1,70 @@
+Classic NES Series - Xevious (USA, Europe);gba
+Super Xevious - Gump no Nazo (Japan);famicom
+Xevious (Dempa);x68000
+Xevious (Europe);amstradcpc
+Xevious (Europe);atarist
+Xevious (Europe);c64
+Xevious (Europe);zxspectrum
+Xevious (Japan);fds
+Xevious (Japan);mz2500
+Xevious (R);dendy
+Xevious (USA) (Proto);atari5200
+Xevious (USA);apple2
+Xevious (USA);atari7800
+Xevious (USA);atari800
+Xevious - Fardraut Densetsu (Japan);pcengine
+Xevious - Fardraut Saga (Japan);msx2
+Xevious - The Avenger (USA);nes
+Xevious 3D-G+ (USA);psx
+Xevious;fm7
+Xevious;x1
+battles;arcade
+battles;fba
+battles;mame-advmame
+battles;mame-libretro
+battles;mame-mame4all
+supxevs;arcade
+supxevs;fba
+supxevs;mame-advmame
+supxevs;mame-libretro
+supxevs;mame-mame4all
+sxevious;arcade
+sxevious;fba
+sxevious;mame-advmame
+sxevious;mame-libretro
+sxevious;mame-mame4all
+sxeviousj;arcade
+sxeviousj;fba
+sxeviousj;mame-advmame
+sxeviousj;mame-libretro
+sxeviousj;mame-mame4all
+xevi3dg;arcade
+xevi3dg;fba
+xevi3dg;mame-advmame
+xevi3dg;mame-libretro
+xevi3dg;mame-mame4all
+xevios;arcade
+xevios;fba
+xevios;mame-advmame
+xevios;mame-libretro
+xevios;mame-mame4all
+xevious;arcade
+xevious;fba
+xevious;mame-advmame
+xevious;mame-libretro
+xevious;mame-mame4all
+xeviousa;arcade
+xeviousa;fba
+xeviousa;mame-advmame
+xeviousa;mame-libretro
+xeviousa;mame-mame4all
+xeviousb;arcade
+xeviousb;fba
+xeviousb;mame-advmame
+xeviousb;mame-libretro
+xeviousb;mame-mame4all
+xeviousc;arcade
+xeviousc;fba
+xeviousc;mame-advmame
+xeviousc;mame-libretro
+xeviousc;mame-mame4all

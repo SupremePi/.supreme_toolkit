@@ -1,0 +1,57 @@
+Zork I - The Great Underground Empire (Europe);amstradcpc
+Zork II - The Wizard of Frobozz (Europe);amstradcpc
+Zork III - The Dungeon Master (Europe);amstradcpc
+beyondzork;apple2gs
+Beyond Zork (USA) (Side A);apple2
+Beyond Zork (USA) (Side B);apple2
+Mini-Zork I - The Great Underground Empire (USA);apple2
+Zork I - The Great Underground Empire (USA);apple2
+Zork II - The Wizard of Frobozz (USA);apple2
+Zork III - The Dungeon Master (USA);apple2
+Zork Zero (USA) (Disk 1);apple2
+Zork Zero (USA) (Disk 2);apple2
+Zork Zero (USA) (Disk 3);apple2
+Zork Zero (USA) (Disk 4);apple2
+Zorkquest Assault on Egreth Castle (USA) (Side A);apple2
+Zorkquest Assault on Egreth Castle (USA) (Side B);apple2
+Zork i - the great underground empire;adam
+Zork ii - the wizard of frobozz;adam
+Zork iii - the dungeon master;adam
+Beyond Zork (Side A);c128
+Beyone Zork (Side B);c128
+Mini-Zork I (USA);c64
+Zork - The Undiscovered Underground (USA) (Side A);c64
+Zork - The Undiscovered Underground (USA) (Side B);c64
+Zork I - The Great Underground Empire (USA) (Side A);c64
+Zork I - The Great Underground Empire (USA) (Side B);c64
+Zork II - The Wizard of Frobozz (USA);c64
+Zork III - The Dungeon Master (USA);c64
+Zork Quest I - Assault on Egreth Castle (USA) (Side A);c64
+Zork Quest I - Assault on Egreth Castle (USA) (Side B);c64
+Zork Quest II - The Crystal of Doom (USA) (Side A);c64
+Zork Quest II - The Crystal of Doom (USA) (Side B);c64
+Return to Zork;pcfx
+rtz-cd;scummvm
+zgi-win;scummvm
+znemesis;scummvm
+Zork1;trs-80
+Zork2;trs-80
+Zork3;trs-80
+Zork I (Europe) (Disk 1) (Boot);oric
+Zork I (Europe) (Disk 2) (Game);oric
+Zork II (Europe) (Disk 1) (Boot);oric
+Zork II (Europe) (Disk 2) (Game);oric
+Zork III (Europe) (Disk 1) (Boot);oric
+Zork III (Europe) (Disk 2) (Game);oric
+Beyond Zork;zmachine
+zork1;zmachine
+zork2;zmachine
+zork3;zmachine
+Zork I - The Great Underground Empire (USA);atari800
+Zork II - The Wizard of Frobozz (USA);atari800
+Zork III - The Dungeon Master (USA);atari800
+Beyond Zork - The Coconut of Quendor (USA);atarist
+Zork III- The Dungeon Master (USA);atarist
+Zork II- The Wizard of Frobozz (USA);atarist
+Zork I- The Great Underground Empire (USA);atarist
+Zork - The Undiscovered Underground (USA) (Promo);atarist

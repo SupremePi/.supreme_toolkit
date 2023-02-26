@@ -1,0 +1,11 @@
+Turok - Dinosaur Hunter (USA) (Rev B);n64
+Turok - Rage Wars (USA);n64
+Turok 2 - Seeds of Evil (USA) (Rev A);n64
+Turok 3 - Shadow of Oblivion (USA);n64
+Turok Evolution (USA);gba
+Turok - Rage Wars (USA, Europe);gbc
+Turok 2 - Seeds of Evil (USA, Europe);gbc
+Turok 3 - Shadow of Oblivion (USA, Europe);gbc
+Turok - Battle of the Bionosaurs (USA, Europe);gb
+Turok - Evolution (USA);gc
+Turok - Evolution (USA);ps2

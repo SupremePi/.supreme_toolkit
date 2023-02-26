@@ -1,0 +1,31 @@
+Worms (Electronic Arts) (USA);c64
+Worms (Elwood Computers) (USA);c64
+Worms (Europe);gb
+Worms (Europe);megadrive
+Worms (Europe);snes
+Worms (USA);atari800
+Worms (USA);saturn
+Worms (USA);psx
+Worms (World);atarijaguar
+Worms - Battle Islands (USA);psp
+Worms - Open Warfare (USA);psp
+Worms - Open Warfare (USA);nds
+Worms - Open Warfare 2 (USA) (En,Fr);nds
+Worms - Open Warfare 2 (USA);psp
+Worms 3D (USA);gc
+Worms 3D (USA);ps2
+Worms Armageddon (USA) (En,Fr,Es);n64
+Worms Armageddon (USA);gbc
+Worms Armageddon (USA);dreamcast
+Worms Armageddon (USA);psx
+Worms Blast (Europe) (En,Fr,De,Es,It);gba
+Worms Blast (USA);gc
+Worms Pinball (Europe);psx
+Worms World Party (USA) (En,Fr,De,Es,It);gba
+Worms World Party (USA);dreamcast
+Worms World Party (USA);psx
+WormsDirectorsCut_v1.1_AGA_0605;amiga1200
+WormsDirectorsCut_v1.1_AGA_0605;amiga
+Worms_CD32_(Europe);amigacd32
+Worms_v1.0_2MB_0230;amiga1200
+Worms_v1.0_2MB_0230;amiga

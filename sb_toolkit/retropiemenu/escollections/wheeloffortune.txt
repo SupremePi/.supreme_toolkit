@@ -1,0 +1,171 @@
+Wheel of Fortune, The (Europe);bbcb
+Epic Adventures #4 - The Wheel Of Fortune (198x)(Epic)[a];electron
+Epic Adventures #4 - The Wheel Of Fortune (198x)(Epic);electron
+Wheel of Fortune, The (1984)(Epic-Software);electron
+Wheel of Fortune (Generally Works) (USA);apple2
+Wheel of Fortune (Sharedata) (USA) (Side A);apple2
+Wheel of Fortune (Sharedata) (USA) (Side B);apple2
+Wheel of Fortune 2nd Edition (USA) (Side A);apple2
+Wheel of Fortune 2nd Edition (USA) (Side B);apple2
+Fortune Wheel (USA);c64
+Wheel of Fortune (Marex + Vermes) (Europe);c64
+Wheel of Fortune (Panther Software) (USA);c64
+Wheel of Fortune (Sharedata, Inc.) (USA);c64
+Wheel of Fortune - First Edition (USA);c64
+Wheel of Fortune - Golden Edition (USA);c64
+Wheel of Fortune - New Second Edition (USA);c64
+Wheel of Fortune - New Third Edition (USA);c64
+Wheel of Fortune - Third Edition (USA);c64
+Wheel of Fortune;dragon32
+pr_ftwhl;arcade
+pr_ftwhl;fba
+pr_ftwhl;mame-advmame
+pr_ftwhl;mame-libretro
+pr_ftwhl;mame-mame4all
+sc1wof;arcade
+sc1wof;fba
+sc1wof;mame-advmame
+sc1wof;mame-libretro
+sc1wof;mame-mame4all
+sc1wofa;arcade
+sc1wofa;fba
+sc1wofa;mame-advmame
+sc1wofa;mame-libretro
+sc1wofa;mame-mame4all
+sc1wofb;arcade
+sc1wofb;fba
+sc1wofb;mame-advmame
+sc1wofb;mame-libretro
+sc1wofb;mame-mame4all
+pr_whlft;arcade
+pr_whlft;fba
+pr_whlft;mame-advmame
+pr_whlft;mame-libretro
+pr_whlft;mame-mame4all
+wfortune;arcade
+wfortune;fba
+wfortune;mame-advmame
+wfortune;mame-libretro
+wfortune;mame-mame4all
+wfortunea;arcade
+wfortunea;fba
+wfortunea;mame-advmame
+wfortunea;mame-libretro
+wfortunea;mame-mame4all
+wof_100a;arcade
+wof_100a;fba
+wof_100a;mame-advmame
+wof_100a;mame-libretro
+wof_100a;mame-mame4all
+wof_200a;arcade
+wof_200a;fba
+wof_200a;mame-advmame
+wof_200a;mame-libretro
+wof_200a;mame-mame4all
+wof_200f;arcade
+wof_200f;fba
+wof_200f;mame-advmame
+wof_200f;mame-libretro
+wof_200f;mame-mame4all
+wof_200g;arcade
+wof_200g;fba
+wof_200g;mame-advmame
+wof_200g;mame-libretro
+wof_200g;mame-mame4all
+wof_200i;arcade
+wof_200i;fba
+wof_200i;mame-advmame
+wof_200i;mame-libretro
+wof_200i;mame-mame4all
+wof_300a;arcade
+wof_300a;fba
+wof_300a;mame-advmame
+wof_300a;mame-libretro
+wof_300a;mame-mame4all
+wof_300f;arcade
+wof_300f;fba
+wof_300f;mame-advmame
+wof_300f;mame-libretro
+wof_300f;mame-mame4all
+wof_300g;arcade
+wof_300g;fba
+wof_300g;mame-advmame
+wof_300g;mame-libretro
+wof_300g;mame-mame4all
+wof_300i;arcade
+wof_300i;fba
+wof_300i;mame-advmame
+wof_300i;mame-libretro
+wof_300i;mame-mame4all
+wof_300l;arcade
+wof_300l;fba
+wof_300l;mame-advmame
+wof_300l;mame-libretro
+wof_300l;mame-mame4all
+wof_400a;arcade
+wof_400a;fba
+wof_400a;mame-advmame
+wof_400a;mame-libretro
+wof_400a;mame-mame4all
+wof_400f;arcade
+wof_400f;fba
+wof_400f;mame-advmame
+wof_400f;mame-libretro
+wof_400f;mame-mame4all
+wof_400g;arcade
+wof_400g;fba
+wof_400g;mame-advmame
+wof_400g;mame-libretro
+wof_400g;mame-mame4all
+wof_400i;arcade
+wof_400i;fba
+wof_400i;mame-advmame
+wof_400i;mame-libretro
+wof_400i;mame-mame4all
+wof_400l;arcade
+wof_400l;fba
+wof_400l;mame-advmame
+wof_400l;mame-libretro
+wof_400l;mame-mame4all
+wof_500a;arcade
+wof_500a;fba
+wof_500a;mame-advmame
+wof_500a;mame-libretro
+wof_500a;mame-mame4all
+wof_500f;arcade
+wof_500f;fba
+wof_500f;mame-advmame
+wof_500f;mame-libretro
+wof_500f;mame-mame4all
+wof_500g;arcade
+wof_500g;fba
+wof_500g;mame-advmame
+wof_500g;mame-libretro
+wof_500g;mame-mame4all
+wof_500i;arcade
+wof_500i;fba
+wof_500i;mame-advmame
+wof_500i;mame-libretro
+wof_500i;mame-mame4all
+wof_500l;arcade
+wof_500l;fba
+wof_500l;mame-advmame
+wof_500l;mame-libretro
+wof_500l;mame-mame4all
+Wheel of Fortune (USA);n64
+Wheel of Fortune (USA) [b];nds
+Wheel of Fortune Gamer Edition (Hack);nesh
+Wheel of Fortune (USA);nes
+Wheel of Fortune - Family Edition (USA);nes
+Wheel of Fortune - Junior Edition (USA);nes
+Wheel of Fortune Starring Vanna White (USA);nes
+Wheel of Fortune (USA);gb
+Wheel of Fortune (USA);wiiu
+Wheel of Fortune (USA);segacd
+Wheel of Fortune (USA);gamegear
+Wheel of Fortune (USA);genesis
+Wheel of Fortune (USA);ps2
+Wheel of Fortune - 2nd Edition (USA);psx
+Wheel of Fortune (USA);snes
+Wheel of Fortune - Deluxe Edition (USA);snes
+Wheel of Fortune (USA);atari800
