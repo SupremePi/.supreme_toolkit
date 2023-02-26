@@ -1,0 +1,115 @@
+Frogger '07 (Europe) (Unl);vic20
+Frogger '93 (Europe);c64
+Frogger (1981)(Cornsoft);zx81
+Frogger (1995)(Tiny-Tomo);x68000
+Frogger (19xx)(-);zx81
+Frogger (A & F Software) (Europe);zxspectrum
+Frogger (A&F Software) (Europe);bbcb
+Frogger (C-Tech) (Europe);zxspectrum
+Frogger (CPC+) (Europe) (Unl);amstradcpc
+Frogger (Coplin Software) (USA);c64
+Frogger (Cornsoft);dragon32
+Frogger (Europe) (Unl);oric
+Frogger (Europe);odyssey2
+Frogger (Japan) (Alt 1);msx
+Frogger (Japan);msx
+Frogger (Parker Brothers) (USA);c64
+Frogger (Parker) (USA);vic20
+Frogger (Rabbit Software) (Europe);zxspectrum
+Frogger (Rabbit) (Europe);vic20
+Frogger (Sierra On-Line) (USA);atari800
+Frogger (Sierra Online, Inc.) (USA);c64
+Frogger (Sierra) (USA);vic20
+Frogger (Superior Software) (Europe);bbcb
+Frogger (The Cornsoft Group);coco
+Frogger (USA) (Proto);gamegear
+Frogger (USA) (Rev B);gbc
+Frogger (USA);apple2
+Frogger (USA);atari2600
+Frogger (USA);atari5200
+Frogger (USA);colecovision
+Frogger (USA);gb
+Frogger (USA);megadrive
+Frogger (USA);psx
+Frogger (USA);snes
+Frogger (USA, Europe);arcadia
+Frogger (World);intellivision
+Frogger - Ancient Shadow (USA);gc
+Frogger - Helmet Chaos (USA);psp
+Frogger - Helmet Chaos (USA);nds
+Frogger - The Great Quest (USA);ps2
+Frogger 2 (USA);gbc
+Frogger 2 - Swampy's Revenge (USA);dreamcast
+Frogger 2 - Swampy's Revenge (USA);psx
+Frogger 3D (USA);3ds
+Frogger 64 (Europe);c64
+Frogger Advance - The Great Quest (USA);gba
+Frogger Beyond (USA);gc
+Frogger II - Three Deep (USA);apple2
+Frogger II - Three Deep (USA);c64
+Frogger II - ThreeDeep! (USA);colecovision
+Frogger II - Threeedeep! (USA);atari2600
+Frogger II - Threeedeep! (USA);atari5200
+Frogger! (USA) (Unl);atarist
+Frogger's Adventures - Temple of the Frog (USA) (En,Fr,De,Es,It);gba
+Frogger's Adventures - The Rescue (USA);gc
+Frogger's Adventures 2 - The Lost Wand (USA) (En,Es);gba
+Frogger's Journey - The Forgotten Relic (USA);gba
+Frogger;tic80
+Frogger;ti99
+Official Frogger, The (USA);atari2600
+frogf;arcade
+frogf;fba
+frogf;mame-advmame
+frogf;mame-libretro
+frogf;mame-mame4all
+frogg;arcade
+frogg;fba
+frogg;mame-advmame
+frogg;mame-libretro
+frogg;mame-mame4all
+frogger;arcade
+frogger;fba
+frogger;mame-advmame
+frogger;mame-libretro
+frogger;mame-mame4all
+froggeram;arcade
+froggeram;fba
+froggeram;mame-advmame
+froggeram;mame-libretro
+froggeram;mame-mame4all
+froggermc;arcade
+froggermc;fba
+froggermc;mame-advmame
+froggermc;mame-libretro
+froggermc;mame-mame4all
+froggers1;arcade
+froggers1;fba
+froggers1;mame-advmame
+froggers1;mame-libretro
+froggers1;mame-mame4all
+froggers2;arcade
+froggers2;fba
+froggers2;mame-advmame
+froggers2;mame-libretro
+froggers2;mame-mame4all
+froggers;arcade
+froggers;fba
+froggers;mame-advmame
+froggers;mame-libretro
+froggers;mame-mame4all
+froggerv;arcade
+froggerv;fba
+froggerv;mame-advmame
+froggerv;mame-libretro
+froggerv;mame-mame4all
+froggrs;arcade
+froggrs;fba
+froggrs;mame-advmame
+froggrs;mame-libretro
+froggrs;mame-mame4all
+quaak;arcade
+quaak;fba
+quaak;mame-advmame
+quaak;mame-libretro
+quaak;mame-mame4all

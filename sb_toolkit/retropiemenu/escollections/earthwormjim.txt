@@ -1,0 +1,17 @@
+EarthWorm Jim 2 (KaSing);dendy
+EarthWorm Jim 2 (SuperGame);dendy
+EarthWorm Jim 3 (Unl) (R);dendy
+Earthworm Jim (Brazil);mastersystem
+Earthworm Jim (USA);gb
+Earthworm Jim (USA);gamegear
+Earthworm Jim (USA);megadrive
+Earthworm Jim (USA);snes
+Earthworm Jim (USA, Europe);gba
+Earthworm Jim - Menace 2 the Galaxy (USA, Europe);gbc
+Earthworm Jim - Special Edition (USA);segacd
+Earthworm Jim 2 (Europe);psx
+Earthworm Jim 2 (USA);gba
+Earthworm Jim 2 (USA);megadrive
+Earthworm Jim 2 (USA);saturn
+Earthworm Jim 2 (USA);snes
+Earthworm Jim 3D (USA);n64

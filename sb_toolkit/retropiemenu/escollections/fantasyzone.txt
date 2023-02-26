@@ -1,0 +1,62 @@
+fantzonep;arcade
+fantzonep;fba
+fantzonep;mame-advmame
+fantzonep;mame-libretro
+fantzonep;mame-mame4all
+mt_fz;arcade
+mt_fz;fba
+mt_fz;mame-advmame
+mt_fz;mame-libretro
+mt_fz;mame-mame4all
+fantzone;arcade
+fantzone;fba
+fantzone;mame-advmame
+fantzone;mame-libretro
+fantzone;mame-mame4all
+fantzoneta;arcade
+fantzoneta;fba
+fantzoneta;mame-advmame
+fantzoneta;mame-libretro
+fantzoneta;mame-mame4all
+fantzonepr;arcade
+fantzonepr;fba
+fantzonepr;mame-advmame
+fantzonepr;mame-libretro
+fantzonepr;mame-mame4all
+fantzone1;arcade
+fantzone1;fba
+fantzone1;mame-advmame
+fantzone1;mame-libretro
+fantzone1;mame-mame4all
+fantzn2;arcade
+fantzn2;fba
+fantzn2;mame-advmame
+fantzn2;mame-libretro
+fantzn2;mame-mame4all
+fantzn2x;arcade
+fantzn2x;fba
+fantzn2x;mame-advmame
+fantzn2x;mame-libretro
+fantzn2x;mame-mame4all
+fantzn2xp;arcade
+fantzn2xp;fba
+fantzn2xp;mame-advmame
+fantzn2xp;mame-libretro
+fantzn2xp;mame-mame4all
+Fantasy Zone II - The Tears of Opa-Opa (Japan);msx2
+Fantasy Zone (Japan);msx
+Fantasy Zone (Japan);pcengine
+Fantasy Zone (USA);tg16
+Fantasy Zone (USA) (Unl);nes
+Fantasy Zone 2 - Opa-Opa no Namida (Japan);famicom
+Fantasy Zone (USA);gamegear
+Super Fantasy Zone (Europe);genesis
+Fantasy Zone - The Maze (USA, Europe);markiii
+Fantasy Zone (World);markiii
+Fantasy Zone II - The Tears of Opa-Opa (USA, Europe);markiii
+Fantasy Zone (World);mastersystem
+Fantasy Zone - The Maze (USA, Europe);mastersystem
+Fantasy Zone II - The Tears of Opa-Opa (USA, Europe);mastersystem
+Super Fantasy Zone (Japan);megadrive-japan
+Sega Ages - Fantasy Zone (Japan);saturn-japan
+Fantasy Zone (Dempa);x68000

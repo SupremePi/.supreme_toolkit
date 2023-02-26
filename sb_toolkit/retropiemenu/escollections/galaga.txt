@@ -1,0 +1,136 @@
+20pacgal;arcade
+20pacgal;fba
+20pacgal;mame-advmame
+20pacgal;mame-libretro
+20pacgal;mame-mame4all
+20pacgalr0;arcade
+20pacgalr0;fba
+20pacgalr0;mame-advmame
+20pacgalr0;mame-libretro
+20pacgalr0;mame-mame4all
+20pacgalr1;arcade
+20pacgalr1;fba
+20pacgalr1;mame-advmame
+20pacgalr1;mame-libretro
+20pacgalr1;mame-mame4all
+20pacgalr2;arcade
+20pacgalr2;fba
+20pacgalr2;mame-advmame
+20pacgalr2;mame-libretro
+20pacgalr2;mame-mame4all
+20pacgalr3;arcade
+20pacgalr3;fba
+20pacgalr3;mame-advmame
+20pacgalr3;mame-libretro
+20pacgalr3;mame-mame4all
+20pacgalr4;arcade
+20pacgalr4;fba
+20pacgalr4;mame-advmame
+20pacgalr4;mame-libretro
+20pacgalr4;mame-mame4all
+Arcade Classic No. 3 - Galaga & Galaxian (USA);gb
+Arcade Classic No. 3 - Galaga & Galaxian (USA);sgb
+DeluxeGalaga_v1.1_AGA;amiga1200
+DeluxeGalaga_v1.1_AGA;amiga
+Galaga '88 (Japan);pcengine
+Galaga '90 (USA);tg16
+Galaga (-);x68000
+Galaga (Germany) (Unl);c64
+Galaga (Japan) (Alt 1);msx
+Galaga (Japan) (Alt 2);msx
+Galaga (Japan) (Alt 3);msx
+Galaga (Japan);msx
+Galaga (Japan);fds
+Galaga (USA);atari7800
+Galaga - Demons of Death (R);dendy
+Galaga - Demons of Death (USA);nes
+Galaga - Destination Earth (USA);gbc
+Galaga - Destination Earth (USA);psx
+Galaga 2 (Europe);gamegear
+Galaga92_v1.0;amiga1200
+Galaga92_v1.0;amiga
+Galaga;pv2000
+Galaga;fm7
+Galaga;x1
+Pac-Man & Galaga Dimensions (USA);3ds
+Sega-Galaga (Japan);sg-1000
+fantastc;arcade
+fantastc;fba
+fantastc;mame-advmame
+fantastc;mame-libretro
+fantastc;mame-mame4all
+galaga3;arcade
+galaga3;fba
+galaga3;mame-advmame
+galaga3;mame-libretro
+galaga3;mame-mame4all
+galaga3a;arcade
+galaga3a;fba
+galaga3a;mame-advmame
+galaga3a;mame-libretro
+galaga3a;mame-mame4all
+galaga3b;arcade
+galaga3b;fba
+galaga3b;mame-advmame
+galaga3b;mame-libretro
+galaga3b;mame-mame4all
+galaga3c;arcade
+galaga3c;fba
+galaga3c;mame-advmame
+galaga3c;mame-libretro
+galaga3c;mame-mame4all
+galaga3m;arcade
+galaga3m;fba
+galaga3m;mame-advmame
+galaga3m;mame-libretro
+galaga3m;mame-mame4all
+galaga88;arcade
+galaga88;fba
+galaga88;mame-advmame
+galaga88;mame-libretro
+galaga88;mame-mame4all
+galaga88a;arcade
+galaga88a;fba
+galaga88a;mame-advmame
+galaga88a;mame-libretro
+galaga88a;mame-mame4all
+galaga88j;arcade
+galaga88j;fba
+galaga88j;mame-advmame
+galaga88j;mame-libretro
+galaga88j;mame-mame4all
+galaga;arcade
+galaga;fba
+galaga;mame-advmame
+galaga;mame-libretro
+galaga;mame-mame4all
+galagamf;arcade
+galagamf;fba
+galagamf;mame-advmame
+galagamf;mame-libretro
+galagamf;mame-mame4all
+galagamk;arcade
+galagamk;fba
+galagamk;mame-advmame
+galagamk;mame-libretro
+galagamk;mame-mame4all
+galagamw;arcade
+galagamw;fba
+galagamw;mame-advmame
+galagamw;mame-libretro
+galagamw;mame-mame4all
+galagao;arcade
+galagao;fba
+galagao;mame-advmame
+galagao;mame-libretro
+galagao;mame-mame4all
+gallag;arcade
+gallag;fba
+gallag;mame-advmame
+gallag;mame-libretro
+gallag;mame-mame4all
+gatsbee;arcade
+gatsbee;fba
+gatsbee;mame-advmame
+gatsbee;mame-libretro
+gatsbee;mame-mame4all

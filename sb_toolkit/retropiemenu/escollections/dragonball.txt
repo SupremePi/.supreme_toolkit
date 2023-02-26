@@ -1,0 +1,72 @@
+2 Games in 1 - Dragon Ball Z - The Legacy of Goku I & II (USA);gba
+2 Games in 1! - Dragon Ball Z - Buu's Fury + Dragon Ball GT - Transformation (USA);gba
+Dragon Ball (Japan);wonderswancolor
+Dragon Ball - Advanced Adventure (USA);gba
+Dragon Ball - Daimaou Fukkatsu (Japan) (Translated En);famicom
+Dragon Ball - Fusions (USA);3ds
+Dragon Ball - Origins (USA);nds
+Dragon Ball - Origins 2 (USA) (En,Fr,Es);nds
+Dragon Ball - Shenron no Nazo (Japan) (Translated En);famicom
+Dragon Ball Evolution (USA);psp
+Dragon Ball GT - Final Bout (USA);psx
+Dragon Ball GT - Transformation (USA);gba
+Dragon Ball Z - Attack of the Saiyans (USA) (En,Fr);nds
+Dragon Ball Z - Budokai (USA);gc
+Dragon Ball Z - Budokai (USA);ps2
+Dragon Ball Z - Budokai 2 (USA);gc
+Dragon Ball Z - Budokai 2 (USA);ps2
+Dragon Ball Z - Budokai 3 (USA);ps2
+Dragon Ball Z - Budokai Tenkaichi (USA);ps2
+Dragon Ball Z - Budokai Tenkaichi 2 (USA);ps2
+Dragon Ball Z - Budokai Tenkaichi 3 (USA);ps2
+Dragon Ball Z - Buu's Fury (USA);gba
+Dragon Ball Z - Buyuu Retsuden (Japan);megadrive-japan
+Dragon Ball Z - Collectible Card Game (USA);gba
+Dragon Ball Z - Extreme Butoden (USA);3ds
+Dragon Ball Z - Harukanaru Densetsu (USA);nds
+Dragon Ball Z - Hyper Dimension (France);snes
+Dragon Ball Z - Hyper Dimension (Japan) (Translated En);sfc
+Dragon Ball Z - Idainaru Son Gokuu Densetsu (Japan);pce-cd
+Dragon Ball Z - Kyoushuu! Saiya Jin (Japan) (Translated En);famicom
+Dragon Ball Z - L'Appel du Destin (France) (Translated En);megadrive
+Dragon Ball Z - La Legende Saien (France);snes
+Dragon Ball Z - Legendary Super Warriors (USA);gbc
+Dragon Ball Z - Sagas (USA);gc
+Dragon Ball Z - Sagas (USA);ps2
+Dragon Ball Z - Shin Budokai (USA);psp
+Dragon Ball Z - Shin Budokai Another Road (USA);psp
+Dragon Ball Z - Shinbutouden (Japan);saturn-japan
+Dragon Ball Z - Super Butouden (France);snes
+Dragon Ball Z - Super Saiya Densetsu (Japan) (Translated En);sfc
+Dragon Ball Z - Supersonic Warriors (USA);gba
+Dragon Ball Z - Supersonic Warriors 2 (USA);nds
+Dragon Ball Z - Taiketsu (USA);gba
+Dragon Ball Z - Tenkaichi Tag Team (USA);psp
+Dragon Ball Z - The Legacy of Goku (USA);gba
+Dragon Ball Z - The Legacy of Goku II (USA);gba
+Dragon Ball Z - The Legend (Europe);saturn
+Dragon Ball Z - Ultimate Battle 22 (USA);psx
+Dragon Ball Z - Ultime Menace (France);snes
+Dragon Ball Z 5 (Ch);dendy
+Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (Translated En);famicom
+Dragon Ball Z III - Ressen Jinzou Ningen (Japan) (Translated En);famicom
+dbz2;arcade
+dbz2;fba
+dbz2;mame-advmame
+dbz2;mame-libretro
+dbz2;mame-mame4all
+dbz;arcade
+dbz;fba
+dbz;mame-advmame
+dbz;mame-libretro
+dbz;mame-mame4all
+dbza;arcade
+dbza;fba
+dbza;mame-advmame
+dbza;mame-libretro
+dbza;mame-mame4all
+dbzvrvs;arcade
+dbzvrvs;fba
+dbzvrvs;mame-advmame
+dbzvrvs;mame-libretro
+dbzvrvs;mame-mame4all

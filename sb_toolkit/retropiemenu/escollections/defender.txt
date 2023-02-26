@@ -1,0 +1,99 @@
+3DDefender(NGS);zx81
+3DDefender;zx81
+Arcade Classic No. 4 - Defender & Joust (USA, Europe);gb
+Arcade Classic No. 4 - Defender & Joust (USA, Europe);sgb
+Arcade Hits - Joust & Defender (USA);gbc
+Defender (Acornsoft) (Europe);bbcb
+Defender (Atarisoft) (Europe);bbcb
+Defender (Atarisoft) (USA);c64
+Defender (Magna Media - 64'er) (Europe) (Unl);c64
+Defender (Spain);amstradcpc
+Defender (USA) (Part 1);vic20
+Defender (USA) (Part 2);vic20
+Defender (USA);apple2
+Defender (USA);atari2600
+Defender (USA);atari5200
+Defender (USA);atari800
+Defender (USA);colecovision
+Defender (USA);gba
+Defender (USA);gc
+Defender (USA);ps2
+Defender (World);intellivision
+Defender 2000 (World);atarijaguar
+Defender 64 (Europe);c64
+Defender II (Europe);atarist
+Defender II (R);dendy
+Defender II (USA);nes
+Defender2_v1.0;amiga1200
+Defender2_v1.0;amiga
+Defender;advision
+Defender;sorcerer
+Defender;samcoupe
+Defender;ti99
+Super Defender (Europe) (Unl);bbcb
+defender;arcade
+defender;fba
+defender;mame-advmame
+defender;mame-libretro
+defender;mame-mame4all
+defenderb;arcade
+defenderb;fba
+defenderb;mame-advmame
+defenderb;mame-libretro
+defenderb;mame-mame4all
+defenderg;arcade
+defenderg;fba
+defenderg;mame-advmame
+defenderg;mame-libretro
+defenderg;mame-mame4all
+defenderofthecrown_disk1;apple2gs
+defenderw;arcade
+defenderw;fba
+defenderw;mame-advmame
+defenderw;mame-libretro
+defenderw;mame-mame4all
+defndjeu;arcade
+defndjeu;fba
+defndjeu;mame-advmame
+defndjeu;mame-libretro
+defndjeu;mame-mame4all
+dfndr_l4;arcade
+dfndr_l4;fba
+dfndr_l4;mame-advmame
+dfndr_l4;mame-libretro
+dfndr_l4;mame-mame4all
+mt_mystd;arcade
+mt_mystd;fba
+mt_mystd;mame-advmame
+mt_mystd;mame-libretro
+mt_mystd;mame-mame4all
+startrkd;arcade
+startrkd;fba
+startrkd;mame-advmame
+startrkd;mame-libretro
+startrkd;mame-mame4all
+tornado1;arcade
+tornado1;fba
+tornado1;mame-advmame
+tornado1;mame-libretro
+tornado1;mame-mame4all
+tornado2;arcade
+tornado2;fba
+tornado2;mame-advmame
+tornado2;mame-libretro
+tornado2;mame-mame4all
+worlddef;arcade
+worlddef;fba
+worlddef;mame-advmame
+worlddef;mame-libretro
+worlddef;mame-mame4all
+zero2;arcade
+zero2;fba
+zero2;mame-advmame
+zero2;mame-libretro
+zero2;mame-mame4all
+zero;arcade
+zero;fba
+zero;mame-advmame
+zero;mame-libretro
+zero;mame-mame4all

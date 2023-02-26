@@ -1,0 +1,170 @@
+SD Gundam Generations 1 Nen Sensouki;sufami
+SD Gundam Generations 2 Guripus Senki;sufami
+SD Gundam Generations 3 Axiz Senki;sufami
+SD Gundam Generations 4 Babironia Kenkoku Senki;sufami
+SD Gundam Generations 5 Zansukaru Senki;sufami
+SD Gundam Generations 6 Colony Kakutouki;sufami
+Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan);wonderswancolor
+Kidou Senshi Gundam Seed (Japan);wonderswancolor
+Kidou Senshi Gundam Vol. 1 - Side 7 (Japan);wonderswancolor
+Kidou Senshi Gundam Vol. 2 - Jaburo (Japan);wonderswancolor
+Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan);wonderswancolor
+SD Gundam - Operation U.C. (Japan);wonderswancolor
+SD Gundam Eiyuuden - Kishi Densetsu (Japan);wonderswancolor
+SD Gundam Eiyuuden - Musha Densetsu (Japan);wonderswancolor
+SD Gundam G-Generation - Gather Beat 2 (Japan);wonderswancolor
+SD Gundam G-Generation - Mono-Eye Gundams (Japan);wonderswancolor
+Mobile Suit Gundam MSVS (Japan);wonderswan
+SD Gundam - Emotional Jam (Japan);wonderswan
+SD Gundam G-Generation - Gather Beat (Japan);wonderswan
+SD Gundam Gashapon Senki - Episode 1 (Japan);wonderswan
+gundamos;arcade
+gundamos;fba
+gundamos;mame-advmame
+gundamos;mame-libretro
+gundamos;mame-mame4all
+gundzaft;arcade
+gundzaft;fba
+gundzaft;mame-advmame
+gundzaft;mame-libretro
+gundzaft;mame-mame4all
+endless;arcade
+endless;fba
+endless;mame-advmame
+endless;mame-libretro
+endless;mame-mame4all
+gdvsgd;arcade
+gdvsgd;fba
+gdvsgd;mame-advmame
+gdvsgd;mame-libretro
+gdvsgd;mame-mame4all
+gdvsgdnx;arcade
+gdvsgdnx;fba
+gdvsgdnx;mame-advmame
+gdvsgdnx;mame-libretro
+gdvsgdnx;mame-mame4all
+gdfs;arcade
+gdfs;fba
+gdfs;mame-advmame
+gdfs;mame-libretro
+gdfs;mame-mame4all
+msgundam;arcade
+msgundam;fba
+msgundam;mame-advmame
+msgundam;mame-libretro
+msgundam;mame-mame4all
+msgundam1;arcade
+msgundam1;fba
+msgundam1;mame-advmame
+msgundam1;mame-libretro
+msgundam1;mame-mame4all
+gundamex;arcade
+gundamex;fba
+gundamex;mame-advmame
+gundamex;mame-libretro
+gundamex;mame-mame4all
+gundmct;arcade
+gundmct;fba
+gundmct;mame-advmame
+gundmct;mame-libretro
+gundmct;mame-mame4all
+gundmgd;arcade
+gundmgd;fba
+gundmgd;mame-advmame
+gundmgd;mame-libretro
+gundmgd;mame-mame4all
+gundmxgd;arcade
+gundmxgd;fba
+gundmxgd;mame-advmame
+gundmxgd;mame-libretro
+gundmxgd;mame-mame4all
+zgundm;arcade
+zgundm;fba
+zgundm;mame-advmame
+zgundm;mame-libretro
+zgundm;mame-mame4all
+zgundmdx;arcade
+zgundmdx;fba
+zgundmdx;mame-advmame
+zgundmdx;mame-libretro
+zgundmdx;mame-mame4all
+qgundam;arcade
+qgundam;fba
+qgundam;mame-advmame
+qgundam;mame-libretro
+qgundam;mame-mame4all
+neobattl;arcade
+neobattl;fba
+neobattl;mame-advmame
+neobattl;mame-libretro
+neobattl;mame-mame4all
+sdgndmps;arcade
+sdgndmps;fba
+sdgndmps;mame-advmame
+sdgndmps;mame-libretro
+sdgndmps;mame-mame4all
+grainbow;arcade
+grainbow;fba
+grainbow;mame-advmame
+grainbow;mame-libretro
+grainbow;mame-mame4all
+Mobile-Suit Gundam - Last Shooting (Japan);msx
+Mobile-Suit Gundam - Last Shooting (Japan) (Alt 1);msx
+SD Gundam World - Gachapon Senshi - Scramble Wars (Japan);fds
+SD Gundam World - Gachapon Senshi - Scramble Wars Map Collection (Japan);fds
+Mobile Suit Gundam Seed - Battle Assault (USA);gba
+SD Gundam Force (USA);gba
+SD Command Gundam - G-Arms (Japan);gb
+Kidou Senshi Gundam - Gundam vs. Z Gundam (Japan);gc
+Kidou Butouden G Gundam (Japan) (Translated En);sfc
+Kidou Senshi Gundam - Cross Dimension 0079 (Japan) (Translated En);sfc
+Kidou Senshi Gundam F91 - Formula Senki 0122 (Japan) (Translated En);sfc
+Kidou Senshi V Gundam (Japan) (Translated En);sfc
+SD Gundam - Power Formation Puzzle (Japan);sfc
+SD Kidou Senshi Gundam - V Sakusen Shidou (Japan);sfc
+SD Kidou Senshi Gundam 2 (Japan);sfc
+Shin Kidou Senki Gundam W - Endless Duel (Japan) (Translated En);sfc
+Super Gachapon World - SD Gundam X (Japan) (Translated En);sfc
+SD Gundam - Dimension War (Japan);virtualboy
+Gundam - Side Story 0079 - Rise from the Ashes (USA);dreamcast
+SD Gundam - Winner's History (Japan) (Translated En);gamegear
+gundmgd;naomi
+gundmxgd;naomi
+gundmct;naomi
+Kidou Senshi Z Gundam - Kouhen Uchuu o Kakeru (Japan);saturn-japan
+Battle Assault 3 featuring Gundam Seed (USA);ps2
+Dynasty Warriors - Gundam 2 (USA);ps2
+Mobile Suit Gundam - Encounters in Space (USA);ps2
+Mobile Suit Gundam - Federation vs. Zeon (USA);ps2
+Mobile Suit Gundam - Gundam vs. Zeta Gundam (USA);ps2
+Mobile Suit Gundam - Journey to Jaburo (USA);ps2
+Mobile Suit Gundam - Zeonic Front (USA);ps2
+Mobile Suit Gundam Seed - Never Ending Tomorrow (USA);ps2
+SD Gundam Force - Showdown! (USA);ps2
+Gundam Battle Assault (USA);psx
+Gundam Battle Assault 2 (USA);psx
+Gundam AGE - Cosmic Drive (Japan) (Translated En);psp-japan
+Gundam AGE - Universe Accel (Japan) (Translated En);psp-japan
+Gundam Assault Survive (Japan) (Translated En);psp-japan
+Gundam Battle Chronicle (Japan);psp-japan
+Gundam Battle Royale (Japan);psp-japan
+Gundam Battle Tactics (Japan);psp-japan
+Gundam Battle Universe (Japan);psp-japan
+Gundam vs Gundam NEXT PLUS (Japan) (Translated En);psp-japan
+Kidou Senshi Gundam - Gundam vs. Gundam (Japan);psp-japan
+Kidou Senshi Gundam - Gundam vs. Gundam NEXT PLUS (Japan);psp-japan
+Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable (Japan);psp-japan
+Gundam AGE - Cosmic Drive (Japan) (Translated En);psp
+Gundam AGE - Universe Accel (Japan) (Translated En);psp
+Gundam Assault Survive (Japan) (Translated En);psp
+Gundam Battle Chronicle (Japan);psp
+Gundam Battle Royale (Japan);psp
+Gundam Battle Tactics (Japan);psp
+Gundam Battle Universe (Japan);psp
+Gundam vs Gundam NEXT PLUS (Japan) (Translated En);psp
+Kidou Senshi Gundam - Gundam vs. Gundam (Japan);psp
+Kidou Senshi Gundam - Gundam vs. Gundam NEXT PLUS (Japan);psp
+Kidou Senshi Gundam Seed - Rengou vs. Z.A.F.T. Portable (Japan);psp
+Mobile Suit Gundam - Luna 2 no Tatakai (Craig);x1
+Mobile Suit Gundam - Luna 2 no Tatakai;x1
+Mobile Suit Zeta Gundam;x1

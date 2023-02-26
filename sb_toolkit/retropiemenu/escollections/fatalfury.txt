@@ -1,0 +1,92 @@
+Fatal Fury (USA);megadrive
+Fatal Fury (USA);snes
+Fatal Fury - Battle Archives Volume 1 (USA);ps2
+Fatal Fury - Battle Archives Volume 2 (USA);ps2
+Fatal Fury - Mark of the Wolves (USA);dreamcast
+Fatal Fury - The Battle of Fury (World);neocdz
+Fatal Fury - Wild Ambition (USA);psx
+Fatal Fury 2 (USA);snes
+Fatal Fury 2 (USA, Korea);megadrive
+Fatal Fury 2 (Unl) (R);dendy
+Fatal Fury 2 (World);neocdz
+Fatal Fury 3 - Road to the Final Victory (World);neocdz
+Fatal Fury F-Contact (World) (En,Ja);ngpc
+Fatal Fury Special (USA);segacd
+Fatal Fury Special (USA);gamegear
+Fatal Fury Special (USA);snes
+Fatal Fury Special (World);neocdz
+Real Bout Fatal Fury (World);neocdz
+Real Bout Fatal Fury 2 - The Newcomers (World);neocdz
+Real Bout Fatal Fury Special (World);neocdz
+fatfursp;arcade
+fatfursp;fba
+fatfursp;mame-advmame
+fatfursp;mame-libretro
+fatfursp;mame-mame4all
+fatfursp;neogeo
+fatfurspa;arcade
+fatfurspa;fba
+fatfurspa;mame-advmame
+fatfurspa;mame-libretro
+fatfurspa;mame-mame4all
+fatfurwa;arcade
+fatfurwa;fba
+fatfurwa;mame-advmame
+fatfurwa;mame-libretro
+fatfurwa;mame-mame4all
+fatfury1;arcade
+fatfury1;fba
+fatfury1;mame-advmame
+fatfury1;mame-libretro
+fatfury1;mame-mame4all
+fatfury1;neogeo
+fatfury2;arcade
+fatfury2;fba
+fatfury2;mame-advmame
+fatfury2;mame-libretro
+fatfury2;mame-mame4all
+fatfury2;neogeo
+fatfury3;arcade
+fatfury3;fba
+fatfury3;mame-advmame
+fatfury3;mame-libretro
+fatfury3;mame-mame4all
+fatfury3;neogeo
+rbff1;arcade
+rbff1;fba
+rbff1;mame-advmame
+rbff1;mame-libretro
+rbff1;mame-mame4all
+rbff1;neogeo
+rbff1a;arcade
+rbff1a;fba
+rbff1a;mame-advmame
+rbff1a;mame-libretro
+rbff1a;mame-mame4all
+rbff2;arcade
+rbff2;fba
+rbff2;mame-advmame
+rbff2;mame-libretro
+rbff2;mame-mame4all
+rbff2;neogeo
+rbff2h;arcade
+rbff2h;fba
+rbff2h;mame-advmame
+rbff2h;mame-libretro
+rbff2h;mame-mame4all
+rbff2k;arcade
+rbff2k;fba
+rbff2k;mame-advmame
+rbff2k;mame-libretro
+rbff2k;mame-mame4all
+rbffspec;arcade
+rbffspec;fba
+rbffspec;mame-advmame
+rbffspec;mame-libretro
+rbffspec;mame-mame4all
+rbffspec;neogeo
+rbffspeck;arcade
+rbffspeck;fba
+rbffspeck;mame-advmame
+rbffspeck;mame-libretro
+rbffspeck;mame-mame4all

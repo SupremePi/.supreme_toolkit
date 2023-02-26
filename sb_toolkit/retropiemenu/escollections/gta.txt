@@ -1,0 +1,18 @@
+Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It);nds
+Grand Theft Auto Advance (USA);gba
+Grand Theft Auto (USA);gbc
+Grand Theft Auto 2 (USA);gbc
+Grand Theft Auto (USA);sgb
+gta;pc
+Grand Theft Auto 2 (USA);dreamcast
+Grand Theft Auto - Liberty City Stories (USA);ps2
+Grand Theft Auto - San Andreas (USA);ps2
+Grand Theft Auto - Vice City (USA);ps2
+Grand Theft Auto - Vice City Stories (USA);ps2
+Grand Theft Auto III (USA);ps2
+Grand Theft Auto (USA);psx
+Grand Theft Auto - London 1969 (Europe);psx
+Grand Theft Auto 2 (USA);psx
+Grand Theft Auto - Chinatown Wars (USA);psp
+Grand Theft Auto - Liberty City Stories (USA);psp
+Grand Theft Auto - Vice City Stories (USA);psp

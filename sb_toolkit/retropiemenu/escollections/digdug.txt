@@ -1,0 +1,66 @@
+Dig Dug (Craig);x1
+Dig Dug (Japan) (Alt 1);msx
+Dig Dug (Japan);pv1000
+Dig Dug (Japan);msx
+Dig Dug (Japan);fds
+Dig Dug (Japan);famicom
+Dig Dug (R);dendy
+Dig Dug (USA) (Part 1);vic20
+Dig Dug (USA) (Part 2);vic20
+Dig Dug (USA);apple2
+Dig Dug (USA);atari2600
+Dig Dug (USA);atari5200
+Dig Dug (USA);atari7800
+Dig Dug (USA);atari800
+Dig Dug (USA);c64
+Dig Dug (USA);gb
+Dig Dug (World);intellivision
+Dig Dug - Digging Strike (USA);nds
+Dig Dug I & II (Dempa);x68000
+Dig Dug II (Japan);fds
+Dig Dug II - Trouble in Paradise (R);dendy
+Dig Dug II - Trouble in Paradise (USA);nes
+Dig Dug;fm7
+Dig Dug;x1
+Dig Dug;m5
+Dig Dug;ti99
+digdug1;arcade
+digdug1;fba
+digdug1;mame-advmame
+digdug1;mame-libretro
+digdug1;mame-mame4all
+digdug2;arcade
+digdug2;fba
+digdug2;mame-advmame
+digdug2;mame-libretro
+digdug2;mame-mame4all
+digdug2o;arcade
+digdug2o;fba
+digdug2o;mame-advmame
+digdug2o;mame-libretro
+digdug2o;mame-mame4all
+digdug;arcade
+digdug;fba
+digdug;mame-advmame
+digdug;mame-libretro
+digdug;mame-mame4all
+digdugat1;arcade
+digdugat1;fba
+digdugat1;mame-advmame
+digdugat1;mame-libretro
+digdugat1;mame-mame4all
+digdugat;arcade
+digdugat;fba
+digdugat;mame-advmame
+digdugat;mame-libretro
+digdugat;mame-mame4all
+digsid;arcade
+digsid;fba
+digsid;mame-advmame
+digsid;mame-libretro
+digsid;mame-mame4all
+dzigzag;arcade
+dzigzag;fba
+dzigzag;mame-advmame
+dzigzag;mame-libretro
+dzigzag;mame-mame4all

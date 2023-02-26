@@ -1,0 +1,60 @@
+Ghostbusters (Europe);amstradcpc
+Ghostbusters II (Europe) (Disk 1);amstradcpc
+Ghostbusters II (Europe) (Disk 2);amstradcpc
+Real Ghostbusters, The (Europe) (Disk 1);amstradcpc
+Real Ghostbusters, The (Europe) (Disk 2);amstradcpc
+Real Ghostbusters (Europe), The - Side B;amstradcpc
+Ghostbusters (USA);apple2
+Ghostbusters (USA);atari2600
+Ghostbusters II (Europe);atari2600
+Ghostbusters (USA);c64
+Ghostbusters II (USA);c64
+Real Ghostbusters, The (USA);c64
+Ghostbusters2_v1.4_1029;amiga1200
+RealGhostbusters_v1.0_0198;amiga1200
+Ghostbusters2_v1.4_1029;amiga
+RealGhostbusters_v1.0_0198;amiga
+Ghostbusters (R);dendy
+Ghostbusters 2 (R);dendy
+New Ghostbusters II (R);dendy
+Ghostbusters (Original) (1.0);futurepinball
+j2ghostb;arcade
+j2ghostb;fba
+j2ghostb;mame-advmame
+j2ghostb;mame-libretro
+j2ghostb;mame-mame4all
+ghostb2a;arcade
+ghostb2a;fba
+ghostb2a;mame-advmame
+ghostb2a;mame-libretro
+ghostb2a;mame-mame4all
+ghostb;arcade
+ghostb;fba
+ghostb;mame-advmame
+ghostb;mame-libretro
+ghostb;mame-mame4all
+ghostb3;arcade
+ghostb3;fba
+ghostb3;mame-advmame
+ghostb3;mame-libretro
+ghostb3;mame-mame4all
+Ghostbusters (Europe);msx
+Ghostbusters - The Video Game (USA) (En,Fr,Es);nds
+Ghostbusters (USA);nes
+Ghostbusters II (USA);nes
+New Ghostbusters II (Europe);nes
+Extreme Ghostbusters - Code Ecto-1 (USA);gba
+Extreme Ghostbusters (Europe);gbc
+Ghostbusters II (USA, Europe);gb
+Real Ghostbusters, The (USA);gb
+Ghostbusters (World);genesis
+Ghostbusters (USA, Europe);mastersystem
+Ghostbusters II (Europe);zxspectrum
+Real Ghostbusters, The (Europe);zxspectrum
+Ghostbusters - The Video Game (USA);ps2
+Extreme Ghostbusters - The Ultimate Invasion (Europe);psx
+Ghostbusters - The Video Game (USA);psp
+Ghostbusters (USA);atari800
+Ghostbusters II (Europe) (Disk 1);atarist
+Ghostbusters II (Europe) (Disk 2);atarist
+Real Ghostbusters, The (USA);atarist

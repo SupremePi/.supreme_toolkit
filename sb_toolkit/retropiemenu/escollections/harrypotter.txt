@@ -1,0 +1,39 @@
+LEGO Harry Potter - Years 5-7 (USA);3ds
+Harry Potter and the Deathly Hallows - Part 1 (USA) (En,Fr,Es);nds
+Harry Potter and the Deathly Hallows - Part 2 (USA) (En,Fr,Es);nds
+Harry Potter and the Goblet of Fire (USA) (En,Fr,De,Es,It);nds
+Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es) [b];nds
+Harry Potter and the Order of the Phoenix (USA);nds
+LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es);nds
+LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es);nds
+Harry Potter - Quidditch World Cup (USA, Europe) (En,Fr,De,Es,It,Nl,Da);gba
+Harry Potter Collection (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da);gba
+Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da);gba
+Harry Potter and the Goblet of Fire (USA, Europe) (En,Fr,De,Es,It,Nl,Da);gba
+Harry Potter and the Order of the Phoenix (Europe) (En,Fr,De,Es,It,Nl,Da);gba
+Harry Potter and the Prisoner of Azkaban (USA, Europe) (En,Fr,De,Es,It,Nl,Da);gba
+Harry Potter and the Sorcerer's Stone (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da);gba
+Harry Potter and the Chamber of Secrets (USA, Europe);gbc
+Harry Potter and the Sorcerer's Stone (USA, Europe);gbc
+Harry Potter - Quidditch World Cup (USA);gc
+Harry Potter and the Chamber of Secrets (USA);gc
+Harry Potter and the Goblet of Fire (USA);gc
+Harry Potter and the Prisoner of Azkaban (USA);gc
+Harry Potter and the Sorcerer's Stone (USA);gc
+LEGO Harry Potter Years 1-4 (USA);wii
+LEGO Harry Potter Years 5-7 (USA);wii
+Harry Potter (Hack);genh
+Harry Potter - Quidditch World Cup (USA);ps2
+Harry Potter and the Chamber of Secrets (USA);ps2
+Harry Potter and the Goblet of Fire (USA);ps2
+Harry Potter and the Half-Blood Prince (USA);ps2
+Harry Potter and the Order of the Phoenix (USA);ps2
+Harry Potter and the Prisoner of Azkaban (USA);ps2
+Harry Potter and the Sorcerer's Stone (USA);ps2
+Harry Potter and the Chamber of Secrets (USA);psx
+Harry Potter and the Sorcerer's Stone (USA);psx
+Harry Potter and the Goblet of Fire (USA);psp
+Harry Potter and the Half-Blood Prince (USA);psp
+Harry Potter and the Order of the Phoenix (USA);psp
+LEGO Harry Potter - Years 1-4 (USA);psp
+LEGO Harry Potter - Years 5-7 (USA);psp

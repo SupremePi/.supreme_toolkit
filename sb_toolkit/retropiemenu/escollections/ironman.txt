@@ -1,0 +1,30 @@
+Iron Man (Stern) (2010) (Ultimate) (1.04);futurepinball
+im2_100;arcade
+im2_100;fba
+im2_100;mame-advmame
+im2_100;mame-libretro
+im2_100;mame-mame4all
+im2_110;arcade
+im2_110;fba
+im2_110;mame-advmame
+im2_110;mame-libretro
+im2_110;mame-mame4all
+im2_120;arcade
+im2_120;fba
+im2_120;mame-advmame
+im2_120;mame-libretro
+im2_120;mame-mame4all
+im2_140;arcade
+im2_140;fba
+im2_140;mame-advmame
+im2_140;mame-libretro
+im2_140;mame-mame4all
+Iron Man (USA) (En,Fr,Es);nds
+Iron Man 2 (USA) (En,Fr,Es) [b];nds
+Invincible Iron Man, The (USA, Europe);gba
+Iron Man X-O Manowar in Heavy Metal (USA, Europe);gamegear
+Iron Man X-O Manowar in Heavy Metal (USA);saturn
+Iron Man (USA);ps2
+Iron Man & X-O Manowar in Heavy Metal (USA);psx
+Iron Man (USA);psp
+Iron Man 2 - The Video Game (USA);psp

@@ -1,0 +1,75 @@
+Flintstones, The (Europe);amstradcpc
+Flintstones (Europe), The;amstradcpc
+Flintstones - Yabba-Dabba-Dooo! (Europe);c64
+Flintstones, The (Europe);c64
+Flintstones_v1.0_0503;amiga1200
+Flintstones_v1.0_0503;amiga
+Flintstones - Rescue of Dino & Hoppy;dendy
+Flintstones - Surprise at Dinosaur Peak! (R);dendy
+fs_lx2;arcade
+fs_lx2;fba
+fs_lx2;mame-advmame
+fs_lx2;mame-libretro
+fs_lx2;mame-mame4all
+fs_lx4;arcade
+fs_lx4;fba
+fs_lx4;mame-advmame
+fs_lx4;mame-libretro
+fs_lx4;mame-mame4all
+fs_lx5;arcade
+fs_lx5;fba
+fs_lx5;mame-advmame
+fs_lx5;mame-libretro
+fs_lx5;mame-mame4all
+fs_sp2;arcade
+fs_sp2;fba
+fs_sp2;mame-advmame
+fs_sp2;mame-libretro
+fs_sp2;mame-mame4all
+fredmemj;arcade
+fredmemj;fba
+fredmemj;mame-advmame
+fredmemj;mame-libretro
+fredmemj;mame-mame4all
+fredmemc;arcade
+fredmemc;fba
+fredmemc;mame-advmame
+fredmemc;mame-libretro
+fredmemc;mame-mame4all
+fredmesp;arcade
+fredmesp;fba
+fredmesp;mame-advmame
+fredmesp;mame-libretro
+fredmesp;mame-mame4all
+fredmemuk;arcade
+fredmemuk;fba
+fredmemuk;mame-advmame
+fredmemuk;mame-libretro
+fredmemuk;mame-mame4all
+fredmemus;arcade
+fredmemus;fba
+fredmemus;mame-advmame
+fredmemus;mame-libretro
+fredmemus;mame-mame4all
+fredmem;arcade
+fredmem;fba
+fredmem;mame-advmame
+fredmem;mame-libretro
+fredmem;mame-mame4all
+Flintstones, The - The Rescue of Dino & Hoppy (USA);nes
+Flintstones, The - The Surprise at Dinosaur Peak! (USA);nes
+Flintstones, The - Big Trouble in Bedrock (USA);gba
+Flintstones, The - Burgertime in Bedrock (USA);gbc
+Flintstones, The (USA, Europe);gb
+Flintstones, The - King Rock Treasure Island (USA, Europe);gb
+Flintstones, The - Viva Rock Vegas (Europe) (Pre-production copy);dreamcast
+Flintstones, The (USA);genesis
+Flintstones, The (Europe);mastersystem
+Flintstone (Japan);megadrive-japan
+Flintstones, The (Europe);zxspectrum
+Flintstones - Bedrock Racing, The (Europe);ps2
+Flintstones in Viva Rock Vegas, The (Europe);ps2
+Flintstones, The - Bedrock Bowling (USA);psx
+Flintstones, The (USA);snes
+Flintstones, The - The Treasure of Sierra Madrock (USA);snes
+Flintstones (Europe);atarist

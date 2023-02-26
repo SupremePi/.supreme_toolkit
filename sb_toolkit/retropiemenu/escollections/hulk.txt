@@ -1,0 +1,74 @@
+Hulk (USA);gc
+Incredible Hulk, The (Europe);mastersystem
+Incredible Hulk, The (USA) (En,Fr,De,Es,It);nds
+Incredible Hulk, The (USA);gba
+Incredible Hulk, The (USA);ps2
+Incredible Hulk, The (USA);snes
+Incredible Hulk, The (USA, Europe);gamegear
+Incredible Hulk, The (USA, Europe);megadrive
+Incredible Hulk, The - The Pantheon Saga (USA);saturn
+Incredible Hulk, The - The Pantheon Saga (USA);psx
+Incredible Hulk, The - Ultimate Destruction (USA);gc
+Incredible Hulk, The - Ultimate Destruction (USA);ps2
+Quest Probe 1 - Incredible Hulk (Europe);bbcb
+Questprobe #1 - Featuring The Hulk (1984)(Adventure International);electron
+Questprobe - The Hulk (USA) (Side A);apple2
+Questprobe - The Hulk (USA) (Side B);apple2
+Questprobe 1 - The Hulk (Europe);zxspectrum
+Questprobe 1 - The Hulk (Europe);oric
+Questprobe 1 - The Incredible Hulk (USA);c64
+hulk;arcade
+hulk;fba
+hulk;mame-advmame
+hulk;mame-libretro
+hulk;mame-mame4all
+sc5hulk;arcade
+sc5hulk;fba
+sc5hulk;mame-advmame
+sc5hulk;mame-libretro
+sc5hulk;mame-mame4all
+sc5hulka;arcade
+sc5hulka;fba
+sc5hulka;mame-advmame
+sc5hulka;mame-libretro
+sc5hulka;mame-mame4all
+sc5hulkb;arcade
+sc5hulkb;fba
+sc5hulkb;mame-advmame
+sc5hulkb;mame-libretro
+sc5hulkb;mame-mame4all
+sc5hulkc;arcade
+sc5hulkc;fba
+sc5hulkc;mame-advmame
+sc5hulkc;mame-libretro
+sc5hulkc;mame-mame4all
+sc5hulkd;arcade
+sc5hulkd;fba
+sc5hulkd;mame-advmame
+sc5hulkd;mame-libretro
+sc5hulkd;mame-mame4all
+sc5hulke;arcade
+sc5hulke;fba
+sc5hulke;mame-advmame
+sc5hulke;mame-libretro
+sc5hulke;mame-mame4all
+sc5hulkf;arcade
+sc5hulkf;fba
+sc5hulkf;mame-advmame
+sc5hulkf;mame-libretro
+sc5hulkf;mame-mame4all
+sc5hulkg;arcade
+sc5hulkg;fba
+sc5hulkg;mame-advmame
+sc5hulkg;mame-libretro
+sc5hulkg;mame-mame4all
+sc5hulkh;arcade
+sc5hulkh;fba
+sc5hulkh;mame-advmame
+sc5hulkh;mame-libretro
+sc5hulkh;mame-mame4all
+sc5hulki;arcade
+sc5hulki;fba
+sc5hulki;mame-advmame
+sc5hulki;mame-libretro
+sc5hulki;mame-mame4all

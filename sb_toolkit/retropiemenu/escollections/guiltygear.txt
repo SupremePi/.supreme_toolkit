@@ -1,0 +1,58 @@
+Guilty Gear (USA);psx
+Guilty Gear - Dust Strikers (USA);nds
+Guilty Gear - The Crusades;openbor
+Guilty Gear Isuka (USA);ps2
+Guilty Gear Judgment (USA);psp
+Guilty Gear Petit (Japan);wonderswancolor
+Guilty Gear Petit 2 (Japan);wonderswancolor
+Guilty Gear X (Japan);dreamcast
+Guilty Gear X (USA);ps2
+Guilty Gear X - Advance Edition (USA);gba
+Guilty Gear X2 (USA);ps2
+Guilty Gear XX #Reload (Japan);psp-japan
+Guilty Gear XX #Reload (Japan);psp
+Guilty Gear XX Accent Core (USA);ps2
+Guilty Gear XX Accent Core Plus (USA);psp
+Guilty Gear XX Accent Core Plus (USA);ps2
+ggisuka;arcade
+ggisuka;fba
+ggisuka;mame-advmame
+ggisuka;mame-libretro
+ggisuka;mame-mame4all
+ggisuka;atomiswave
+ggx15;atomiswave
+ggx15;arcade
+ggx15;fba
+ggx15;mame-advmame
+ggx15;mame-libretro
+ggx15;mame-mame4all
+ggx;arcade
+ggx;fba
+ggx;mame-advmame
+ggx;mame-libretro
+ggx;mame-mame4all
+ggx;naomi
+ggxx;arcade
+ggxx;fba
+ggxx;mame-advmame
+ggxx;mame-libretro
+ggxx;mame-mame4all
+ggxx;naomi
+ggxxac;arcade
+ggxxac;fba
+ggxxac;mame-advmame
+ggxxac;mame-libretro
+ggxxac;mame-mame4all
+ggxxac;naomi
+ggxxrl;arcade
+ggxxrl;fba
+ggxxrl;mame-advmame
+ggxxrl;mame-libretro
+ggxxrl;mame-mame4all
+ggxxrl;naomi
+ggxxsla;arcade
+ggxxsla;fba
+ggxxsla;mame-advmame
+ggxxsla;mame-libretro
+ggxxsla;mame-mame4all
+ggxxsla;naomi

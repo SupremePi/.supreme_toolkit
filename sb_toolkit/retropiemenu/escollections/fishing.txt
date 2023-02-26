@@ -1,0 +1,193 @@
+TD4-Fishing (19xx)(-);electron
+Fishing Derby (USA);atari2600
+Fishing Freaks - Bass Rise for WonderSwan (Japan);wonderswan
+Umizuri ni Ikou! (Japan);wonderswan
+WonderSwan Handy Sonar (Japan);wonderswan
+Big Game Fishing (Italy);c64
+Jack Charlton's Match Fishing (Europe);c64
+cadanglr;arcade
+cadanglr;fba
+cadanglr;mame-advmame
+cadanglr;mame-libretro
+cadanglr;mame-mame4all
+aking;arcade
+aking;fba
+aking;mame-advmame
+aking;mame-libretro
+aking;mame-mame4all
+bassangl;arcade
+bassangl;fba
+bassangl;mame-advmame
+bassangl;mame-libretro
+bassangl;mame-mame4all
+bassang2;arcade
+bassang2;fba
+bassang2;mame-advmame
+bassang2;mame-libretro
+bassang2;mame-mame4all
+fbaitbc;arcade
+fbaitbc;fba
+fbaitbc;mame-advmame
+fbaitbc;mame-libretro
+fbaitbc;mame-mame4all
+fbaitmca;arcade
+fbaitmca;fba
+fbaitmca;mame-advmame
+fbaitmca;mame-libretro
+fbaitmca;mame-mame4all
+fbaitmc;arcade
+fbaitmc;fba
+fbaitmc;mame-advmame
+fbaitmc;mame-libretro
+fbaitmc;mame-mame4all
+fbaitmcj;arcade
+fbaitmcj;fba
+fbaitmcj;mame-advmame
+fbaitmcj;mame-libretro
+fbaitmcj;mame-mame4all
+fbaitmcu;arcade
+fbaitmcu;fba
+fbaitmcu;mame-advmame
+fbaitmcu;mame-libretro
+fbaitmcu;mame-mame4all
+fbait2bc;arcade
+fbait2bc;fba
+fbait2bc;mame-advmame
+fbait2bc;mame-libretro
+fbait2bc;mame-mame4all
+fishfren;arcade
+fishfren;fba
+fishfren;mame-advmame
+fishfren;mame-libretro
+fishfren;mame-mame4all
+cfishing;arcade
+cfishing;fba
+cfishing;mame-advmame
+cfishing;mame-libretro
+cfishing;mame-mame4all
+fmaniac3;arcade
+fmaniac3;fba
+fmaniac3;mame-advmame
+fmaniac3;mame-libretro
+fmaniac3;mame-mame4all
+getbass;arcade
+getbass;fba
+getbass;mame-advmame
+getbass;mame-libretro
+getbass;mame-mame4all
+gonefsh2;arcade
+gonefsh2;fba
+gonefsh2;mame-advmame
+gonefsh2;mame-libretro
+gonefsh2;mame-mame4all
+seabass;arcade
+seabass;fba
+seabass;mame-advmame
+seabass;mame-libretro
+seabass;mame-mame4all
+bass;arcade
+bass;fba
+bass;mame-advmame
+bass;mame-libretro
+bass;mame-mame4all
+basschal;arcade
+basschal;fba
+basschal;mame-advmame
+basschal;mame-libretro
+basschal;mame-mame4all
+bassdx;arcade
+bassdx;fba
+bassdx;mame-advmame
+bassdx;mame-libretro
+bassdx;mame-mame4all
+smarinef;arcade
+smarinef;fba
+smarinef;mame-advmame
+smarinef;mame-libretro
+smarinef;mame-mame4all
+sfish2j;arcade
+sfish2j;fba
+sfish2j;mame-advmame
+sfish2j;mame-libretro
+sfish2j;mame-mame4all
+sfish2;arcade
+sfish2;fba
+sfish2;mame-advmame
+sfish2;mame-libretro
+sfish2;mame-mame4all
+Fishing (Japan);msxturbo
+Angler's Club - Ultimate Bass Fishing 3D (Europe);3ds
+Reel Fishing Paradise 3D (USA);3ds
+Nushi Zuri 64 (Japan);n64-japan
+Nushi Zuri 64 - Shiokaze ni Notte (Japan);n64-japan
+Bassmasters 2000 (USA);n64
+In-Fisherman - Bass Hunter 64 (USA);n64
+Rapala Pro Bass Fishing (USA);nds
+Super Black Bass Fishing (USA);nds
+Black Bass, The (USA);nes
+Blue Marlin, The (USA);nes
+Tsuri Kichi Sanpei - Blue Marlin Hen (Japan) (Translated En);famicom
+American Bass Challenge (USA);gba
+ESPN Great Outdoor Games - Bass 2002 (USA);gba
+Monster! Bass Fishing (USA);gba
+Rapala Pro Fishing (USA, Europe);gba
+Bass Masters Classic (USA, Europe);gbc
+Billy Bob's Huntin' 'n' Fishin' (USA, Europe);gbc
+Black Bass - Lure Fishing (USA, Europe);gbc
+Legend of the River King 2 (USA);gbc
+Legend of the River King GB (USA);gbc
+TNN Outdoors Fishing Champ (USA);gbc
+Zebco Fishing! (USA);gbc
+Black Bass - Lure Fishing (USA);gb
+Gurander Musashi RV (Japan);gb
+Hyper Black Bass '95 (Japan);gb
+Legend of the River King GB (USA);gb
+Super Black Bass (USA);gb
+Mark Davis Pro Bass Challenge (USA);gc
+Top Angler - Real Bass Fishing (USA);gc
+Fishing Koushien (Japan);sfc
+Isozuri - Ritou Hen (Japan);sfc
+Super Fishing Big Fight (Japan);sfc
+Umizuri Meijin - Suzuki Hen (Japan);sfc
+TNN Outdoors Fishing Champ (USA);sgb
+Rapala Pro Bass Fishing (USA);wiiu
+basschal;atomiswave
+Reel Fishing - Wild (USA);dreamcast
+Sega Bass Fishing (USA);dreamcast
+Sega Bass Fishing 2 (USA);dreamcast
+Bass Masters Classic (USA);genesis
+Bass Masters Classic - Pro Edition (USA);genesis
+King Salmon - The Big Catch (USA);genesis
+TNN Bass Tournament of Champions (USA);genesis
+TNN Outdoors Bass Tournament '96 (USA);genesis
+smarinef;naomi
+Sea Bass Fishing (Europe);saturn
+Jack Charlton's Match Fishing (Europe);zxspectrum
+BASS Strike (USA);ps2
+Cabela's Monster Bass (USA);ps2
+Cocoto Fishing Master (USA);ps2
+Fisherman's Bass Club (USA);ps2
+Fisherman's Challenge (USA);ps2
+Fishing Fantasy - BuzzRod (Europe);ps2
+Lake Masters EX (Europe);ps2
+Mark Davis Pro Bass Challenge (USA);ps2
+Rapala Pro Bass Fishing 2010 (USA);ps2
+Rapala Pro Fishing (USA);ps2
+Reel Fishing III (USA);ps2
+River King - A Wonderful Journey (USA);ps2
+Sega Bass Fishing Duel (USA);ps2
+Top Angler (USA);ps2
+Big Bass Fishing (USA);psx
+Reel Fishing (USA);psx
+Reel Fishing II (USA);psx
+Saltwater Sportfishing (USA);psx
+Flick Fishing (USA);pspminis
+Rapala Pro Bass Fishing (USA);psp
+Rapala Trophies (USA);psp
+Reel Fishing - The Great Outdoors (USA);psp
+Mark Davis' The Fishing Master (USA);snes
+Super Black Bass (USA);snes
+Fishing Fun (Europe);atari800
+Big Game Fishing (Italy);atarist
+Gone Fish'n (USA) (Disk 1);atarist
+Gone Fish'n (USA) (Disk 2);atarist

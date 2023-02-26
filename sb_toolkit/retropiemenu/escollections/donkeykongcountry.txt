@@ -1,0 +1,16 @@
+Donkey Kong Country 4 (Unl);dendy
+Donkey Kong Country Returns 3D (USA);3ds
+Donkey Kong Country (Hack);nesh
+Donkey Kong Country (USA);gba
+Donkey Kong Country 2 (USA, Australia);gba
+Donkey Kong Country 3 (USA, Australia);gba
+Donkey Kong Country (USA, Europe);gbc
+Donkey Kong Country Returns (USA);wii
+Donkey Kong Country - Tropical Freeze (USA);wiiu
+Donkey Kong Country - Kremlins Revenge (Hack);snesh
+Donkey Kong Country (MSU-1);snesmsu1
+Donkey Kong Country 2 - Diddys Kong Quest (MSU-1);snesmsu1
+Donkey Kong Country (USA);snes
+Donkey Kong Country (USA) (Competition Edition);snes
+Donkey Kong Country 2 - Diddy's Kong Quest (USA);snes
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA);snes

@@ -1,0 +1,50 @@
+Hot Wheels (USA);c64
+hotwheel;arcade
+hotwheel;fba
+hotwheel;mame-advmame
+hotwheel;mame-libretro
+hotwheel;mame-mame4all
+m4rhwhl;arcade
+m4rhwhl;fba
+m4rhwhl;mame-advmame
+m4rhwhl;mame-libretro
+m4rhwhl;mame-mame4all
+m4rhwhl__a;arcade
+m4rhwhl__a;fba
+m4rhwhl__a;mame-advmame
+m4rhwhl__a;mame-libretro
+m4rhwhl__a;mame-mame4all
+m4rhwhl__b;arcade
+m4rhwhl__b;fba
+m4rhwhl__b;mame-advmame
+m4rhwhl__b;mame-libretro
+m4rhwhl__b;mame-mame4all
+m4rhwhl__c;arcade
+m4rhwhl__c;fba
+m4rhwhl__c;mame-advmame
+m4rhwhl__c;mame-libretro
+m4rhwhl__c;mame-mame4all
+Hot Wheels - World's Best Driver (USA);3ds
+Hot Wheels - Turbo Racing (USA);n64
+Hot Wheels - Battle Force 5 (USA) [b];nds
+Hot Wheels - Beat That! (USA);nds
+Hot Wheels - Track Attack (USA) (En,Fr) (NDSi Enhanced) [b];nds
+2 Game Pack! - Hot Wheels - Stunt Track Challenge + Hot Wheels - World Race (USA, Europe);gba
+2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA);gba
+Hot Wheels - All Out (USA);gba
+Hot Wheels - Burnin' Rubber (USA);gba
+Hot Wheels - Stunt Track Challenge (USA, Europe);gba
+Hot Wheels - Velocity X (USA);gba
+Hot Wheels - World Race (USA);gba
+Hot Wheels - Stunt Track Driver (USA);gbc
+Hot Wheels - Velocity X (USA);gc
+Hot Wheels - World Race (USA);gc
+Hot Wheels - World's Best Driver (USA);wiiu
+Hot Wheels - Beat That! (USA);ps2
+Hot Wheels - Stunt Track Challenge (USA);ps2
+Hot Wheels - Velocity X - Maximum Justice (USA);ps2
+Hot Wheels - World Race (USA);ps2
+Hot Wheels - Extreme Racing (USA);psx
+Hot Wheels - Turbo Racing (USA);psx
+Hot Wheels Ultimate Racing (USA);psp
+Hot Wheels (Europe) (Unl);atarist

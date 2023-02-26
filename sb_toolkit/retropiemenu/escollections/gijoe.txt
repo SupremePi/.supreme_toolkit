@@ -1,0 +1,31 @@
+G.I. Joe (USA) (Side A);apple2
+G.I. Joe (USA) (Side B);apple2
+G.I. Joe - Cobra Strike (USA);atari2600
+GI Joe (USA);c64
+GI Joe - Atlantis Factor (R);dendy
+GI Joe - Real American Hero (R);dendy
+gijoej;arcade
+gijoej;fba
+gijoej;mame-advmame
+gijoej;mame-libretro
+gijoej;mame-mame4all
+gijoeu;arcade
+gijoeu;fba
+gijoeu;mame-advmame
+gijoeu;mame-libretro
+gijoeu;mame-mame4all
+gijoe;arcade
+gijoe;fba
+gijoe;mame-advmame
+gijoe;mame-libretro
+gijoe;mame-mame4all
+gijoea;arcade
+gijoea;fba
+gijoea;mame-advmame
+gijoea;mame-libretro
+gijoea;mame-mame4all
+G.I. Joe - The Rise of Cobra (USA) (En,Fr,Es);nds
+G.I. Joe - A Real American Hero (USA);nes
+G.I. Joe - The Atlantis Factor (USA);nes
+G.I. Joe - The Rise of Cobra (USA);ps2
+G.I. Joe - The Rise of Cobra (USA);psp

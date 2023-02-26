@@ -1,0 +1,25 @@
+nss_fzer;arcade
+nss_fzer;fba
+nss_fzer;mame-advmame
+nss_fzer;mame-libretro
+nss_fzer;mame-mame4all
+fzeroax;arcade
+fzeroax;fba
+fzeroax;mame-advmame
+fzeroax;mame-libretro
+fzeroax;mame-mame4all
+F-Zero X Expansion Kit (Japan) (Translated En);n64dd
+F-Zero X (USA);n64
+F-Zero - GP Legend (USA);gba
+F-Zero - Maximum Velocity (USA, Europe);gba
+F-Zero GX (USA);gc
+f-zero;satellaview
+F-ZERO - Axnfanatics Edition (Hack);snesh
+F-ZERO - FSNES3 Edition (Hack);snesh
+F-ZERO - Practice Tracks Unlocked (Hack);snesh
+F-ZERO - Starcrackers (Hack);snesh
+F-ZERO - The Lost Tracks (Hack);snesh
+BS F-Zero Grand Prix 2 (MSU-1);snesmsu1
+F-Zero (MSU-1);snesmsu1
+F-Zero MSU Extended (MSU-1);snesmsu1
+F-Zero (USA);snes

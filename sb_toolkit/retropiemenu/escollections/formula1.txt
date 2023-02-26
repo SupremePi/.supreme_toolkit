@@ -1,0 +1,23 @@
+Formula One (Europe);amstradcpc
+Ferrari Formula One (USA) (Side A);c64
+Ferrari Formula One (USA) (Side B);c64
+FormulaOneGrandPrix_v1.0_4Disk_0325;amiga1200
+FormulaOneGrandPrix_v1.0_4Disk_0325;amiga
+Formula One - Built to Win (USA);nes
+Formula One 2000 (USA);gbc
+Formula One World Championship - Beyond the Limit (USA);segacd
+Formula One (USA);genesis
+Formula One (CRL Group) (Europe);zxspectrum
+Formula One (Spirit Software) (Europe);zxspectrum
+Formula One 2001 (USA);ps2
+Formula One 2002 (Europe);ps2
+Formula One 2003 (Europe);ps2
+Formula One 2005 (Europe);ps2
+Formula One 2000 (USA);psx
+Formula One 2001 (Europe);psx
+Formula One 99 (USA);psx
+Formula One 2006 (Europe);psp
+Ferrari Formula One (Europe);atarist
+Formula One Grand Prix (Europe) (Disk 1);atarist
+Formula One Grand Prix (Europe) (Disk 2);atarist
+Microprose Formula One Grand Prix (USA);atarist

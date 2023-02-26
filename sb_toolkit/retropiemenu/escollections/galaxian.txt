@@ -1,0 +1,194 @@
+Arcade Classic No. 3 - Galaga & Galaxian (USA);gb
+Arcade Classic No. 3 - Galaga & Galaxian (USA);sgb
+Galaxian (Atarisoft) (USA);apple2
+Galaxian (Europe) (Unl);atarist
+Galaxian (Europe);zxspectrum
+Galaxian (Japan) (Alt 1);msx
+Galaxian (Japan) (Alt 2);msx
+Galaxian (Japan);msx
+Galaxian (Japan);fds
+Galaxian (Japan);famicom
+Galaxian (Poland) (Unl);atari800
+Galaxian (R);dendy
+Galaxian (Starcraft) (USA);apple2
+Galaxian (USA);atari2600
+Galaxian (USA);atari5200
+Galaxian (USA);atari800
+Galaxian (USA);astrocde
+Galaxian (USA);colecovision
+Galaxian (USA);c64
+Galaxian (USA);vic20
+Galaxian (XYZ);x68000
+Galaxian 2 (68 Bank);x68000
+Galaxian Super (R);dendy
+Galaxian of Xiabex (Europe) (Unl);c64
+Galaxian;sorcerer
+Galaxian;x1
+Galaxian^3 (Europe);psx
+Galaxians (1982)(Tony Beckwith);zx81
+Galaxians (1984);plus4
+Galaxians (Europe);bbcb
+Galaxians (Europe);zxspectrum
+Galaxians (Europe);oric
+Galaxians;sorcerer
+Return of the Galaxians (USA) (Unl);apple2
+astrians;arcade
+astrians;fba
+astrians;mame-advmame
+astrians;mame-libretro
+astrians;mame-mame4all
+bullsdrtg;arcade
+bullsdrtg;fba
+bullsdrtg;mame-advmame
+bullsdrtg;mame-libretro
+bullsdrtg;mame-mame4all
+drivfrcb;arcade
+drivfrcb;fba
+drivfrcb;mame-advmame
+drivfrcb;mame-libretro
+drivfrcb;mame-mame4all
+drivfrcg;arcade
+drivfrcg;fba
+drivfrcg;mame-advmame
+drivfrcg;mame-libretro
+drivfrcg;mame-mame4all
+gal3;arcade
+gal3;fba
+gal3;mame-advmame
+gal3;mame-libretro
+gal3;mame-mame4all
+galap1;arcade
+galap1;fba
+galap1;mame-advmame
+galap1;mame-libretro
+galap1;mame-mame4all
+galap4;arcade
+galap4;fba
+galap4;mame-advmame
+galap4;mame-libretro
+galap4;mame-mame4all
+galapx;arcade
+galapx;fba
+galapx;mame-advmame
+galapx;mame-libretro
+galapx;mame-mame4all
+galaxbsf2;arcade
+galaxbsf2;fba
+galaxbsf2;mame-advmame
+galaxbsf2;mame-libretro
+galaxbsf2;mame-mame4all
+galaxbsf;arcade
+galaxbsf;fba
+galaxbsf;mame-advmame
+galaxbsf;mame-libretro
+galaxbsf;mame-mame4all
+galaxian;arcade
+galaxian;fba
+galaxian;mame-advmame
+galaxian;mame-libretro
+galaxian;mame-mame4all
+galaxiana;arcade
+galaxiana;fba
+galaxiana;mame-advmame
+galaxiana;mame-libretro
+galaxiana;mame-mame4all
+galaxianbl;arcade
+galaxianbl;fba
+galaxianbl;mame-advmame
+galaxianbl;mame-libretro
+galaxianbl;mame-mame4all
+galaxiani;arcade
+galaxiani;fba
+galaxiani;mame-advmame
+galaxiani;mame-libretro
+galaxiani;mame-mame4all
+galaxianm;arcade
+galaxianm;fba
+galaxianm;mame-advmame
+galaxianm;mame-libretro
+galaxianm;mame-mame4all
+galaxianmo;arcade
+galaxianmo;fba
+galaxianmo;mame-advmame
+galaxianmo;mame-libretro
+galaxianmo;mame-mame4all
+galaxiant;arcade
+galaxiant;fba
+galaxiant;mame-advmame
+galaxiant;mame-libretro
+galaxiant;mame-mame4all
+galaxrf;arcade
+galaxrf;fba
+galaxrf;mame-advmame
+galaxrf;mame-libretro
+galaxrf;mame-mame4all
+galaxrfgg;arcade
+galaxrfgg;fba
+galaxrfgg;mame-advmame
+galaxrfgg;mame-libretro
+galaxrfgg;mame-mame4all
+galturbo;arcade
+galturbo;fba
+galturbo;mame-advmame
+galturbo;mame-libretro
+galturbo;mame-mame4all
+gmgalax;arcade
+gmgalax;fba
+gmgalax;mame-advmame
+gmgalax;mame-libretro
+gmgalax;mame-mame4all
+kamakazi3;arcade
+kamakazi3;fba
+kamakazi3;mame-advmame
+kamakazi3;mame-libretro
+kamakazi3;mame-mame4all
+moonal2;arcade
+moonal2;fba
+moonal2;mame-advmame
+moonal2;mame-libretro
+moonal2;mame-mame4all
+moonal2b;arcade
+moonal2b;fba
+moonal2b;mame-advmame
+moonal2b;mame-libretro
+moonal2b;mame-mame4all
+moonaln;arcade
+moonaln;fba
+moonaln;mame-advmame
+moonaln;mame-libretro
+moonaln;mame-mame4all
+starfght;arcade
+starfght;fba
+starfght;mame-advmame
+starfght;mame-libretro
+starfght;mame-mame4all
+superg;arcade
+superg;fba
+superg;mame-advmame
+superg;mame-libretro
+superg;mame-mame4all
+supergx;arcade
+supergx;fba
+supergx;mame-advmame
+supergx;mame-libretro
+supergx;mame-mame4all
+swarm;arcade
+swarm;fba
+swarm;mame-advmame
+swarm;mame-libretro
+swarm;mame-mame4all
+tst_galx;arcade
+tst_galx;fba
+tst_galx;mame-advmame
+tst_galx;mame-libretro
+tst_galx;mame-mame4all
+zerotime;arcade
+zerotime;fba
+zerotime;mame-advmame
+zerotime;mame-libretro
+zerotime;mame-mame4all
+zerotimed;arcade
+zerotimed;fba
+zerotimed;mame-advmame
+zerotimed;mame-libretro
+zerotimed;mame-mame4all

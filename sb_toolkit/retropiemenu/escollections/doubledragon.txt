@@ -1,0 +1,167 @@
+Battletoads & Double Dragon (R);dendy
+Battletoads & Double Dragon (USA);megadrive
+Battletoads & Double Dragon (USA);snes
+Battletoads & Double Dragon IV - The Return of the Dark Forces;openbor
+Battletoads and Double Dragon (Hack);genh
+Battletoads-Double Dragon (USA);nes
+Battletoads-Double Dragon (USA);gb
+Double Dragon (Europe);amstradcpc
+Double Dragon (Europe);atarist
+Double Dragon (Europe);c64
+Double Dragon (Europe);zxspectrum
+Double Dragon (Korea) (Unl);msx
+Double Dragon (R);dendy
+Double Dragon (USA);atari2600
+Double Dragon (USA);atari7800
+Double Dragon (USA);nes
+Double Dragon (USA, Europe);atarilynx
+Double Dragon (USA, Europe);gb
+Double Dragon (USA, Europe);gamegear
+Double Dragon (USA, Europe);megadrive
+Double Dragon (World);markiii
+Double Dragon (World);mastersystem
+Double Dragon (World);neocdz
+Double Dragon 2 - The Revenge (Japan);pce-cd
+Double Dragon 3 (USA, Europe);gb
+Double Dragon 3 - The Arcade Game (USA, Europe);megadrive
+Double Dragon 3 - The Rosetta Stone (Europe) (Disk 1);atarist
+Double Dragon 3 - The Rosetta Stone (Europe) (Disk 2);atarist
+Double Dragon Advance (USA);gba
+Double Dragon Advance;openbor
+Double Dragon Chuck Norris (Hack);nesh
+Double Dragon Extreme;openbor
+Double Dragon Gaiden;openbor
+Double Dragon II (USA, Europe);gb
+Double Dragon II - Boss Edition by shinwa (Hack);nesh
+Double Dragon II - Revenge (R);dendy
+Double Dragon II - The Revenge (Europe) (Disk 1);atarist
+Double Dragon II - The Revenge (Europe) (Disk 2);atarist
+Double Dragon II - The Revenge (Europe);amstradcpc
+Double Dragon II - The Revenge (Europe);c64
+Double Dragon II - The Revenge (Europe);zxspectrum
+Double Dragon II - The Revenge (Japan);megadrive-japan
+Double Dragon II - The Revenge (Japan);megadrive
+Double Dragon II - The Revenge (USA);nes
+Double Dragon III - Sacred Stones (R);dendy
+Double Dragon III - The Rosetta Stone (Europe);amstradcpc
+Double Dragon III - The Rosetta Stone (Europe);zxspectrum
+Double Dragon III - The Rosetta Stone (USA);c64
+Double Dragon III - The Sacred Stones (USA);nes
+Double Dragon IV (Unl) (R);dendy
+Double Dragon Revolution 2;openbor
+Double Dragon Revolution 3;openbor
+Double Dragon Revolution;openbor
+Double Dragon V - The Shadow Falls (USA);megadrive
+Double Dragon V - The Shadow Falls (USA);snes
+Double Dragon V - The Shadow Falls (World);atarijaguar
+Double Dragon Zero;openbor
+DoubleDragon2_v1.3_0768;amiga1200
+DoubleDragon2_v1.3_0768;amiga
+DoubleDragon3_v1.2_0321;amiga1200
+DoubleDragon3_v1.2_0321;amiga
+DoubleDragon_v1.0_0320;amiga1200
+DoubleDragon_v1.0_0320;amiga
+Return of Double Dragon (Japan);sfc
+Return of the Double Dragon;openbor
+Super Double Dragon (USA);snes
+ddragon2;arcade
+ddragon2;fba
+ddragon2;mame-advmame
+ddragon2;mame-libretro
+ddragon2;mame-mame4all
+ddragon2j;arcade
+ddragon2j;fba
+ddragon2j;mame-advmame
+ddragon2j;mame-libretro
+ddragon2j;mame-mame4all
+ddragon2u;arcade
+ddragon2u;fba
+ddragon2u;mame-advmame
+ddragon2u;mame-libretro
+ddragon2u;mame-mame4all
+ddragon3;arcade
+ddragon3;fba
+ddragon3;mame-advmame
+ddragon3;mame-libretro
+ddragon3;mame-mame4all
+ddragon3b;arcade
+ddragon3b;fba
+ddragon3b;mame-advmame
+ddragon3b;mame-libretro
+ddragon3b;mame-mame4all
+ddragon3j;arcade
+ddragon3j;fba
+ddragon3j;mame-advmame
+ddragon3j;mame-libretro
+ddragon3j;mame-mame4all
+ddragon3p;arcade
+ddragon3p;fba
+ddragon3p;mame-advmame
+ddragon3p;mame-libretro
+ddragon3p;mame-mame4all
+ddragon6809;arcade
+ddragon6809;fba
+ddragon6809;mame-advmame
+ddragon6809;mame-libretro
+ddragon6809;mame-mame4all
+ddragon6809a;arcade
+ddragon6809a;fba
+ddragon6809a;mame-advmame
+ddragon6809a;mame-libretro
+ddragon6809a;mame-mame4all
+ddragon;arcade
+ddragon;fba
+ddragon;mame-advmame
+ddragon;mame-libretro
+ddragon;mame-mame4all
+ddragonb2;arcade
+ddragonb2;fba
+ddragonb2;mame-advmame
+ddragonb2;mame-libretro
+ddragonb2;mame-mame4all
+ddragonb;arcade
+ddragonb;fba
+ddragonb;mame-advmame
+ddragonb;mame-libretro
+ddragonb;mame-mame4all
+ddragonba;arcade
+ddragonba;fba
+ddragonba;mame-advmame
+ddragonba;mame-libretro
+ddragonba;mame-mame4all
+ddragonu;arcade
+ddragonu;fba
+ddragonu;mame-advmame
+ddragonu;mame-libretro
+ddragonu;mame-mame4all
+ddragonua;arcade
+ddragonua;fba
+ddragonua;mame-advmame
+ddragonua;mame-libretro
+ddragonua;mame-mame4all
+ddragonub;arcade
+ddragonub;fba
+ddragonub;mame-advmame
+ddragonub;mame-libretro
+ddragonub;mame-mame4all
+ddragonw1;arcade
+ddragonw1;fba
+ddragonw1;mame-advmame
+ddragonw1;mame-libretro
+ddragonw1;mame-mame4all
+ddragonw;arcade
+ddragonw;fba
+ddragonw;mame-advmame
+ddragonw;mame-libretro
+ddragonw;mame-mame4all
+doubledr;arcade
+doubledr;fba
+doubledr;mame-advmame
+doubledr;mame-libretro
+doubledr;mame-mame4all
+doubledr;neogeo
+pc_ddrgn;arcade
+pc_ddrgn;fba
+pc_ddrgn;mame-advmame
+pc_ddrgn;mame-libretro
+pc_ddrgn;mame-mame4all
