@@ -1,0 +1,3115 @@
+#!/bin/bash
+# SUPREME ULTRA V2
+# The Supreme Team https://github.com/SupremePi/
+
+. /home/pi/.supreme_toolkit/sb_toolkit/_scripts/supreme-vars
+
+#############################
+#SUPREME FIX FUNCTIONS START#
+#############################
+
+function fix_menu_layout_rb() {
+        fix_menu_layout
+	read -n 1 -s -r -p "We need to Reboot system To Save Changes. Press Any Key To Reboot..."
+	sleep 3
+	sudo reboot
+}	
+
+function fix_menu_layout() {
+	dialog --infobox "...Fixing..." 3 17 ; sleep 3
+        echo "First Updating RetroPie Menu Files."
+        sleep 3
+	clear
+	
+        #Rsync RetroPie Menu files
+        if [ -f $rp_menu/raspiconfig.rp ]; then 
+	sudo rsync -av $rp_menu/raspiconfig.rp $sb_menu/
+        fi
+        if [ -f $rp_menu/rpsetup.rp ]; then 
+	sudo rsync -av $rp_menu/rpsetup.rp $sb_menu/
+        fi
+        if [ -f $rp_menu/showip.rp ]; then 
+	sudo rsync -av $rp_menu/showip.rp $sb_menu/retropietools/
+        fi
+        if [ -f $rp_menu/audiosettings.rp ]; then 
+	sudo rsync -av $rp_menu/audiosettings.rp $sb_menu/audiotools/
+        fi
+        if [ -f $rp_menu/bluetooth.rp ]; then 
+	sudo rsync -av $rp_menu/bluetooth.rp $sb_menu/retropietools/
+        fi
+        if [ -f $rp_menu/configedit.rp ]; then 
+	sudo rsync -av $rp_menu/configedit.rp $sb_menu/emulationtools/
+        fi
+        if [ -f $rp_menu/esthemes.rp ]; then 
+	sudo rsync -av $rp_menu/esthemes.rp $sb_menu/visualtools/
+        fi
+        if [ -f $rp_menu/filemanager.rp ]; then 
+	sudo rsync -av $rp_menu/filemanager.rp $sb_menu/retropietools/
+        fi
+        if [ -f $rp_menu/retroarch.rp ]; then 
+	sudo rsync -av $rp_menu/retroarch.rp $sb_menu/retropietools/
+        fi
+        if [ -f $rp_menu/retronetplay.rp ]; then 
+	sudo rsync -av $rp_menu/retronetplay.rp $sb_menu/retropietools/
+        fi
+        if [ -f $rp_menu/runcommand.rp ]; then 
+        sudo rsync -av $rp_menu/runcommand.rp $sb_menu/retropietools/
+        fi
+        if [ -f $rp_menu/splashscreen.rp ]; then 
+	sudo rsync -av $rp_menu/splashscreen.rp $sb_menu/visualtools/
+        fi
+        if [ -f $rp_menu/wifi.rp ]; then 
+	sudo rsync -av $rp_menu/wifi.rp $sb_menu/retropietools/
+        fi
+	
+       #Rsync Custom Menu files
+       if [ -f $rp_menu/bezelproject.sh ]; then 
+       sudo rsync -av $rp_menu/bezelproject.sh $sb_menu/visualtools/
+       fi
+       if [ -f $rp_menu/hurstythemes.sh ]; then 
+       sudo rsync -av $rp_menu/hurstythemes.sh $sb_menu/visualtools/
+       fi
+       if [ -f $rp_menu/fruitbox.btn ]; then 
+       sudo rsync -av $rp_menu/fruitbox.btn $sb_menu/
+       fi
+       if [ -f /home/pi/tamoplus/files/tamoplus.sh ]; then 
+       sudo rsync -av /home/pi/tamoplus/files/tamoplus.sh $sb_menu/
+       fi
+	
+       #Cool Down
+       sleep 1
+       clear
+
+       echo "Now Fixing Supreme Menu."
+       sleep 3
+       clear
+       rm -rf $rp_menu/* && rsync -av $sb_menu/ $rp_menu && cp $sb_toolkit/retropie-gml/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
+       sudo chown -R pi:pi $sb_menu/
+       echo "[NOW FINISHED!...]"
+       sleep 3
+       clear
+}
+
+function fix_es_layout() {
+       
+	   if (dialog --title "Pick Your Es Layout!" --yesno "Would You Like To Pick Your Es Layout Now?" 0 0 )
+       then
+       fix_es_layout_yes
+       else
+       echo -e "$(tput setaf 2)Skipping Es Layout. $(tput sgr0)"
+       sleep 3
+       fi
+}
+	      
+function fix_es_layout_yes() {
+	clear
+	
+infobox=""
+infobox="${infobox}\n"
+infobox="${infobox}\n"
+infobox="${infobox}Systems & Theme Options Based on MENU\n\n"
+infobox="${infobox}\n"
+infobox="${infobox}This script will set the menu of RetroPie to your preference.\n"
+infobox="${infobox}- The regular supreme menu will set things back to default.\n"
+infobox="${infobox}- The regular RetroPiemenu will set the menu to stock.\n"
+infobox="${infobox}- The supreme menu with options will let you pick your main add-on.\n"
+infobox="${infobox}\n"
+infobox="${infobox}- Please note that you will need to restart for your settings to stick."
+infobox="${infobox}\n"
+
+
+dialog --backtitle "Menu based ES Systems" \
+--title "Menu based ES Systems Script" \
+--msgbox "${infobox}" 35 110
+
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " MAIN MENU " \
+            --ok-label OK --cancel-label Exit \
+            --menu "Which Main menu do you want to apply?" 25 75 20 \
+            1 "Regular Supreme menu" \
+            2 "Regular RetroPie menu" \
+            3 "Supreme menu with kodi only" \
+            4 "Supreme menu with pixel only" \
+            5 "Supreme menu with steam only" \
+            6 "Supreme menu with chromium only" \
+            7 "Move Update etc files to opt" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) supreme_menu  ;;
+            2) retropie_menu  ;;
+            3) kodi_menu  ;;
+            4) pixel_menu  ;;
+            5) steam_menu  ;;
+            6) chromium_menu  ;;
+            7) move_menu  ;;
+            *) break ;;
+        esac
+    done
+}
+
+
+function supreme_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp $sb_toolkit/es_cfg/es_supreme.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_supreme.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+
+}
+
+function retropie_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp $sb_toolkit/es_cfg/es_retropie.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_retropie.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function kodi_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp $sb_toolkit/es_cfg/es_kodi.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_kodi.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function pixel_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp $sb_toolkit/es_cfg/es_pixel.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_pixel.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+	clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function steam_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp $sb_toolkit/es_cfg/es_steam.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_steam.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function chromium_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp $sb_toolkit/es_cfg/es_chromium.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_chromium.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function move_menu() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	sudo cp /etc/emulationstation/es_systems.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function fix_applications() {
+	dialog --infobox "...Fixing..." 3 17 ; sleep 1
+	clear
+	sudo rsync -av $sb_toolkit/roms/kodi /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/steam /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/power /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/pixel /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/chromium /home/pi/RetroPie/roms/
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 3
+	sudo reboot
+	echo
+}
+
+function fix_music() {
+	if (dialog --title "Would You Like To Try And Fix Your Music!" --yesno "Would You Like To Start ?" 0 0 )
+       then
+	   fix_music_yes
+	   else
+       echo -e "$(tput setaf 2)Skipping Music Fix. $(tput sgr0)"
+       sleep 3
+    fi
+}	
+	   	   
+function fix_music_yes() {   
+	if [ ! -d $sb_toolkit/music ]; then
+        echo "No Music Restore Folder Found. Now Making one"
+        sleep 3
+        clear
+        mkdir $sb_toolkit/music
+        echo "Now Trying to Back Up Your Music If Any Is Found"
+        sleep 3
+        clear
+	if [ -d /home/pi/RetroPie/roms/music/custom ]; then
+	rsync -av /home/pi/RetroPie/roms/music/custom/ $sb_toolkit/music/
+        else	
+	rsync -av /home/pi/RetroPie/roms/music/ $sb_toolkit/music/
+	fi
+	fi
+
+	if [ -d $sb_toolkit/music ]; then
+        if [ -d /home/pi/RetroPie/roms/music/custom ]; then
+	rsync -av $sb_toolkit/music/ /home/pi/RetroPie/roms/music/custom/
+        else	
+	rsync -av $sb_toolkit/music/ /home/pi/RetroPie/roms/music/
+	fi
+        fi
+
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 3
+}
+
+
+function fix_slideshow() {
+	dialog --infobox "...Fixing..." 3 17 ; sleep 1
+	clear
+	sudo rsync -av $sb_toolkit/slideshow/image /opt/retropie/configs/all/emulationstation/slideshow/
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 3
+}
+
+
+function fix_control() {
+	dialog --infobox "...Fixing..." 3 17 ; sleep 1
+	rm /home/pi/.emulationstation/es_input.cfg
+	rm /opt/retropie/configs/all/retroarch-joypads/*
+	cp $sb_toolkit/es_cfg/es_input.cfg /home/pi/.emulationstation/
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	echo
+	read -n 1 -s -r -p "Press any key to continue."
+	echo
+	echo "[OK System Will Restart now...]"
+	sleep 3
+	clear
+	sudo reboot
+}
+
+
+function git_rs() {
+    local choice
+
+    while true; do
+        choice=$(dialog --backtitle "Retropie update fix" --title " View Styles " \
+            --ok-label OK --cancel-label Exit \
+            --menu "Chose your update fix" 25 75 20 \
+            1 "Retropie update quick fix" \
+            2 "Retropie update full fix" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) quick_fix  ;;
+            2) full_fix  ;;
+            *)  break ;;
+        esac
+    done
+}
+
+function quick_fix() {
+cd
+cd /home/pi/RetroPie-Setup
+git reset --hard
+cd
+echo Quick fix is now done.
+sleep 3
+}
+
+function full_fix() {
+sudo rm -rf /opt/retropie/configs/all/retroarch/shaders/crt-pi-curvature-vertical.glslp > /dev/null 2>&1
+sudo rm -rf /opt/retropie/configs/all/retroarch/shaders/crt-pi-vertical.glslp > /dev/null 2>&1
+sudo rm -rf /home/pi/RetroPie-Setup
+cd
+git clone --depth=1 https://github.com/RetroPie/RetroPie-Setup.git
+cd
+cd RetroPie-Extra/
+./install-extras.sh
+echo Now simply start up RetroPie-Setup and update what you would like.
+sleep 6
+clear
+}
+
+function config_script() {
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " MAIN MENU " \
+            --ok-label OK --cancel-label Exit \
+            --menu "What action would you like to perform?" 25 75 20 \
+            1 "Enable 64bit support for programs like dolphin & kodi" \
+            2 "Disable 64bit support for programs like dolphin & kodi" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) 64bit_on  ;;
+            2) 64bit_off  ;;
+            *)  break ;;
+        esac
+    done
+}
+
+function 64bit_on() {
+	dialog --infobox "...Applying..." 3 20 ; sleep 2
+	echo "Your Retropie is about to reboot so that the settings take effect!"
+        sleep 3 
+sudo perl -p -i -e 's/#*arm_64bit=.*/arm_64bit=1/g' /boot/config.txt
+sleep 1
+sudo perl -p -i -e 's/#*gpu_mem=.*/gpu_mem=256/g' /boot/config.txt
+read -n 1 -s -r -p "Press any key to reboot"
+echo "[OK] Rebooting Raspberry Pi ... "
+sudo reboot
+}
+
+function 64bit_off() {
+	dialog --infobox "...Applying..." 3 20 ; sleep 2
+	echo "Your Retropie is about to reboot so that the settings take effect!"
+        sleep 3
+sudo perl -p -i -e 's/#*arm_64bit=.*/#arm_64bit=1/g' /boot/config.txt
+sleep 1
+sudo perl -p -i -e 's/#*gpu_mem=.*/gpu_mem=256/g' /boot/config.txt
+read -n 1 -s -r -p "Press any key to reboot"
+echo "[OK] Rebooting Raspberry Pi ... "
+sudo reboot
+}
+
+function x11_script() {
+	dialog --infobox "...Please Wait..." 3 22 ; sleep 2
+	clear
+	sed -i '/aptRemove xserver-xorg-legacy/c\sleep 1' /home/pi/RetroPie-Setup/scriptmodules/system.sh
+        sleep 10
+	sudo apt-get -y install xserver-xorg-legacy
+}	
+	
+###########################
+#SUPREME FIX FUNCTIONS END#
+###########################	
+
+##############################
+#SUPREME APPS FUNCTIONS START#
+##############################
+
+function prntscr() {
+	dialog --infobox "...Taking..." 3 16 ; sleep 1
+	clear
+        dest="$1"
+        [[ -z "$dest" ]] && dest="/home/pi/RetroPie/screenshots/$(date +%Y%m%d_%H%M%S).png"
+        [[ -d "$dest" ]] && dest="$dest/$(date +%Y%m%d_%H%M%S).png"
+        dest_fileext="${dest##*.}"
+        [[ "${dest_fileext,,}" != "png" ]] && dest="$dest.png"
+        /opt/retropie/supplementary/screenshot/raspi2png -p "$dest" && echo Saved "$dest"
+        clear
+	echo
+	echo "[NOW FINISHED!... Screenshots Save Location: /home/pi/RetroPie/screenshots]"
+	sleep 3
+}
+
+function ra_options_tool() {
+	clear
+	local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " RETROARCH VISUAL OPTIONS MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "Select a RetroArch Options you would like to apply." 25 75 20 \
+            - "*** SHADERS SELECTIONS ***" \
+            1 " - Disable All Shaders " \
+            2 " - Enable All Shaders " \
+	    - "" \
+	    - "*** OVERLAY SELECTIONS ***" \
+	    3 " - Add Or Enable All Preset System Overlays " \
+            4 " - Add Or Disable All Preset System Overlays " \
+	    5 " - Enable A Preset System Overlay " \
+            6 " - Disable A Preset System Overlay " \
+            - "" \
+            - "*** VIDEO SMOOTH SELECTIONS ***" \
+	    7 " - Add Or Enable Video Smooth - All Systems " \
+            8 " - Add Or Disable Video Smooth - All Systems " \
+	    9 " - Enable Video Smooth - Single System " \
+           10 " - Disable Video Smooth - Single System " \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) disable_shaders  ;;
+            2) enable_shaders  ;;
+	    3) all_overlay_on  ;;
+            4) all_overlay_off  ;;
+            5) sys_overlay_on  ;;
+            6) sys_overlay_off  ;;
+	    7) all_v_smooth_on  ;;
+            8) all_v_smooth_off  ;;
+            9) v_smooth_sys_on  ;;
+           10) v_smooth_sys_off  ;;
+	    -) none  ;;
+            *)  break ;;
+        esac
+    done
+}
+
+function disable_shaders() {
+	dialog --infobox "...Removing..." 3 20 ; sleep 2
+	mv /opt/retropie/configs/all/retroarch/shaders/ /opt/retropie/configs/all/retroarch/shaders.OFF/
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function enable_shaders() {
+	dialog --infobox "...Applying..." 3 20 ; sleep 2
+	mv /opt/retropie/configs/all/retroarch/shaders.OFF/ /opt/retropie/configs/all/retroarch/shaders/
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function sys_overlay_on() {
+	clear
+	echo 
+	echo " I will display a list of all systems in configs folder... "
+	echo " Keep in mind ONLY RetroArch cores can use overlays. "
+	echo " An overlay preset required in the corresponding retroarch.cfg line #6 ... "
+	echo
+	echo " If you can't see full list. Use below keys to scroll or exit list!"
+	echo
+	echo "----------------------------------------------------------------------"
+	echo " <space>		Display next k lines of text [current screen size]"
+	echo " <return>		Display next k lines of text [1]*"
+	echo " d			Scroll k lines [current scroll size, initially 11]*"
+	echo " q			Exit from more"
+	echo "----------------------------------------------------------------------"
+	echo
+	echo ***PLEASE TYPE THE SYSTEM NAME AS SHOWS IN THE CONFIGS FOLDER***
+	echo 
+	echo Example: nes
+	echo NOT Nes or NES etc...
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	cd /opt/retropie/configs/ 
+	echo
+	ls -d */ | column | more
+	echo
+	read -p 'So which system would you like to enable the overlay options?: ' sname
+	echo
+	if [ -f $sname/retroarch.cfg ]; then 
+	find $sname -name "retroarch.cfg" -exec sed -i 's|.*#input_overlay_enable|input_overlay_enable|g; s|.*#input_overlay|input_overlay|g' {} 2>/dev/null \;
+	cd $HOME
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	else
+	clear
+	echo
+	echo "This systems does not contain a retroarch.cfg file... Script will go stop!"
+	echo
+	sleep 2
+	fi
+}
+
+function sys_overlay_off() {
+	clear
+	echo 
+	echo " I will display a list of all systems in configs folder... "
+	echo " Keep in mind ONLY RetroArch cores can use overlays. "
+	echo " An overlay preset required in the corresponding retroarch.cfg line #6 ... "
+	echo
+	echo " If you can't see full list. Use below keys to scroll or exit list!"
+	echo
+	echo "----------------------------------------------------------------------"
+	echo " <space>		Display next k lines of text [current screen size]"
+	echo " <return>		Display next k lines of text [1]*"
+	echo " d			Scroll k lines [current scroll size, initially 11]*"
+	echo " q			Exit from more"
+	echo "----------------------------------------------------------------------"
+	echo
+	echo ***PLEASE TYPE THE SYSTEM NAME AS SHOWS IN THE CONFIGS FOLDER***
+	echo 
+	echo Example: nes
+	echo NOT Nes or NES etc...
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	cd /opt/retropie/configs/ 
+	echo
+	ls -d */ | column | more
+	echo
+	read -p 'So which system would you like to disable the overlay options?: ' sname
+	echo
+	if [ -f $sname/retroarch.cfg ]; then 
+	find $sname -name "retroarch.cfg" -exec sed -i 's|^input_overlay_enable|#input_overlay_enable|g; s|^input_overlay|#input_overlay|g' {} 2>/dev/null \;
+	cd $HOME
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	else
+	clear
+	echo
+	echo "This systems does not contain a retroarch.cfg file... Script will go stop!"
+	echo
+	sleep 2
+	fi
+}
+
+function all_overlay_on() {
+	clear
+        dialog --infobox "APPLYING CHANGES NOW..... Please wait" 5 30 ; sleep 2
+
+CONFIGS_DIR=/opt/retropie/configs
+CONFIG_FILENAME=retroarch.cfg
+VIDEO_FILE_CONFIG_TRUE="input_overlay_enable = \"true"\"
+
+for d in ${CONFIGS_DIR}//*; do
+
+    system_name=${d##*/}
+
+    if [[ ${system_name} = 'all' ]]; then
+      echo "Skipping 'all' config"
+      continue
+    fi
+
+    echo "Checking System Configs for '${system_name}' ..."
+    config_file=${CONFIGS_DIR}/${system_name}/${CONFIG_FILENAME}
+
+    if [[ -f ${config_file} ]]; then
+      echo "Found config file: ${config_file}"
+    else
+      echo "No config file found for ${system_name}"
+      continue
+    fi
+	
+    if grep 'input_overlay_enable*' "${config_file}"; then
+      echo "Overwriting video file config with '${VIDEO_FILE_CONFIG_TRUE}/${system_name}\"' in ${config_file} ..."
+      sed -i "s|input_overlay_enable.*|${VIDEO_FILE_CONFIG_TRUE}|" "${config_file}"
+    else
+      echo "Writing video file config ${VIDEO_FILE_CONFIG_TRUE}/${system_name} in ${config_file}!"
+      echo "" >> "${config_file}"
+      echo "${VIDEO_FILE_CONFIG_TRUE}" >> "${config_file}"
+    fi
+done
+echo Video overlay is now on.
+sleep 3
+}
+
+function all_overlay_off() {
+	clear
+        dialog --infobox "APPLYING CHANGES NOW..... Please wait" 5 30 ; sleep 2
+
+CONFIGS_DIR=/opt/retropie/configs
+CONFIG_FILENAME=retroarch.cfg
+VIDEO_FILE_CONFIG_TRUE="input_overlay_enable = \"false"\"
+
+for d in ${CONFIGS_DIR}//*; do
+
+    system_name=${d##*/}
+
+    if [[ ${system_name} = 'all' ]]; then
+      echo "Skipping 'all' config"
+      continue
+    fi
+
+    echo "Checking System Configs for '${system_name}' ..."
+    config_file=${CONFIGS_DIR}/${system_name}/${CONFIG_FILENAME}
+
+    if [[ -f ${config_file} ]]; then
+      echo "Found config file: ${config_file}"
+    else
+      echo "No config file found for ${system_name}"
+      continue
+    fi
+	
+    if grep 'input_overlay_enable*' "${config_file}"; then
+      echo "Overwriting video file config with '${VIDEO_FILE_CONFIG_TRUE}/${system_name}\"' in ${config_file} ..."
+      sed -i "s|input_overlay_enable.*|${VIDEO_FILE_CONFIG_TRUE}|" "${config_file}"
+    else
+      echo "Writing video file config ${VIDEO_FILE_CONFIG_TRUE}/${system_name} in ${config_file}!"
+      echo "" >> "${config_file}"
+      echo "${VIDEO_FILE_CONFIG_TRUE}" >> "${config_file}"
+    fi
+done
+echo Video overlay is now off.
+sleep 3
+}
+
+function v_smooth_sys_on() {
+	clear
+	echo 
+	echo " I will display a list of all systems in configs folder... "
+	echo " Keep in mind ONLY RetroArch cores can use video smooth option. "
+	echo " By default is disabled!"
+	echo " * TIP *: Disable shader(s) or just for this system."
+	echo
+	echo " If you can't see full list. Use below keys to scroll or exit list!"
+	echo
+	echo "----------------------------------------------------------------------"
+	echo " <space>		Display next k lines of text [current screen size]"
+	echo " <return>		Display next k lines of text [1]*"
+	echo " d			Scroll k lines [current scroll size, initially 11]*"
+	echo " q			Exit from more"
+	echo "----------------------------------------------------------------------"
+	echo
+	echo ***PLEASE TYPE THE SYSTEM NAME AS SHOWS IN THE CONFIGS FOLDER***
+	echo 
+	echo Example: nes
+	echo NOT Nes or NES etc...
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	cd /opt/retropie/configs/ 
+	echo
+	ls -d */ | column | more
+	echo
+	read -p 'So which system would you like to enable the video smooth option?: ' sname
+	echo
+	if [ -f $sname/retroarch.cfg ]; then 
+	find $sname -name "retroarch.cfg" -exec sed -i 's|.*#video_smooth|video_smooth|g;' {} 2>/dev/null \;
+	cd $HOME
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	else
+	clear
+	echo
+	echo "This systems does not contain a retroarch.cfg file... Script will go stop!"
+	echo
+	sleep 2
+	fi
+}
+
+function v_smooth_sys_off() {
+	clear
+	echo 
+	echo " I will display a list of all systems in configs folder... "
+	echo " Keep in mind ONLY RetroArch cores can use video smooth option. "
+	echo " * TIP *: Enable your shader(s) or for this system back if you prefer. "
+	echo
+	echo " If you can't see full list. Use below keys to scroll or exit list!"
+	echo
+	echo "----------------------------------------------------------------------"
+	echo " <space>		Display next k lines of text [current screen size]"
+	echo " <return>		Display next k lines of text [1]*"
+	echo " d			Scroll k lines [current scroll size, initially 11]*"
+	echo " q			Exit from more"
+	echo "----------------------------------------------------------------------"
+	echo
+	echo ***PLEASE TYPE THE SYSTEM NAME AS SHOWS IN THE CONFIGS FOLDER***
+	echo 
+	echo Example: nes
+	echo NOT Nes or NES etc...
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	cd /opt/retropie/configs/ 
+	echo
+	ls -d */ | column | more
+	echo
+	read -p 'So which system would you like to disable the video smooth option?: ' sname
+	echo
+	if [ -f $sname/retroarch.cfg ]; then 
+	find $sname -name "retroarch.cfg" -exec sed -i 's|^video_smooth|#video_smooth|g;' {} 2>/dev/null \;
+	cd $HOME
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	else
+	clear
+	echo
+	echo "This systems does not contain a retroarch.cfg file... Script will go stop!"
+	echo
+	sleep 2
+	fi
+}
+
+function all_v_smooth_on() {
+	clear
+	dialog --infobox "APPLYING CHANGES NOW..... Please wait" 5 30 ; sleep 2
+
+CONFIGS_DIR=/opt/retropie/configs
+CONFIG_FILENAME=retroarch.cfg
+VIDEO_FILE_CONFIG_TRUE="video_smooth = \"true"\"
+
+for d in ${CONFIGS_DIR}//*; do
+
+    system_name=${d##*/}
+
+    if [[ ${system_name} = 'all' ]]; then
+      echo "Skipping 'all' config"
+      continue
+    fi
+
+    echo "Checking System Configs for '${system_name}' ..."
+    config_file=${CONFIGS_DIR}/${system_name}/${CONFIG_FILENAME}
+
+    if [[ -f ${config_file} ]]; then
+      echo "Found config file: ${config_file}"
+    else
+      echo "No config file found for ${system_name}"
+      continue
+    fi
+	
+    if grep 'video_smooth*' "${config_file}"; then
+      echo "Overwriting video file config with '${VIDEO_FILE_CONFIG_TRUE}/${system_name}\"' in ${config_file} ..."
+      sed -i "s|video_smooth.*|${VIDEO_FILE_CONFIG_TRUE}|" "${config_file}"
+    else
+      echo "Writing video file config ${VIDEO_FILE_CONFIG_TRUE}/${system_name} in ${config_file}!"
+      echo "" >> "${config_file}"
+      echo "${VIDEO_FILE_CONFIG_TRUE}" >> "${config_file}"
+    fi
+done
+echo Video smoothing is now on.
+sleep 3
+}
+
+function all_v_smooth_off() {
+	clear
+	dialog --infobox "APPLYING CHANGES NOW..... Please wait" 5 30 ; sleep 2
+
+CONFIGS_DIR=/opt/retropie/configs
+CONFIG_FILENAME=retroarch.cfg
+VIDEO_FILE_CONFIG_FALSE="video_smooth = \"false"\"
+
+for d in ${CONFIGS_DIR}//*; do
+
+    system_name=${d##*/}
+
+    if [[ ${system_name} = 'all' ]]; then
+      echo "Skipping 'all' config"
+      continue
+    fi
+
+    echo "Checking System Configs for '${system_name}' ..."
+    config_file=${CONFIGS_DIR}/${system_name}/${CONFIG_FILENAME}
+
+    if [[ -f ${config_file} ]]; then
+      echo "Found config file: ${config_file}"
+    else
+      echo "No config file found for ${system_name}"
+      continue
+    fi
+	
+    if grep 'video_smooth*' "${config_file}"; then
+      echo "Overwriting video file config with '${VIDEO_FILE_CONFIG_FALSE}/${system_name}\"' in ${config_file} ..."
+      sed -i "s|video_smooth.*|${VIDEO_FILE_CONFIG_FALSE}|" "${config_file}"
+    else
+      echo "Writing video file config ${VIDEO_FILE_CONFIG_FALSE}/${system_name} in ${config_file}!"
+      echo "" >> "${config_file}"
+      echo "${VIDEO_FILE_CONFIG_FALSE}" >> "${config_file}"
+    fi
+done
+echo Video smoothing is now off.
+sleep 3
+}
+
+
+function hd_sh_sys() {
+	clear
+
+infobox=""
+infobox="${infobox}\n"
+infobox="${infobox}*** Hide RetroPie/Options Menu or any System Script. ***\n\n"
+infobox="${infobox}You can hide any system in the roms directory.\nSome are visible due to the .sh file in there.\nYou can use this script or simply add manually .OFF to the .sh For example .sh.OFF\n\n"
+infobox="${infobox}You will see a list of the systems and instructions. The script relies on your correct input!\n\n"
+infobox="${infobox}*** For SYMBOLIC LINK SYSTEMs *** such as:\nGenesis, genesih, odyssey2, sega32x, segacd, tg16, tg16cd & Kodi.\n"
+infobox="${infobox}\n"
+infobox="${infobox}\n"
+
+dialog --backtitle " - Hide A System from EmulationStation Systems Menu" \
+--title " HIDE/SHOW A SYSTEM SCRIPT " \
+--msgbox "${infobox}" 35 110
+
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " HIDE/SHOW A SYSTEM MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "OK Let's decide what would you like to hide/show..." 25 75 20 \
+            - "*** HIDE RETROPIE SYSTEM SELECTIONS ***" \
+            1 " - Hide RetroPie/Options Menu" \
+            2 " - Show RetroPie/Options Menu" \
+            - "" \
+            - "*** HIDE A SPECIFIC SYSTEM SELECTIONS ***" \
+            3 " - Hide A System..." \
+            4 " - Show A System..." \
+            - "" \
+            5 " - Show/Restore ALL HIDDEN Systems" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) hide_rpm  ;;
+            2) show_rpm  ;;
+            3) hide_sys  ;;
+            4) show_sys  ;;
+            5) show_all  ;;
+            -) none ;;
+            *) break ;;
+        esac
+    done
+}
+
+function hide_rpm() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	mv -f ~/RetroPie/retropiemenu ~/RetroPie/retropiemenu.OFF
+	clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function show_rpm() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	mv -f ~/RetroPie/retropiemenu.OFF ~/RetroPie/retropiemenu
+	clear
+	echo "We need to restart system now..."
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	sleep 1
+	sudo reboot
+	echo
+}
+
+function hide_sys() {
+	dialog --infobox "...Hold on..." 3 18 ; sleep 2
+	clear
+	echo 
+	echo " I will display a list of all Rom folders..."
+	echo " If you can't see full list. Use below keys to scroll or exit list!"
+	echo
+	echo "----------------------------------------------------------------------"
+	echo " <space>		Display next k lines of text [current screen size]"
+	echo " <return>		Display next k lines of text [1]*"
+	echo " d			Scroll k lines [current scroll size, initially 11]*"
+	echo " q			Exit from more"
+	echo "----------------------------------------------------------------------"
+	echo
+	echo ***PLEASE TYPE THE SYSTEM NAME AS IS IN THE ROMS LIST***
+	echo 
+	echo Example: arcade
+	echo NOT Arcade or ARCADE etc...
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	echo
+	cd $HOME/RetroPie/roms
+	ls | column | more -d
+	echo
+	read -p 'So which system would you like to hide: ' sname
+	echo
+if [ -d $HOME/addonusb ]; then 
+	mv -f ~/RetroPie/localroms/$sname ~/RetroPie/localroms/$sname.OFF && mv -f ~/RetroPie/addonusb/roms/$sname ~/RetroPie/addonusb/roms/$sname.OFF
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to continue... Once you are done, go to main menu and reboot!"
+	sleep 1
+	else
+	mv -f ~/RetroPie/roms/$sname ~/RetroPie/roms/$sname.OFF
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to continue... Once you are done, go to main menu and reboot!"
+	sleep 1
+fi
+}
+
+function show_sys() {
+	dialog --infobox "...Hold on..." 3 18 ; sleep 2
+        clear
+	echo 
+	echo " I will display a list of all Rom folders..."
+	echo " If you can't see full list. Use below keys to scroll or exit list!"
+	echo
+	echo "----------------------------------------------------------------------"
+	echo " <space>		Display next k lines of text [current screen size]"
+	echo " <return>		Display next k lines of text [1]*"
+	echo " d			Scroll k lines [current scroll size, initially 11]*"
+	echo " q			Exit from more"
+	echo "----------------------------------------------------------------------"
+	echo
+	echo ***PLEASE TYPE THE SYSTEM NAME AS IS IN THE ROMS LIST***
+	echo 
+	echo Example: arcade
+	echo NOT Arcade or ARCADE etc...
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	echo
+	cd $HOME/RetroPie/roms
+	ls | column | more -d
+	echo
+	read -p 'So which system would you like to show: ' sname
+	echo
+if [ -d $HOME/addonusb ]; then
+	mv -f ~/RetroPie/localroms/$sname.OFF ~/RetroPie/localroms/$sname && mv -f ~/RetroPie/addonusb/roms/$sname.OFF ~/RetroPie/addonusb/roms/$sname
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to continue... Once you are done, go to main menu and reboot!"
+	sleep 1
+	else
+	mv -f ~/RetroPie/roms/$sname.OFF ~/RetroPie/roms/$sname
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to continue... Once you are done, go to main menu and reboot!"
+	sleep 1
+fi
+}
+
+function show_all() {
+	dialog --infobox "...Updating..." 3 20 ; sleep 2
+	clear
+	cd ~/RetroPie/roms/
+	rename -v 's/\.OFF$//i' *
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+}
+
+function skyscraper() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+	echo
+	echo "*** You need a keyboard connected! ***"
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+	echo
+	Skyscraper
+}
+
+
+function amiberry_git() {
+	clear
+	local choice
+	while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " AMIBERRY SOURCE UPDATE MENU " \
+            --ok-label OK --cancel-label Exit \
+            --menu "Which amiberry binary you want to compile & install?" 25 75 20 \
+            - "*** AMIBERRY SOURCE UPDATE SELECTIONS ***" \
+			1 "Amiberry :  Pi4" \
+			2 "Amiberry :  Pi4 SDL2" \
+			3 "Amiberry :  Pi4 x64" \
+			- "" \
+            - "*** If you compiled 1 & 2 use below to swap between them! ***" \
+			4 "Amiberry :  Pi4 - Swap To This Binary" \
+			5 "Amiberry :  Pi4 SDL2 - Swap To This Binary" \
+			2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) amiberry_pi4  ;;
+            2) amiberry_pi4sdl2  ;;
+			3) amiberry_pi4x64  ;;
+			4) amiberry_pi4swap  ;;
+			5) amiberry_pi4sdl2swap  ;;
+			-) none ;;
+            *)  break ;;
+        esac
+    done
+}
+
+function amiberry_pi4() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+	if [ -d $HOME/code/amiberry ]; then
+	cd $HOME && cd code && cd amiberry
+	make clean
+	git pull
+	make -j2 PLATFORM=rpi4
+	#make -j2 PLATFORM=rpi3
+	#make PLATFORM=rpi1
+	clear
+	sudo cp amiberry /opt/retropie/emulators/amiberry/amiberryrpi4
+	cd /opt/retropie/emulators/amiberry/
+	sudo chmod 755 amiberryrpi4
+	sudo ln -sfn amiberryrpi4 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+else
+	cd $HOME/code/
+	git clone https://github.com/midwan/amiberry
+	cd amiberry
+	make clean
+	git pull
+	make -j2 PLATFORM=rpi4
+	#make -j2 PLATFORM=rpi3
+	#make PLATFORM=rpi1
+	clear
+	sudo cp amiberry /opt/retropie/emulators/amiberry/amiberryrpi4
+	cd /opt/retropie/emulators/amiberry/
+	sudo chmod 755 amiberryrpi4
+	sudo ln -sfn amiberryrpi4 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+fi
+}
+
+function amiberry_pi4sdl2() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+	if [ -d $HOME/code/amiberry ]; then
+	cd $HOME && cd code && cd amiberry
+	make clean
+	git pull
+	make -j2 PLATFORM=rpi4-sdl2
+	#make -j2 PLATFORM=rpi3-sdl2
+	#make PLATFORM=rpi1-sdl2
+	clear
+	sudo cp amiberry /opt/retropie/emulators/amiberry/amiberryrpi4SDL2
+	cd /opt/retropie/emulators/amiberry/
+	sudo chmod 755 amiberryrpi4SDL2
+	sudo ln -sfn amiberryrpi4SDL2 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+else
+    cd $HOME/code/
+	git clone https://github.com/midwan/amiberry
+	cd amiberry
+	make clean
+	git pull
+	make -j2 PLATFORM=rpi4-sdl2
+	#make -j2 PLATFORM=rpi3-sdl2
+	#make PLATFORM=rpi1-sdl2
+	clear
+	sudo cp amiberry /opt/retropie/emulators/amiberry/amiberryrpi4SDL2
+	cd /opt/retropie/emulators/amiberry/
+	sudo chmod 755 amiberryrpi4SDL2
+	sudo ln -sfn amiberryrpi4SDL2 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+fi
+}
+
+function amiberry_pi4x64() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+	if [ -d $HOME/code/amiberry ]; then
+	cd $HOME && cd code && cd amiberry
+	make clean
+	git pull
+	make -j2 PLATFORM=pi64
+	clear
+	sudo cp amiberry /opt/retropie/emulators/amiberry/amiberryrpi4x64
+	cd /opt/retropie/emulators/amiberry/
+	sudo chmod 755 amiberryrpi4x64
+	sudo ln -sfn amiberryrpi4x64 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+else
+    cd $HOME/code/
+	git clone https://github.com/midwan/amiberry
+	cd amiberry
+	make clean
+	git pull
+	make -j2 PLATFORM=pi64
+	clear
+	sudo cp amiberry /opt/retropie/emulators/amiberry/amiberryrpi4x64
+	cd /opt/retropie/emulators/amiberry/
+	sudo chmod 755 amiberryrpi4x64
+	sudo ln -sfn amiberryrpi4x64 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+fi
+}
+
+function amiberry_pi4swap() {
+	clear
+	if [ -f /opt/retropie/emulators/amiberry/amiberryrpi4 ]; then
+	cd /opt/retropie/emulators/amiberry/
+	sudo ln -sfn amiberryrpi4 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+    else
+    echo
+    echo Looks like Pi4 Binary is not installed please install it.
+    echo 
+    sleep 3
+fi
+}
+
+function amiberry_pi4sdl2swap() {
+	clear
+	if [ -f /opt/retropie/emulators/amiberry/amiberryrpi4SDL2 ]; then
+	cd /opt/retropie/emulators/amiberry/
+	sudo ln -sfn amiberryrpi4SDL2 amiberry
+	cd $HOME
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+else
+    echo
+    echo Looks like Pi4 SDL2 Binary is not installed please install it.
+    echo 
+    sleep 3
+fi	
+}
+
+function attract_updater() {
+    local choice
+
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " ATTRACT MODE SETUP " \
+            --ok-label OK --cancel-label Exit \
+            --menu "Let's Install or Update your Attract Mode and Extras!" 25 75 20 \
+            - "*** ATTRACT MODE INSTALL SELECTIONS ***" \
+            1 " - Install or Update Attract Mode Pi4 (DRM/KMS)" \
+            2 " - Install or Update Attract Mode Pi4 (DISPMANX)" \
+            3 " - Install or Update Attract Mode Pi3 (DISPMANX)" \
+            4 " - Update/Install FFMPEG with HW VE MMAL Support" \
+            5 " - Update/Install SMFL-Pi (DRM/KMS)" \
+            6 " - Update/Install SMFL-Pi (DISPMANX)" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) AM_KMS_Pi4  ;;
+            2) AM_X11_Pi4  ;;
+            3) AM_X11_Pi3  ;;
+            4) FFMPEG  ;;
+            5) SFML_KMS  ;;
+            6) SFML_X11  ;;
+            -) none  ;;
+            *) break ;;
+        esac
+    done
+}
+
+
+function AM_KMS_Pi4() {
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update FFMPEG with mmal HW Video Decoding ***"
+	echo
+	sleep 2
+	#Orig
+	#git clone --depth 1 git://source.ffmpeg.org/ffmpeg.git
+	git clone --depth 1 https://git.ffmpeg.org/ffmpeg.git ffmpeg
+	cd ffmpeg
+	#Older Options
+	#./configure --enable-mmal --disable-debug --enable-shared
+	./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enable-omx-rpi --enable-nonfree --enable-mmal
+	make -j5
+	sudo make install
+	sudo ldconfig
+	#Lock the package so it won't get replaced by another version during software updates
+	#echo "ffmpeg hold" | sudo dpkg --set-selections
+	echo
+	read -n 1 -s -r -p "Press any key to continue and install SFML-PI"
+	clear
+	echo
+	echo "*** Install or Update SFML-PI Dependencies! ***"
+	echo
+	sleep 2
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libjpeg8-dev libfreetype6-dev libudev-dev libdrm-dev libgbm-dev libegl1-mesa-dev
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update SFML-PI! ***"
+	echo
+	sleep 2
+	git clone --depth 1 https://github.com/mickelson/sfml-pi sfml-pi
+	mkdir sfml-pi/build; cd sfml-pi/build
+	cmake .. -DSFML_DRM=1
+	#OpenGL will be used by default with this mode. If you want to use OpenGL ES instead, you need to enable below instead.
+	#cmake .. -DSFML_DRM=1 -DSFML_OPENGL_ES=1
+	sudo make install
+	sudo ldconfig
+	echo
+	read -n 1 -s -r -p "Press any key to continue and install ATTRACT MODE"
+	clear
+	echo "*** Install or Update Attract Mode ***"
+	echo
+	echo "*** Install or Update Attract Mode Pi4 Dependencies! ***"
+	echo
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libavutil-dev libavcodec-dev libavformat-dev libavfilter-dev libswscale-dev libavresample-dev libopenal-dev libfreetype6-dev libudev-dev libjpeg-dev libudev-dev libfontconfig1-dev libglu1-mesa-dev libsfml-dev libxinerama-dev libcurl4-openssl-dev
+	sleep 2
+	cd code	
+	git clone --depth 1 https://github.com/mickelson/attract attract
+	cd attract
+	make USE_DRM=1 USE_MMAL=1
+	sudo make install USE_DRM=1 USE_MMAL=1
+	cd util/linux/drm
+	make
+	sudo make install
+	echo
+	sleep 2
+	echo
+	echo "Completed! Cleaning up & Rebooting..."
+	echo
+	cd ~;rm -rf ./code/attract && rm -rf ./code/ffmpeg && rm -rf ./code/sfml-pi
+	sleep 3
+	echo
+	echo "Done! Rebooting Now..."
+	echo
+	sudo reboot now
+}
+
+function AM_X11_Pi4() {
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update FFMPEG with mmal HW Video Decoding ***"
+	echo
+	sleep 2
+	#Orig
+	#git clone --depth 1 git://source.ffmpeg.org/ffmpeg.git
+	git clone --depth 1 https://git.ffmpeg.org/ffmpeg.git ffmpeg
+	cd ffmpeg
+	#Older Options
+	#./configure --enable-mmal --disable-debug --enable-shared
+	./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enable-omx-rpi --enable-nonfree --enable-mmal
+	make -j5
+	sudo make install
+	sudo ldconfig
+	#Lock the package so it won't get replaced by another version during software updates
+	#echo "ffmpeg hold" | sudo dpkg --set-selections
+	echo
+	read -n 1 -s -r -p "Press any key to continue and install SFML-PI"
+	clear
+	echo
+	echo "*** Install or Update SFML-PI Dependencies! ***"
+	echo
+	sleep 2
+	#Older dependencies
+	#sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libfreetype6-dev libudev-dev libjpeg-dev libudev-dev libfontconfig1-dev
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libjpeg8-dev libfreetype6-dev libudev-dev libraspberrypi-dev
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update SFML-PI! ***"
+	echo
+	sleep 2
+	git clone --depth 1 https://github.com/mickelson/sfml-pi sfml-pi
+	mkdir sfml-pi/build; cd sfml-pi/build
+	cmake .. -DSFML_RPI=1 -DEGL_INCLUDE_DIR=/opt/vc/include -DEGL_LIBRARY=/opt/vc/lib/libbrcmEGL.so -DGLES_INCLUDE_DIR=/opt/vc/include -DGLES_LIBRARY=/opt/vc/lib/libbrcmGLESv2.so
+	sudo make install
+	sudo ldconfig
+	echo
+	read -n 1 -s -r -p "Press any key to continue and install ATTRACT MODE"
+	clear
+	echo "*** Install or Update Attract Mode ***"
+	echo
+	echo "*** Install or Update Attract Mode Pi4 Dependencies! ***"
+	echo
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libavutil-dev libavcodec-dev libavformat-dev libavfilter-dev libswscale-dev libavresample-dev libopenal-dev libfreetype6-dev libudev-dev libjpeg-dev libudev-dev libfontconfig1-dev libglu1-mesa-dev libsfml-dev libxinerama-dev libcurl4-openssl-dev
+	sleep 2
+	cd code	
+	git clone --depth 1 https://github.com/mickelson/attract attract
+	cd attract
+	make USE_XINERAMA=1 USE_LIBCURL=1
+	sudo make install USE_XINERAMA=1 USE_LIBCURL=1
+	echo
+	sleep 2
+	echo
+	echo "Completed! Cleaning up & Rebooting..."
+	echo
+	cd ~;rm -rf ./code/attract && rm -rf ./code/ffmpeg && rm -rf ./code/sfml-pi
+	sleep 3
+	echo
+	echo "Done! Rebooting Now..."
+	echo
+	sudo reboot now
+}
+
+function AM_X11_Pi3() {
+	cd ~; mkdir code
+	cd ~/code
+	clear
+	echo
+	echo "*** Install or Update FFMPEG with mmal HW Video Decoding ***"
+	echo
+	sleep 2
+	#Orig
+	#git clone --depth 1 git://source.ffmpeg.org/ffmpeg.git
+	git clone --depth 1 https://git.ffmpeg.org/ffmpeg.git ffmpeg
+	cd ffmpeg
+	#Older Options
+	#./configure --enable-mmal --disable-debug --enable-shared
+	./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enable-omx-rpi --enable-nonfree --enable-mmal
+	make -j5
+	sudo make install
+	sudo ldconfig
+	#Lock the package so it won't get replaced by another version during software updates
+	#echo "ffmpeg hold" | sudo dpkg --set-selections
+	echo
+	read -n 1 -s -r -p "Press any key to continue and install SFML-PI"
+	clear
+	echo
+	echo "*** Install or Update SFML-PI Dependencies! ***"
+	echo
+	sleep 2
+	#Older dependencies
+	#sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libfreetype6-dev libudev-dev libjpeg-dev libudev-dev libfontconfig1-dev
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libjpeg8-dev libfreetype6-dev libudev-dev libraspberrypi-dev
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update SFML-PI! ***"
+	echo
+	sleep 2
+	git clone --depth 1 https://github.com/mickelson/sfml-pi sfml-pi
+	mkdir sfml-pi/build; cd sfml-pi/build
+	cmake .. -DSFML_RPI=1 -DEGL_INCLUDE_DIR=/opt/vc/include -DEGL_LIBRARY=/opt/vc/lib/libbrcmEGL.so -DGLES_INCLUDE_DIR=/opt/vc/include -DGLES_LIBRARY=/opt/vc/lib/libbrcmGLESv2.so
+	sudo make install
+	sudo ldconfig
+	echo
+	read -n 1 -s -r -p "Press any key to continue and install ATTRACT MODE"
+	clear
+	echo
+	echo "*** Install or Update Attract Mode ***"
+	echo
+	sleep 2
+	cd code	
+	git clone --depth 1 https://github.com/mickelson/attract attract
+	cd attract
+	make USE_GLES=1
+	sudo make install USE_GLES=1
+	echo
+	sleep 2
+	echo
+	echo "Completed! Cleaning up & Rebooting..."
+	echo
+	cd ~;rm -rf ./code/attract && rm -rf ./code/ffmpeg && rm -rf ./code/sfml-pi
+	sleep 3
+	echo
+	echo "All done! Rebooting Now..."
+	echo
+	sudo reboot now
+}
+
+function FFMPEG() {
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update FFMPEG with mmal HW Video Decoding ***"
+	echo
+	sleep 2
+	#Orig
+	#git clone --depth 1 git://source.ffmpeg.org/ffmpeg.git
+	git clone --depth 1 https://git.ffmpeg.org/ffmpeg.git ffmpeg
+	cd ffmpeg
+	#Older Options
+	#./configure --enable-mmal --disable-debug --enable-shared
+	./configure --arch=armel --target-os=linux --enable-gpl --enable-omx --enable-omx-rpi --enable-nonfree --enable-mmal
+	make -j5
+	sudo make install
+	sudo ldconfig
+	#Lock the package so it won't get replaced by another version during software updates
+	#echo "ffmpeg hold" | sudo dpkg --set-selections
+	cd ~;rm -rf ./code/attract && rm -rf ./code/ffmpeg && rm -rf ./code/sfml-pi
+	sleep 3
+	echo
+	echo "All done! Rebooting Now..."
+	echo
+	sudo reboot now
+}
+
+function SFML_KMS() {
+	echo
+	echo "*** Install or Update SFML-PI Dependencies! ***"
+	echo
+	sleep 2
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libjpeg8-dev libfreetype6-dev libudev-dev libdrm-dev libgbm-dev libegl1-mesa-dev
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update SFML-PI! ***"
+	echo
+	sleep 2
+	git clone --depth 1 https://github.com/mickelson/sfml-pi sfml-pi
+	mkdir sfml-pi/build; cd sfml-pi/build
+	cmake .. -DSFML_DRM=1
+	#OpenGL will be used by default with this mode. If you want to use OpenGL ES instead, you need to enable below instead.
+	#cmake .. -DSFML_DRM=1 -DSFML_OPENGL_ES=1
+	sudo make install
+	sudo ldconfig
+	cd ~;rm -rf ./code/attract && rm -rf ./code/ffmpeg && rm -rf ./code/sfml-pi
+	sleep 3
+	echo
+	echo "All done! Rebooting Now..."
+	echo
+	sudo reboot now
+}
+
+function SFML_X11() {
+	echo
+	echo "*** Install or Update SFML-PI Dependencies! ***"
+	echo
+	sleep 2
+	#Older dependencies
+	#sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libfreetype6-dev libudev-dev libjpeg-dev libudev-dev libfontconfig1-dev
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libjpeg8-dev libfreetype6-dev libudev-dev libraspberrypi-dev
+	sudo apt-get install -y cmake libflac-dev libogg-dev libvorbis-dev libopenal-dev libjpeg8-dev libfreetype6-dev libudev-dev libraspberrypi-dev
+	cd ~; mkdir code
+	cd ~/code
+	echo
+	echo "*** Install or Update SFML-PI! ***"
+	echo
+	sleep 2
+	git clone --depth 1 https://github.com/mickelson/sfml-pi sfml-pi
+	mkdir sfml-pi/build; cd sfml-pi/build
+	cmake .. -DSFML_RPI=1 -DEGL_INCLUDE_DIR=/opt/vc/include -DEGL_LIBRARY=/opt/vc/lib/libbrcmEGL.so -DGLES_INCLUDE_DIR=/opt/vc/include -DGLES_LIBRARY=/opt/vc/lib/libbrcmGLESv2.so
+	sudo make install
+	sudo ldconfig
+	cd ~;rm -rf ./code/attract && rm -rf ./code/ffmpeg && rm -rf ./code/sfml-pi
+	sleep 3
+	echo
+	echo "All done! Rebooting Now..."
+	echo
+	sudo reboot now
+}
+
+function igalia_vk() {
+	dialog --backtitle "Supreme Toolkit" \
+	--title "IGALIA VULKAN OPTIONS MENU" \
+	
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " IGALIA VULKAN OPTIONS MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "Let's do some Vulkan work..." 25 75 20 \
+            - "*** IGALIA VULKAN SELECTIONS ***" \
+			- "" \
+           1 " -  Install/Update All [Driver, Extras, RetroArch]" \
+           2 " -  Update Vulkan Driver" \
+           3 " -  Install/Update Vulkan Demos" \
+		   4 " -  Install/Update Vulkan Enabled RetroArch" \
+           5 " -  CleanUp Source Folders" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+           1) igalia_all  ;;
+           2) igalia_up  ;;
+		   3) igalia_dm  ;;
+		   4) igalia_ra  ;;
+           5) igalia_cl  ;;
+		   -) none ;;
+            *)  break ;;
+        esac
+    done
+}
+PI_VERSION_NUMBER=$(awk </proc/device-tree/model '{print $3}')
+
+function igalia_all() {
+cd $HOME
+if [ ! -d code ]; then
+mkdir code && cd code/
+else
+cd code/
+fi
+echo ""
+echo "STEP 1. Installing Dependencies... "
+echo ""
+    sudo apt-get install -y libxcb-randr0-dev libxrandr-dev \
+        libxcb-xinerama0-dev libxinerama-dev libxcursor-dev \
+        libxcb-cursor-dev libxkbcommon-dev xutils-dev \
+        xutils-dev libpthread-stubs0-dev libpciaccess-dev \
+        libffi-dev x11proto-xext-dev libxcb1-dev libxcb-*dev \
+        bison flex libssl-dev libgnutls28-dev x11proto-dri2-dev \
+        x11proto-dri3-dev libx11-dev libxcb-glx0-dev \
+        libx11-xcb-dev libxext-dev libxdamage-dev libxfixes-dev \
+        libva-dev x11proto-randr-dev x11proto-present-dev \
+        libclc-dev libelf-dev git build-essential mesa-utils \
+        libvulkan-dev ninja-build libvulkan1 python-mako \
+        libdrm-dev libxshmfence-dev libxxf86vm-dev libwayland-dev \
+        python3-mako wayland-protocols libwayland-egl-backend-dev \
+        cmake libassimp-dev
+echo ""
+echo "STEP 2. Bring OS Up to date... "
+echo ""
+sudo apt update && sudo apt upgrade -y
+echo ""
+echo "STEP 3. Install required compiling SW... "
+echo ""
+    sudo apt-get remove -y meson
+    echo -e "\nChecking if meson is installed...\n"
+    if ! pip3 list | grep -F meson &>/dev/null; then
+        sudo pip3 install meson --force-reinstall
+    fi
+echo ""
+echo "STEP 4. Compiling Driver... "
+echo ""
+    local EXTRA_PARAM
+
+    [[ -d $HOME/code/mesa_vulkan ]] && rm -rf "$HOME/code/mesa_vulkan"
+    cd || exit
+    git clone -b 20.3 https://gitlab.freedesktop.org/mesa/mesa.git "$HOME/code/mesa_vulkan" && cd "$_" || exit
+
+
+    [[ -d "$HOME/code/mesa_vulkan"/build ]] && rm -rf "$HOME/code/mesa_vulkan"/build
+
+    if [[ $PI_VERSION_NUMBER -eq 4 ]]; then
+        EXTRA_PARAM="-mcpu=cortex-a72 -mfpu=neon-fp-armv8 -mfloat-abi=hard"
+    fi
+
+    # Check in a future the next params for better performance. It seems it's failing due some incompatible params.
+    # ... -Dgallium-drivers=v3d,kmsro,vc4,zink,virgl
+    meson --prefix /usr -Dgles1=disabled -Dgles2=enabled -Dplatforms=x11 -Dvulkan-drivers=broadcom -Ddri-drivers= -Dgallium-drivers=v3d,kmsro,vc4,virgl -Dbuildtype=release -Dc_args="$EXTRA_PARAM" -Dcpp_args="$EXTRA_PARAM" build
+    echo -e "\nCompiling... Estimated time on Raspberry Pi 4 over USB/SSD drive (Not overclocked): ~12 min. \n"
+    time ninja -C build -j"$(nproc)"
+    sudo ninja -C build install
+    echo
+echo ""
+#echo "STEP 5. Set EVVVAR to ensure that a Vulkan program finds the driver... "
+#echo ""
+#export VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/broadcom_icd.armv7l.json
+#echo ""
+echo "Compile RetroArch with Vulkan Support... "
+echo ""
+cd $HOME/code/
+git clone https://github.com/libretro/RetroArch.git retroarch
+apt-get build-dep retroarch
+cd retroarch
+./configure --disable-opengl1 --enable-opengles3 --enable-opengles --disable-videocore --enable-udev --enable-kms --enable-x11 --enable-egl --enable-vulkan --disable-sdl --enable-sdl2 --disable-pulse --disable-oss --disable-al --disable-jack --disable-qt
+make clean
+make -j4
+sudo mv /opt/retropie/emulators/retroarch/bin/retroarch /opt/retropie/emulators/retroarch/bin/retroarch.BAK
+sudo cp retroarch /opt/retropie/emulators/retroarch/bin/
+sudo chmod	755 /opt/retropie/emulators/retroarch/bin/retroarch
+echo ""
+echo "Demos & Finalizing... "
+echo ""
+cd $HOME/code/
+while true; do
+echo ""
+read -p 'Whould you like to install few test demos [y] or Reboot [n or r]? ' yn
+	case $yn in
+	[Yy]* ) if [ ! -d sascha-willems ]; then sudo apt-get install libassimp-dev; cd $HOME/code/; git clone --recursive https://github.com/SaschaWillems/Vulkan.git  sascha-willems; cd sascha-willems; python3 download_assets.py; mkdir build; cd build; cmake -DCMAKE_BUILD_TYPE=Debug  ..; make -j4; mv -v build/bin/* bin/; chmod 755 bin/benchmark-all.py; else echo ""; echo "Directory exists so most probably you compiled before!!!"; fi; echo ""; echo "Driver By Igalia"; echo ""; echo -e 'You can invoke a Vulkan demo to test from the OS desktop.\n- Go to [/home/pi/code/sascha-willems/bin/] and test in there...\nYou can check your driver versions by typing in a Terminal on your OS desktop [glinfo -B]...'; echo ""; read -n 1 -s -r -p "Press any key to reboot"; echo ""; echo "[OK System Will Restart now...]"; clear; sudo reboot;;
+    [NnRr]* ) echo ""; echo "Driver By Igalia"; echo ""; echo -e 'You can invoke a Vulkan demo to test from the OS desktop.\n- Start a terminal\n- Go to [/home/pi/code/sascha-willems/bin/] and test in there...\nYou can check your driver versions by typing in a Terminal on your OS desktop [glinfo -B]...'; echo ""; read -n 1 -s -r -p "Press any key to reboot"; echo ""; echo "[OK System Will Restart now...]"; clear; sudo reboot;;
+    * ) echo ""; echo "Please answer yes or no.";;
+    esac
+done
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function igalia_up() {
+cd $HOME
+if [ ! -d code ]; then
+mkdir code && cd code/
+else
+cd code/
+fi
+echo ""
+echo "STEP 1. Installing Dependencies... "
+echo ""
+    sudo apt-get install -y libxcb-randr0-dev libxrandr-dev \
+        libxcb-xinerama0-dev libxinerama-dev libxcursor-dev \
+        libxcb-cursor-dev libxkbcommon-dev xutils-dev \
+        xutils-dev libpthread-stubs0-dev libpciaccess-dev \
+        libffi-dev x11proto-xext-dev libxcb1-dev libxcb-*dev \
+        bison flex libssl-dev libgnutls28-dev x11proto-dri2-dev \
+        x11proto-dri3-dev libx11-dev libxcb-glx0-dev \
+        libx11-xcb-dev libxext-dev libxdamage-dev libxfixes-dev \
+        libva-dev x11proto-randr-dev x11proto-present-dev \
+        libclc-dev libelf-dev git build-essential mesa-utils \
+        libvulkan-dev ninja-build libvulkan1 python-mako \
+        libdrm-dev libxshmfence-dev libxxf86vm-dev libwayland-dev \
+        python3-mako wayland-protocols libwayland-egl-backend-dev \
+        cmake libassimp-dev
+echo ""
+echo "STEP 2. Bring OS Up to date... "
+echo ""
+sudo apt update && sudo apt upgrade -y
+echo ""
+echo "STEP 3. Install required compiling SW... "
+echo ""
+    sudo apt-get remove -y meson
+    echo -e "\nChecking if meson is installed...\n"
+    if ! pip3 list | grep -F meson &>/dev/null; then
+        sudo pip3 install meson --force-reinstall
+    fi
+echo ""
+echo "STEP 4. Compiling Driver... "
+echo ""
+    local EXTRA_PARAM
+
+    [[ -d $HOME/code/mesa_vulkan ]] && rm -rf "$HOME/code/mesa_vulkan"
+    cd || exit
+    git clone -b 20.3 https://gitlab.freedesktop.org/mesa/mesa.git "$HOME/code/mesa_vulkan" && cd "$_" || exit
+
+
+    [[ -d "$HOME/code/mesa_vulkan"/build ]] && rm -rf "$HOME/code/mesa_vulkan"/build
+
+    if [[ $PI_VERSION_NUMBER -eq 4 ]]; then
+        EXTRA_PARAM="-mcpu=cortex-a72 -mfpu=neon-fp-armv8 -mfloat-abi=hard"
+    fi
+
+    # Check in a future the next params for better performance. It seems it's failing due some incompatible params.
+    # ... -Dgallium-drivers=v3d,kmsro,vc4,zink,virgl
+    meson --prefix /usr -Dgles1=disabled -Dgles2=enabled -Dplatforms=x11 -Dvulkan-drivers=broadcom -Ddri-drivers= -Dgallium-drivers=v3d,kmsro,vc4,virgl -Dbuildtype=release -Dc_args="$EXTRA_PARAM" -Dcpp_args="$EXTRA_PARAM" build
+    echo -e "\nCompiling... Estimated time on Raspberry Pi 4 over USB/SSD drive (Not overclocked): ~12 min. \n"
+    time ninja -C build -j"$(nproc)"
+    sudo ninja -C build install
+    echo
+    echo "Done."
+	echo ""
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo ""
+	echo "Driver By Igalia"
+	echo ""
+	echo -e 'You can invoke a Vulkan demo to test from the OS desktop.\n- Start a terminal\n- Go to [/home/pi/code/sascha-willems/bin/] and test in there...\nYou can check your driver versions by typing in a Terminal on your OS desktop [glinfo -B]...'
+	echo ""
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo ""
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+function igalia_dm() {
+cd $HOME
+if [ ! -d code ]; then
+mkdir code && cd code/
+else
+cd code/
+fi
+echo ""
+echo "Vulkan Demos... "
+echo ""
+cd $HOME/code/
+if [ ! -d sascha-willems ]; then
+sudo apt-get install libassimp-dev
+git clone --recursive https://github.com/SaschaWillems/Vulkan.git  sascha-willems
+cd sascha-willems
+python3 download_assets.py
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Debug  ..
+make -j4
+mv -v build/bin/* bin/
+chmod 755 bin/benchmark-all.py
+else
+echo ""
+echo "Directory exists so most probably you compiled before!!!"
+fi
+echo ""
+echo -e 'You can invoke a Vulkan demo to test from the OS desktop.\n- Go to [/home/pi/code/sascha-willems/bin/] and test in there...\nYou can check your driver versions by typing in a Terminal on your OS desktop [glinfo -B]...'
+echo ""
+read -n 1 -s -r -p "Press any key to continue"
+clear
+echo
+echo "[NOW FINISHED!...]"
+sleep 1
+}
+
+function igalia_ra() {
+echo ""
+echo "Compile RetroArch with Vulkan Support... "
+echo ""
+cd $HOME
+if [ ! -d code ]; then
+mkdir code && cd code/
+else
+cd code/
+fi
+	if [ ! -d retroarch ]; then
+	git clone https://github.com/libretro/RetroArch.git retroarch
+	apt-get build-dep retroarch
+	cd retroarch
+	./configure --disable-opengl1 --enable-opengles3 --enable-opengles --disable-videocore --enable-udev --enable-kms --enable-x11 --enable-egl --enable-vulkan --disable-sdl --enable-sdl2 --disable-pulse --disable-oss --disable-al --disable-jack --disable-qt
+	make clean
+	make -j4
+	sudo mv /opt/retropie/emulators/retroarch/bin/retroarch /opt/retropie/emulators/retroarch/bin/retroarch.BAK
+	sudo cp retroarch /opt/retropie/emulators/retroarch/bin/
+	sudo chmod	755 /opt/retropie/emulators/retroarch/bin/retroarch
+	else
+	rm -rf retroarch
+	igalia_ra
+	fi
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function igalia_cl() {
+	echo ""
+	echo " This will free up to 3.5GB of space..."
+	echo ""
+	sleep 2
+	cd code/
+	rm -rf retroarch && rm -rf mesa && rm -rf sascha-willems
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function pikiss_git() {
+	clear
+	cd $HOME/piKiss/
+	echo "Let's pull latest PiKISS updates..."
+	echo
+	sleep 1
+	git fetch
+	git reset --hard HEAD
+	git merge '@{u}'
+	sleep 2 && cd $HOME
+	#$HOME/piKiss/piKiss.sh
+}
+
+function piapps_git() {
+	clear
+	cd $HOME/pi-apps/
+	echo "Let's pull latest Pi-Apps updates..."
+	echo
+	sleep 1
+	git fetch
+	git reset --hard HEAD
+	git merge '@{u}'
+	sleep 2 && cd $HOME
+}
+
+function update_bezel_project() {
+	clear
+cd $rp_menu/visualtools/
+rm bezelproject.sh
+wget https://raw.githubusercontent.com/thebezelproject/BezelProject/master/bezelproject.sh
+chmod 755 bezelproject.sh
+
+cd $sb_menu/visualtools
+rm bezelproject.sh
+wget https://raw.githubusercontent.com/thebezelproject/BezelProject/master/bezelproject.sh
+chmod 755 bezelproject.sh
+echo
+echo Awsome the Bezel Project has been updated.
+sleep 2
+}
+
+function rpc80_saves() {
+	dialog --backtitle "PlayBox Toolkit" \
+	--title "RPC80 SINGLE SAVES DIR OPTIONS MENU" \
+	
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " RPC80 SINGLE SAVES DIR OPTIONS MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "Based on original RPC80 Saves Script. Let's do it..." 25 75 20 \
+            - "*** RPC80 SINGLE SAVES DIR OPTIONS MENU ***" \
+           1 " -  Enable Single Saves Directory" \
+           2 " -  Revert Single Saves Directory" \
+           2>&1 > /dev/tty)
+
+        case "$choice" in
+           1) rpc80_svon  ;;
+           2) rpc80_svoff  ;;
+           -) none ;;
+            *)  break ;;
+        esac
+    done
+}
+		
+function rpc80_svon() {
+clear
+################################################################################
+# RPC80 SaveFile Script                                                        #
+################################################################################
+# Author: RPC80                                                                #
+# Date: 2018.05.11                                                             #
+################################################################################
+# Purpose: Creates a save directory at ~/RetroPie/saves                        #
+# and configures all retroarch emulators with their own config files           #
+# to store savefiles at ~/RetroPie/saves/{system_name}                         #
+# and savestate files at ~/Retropie/saves/{system_name}/states                 #
+################################################################################
+
+CONFIGS_DIR=/opt/retropie/configs
+CONFIG_FILENAME=retroarch.cfg
+SAVES_DIR=~/RetroPie/saves
+ROMS_DIR=~/RetroPie/roms
+
+SAVE_FILE_CONFIG="savefile_directory = \"~/RetroPie/saves"
+SAVE_STATE_CONFIG="savestate_directory = \"~/RetroPie/saves"
+
+echo "
+  ____  ____   ____ ___   ___
+ |  _ \|  _ \ / ___( _ ) / _ \\
+ | |_) | |_) | |   / _ \| | | |
+ |  _ <|  __/| |__| (_) | |_| |
+ |_| \_\_|    \____\___/ \___/
+
+"
+
+  # Loop through the configs directory
+  for d in ${CONFIGS_DIR}//*; do
+
+      # Get the system/emulator name
+      system_name=${d##*/}
+
+      # Skip `all` & `amiga` & symbolic link config folders
+      if [[ ${system_name} == 'all' || ${system_name} == 'amiga' || ${system_name} == 'genh' || ${system_name} == 'megh' || ${system_name} == 'moto' || ${system_name} == 'neogeocd' || ${system_name} == 'pce-cd' || ${system_name} == 'snesmsu1' || ${system_name} == 'tg-cd' ]]; then
+	    echo "Skipping ${system_name} folder configs"
+        continue
+      fi
+
+      echo "Checking System Configs for '${system_name}' ..."
+      config_file=${CONFIGS_DIR}/${system_name}/${CONFIG_FILENAME}
+
+      if [[ -f ${config_file} ]]; then
+        echo "Found config file: ${config_file}"
+      else
+        echo "No config file found for ${system_name}"
+        continue
+      fi
+
+      # Create save file directories
+      if [ ! -d $SAVES_DIR ]; then
+        echo "Creating master saves file directory ${SAVES_DIR} ..."
+        mkdir $SAVES_DIR
+        if [ $? -ne 0 ] ; then
+          echo "[ERROR] Failed to create save file directory: ${SAVE_DIR}"
+          exit 1
+        else
+          echo "[OK] Created save file directory ${SAVES_DIR}"
+        fi
+      fi
+      echo "Creating save file directory for ${system_name} ..."
+      mkdir -p ${SAVES_DIR}/${system_name}
+      if [ $? -ne 0 ] ; then
+        echo "[ERROR] Failed to create save file directory: ${SAVES_DIR}/${system_name}"
+        exit 1
+      else
+        echo "[OK] Created save file directory ${SAVES_DIR}/${system_name}"
+      fi
+      mkdir -p ${SAVES_DIR}/${system_name}/states
+      if [ $? -ne 0 ] ; then
+        echo "[ERROR] Failed to create save file directory: ${SAVES_DIR}/${system_name}/states"
+        exit 1
+      else
+        echo "[OK] Created save file directory ${SAVES_DIR}/${system_name}/states"
+      fi
+
+      # Check if savefile & savestate config exists
+      if grep -E 'savefile_directory|savestate_directory' "${config_file}"; then
+        echo "Overwriting configs..."
+        sed -i "s|savefile_directory.*|${SAVE_FILE_CONFIG}/${system_name}\"|" "${config_file}"
+		sed -i "s|savestate_directory.*|${SAVE_STATE_CONFIG}/${system_name}/states\"|" "${config_file}"
+      else
+        echo "Writing save configs...!"
+		sed -i '/#include "/i \
+savefile_directory = \"~/RetroPie/saves/'${system_name}'\" \
+savestate_directory = \"~/RetroPie/saves/'${system_name}'/states\" \
+<->' "${config_file}"
+	  fi
+	  
+	  # Move existing saves to the master saves rom directory
+	  if [[ ! -d daphne ]]; then
+	  find "${ROMS_DIR}/${system_name}" -regextype posix-egrep -regex ".*\.(srm|auto|fs|hi)$" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/"
+	  find "${ROMS_DIR}/${system_name}/states" -regextype posix-egrep -regex ".*\.(state[0-9]|state.auto|state)$" -type f -print0 | xargs -0 mv -t "${SAVES_DIR}/${system_name}/states/"
+	  fi	
+	  
+  done
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function rpc80_svoff() {
+	dialog --infobox "...Reverting..." 3 20	; sleep 2
+	clear
+# Check for the existence of the saves directory
+  if [ ! -d "$SAVES_DIR" ]; then
+    echo "No save file directory. Exiting."
+    break
+	#continue
+  fi
+
+  # Loop through the configs directory
+  for d in ${CONFIGS_DIR}//*; do
+
+    # Get the system/emulator name
+    system_name=${d##*/}
+	
+    # Check for existing config file
+    config_file=${CONFIGS_DIR}/${system_name}/${CONFIG_FILENAME}
+
+      if [[ -f ${config_file} ]]; then
+        echo "Found config file: ${config_file}"
+      else
+        echo "No config file found for ${system_name}"
+        continue
+      fi
+
+	  # Check if savefile & savestate config exists
+      if grep -E 'savefile_directory|savestate_directory' "${config_file}"; then
+      echo "Removing config entries..."
+      #sed -i "s|savefile_directory.*||" "${config_file}"
+	  #sed -i "s|savestate_directory.*||" "${config_file}"
+	  sed -i '/savefile_directory.*/d' "${config_file}"
+	  sed -i '/savestate_directory.*/d' "${config_file}"
+	  sed -i '/<->.*/d' "${config_file}"
+	  fi
+	  #find . -type d \( -name all -o -name amiga \) -prune -false -o -name "/opt/retropie/configs/${system_name}/retroarch.cfg" -exec sed -i '/savefile_directory/d' {} 2>/dev/null \;
+	  #find . -type d \( -name all -o -name amiga \) -prune -false -o -name "/opt/retropie/configs/${system_name}/retroarch.cfg" -exec sed -i '/savestate_directory/d' {} 2>/dev/null \;
+	  
+    # Move existing saves to the systems roms directory
+      if [[ ! -d daphne ]]; then
+	  find "${SAVES_DIR}/${system_name}" -regextype posix-egrep -regex ".*\.(srm|auto|fs|hi)$" -type f -print0 | xargs -0 mv -t "${ROMS_DIR}/${system_name}/"
+	  find "${SAVES_DIR}/${system_name}/states" -regextype posix-egrep -regex ".*\.(state[1-9]|state.auto|state)$" -type f -print0 | xargs -0 mv -t "${ROMS_DIR}/${system_name}/states/"
+	  find "${SAVES_DIR}/${system_name}/states" -regextype posix-egrep -regex ".*\.(state[1-9]|state.auto|state)$" -type f -print0 | xargs -0 mv -t "/opt/retropie/configs/all/retroarch/states/"
+	  fi
+	  
+  done
+	# Delete system saves saves directory
+	rm -rf ~/RetroPie/saves/
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1	
+}
+
+
+function strg_bench() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+	sudo $sb_toolkit/_scripts/storage_bench.sh
+}
+
+function auto-amiga-install() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+#pushd ~/RetroPie/../
+pushd ~/RetroPie/scripts/
+wget https://github.com/HoraceAndTheSpider/RetroPieAmigaSetup/archive/master.zip 
+unzip master.zip
+rm master.zip
+mv RetroPieAmigaSetup-master .retropie_amiga_setup
+cd .retropie_amiga_setup
+python3 amiga_setup_script.py
+cd ..
+rm -r .retropie_amiga_setup
+
+cp ~/RetroPie/BIOS/Amiga/kick13.rom ~/RetroPie/roms/amiga-data/_BootWHD/Devs/Kickstarts/kick34005.A500
+cp ~/RetroPie/BIOS/Amiga/kick31.rom ~/RetroPie/roms/amiga-data/_BootWHD/Devs/Kickstarts/kick40068.A1200
+cp ~/RetroPie/BIOS/Amiga/kick12.rom ~/RetroPie/roms/amiga-data/_BootWHD/Devs/Kickstarts/kick33180.A500
+
+popd
+}
+
+function uae-config-maker() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+pushd /home/pi/
+
+if [ ! -d ".uaeconfigmaker" ]; then
+	wget https://github.com/HoraceAndTheSpider/UAEConfigMaker/archive/master.zip
+	unzip master.zip
+	rm master.zip
+	mv UAEConfigMaker-master .uaeconfigmaker
+fi
+	
+	cd .uaeconfigmaker
+
+	sudo python3 update_config_maker.py
+     	sudo python3 uae_config_maker.py --force-config-overwrite --whdload-update --create-autostartup
+	sudo chown -hR pi:pi /home/pi/RetroPie/roms/amiga-data
+popd
+}
+
+function n64-tweaks() {
+	dialog --infobox "...Starting..." 3 20 ; sleep 1
+	clear
+echo "Making N64 tweaks for you."
+sleep 5
+perl -p -i -e 's/txHiresEnable = False/txHiresEnable = True/g' /opt/retropie/configs/n64/mupen64plus.cfg
+echo "Checking if needed directory is there."
+if [ -d "/home/pi/.local/share/mupen64plus/hires_texture" ]; then
+echo "Config changes made, and the needed paths are in place. Fetching Hi Res Texture Pack for Mario 64"
+cd /home/pi/.local/share/mupen64plus/hires_texture && wget http://eazyhax.com/pitime/SUPER%20MARIO%2064.zip
+unzip SUPER\ MARIO\ 64.zip
+rm SUPER\ MARIO\ 64.zip
+echo ""
+echo ""
+echo "All done...no need to reboot or anything. Just start playing :-)"
+echo ""
+echo ""
+else
+echo "Texture pack directoy is missing. Creating it for you."
+mkdir /home/pi/.local/share/mupen64plus/hires_texture
+cd /home/pi/.local/share/mupen64plus/hires_texture && wget http://eazyhax.com/pitime/SUPER%20MARIO%2064.zip
+unzip SUPER\ MARIO\ 64.zip
+rm SUPER\ MARIO\ 64.zip
+sleep 10
+fi
+exit
+}
+
+############################
+#SUPREME APPS FUNCTIONS END#
+############################
+
+###############################
+#SUPREME CLEAN FUNCTIONS START#
+###############################
+
+function cl_saves() {
+	dialog --infobox "...Cleaning..." 3 20 ; sleep 2
+	clear
+	find $HOME/RetroPie/roms/ -regextype posix-egrep -regex ".*\.(srm|auto|state.auto|fs|ldci|hi)$" -type f -delete
+	find $HOME/RetroPie/roms/daphne/ -regextype posix-egrep -regex ".*\.(srm|auto|state.auto|fs|hi|ldci|dat)$" -type f -delete
+	find $HOME/RetroPie/saves/ -regextype posix-egrep -regex ".*\.(srm|auto|state.auto|fs|hi|ldci|dat)$" -type f -delete
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+
+function cl_xml() {
+	clear
+
+infobox=""
+infobox="${infobox}\n"
+infobox="${infobox}\n"
+infobox="${infobox}Clear AutoLastPlayed & PlayCount or Favorites Script\n\n"
+infobox="${infobox}\n"
+infobox="${infobox}You can automatically clear the AutoLastPlayed & PlayCount or Favorites tag from all your gamelist.xml's\n"
+infobox="${infobox}\n\n"
+infobox="${infobox}Option 1:\n - Clear AutoLastPlayed & PlayCount in Gamelists"
+infobox="${infobox}\n\n"
+infobox="${infobox}Option 2:\n - Clear Favorites in Gamelists"
+infobox="${infobox}\n"
+infobox="${infobox}\n"
+
+dialog --backtitle "Supreme Toolkit" \
+--title "GAMELIST TAGS & FAVS CLEAN UP MENU" \
+--msgbox "${infobox}" 35 110
+
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " GAMELIST TAGS & FAVS CLEAN UP MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "What action would you like to perform?" 25 75 20 \
+            - "*** CLEANUP AUTO-LISTS SELECTIONS ***" \
+            1 " - Clear AutoLastPlayed & PlayCount" \
+            - "" \
+            - "*** CLEANUP FAVORITES SELECTIONS ***" \
+            2 " - Clear Favorites" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) clear_ALP_PC  ;;
+            2) clear_FAV  ;;
+            -)  none ;;
+            *) break ;;
+        esac
+    done
+}
+
+function clear_ALP_PC() {
+	dialog --infobox "...Clearing..." 3 20 ; sleep 2
+        clear
+        if [ -d $HOME/addonusb ]; then
+        echo 
+        echo "The External USB is enabled..."
+        echo
+        sleep 2
+        echo
+	for f in $HOME/addonusb/roms/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/addonusb/roms/ports/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/RetroPie/localroms/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/RetroPie/localroms/ports/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2	
+        else
+        echo 
+        echo "The External USB is disabled..."
+        echo
+        sleep 2
+        echo
+	for f in $HOME/RetroPie/roms/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/RetroPie/roms/ports/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in /opt/retropie/configs/all/emulationstation/gamelists/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e lastplayed -e playcount -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+        fi
+        clear
+        echo
+        read -n 1 -s -r -p "Press any key to reboot"
+        echo
+        echo "[OK System Will Restart now...]"
+        clear
+        sudo reboot
+}
+
+function clear_FAV() {
+	dialog --infobox "...Clearing..." 3 20 ; sleep 2
+        clear
+        if [ -d $HOME/addonusb ]; then
+        echo 
+        echo "The External USB is enabled..."
+        echo
+        sleep 2
+        echo
+	for f in $HOME/addonusb/roms/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/addonusb/roms/ports/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/RetroPie/localroms/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/RetroPie/localroms/ports/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2	
+        else
+        echo 
+        echo "The External USB is disabled..."
+        echo
+        sleep 2
+        echo
+	for f in $HOME/RetroPie/roms/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in $HOME/RetroPie/roms/ports/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+	for f in /opt/retropie/configs/all/emulationstation/gamelists/**/gamelist.xml
+	do
+	echo "file: $f"
+	grep -e "favorite>" -v $f > "$f.tmp"
+	mv -f "$f.tmp" $f
+	done
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 2
+        fi
+        clear
+        echo
+        read -n 1 -s -r -p "Press any key to reboot"
+        echo
+        echo "[OK System Will Restart now...]"
+        clear
+        sudo reboot
+}
+
+function cl_es_gamelist() {
+	dialog --infobox "...Please Wait..." 3 22 ; sleep 1
+	clear
+	echo
+	echo " This script will remove all the auto generated EmulationStation gamelists."
+	echo
+	echo " They are located in this path /opt/retropie/configs/all/emulationstation/gamelists/"
+	echo
+	echo " EXCEPT the retropie/options one that handles the retropiemenu."
+	echo
+	sleep 3
+	find /opt/retropie/configs/all/emulationstation/gamelists/ -type f -name '*.xml' ! -path "/opt/retropie/configs/all/emulationstation/gamelists/retropie/*" -exec rm {} \;
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+
+function cl_cli_hist() {
+	dialog --infobox "...Fixing..." 3 17 ; sleep 1
+	history -cw && clear
+	cd $HOME
+        cp $sb_toolkit/cli/.bash_history /home/pi/
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+
+function cl_cache() {
+	dialog --infobox "...Cleaning..." 3 20 ; sleep 1
+	clear
+	sudo apt-get clean
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+#############################
+#SUPREME CLEAN FUNCTIONS END#
+#############################
+
+################################
+#SUPREME SYSTEM FUNCTIONS START#
+################################
+
+function fschk_bt() {
+	dialog --infobox "...Please Wait..." 3 22 ; sleep 1
+	clear
+	echo
+	echo "Please be patient..."
+	echo "Screen will go black, Pi's green activity led will be on while filsystem check. Once completed your system will reboot as normal."
+	sleep 5
+	sudo touch /forcefsck && sudo reboot
+}
+
+
+function partitions() {
+	dialog --infobox "...Checking..." 3 20 ; sleep 1
+	clear
+	df -h
+	echo
+	read -n 1 -s -r -p "Press any key to continue"
+}
+
+
+function fold_sz() {
+	dialog --infobox "...Checking..." 3 20 ; sleep 1
+	clear
+	#With Subfolders
+	du -h | sort -hr | column | more -d
+	#Only Top Folder Names
+	#du -h --max-depth=1 | sort -hr | column | more -d
+	echo
+	read -n 1 -s -r -p "Press any key to continue"
+}
+
+
+function freemem() {
+	dialog --infobox "...Checking..." 3 20 ; sleep 1
+	clear
+	free mem
+	echo
+	read -n 1 -s -r -p "Press any key to continue"
+}
+
+
+function os_info() {
+	dialog --infobox "...Checking..." 3 20 ; sleep 2
+	clear
+	uname -snrmo
+	lsb_release -ds
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+}
+
+
+function os_update() {
+	clear
+	
+infobox=""
+infobox="${infobox}\n"
+infobox="${infobox}MULTIPLE OPTIONS:\n\nOption 1 is preferred for complete OS update/upgrade.\nOption 2 is classic update & upgrade.\n\n"
+infobox="${infobox}Firmware-Kernel Upgrade is optional to apply and will upgrade to a beta/experminental firmware and kernel. It has it's pros n cons.\nIf it breaks things you can use option 4 to revert back to the last stable supported kernel (tested on non Pi4 boards).\n\n*** So always make a backup before your do a Firmware-Kernel Upgrade!!!***\n\n                       YOU HAVE BEEN WARNED."
+infobox="${infobox}\n                  IT WILL REBOOT AFTER UPDATING."
+infobox="${infobox}\n"
+
+
+dialog --backtitle "Supreme Toolkit" \
+--title "OS & FIRMWARE UPDATE MENU" \
+--msgbox "${infobox}" 35 110
+
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " OS & FIRMWARE UPDATE MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "Let's update & upgrade your system!" 25 75 20 \
+            - "*** OS UPDATING SELECTIONS ***" \
+            1 " - OS Package List Update & Distro System Upgrade" \
+            2 " - OS Package List Update & Full Upgrade" \
+            - "" \
+            - "*** FIRMWARE UPDATING SELECTIONS ***" \
+            3 " - Pi Firmware Check or Upgrade" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) update_distro  ;;
+            2) update_os  ;;
+            3) fw_pi  ;;
+            -) none ;;
+            *) break ;;
+        esac
+    done
+}
+
+#dist-upgrade in addition to performing the function of upgrade, also intelligently handles changing dependencies with new versions of packages; apt-get has a "smart" conflict resolution system,and it will attempt to upgrade the most important packages at the expense of less important ones if necessary. The dist-upgrade command may therefore remove some packages. The /etc/apt/sources.list file contains a list of locations from which to retrieve desired package files. See also apt_preferences(5) for a mechanism for overriding the general settings for individual packages.
+function update_distro() {
+	dialog --infobox "...Please wait until updates completed!..." 3 47 ; sleep 2
+	clear
+	sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get autoremove --purge && sudo apt-get clean
+	clean
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK] Rebooting Raspberry Pi ... "
+	sudo reboot
+}
+
+#full-upgrade performs the function of upgrade but will remove currently installed packages if this is needed to upgrade the system as a whole.
+function update_os() {
+	dialog --infobox "...Please wait until updates completed!..." 3 47 ; sleep 2
+	clear
+	sudo apt-get update -y && sudo apt full-upgrade -y && sudo apt-get autoremove --purge && sudo apt-get clean
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK] Rebooting Raspberry Pi ... "
+	sudo reboot
+}
+
+
+function fw_pi() {
+	dialog --backtitle "Supreme Toolkit" \
+	--title "FIRMWARE OPTIONS MENU" \
+	
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " FIRMWARE OPTIONS MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "Let's check or upgrade your firmware!" 25 75 20 \
+            - "*** Pi4 FIRMWARE OPTIONS ***" \
+            1 " - Set To STABLE Firmware" \
+            2 " - Set To CRITICAL Firmware" \
+	    3 " - Set To BETA Firmware" \
+            - "" \
+            - "*** EXPERIMENTAL FIRMWARE (RPI-UPDATE) SELECTIONS ***" \
+            4 " - Experimental Firmware & Kernel Upgrade - All RPi Boards" \
+            5 " - Revert to Last STABLE Firmware For NON Pi4 Boards" \
+            - "" \
+            - "*** Pi4 FIRMWARE VERSION/INFO & UPDATE ***" \
+            6 " - Current Bootloader Version & Configuration" \
+	    7 " - Verify Firmware Version" \
+	    8 " - Update Official/Published Firmware" \
+            2>&1 > /dev/tty)
+
+        case "$choice" in
+            1) fw_st  ;;
+            2) fw_ct  ;;
+            3) fw_bt  ;;
+            4) fw_exp  ;;
+            5) fw_down  ;;
+	    6) fw_pi4  ;;
+	    7) fwe_pi4  ;;
+	    8) fwup_pi4  ;;
+            -) none ;;
+            *) break ;;
+        esac
+    done
+}
+	
+function fw_st() {
+	dialog --infobox "...Please wait!..." 3 23 ; sleep 2
+	clear
+	sudo sed -i -e '/STATUS/s/beta/stable/g; /STATUS/s/critical/stable/g' /etc/default/rpi-eeprom-update
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function fw_ct() {
+	dialog --infobox "...Please wait!..." 3 23 ; sleep 2
+	clear
+	sudo sed -i -e '/STATUS/s/beta/critical/g; /STATUS/s/stable/critical/g' /etc/default/rpi-eeprom-update
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function fw_bt() {
+	dialog --infobox "...Please wait!..." 3 23 ; sleep 2
+	clear
+	sudo sed -i -e '/STATUS/s/stable/beta/g; /STATUS/s/critical/beta/g' /etc/default/rpi-eeprom-update
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+}
+
+function fw_exp() {
+	dialog --infobox "...Please wait until updates completed!..." 3 47 ; sleep 2
+	clear
+	sudo sudo apt update -y && sudo apt upgrade -y && sudo rpi-update
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+function fw_down() {
+	dialog --infobox "...Please wait until updates completed!..." 3 47 ; sleep 2
+	clear
+	sudo apt-get update -y; sudo apt-get install --reinstall raspberrypi-bootloader raspberrypi-kernel
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+function fw_pi4() {
+	dialog --infobox "...Checking..." 3 19 ; sleep 2
+	clear
+	echo
+	echo "- Bootloader Current Version:"
+	vcgencmd bootloader_version
+	echo
+	echo "- Bootloader Current Configuration:"
+	vcgencmd bootloader_config
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+}
+
+function fwe_pi4() {
+	dialog --infobox "...Checking..." 3 19 ; sleep 2
+	clear
+	echo "Let's make sure you have latest update..."
+	sleep 2
+	sudo apt update && sudo apt upgrade -y
+	sleep 2
+	echo
+	echo
+	sudo rpi-eeprom-update
+	echo
+	read -n 1 -s -r -p "Press any key to continue..."
+}
+
+function fwup_pi4() {
+	dialog --infobox "...Setting..." 3 18 ; sleep 2
+	clear
+	echo "Let's make sure you have latest update..."
+	sleep 2
+	sudo apt update && sudo apt upgrade -y
+	sleep 2
+	echo
+	echo
+	sudo rpi-eeprom-update -a
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+function sysinfo() {
+	dialog --infobox "...Please Wait..." 3 22 ; sleep 1
+	clear
+let upSeconds="$(/usr/bin/cut -d. -f1 /proc/uptime)"
+let secs=$((${upSeconds}%60))
+let mins=$((${upSeconds}/60%60))
+let hours=$((${upSeconds}/3600%24))
+let days=$((${upSeconds}/86400))
+UPTIME=`printf "%d days, %02dh%02dm%02ds" "$days" "$hours" "$mins" "$secs"`
+
+echo "$(tput setaf 6)
+                                                                                                                                                               
+                                                                .,,,,.,*               ,,,.,,,.                                                                
+                                                           ,,  ..(,#(/(/.. .,     ,. . (,%*%*/*.. .,.                                                          
+                                                            *%%%%%%%%%%%%%%#/ ,  ..%#%%%%%%%%%%%%%%.,                                                          
+                                                          . /%%%%%((%%%%%%%%%%.* *%%%%%%%%%#/#%%%%%.,                                                          
+                                                           ..%%%%%%%%#,(%%%%%%/  %%%%%%#,*%%%%%%%%( .                                                          
+                                                             ,%%%%%%%%%%/./%%%.  (%%%,.%%%%%%%%%%# ,                                                           
+                                                              .%%%%%%%%%%%%.        *%%%%%%%%%%%( *                                                            
+                                                              . ./%%%%%%%%(         .%%%%%%%%#* ,                                                              
+                                                                *.  *#(,.              ,/##.  ,                                                                
+                                                                ,                             .                                                                
+                                                              ,                                 ,                                                              
+                                                             ,                                   .                                                             
+                                                             .                                    ,                                                            
+                                                                           .........              *                                                            
+                                                           .            ...............             ,                                                          
+                                                         ,              ...............              .                                                         
+                                                        ,     ./##/,.. ................  ..,/##/.     .                                                        
+                                                        ,     .#    .(#*.............../#(.    #.                                                              
+                                                        *    ../#       ./#(*.....*(#/.       (*..    .                                                        
+                                                         .     ../%%(,.   (#*.....*#(    ,(#%/.                                                                
+                                                          *      ......,,,.. .,... ..,,,......      .                                                          
+                                                           ,    ........     ,/./*     ........                                                                
+                                                                            ,%#.##,                *                                                           
+                                                            *           ... .,,.,,. ...           .                                                            
+                                                             ,                                   .                                                             
+                                                              .                                 *                                                              
+                                                                ..            ...            ./                                                                
+                                                                    ,.                    *                                                                    
+                                                                        *             .                                                                        
+  
+                                                                        SUPREME ULTRA V2
+`uname -srmo` - `lsb_release -ds`
+
+`date +"%A, %e %B %Y, %r"`
+Uptime    : ${UPTIME}
+Last Login: `exec -- last | head -1`
+$(tput setaf 7)
+...SYSTEM INFO...$(tput setaf 3)
+                            Size 	Used	Avail 	Used%
+SD Boot         Partition: `df -h | grep '/dev/mmcblk0p1' | awk '{print " "$2,"	"$3," 	"$4," 	 "$5}'`
+SD/USB Root     Partition: `df -h | grep '/dev/root' 	 | awk '{print " "$2,"	"$3,"	"$4," 	 "$5}'`
+Ext-USB/USBBoot Partition: `df -h | grep '/dev/sda1' 	 | awk '{print " "$2,"	"$3,"	"$4," 	 "$5}'`
+$(tput setaf 1)
+$(tput setaf 7)`grep Model /proc/cpuinfo`
+
+$(tput setaf 1)SoC Temperature : `exec -- /home/pi/.supreme_toolkit/sb_toolkit/_scripts/temperature.sh`
+CPU `grep Hardware /proc/cpuinfo` - `lscpu | grep "Model name"`
+CPU Max Speed   : `lscpu | grep max`
+GPU Version     : `exec -- /opt/vc/bin/vcgencmd version`
+$(tput setaf 6)
+Memory            : `cat /proc/meminfo | grep MemFree | awk '{printf( "%.2f\n", $2 / 1024 )}'`MB (Free) / `cat /proc/meminfo | grep MemTotal | awk '{printf( "%.2f\n", $2 / 1024 )}'`MB (Total)
+Running Processes : `ps ax | wc -l | tr -d " "`
+Local & Public IP : `hostname -I`and `curl -4 icanhazip.com 2>/dev/null | awk '{print $NF; exit}'`
+$(tput setaf 7)"
+echo
+read -n 1 -s -r -p "Press any key to continue"
+}
+
+
+function temp_rt() {
+	dialog --infobox "...[Press <CTRL+C> to Exit]..." 3 36 ; sleep 5
+	clear
+	watch -t $sb_toolkit/_scripts/temperature.sh 
+}
+
+
+function cores_status() {
+	dialog --infobox "...Checking..." 3 20 ; sleep 1
+	clear
+	cat /sys/devices/system/cpu/online
+	echo
+	read -n 1 -s -r -p "Press any key to continue"
+}
+
+
+function ratio_vt() {
+
+infobox=""
+infobox="${infobox}\n"
+infobox="${infobox}\n"
+infobox="${infobox}You can choose between various forced screen resolutions and ratio.\n\n"
+infobox="${infobox}To match your monitor or screen native resolution you can run CEA or DMT option and apply as needed.\nIf you need a new setting just post on my discord #??questions-and-answers channel... \n\n"
+infobox="${infobox}*** Keep in mind that any resolution other than 1080p will require relative overlays (if used) or themes. ***\n"
+infobox="${infobox}\n"
+
+dialog --backtitle "VIDEO+ RATIO & RESOLUTION" \
+--title "VIDEO+ RATIO & RESOLUTION" \
+--msgbox "${infobox}" 35 110
+
+# Config file path
+CONFIG_PATH=/boot/config.txt
+
+# HDMI settings description
+HDMI_DESCRIPTION="#uncomment to enable custom HDMI group settings"
+
+declare -a HDMI_SETTINGS_CEA=(
+  "hdmi_group=1"
+)
+declare -a HDMI_SETTINGS_DMT=(
+  "hdmi_group=2"
+)
+
+    local choice
+    while true; do
+        choice=$(dialog --backtitle "$BACKTITLE" --title " VIDEO RATIO & RESOLUTION MENU " \
+            --ok-label OK --cancel-label Back \
+            --menu "Choose your Custom System Ratio Resolution:" 25 75 20 \
+            - "*** GENERAL SELECTIONS ***" \
+           V1 " - LIST CONNECTED DISPLAY DEVICES " \
+           V2 " - SHOW YOUR HDMI 0&1 STATUS (Resolution etc.) " \
+	   A1 " - SHOW YOUR SUPPORTED (HDMI 0&1) AUDIO INFORMATION " \
+          CEA " - SHOW YOUR SUPPORTED MODES (HDMI 0&1) FOR THIS GROUP " \
+	  DMT " - SHOW YOUR SUPPORTED MODES (HDMI 0&1) FOR THIS GROUP " \
+	    - "" \
+	    - "*** HDMI PORT [4:3] SELECTIONS ***" \
+        1:CEA " - VGA     640x480   60Hz   [4:3] " \
+	2:CEA " - 480p    720x480   60Hz   [4:3] " \
+	3:CEA " - 576p    720x576   50Hz   [4:3] " \
+        4:DMT " - SVGA    800x600   60Hz   [4:3] " \
+        5:DMT " - XGA    1024x768   60Hz   [4:3] " \
+	6:DMT " - SXGA   1280x960   60Hz   [4:3] " \
+            - "" \
+            - "*** HDMI PORT [16:9] SELECTIONS ***" \
+	7:CEA " - 480p    720x480   60Hz  [16:9] " \
+	8:CEA " - 576p    720x576   50Hz  [16:9] " \
+	9:CEA " - 720p   1280x720   60Hz  [16:9] " \
+	10:CEA " - 720p   1280x720   50Hz  [16:9] " \
+	11:CEA " - 1080p 1920x1080   60Hz  [16:9] " \
+	12:CEA " - 1080p 1920x1080   50Hz  [16:9] " \
+	13:CEA " - 2160p 3840x2160   60Hz  [16:9] " \
+	14:DMT " - 720p   1280x720   60Hz  [16:9] " \
+        15:DMT " - 1080p 1920x1080   60Hz  [16:9] " \
+	     - "" \
+             - "*** HDMI PORT [x:x] SELECTIONS ***" \
+       16:DMT " - SXGA   1280x1024  60Hz   [5:4] " \
+       17:DMT " - WXGA+  1440x900   60Hz [16:10] " \
+       18:DMT " - WSXGA+ 1680x1050  60Hz [16:10] " \
+       19:CEA " - 1080p  1920x1080  60Hz [64:27] " \
+       20:CEA " - 1080p  1920x1080  50Hz [64:27] " \
+       21:DMT " - CUSTOM .NOTxSET.  60Hz [xx:xx] " \
+	    - "" \
+            - "*** SDTV - COMPOSITE VIDEO PORT SELECTIONS ***" \
+            - "*** Default values are: NTSC & [4:3] No Change ***" \
+       22:STD " - Composite Video Port Mode   JP NTSC " \
+       23:STD " - Composite Video Port Mode   PAL " \
+       24:STD " - Composite Video Port Mode   Brazil PAL " \
+       25:STR " - Composite Video Port Ratio  [14:9] " \
+       26:STR " - Composite Video Port Ratio  [16:9] " \
+            - "" \
+            - "*** DISABLE HDMI SELECTIONS ***" \
+       27:ALL " - Disable Any CEA/DMT HDMI or STDTV Setting Applied " \
+            2>&1 > /dev/tty)
+			
+        case "$choice" in
+           V1) list_dvc ;;
+           V2) hdmi_stat ;;
+           A1) audio_inf ;;
+          CEA) sup_cea ;;
+          DMT) sup_dmt ;;
+	1:CEA) enable_vr 1 ;;
+        2:CEA) enable_vr 2 ;;
+	3:CEA) enable_vr 17 ;;
+	4:DMT) enable_vrd 9 ;;
+        5:DMT) enable_vrd 16 ;;
+        6:DMT) enable_vrd 32 ;;
+        7:CEA) enable_vr 3 ;;
+	8:CEA) enable_vr 18 ;;
+	9:CEA) enable_vr 4 ;;
+       10:CEA) enable_vr 19 ;;
+       11:CEA) enable_vr 16 ;;
+       12:CEA) enable_vr 31 ;;
+       13:CEA) enable_vr 97 ;;
+       14:DMT) enable_vrd 85 ;;
+       15:DMT) enable_vrd 82 ;;
+       16:DMT) enable_vrd 35 ;;
+       17:DMT) enable_vrd 47 ;;
+       18:DMT) enable_vrd 58 ;;
+       19:CEA) enable_vr 76 ;;
+       20:CEA) enable_vr 75 ;;
+       21:DMT) enable_vrdcX 87 ;;
+       22:STD) enable_sdtvm 1 ;;
+       23:STD) enable_sdtvm 2 ;;
+       24:STD) enable_sdtvm 3 ;;
+       25:STR) enable_sdtvr 2 ;;
+       26:STR) enable_sdtvr 3 ;;
+       27:ALL) disable_vrALL ;;
+	    -) none ;;
+            *) break ;;
+        esac
+    done
+}
+
+# List all attached devices
+function list_dvc() {
+	clear
+	tvservice -l
+	echo
+	read -n 1 -s -r -p "Press any key to go back..."
+	echo
+}
+
+# Show HDMI Status
+function hdmi_stat() {
+	clear
+	echo
+	echo "HDMI 0:"
+	echo
+	tvservice -s
+	echo
+	echo "*******************************************"
+	echo
+	echo "HDMI 1:"
+	echo
+	tvservice -v 7 -s
+	echo
+	read -n 1 -s -r -p "Press any key to go back..."
+	echo
+}
+
+# Show Supported Audio Information
+function audio_inf() {
+	clear
+	echo
+	echo "HDMI 0:"
+	echo
+	tvservice -a
+	echo
+	echo "*******************************************"
+	echo
+	echo "HDMI 1:"
+	echo
+	tvservice -v 7 -a
+	echo
+	read -n 1 -s -r -p "Press any key to go back..."
+	echo
+}
+
+# Supported CEA Modes
+function sup_cea() {
+	clear
+	echo
+	echo "HDMI 0:"
+	echo
+	tvservice --modes=CEA
+	echo
+	echo "*******************************************"
+	echo
+	echo "HDMI 1:"
+	echo
+	tvservice -v 7 --modes=CEA
+	echo
+	read -n 1 -s -r -p "Press any key to go back..."
+	echo
+}
+
+# Supported DMT Modes
+function sup_dmt() {
+	clear
+	echo
+	echo "HDMI 0:"
+	echo
+	tvservice --modes=DMT
+	echo
+	echo "*******************************************"
+	echo
+	echo "HDMI 1:"
+	echo
+	tvservice -v 7 --modes=DMT
+	echo
+	read -n 1 -s -r -p "Press any key to go back..."
+	echo
+}
+
+# Enables a custom standard CEA ratio & resolution.
+function enable_vr() {
+  #dialog --infobox "...Applying..." 3 20 ; sleep 2
+  sudo sed -i "s|^hdmi_mode=.*|hdmi_mode=$1|" "${CONFIG_PATH}";
+  sudo sed -i "s|^hdmi_ignore_edid=0xa5000080|hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+  sudo sed -i "s|^hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+  sudo sed -i "s|#hdmi_mode=.*|hdmi_mode=$1|" "${CONFIG_PATH}";
+  sudo sed -i "s|#hdmi_ignore_edid=0xa5000080|hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+  sudo sed -i "s|#hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+  sudo sed -i "s|^sdtv_mode=|#sdtv_mode=|" "${CONFIG_PATH}";
+  sudo sed -i "s|^sdtv_aspect=|#sdtv_aspect=|" "${CONFIG_PATH}";
+  	  for val in ${HDMI_SETTINGS_CEA[@]}; do
+		if grep -q "#${val}" ${CONFIG_PATH}; then
+		  sudo sed -i "s|#${val}|${val}|" "${CONFIG_PATH}";
+		fi
+	  done
+	  for val in ${HDMI_SETTINGS_DMT[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	  clear
+	  echo
+	  echo "[NOW FINISHED!...]"
+	  sleep 1
+	  echo
+	  read -n 1 -s -r -p "Press any key to reboot"
+	  echo
+	  echo "[OK System Will Restart now...]"
+	  clear
+	  sudo reboot
+}
+
+# Enables a custom standard DMT ratio & resolution.
+function enable_vrd() {
+  #dialog --infobox "...Applying..." 3 20 ; sleep 2
+  sudo sed -i "s|^hdmi_mode=.*|hdmi_mode=$1|" "${CONFIG_PATH}";
+  sudo sed -i "s|^hdmi_ignore_edid=0xa5000080|hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+  sudo sed -i "s|^hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+  sudo sed -i "s|#hdmi_mode=.*|hdmi_mode=$1|" "${CONFIG_PATH}";
+  sudo sed -i "s|#hdmi_ignore_edid=0xa5000080|hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+  sudo sed -i "s|#hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+  sudo sed -i "s|^sdtv_mode=|#sdtv_mode=|" "${CONFIG_PATH}";
+  sudo sed -i "s|^sdtv_aspect=|#sdtv_aspect=|" "${CONFIG_PATH}";
+  	  for val in ${HDMI_SETTINGS_DMT[@]}; do
+		if grep -q "#${val}" ${CONFIG_PATH}; then
+		  sudo sed -i "s|#${val}|${val}|" "${CONFIG_PATH}";
+		fi
+	  done
+	  for val in ${HDMI_SETTINGS_CEA[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+# Defines the TV standard used for composite video output over the yellow RCA jack to NTSC or PAL.
+function enable_sdtvm() {
+  #dialog --infobox "...Applying..." 3 20 ; sleep 2
+	sudo sed -i "s|^hdmi_mode=|#hdmi_mode=|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_ignore_edid=0xa5000080|#hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+	  for val in ${HDMI_SETTINGS_CEA[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	  for val in ${HDMI_SETTINGS_DMT[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	sudo sed -i "s|^sdtv_mode=.*|sdtv_mode=$1|" "${CONFIG_PATH}";
+	sudo sed -i "s|#sdtv_mode=.*|sdtv_mode=$1|" "${CONFIG_PATH}";
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+# Defines the TV standard used for composite video output over the yellow RCA jack to forced ratio either (Default) 4:3 or 16:9.
+function enable_sdtvr() {
+  #dialog --infobox "...Applying..." 3 20 ; sleep 2
+	sudo sed -i "s|^hdmi_mode=|#hdmi_mode=|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_ignore_edid=0xa5000080|#hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+	  for val in ${HDMI_SETTINGS_CEA[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	  for val in ${HDMI_SETTINGS_DMT[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	sudo sed -i "s|^sdtv_aspect=.*|sdtv_aspect=$1|" "${CONFIG_PATH}";
+	sudo sed -i "s|#sdtv_aspect=.*|sdtv_aspect=$1|" "${CONFIG_PATH}";
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+# Enables a custom non standard DMT ratio & resolution option X Example cvt9 in config.txt
+function enable_vrdcX() {
+  #dialog --infobox "...Applying..." 3 20 ; sleep 2
+	sudo sed -i "s|^hdmi_mode=.*|hdmi_mode=$1|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_ignore_edid=0xa5000080|hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_cvtX=|hdmi_cvt=|" "${CONFIG_PATH}";
+	sudo sed -i "s|#hdmi_mode=.*|hdmi_mode=$1|" "${CONFIG_PATH}";
+	sudo sed -i "s|#hdmi_ignore_edid=0xa5000080|hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+	sudo sed -i "s|#hdmi_cvtX=|hdmi_cvt=|" "${CONFIG_PATH}";
+	sudo sed -i "s|^sdtv_mode=|#sdtv_mode=|" "${CONFIG_PATH}";
+	sudo sed -i "s|^sdtv_aspect=|#sdtv_aspect=|" "${CONFIG_PATH}";
+	  for val in ${HDMI_SETTINGS_DMT[@]}; do
+		if grep -q "#${val}" ${CONFIG_PATH}; then
+		  sudo sed -i "s|#${val}|${val}|" "${CONFIG_PATH}";
+		fi
+	  done
+	  for val in ${HDMI_SETTINGS_CEA[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+# Disables ALL custom CEA & DMT or STDTV resolutions & ratio
+function disable_vrALL() {
+  #dialog --infobox "...Applying..." 3 20 ; sleep 2
+	sudo sed -i "s|^hdmi_mode=|#hdmi_mode=|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_ignore_edid=0xa5000080|#hdmi_ignore_edid=0xa5000080|" "${CONFIG_PATH}";
+	sudo sed -i "s|^hdmi_cvt=|#hdmi_cvtX=|" "${CONFIG_PATH}";
+	sudo sed -i "s|^sdtv_mode=|#sdtv_mode=|" "${CONFIG_PATH}";
+    sudo sed -i "s|^sdtv_aspect=|#sdtv_aspect=|" "${CONFIG_PATH}";
+	  for val in ${HDMI_SETTINGS_CEA[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	  for val in ${HDMI_SETTINGS_DMT[@]}; do
+		sudo sed -i "s|^${val}|#${val}|" "${CONFIG_PATH}";
+	  done
+	clear
+	echo
+	echo "[NOW FINISHED!...]"
+	sleep 1
+	echo
+	read -n 1 -s -r -p "Press any key to reboot"
+	echo
+	echo "[OK System Will Restart now...]"
+	clear
+	sudo reboot
+}
+
+function none() {
+	clear
+}
+
+function net_check() {
+#-----------NET CHECKER-----------#
+wget -q --spider http://google.com
+if [ $? -eq 0 ]; then
+  NETCHECK=0
+else
+  NETCHECK=1
+fi
+}
+
+##############################
+#SUPREME SYSTEM FUNCTIONS END#
+##############################

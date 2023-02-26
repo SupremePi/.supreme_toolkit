@@ -1,0 +1,1 @@
+sudo cp /home/pi/RetroPie/scripts/.sb-unified/es_cfg/es_systems.cfg /etc/emulationstation
