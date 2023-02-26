@@ -1,0 +1,44 @@
+Ninja Gaiden (Europe);markiii
+Ninja Gaiden (Europe);mastersystem
+Ninja Gaiden (Hack);genh
+Ninja Gaiden (Japan) (Proto);megadrive
+Ninja Gaiden (R);dendy
+Ninja Gaiden (USA);nes
+Ninja Gaiden (USA, Europe);atarilynx
+Ninja Gaiden (USA, Europe);gamegear
+Ninja Gaiden - Dragon Sword (USA);nds
+Ninja Gaiden - Virgin Edition (Hack);nesh
+Ninja Gaiden 3 - Razor's Edge (USA);wiiu
+Ninja Gaiden II - Dark Sword of Chaos (R);dendy
+Ninja Gaiden II - The Dark Sword of Chaos (USA);nes
+Ninja Gaiden III - The Ancient Ship of Doom (R);dendy
+Ninja Gaiden III - The Ancient Ship of Doom (USA);nes
+Ninja Gaiden III - The Ancient Ship of Doom (USA, Europe);atarilynx
+Ninja Gaiden Shadow (USA);gb
+Ninja Gaiden Trilogy (USA);snes
+Ninja Gaiden evil edition (Hack);nesh
+gaiden;arcade
+gaiden;fba
+gaiden;mame-advmame
+gaiden;mame-libretro
+gaiden;mame-mame4all
+mastninj;arcade
+mastninj;fba
+mastninj;mame-advmame
+mastninj;mame-libretro
+mastninj;mame-mame4all
+pc_ngai2;arcade
+pc_ngai2;fba
+pc_ngai2;mame-advmame
+pc_ngai2;mame-libretro
+pc_ngai2;mame-mame4all
+pc_ngai3;arcade
+pc_ngai3;fba
+pc_ngai3;mame-advmame
+pc_ngai3;mame-libretro
+pc_ngai3;mame-mame4all
+pc_ngaid;arcade
+pc_ngaid;fba
+pc_ngaid;mame-advmame
+pc_ngaid;mame-libretro
+pc_ngaid;mame-mame4all

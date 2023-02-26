@@ -1,0 +1,59 @@
+Superman - Man of Steel (Europe);bbcb
+Superman - The Game (Europe);bbcb
+Superman - The Game (1987)(First Star);electron
+Superman - The Game (Europe);amstradcpc
+Superman - The Man of Steel (Europe);amstradcpc
+Superman - The Man of Steel (Europe) - Disk 1A;amstradcpc
+Superman (USA);atari2600
+Superman - Man of Steel (Europe) (Disk 1 Side A);c64
+Superman - Man of Steel (Europe) (Disk 1 Side B);c64
+Superman - Man of Steel (Europe) (Disk 2);c64
+Superman - The Game (USA);c64
+Superman_v1.0;amiga1200
+Superman_v1.0;amiga
+Superman (R);dendy
+Superman (Original) (Man Of Steel Edition) (1.03);futurepinball
+Superman (Original) (Ultimate) (1.02);futurepinball
+Superman (Original) (VIP Edition) (2013) (1.02);futurepinball
+supermanj;arcade
+supermanj;fba
+supermanj;mame-advmame
+supermanj;mame-libretro
+supermanj;mame-mame4all
+supermap;arcade
+supermap;fba
+supermap;mame-advmame
+supermap;mame-libretro
+supermap;mame-mame4all
+supermanu;arcade
+supermanu;fba
+supermanu;mame-advmame
+supermanu;mame-libretro
+supermanu;mame-mame4all
+superman;arcade
+superman;fba
+superman;mame-advmame
+superman;mame-libretro
+superman;mame-mame4all
+Superman (USA) (En,Fr,Es);n64
+Superman Returns (USA);nds
+Superman 2 (Hack);nesh
+Superman (USA);nes
+Superman - Countdown to Apokolips (USA);gba
+Superman Returns - Fortress of Solitude (USA, Europe) (En,Fr,De,Es,It);gba
+Superman (USA, Europe);gb
+Superman - Shadow of Apokolips (USA);gc
+Superman (USA, Europe);sgb
+Superman - The Man of Steel (Europe);gamegear
+Death and Return of Superman, The (USA);genesis
+Superman (USA);genesis
+Superman - The Man of Steel (Europe);mastersystem
+Superman - The Game (Europe);zxspectrum
+Superman - The Man of Steel (Europe);zxspectrum
+Superman - Shadow of Apokolips (USA);ps2
+Superman Returns (USA);ps2
+Death and Return of Superman, The (MSU-1);snesmsu1
+Death and Return of Superman, The (USA);snes
+Superman - The Game (USA);atari800
+Superman III (USA) (Proto);atari800
+Superman - The Man of Steel (USA);atarist

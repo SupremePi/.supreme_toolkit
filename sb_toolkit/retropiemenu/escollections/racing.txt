@@ -1,0 +1,2110 @@
+2 Game Pack! - Hot Wheels - Stunt Track Challenge + Hot Wheels - World Race (USA, Europe);gba
+2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race (USA);gba
+A2 Racer - Europa Tour (Netherlands);psx
+A2 Racer - Europa Tour (Netherlands);psp
+abcop;arcade
+abcop;fba
+abcop;mame-advmame
+abcop;mame-libretro
+abcop;mame-mame4all
+abcopj;arcade
+abcopj;fba
+abcopj;mame-advmame
+abcopj;mame-libretro
+abcopj;mame-mame4all
+acedrvrw;arcade
+acedrvrw;fba
+acedrvrw;mame-advmame
+acedrvrw;mame-libretro
+acedrvrw;mame-mame4all
+adillor;arcade
+adillor;fba
+adillor;mame-advmame
+adillor;mame-libretro
+adillor;mame-mame4all
+airrace;arcade
+airrace;fba
+airrace;mame-advmame
+airrace;mame-libretro
+airrace;mame-mame4all
+amspdwya;arcade
+amspdwya;fba
+amspdwya;mame-advmame
+amspdwya;mame-libretro
+amspdwya;mame-mame4all
+amspdwy;arcade
+amspdwy;fba
+amspdwy;mame-advmame
+amspdwy;mame-libretro
+amspdwy;mame-mame4all
+Armada - FX Racers (USA);gbc
+Arthur! Ready to Race (USA);psx
+Arthur! Ready to Race (USA);psp
+ATV Racers (USA);psx
+ATV Racers (USA);psp
+backfirea;arcade
+backfirea;fba
+backfirea;mame-advmame
+backfirea;mame-libretro
+backfirea;mame-mame4all
+backfire;arcade
+backfire;fba
+backfire;mame-advmame
+backfire;mame-libretro
+backfire;mame-mame4all
+badlands;arcade
+badlands;fba
+badlands;mame-advmame
+badlands;mame-libretro
+badlands;mame-mame4all
+Banger Racer (Europe);amstradcpc
+Banger Racer (Europe);c64
+Banger Racer (Europe);zxspectrum
+Banishing Racer (Japan);gb
+Batman - Gotham City Racer (USA);psx
+Batman - Gotham City Racer (USA);psp
+Battle Racers (Japan);sfc
+BC Racers (USA);sega32x
+BC Racers (USA);segacd
+BC Racers (USA, Europe);3do
+bigrun;arcade
+bigrun;fba
+bigrun;mame-advmame
+bigrun;mame-libretro
+bigrun;mame-mame4all
+blmbycar;arcade
+blmbycar;fba
+blmbycar;mame-advmame
+blmbycar;mame-libretro
+blmbycar;mame-mame4all
+blmbycaru;arcade
+blmbycaru;fba
+blmbycaru;mame-advmame
+blmbycaru;mame-libretro
+blmbycaru;mame-mame4all
+Blob Race (Europe) (Unl);atarist
+BMX Racers (Europe);c64
+BMX Racers (Europe);zxspectrum
+bnj;arcade
+bnj;fba
+bnj;mame-advmame
+bnj;mame-libretro
+bnj;mame-mame4all
+bnjm;arcade
+bnjm;fba
+bnjm;mame-advmame
+bnjm;mame-libretro
+bnjm;mame-mame4all
+Bomberman Fantasy Race (USA);psx
+Bomberman Fantasy Race (USA);psp
+Boy Racer (Europe);amstradcpc
+brubber;arcade
+brubber;fba
+brubber;mame-advmame
+brubber;mame-libretro
+brubber;mame-mame4all
+buggyboy;arcade
+buggyboy;fba
+buggyboy;mame-advmame
+buggyboy;mame-libretro
+buggyboy;mame-mame4all
+buggyboyjr;arcade
+buggyboyjr;fba
+buggyboyjr;mame-advmame
+buggyboyjr;mame-libretro
+buggyboyjr;mame-mame4all
+buggychl;arcade
+buggychl;fba
+buggychl;mame-advmame
+buggychl;mame-libretro
+buggychl;mame-mame4all
+buggychlt;arcade
+buggychlt;fba
+buggychlt;mame-advmame
+buggychlt;mame-libretro
+buggychlt;mame-mame4all
+calspeeda;arcade
+calspeeda;fba
+calspeeda;mame-advmame
+calspeeda;mame-libretro
+calspeeda;mame-mame4all
+calspeed;arcade
+calspeed;fba
+calspeed;mame-advmame
+calspeed;mame-libretro
+calspeed;mame-mame4all
+caractn2;arcade
+caractn2;fba
+caractn2;mame-advmame
+caractn2;mame-libretro
+caractn2;mame-mame4all
+caractn;arcade
+caractn;fba
+caractn;mame-advmame
+caractn;mame-libretro
+caractn;mame-mame4all
+Car-Race (Netherlands);c64
+cbnj;arcade
+cbnj;fba
+cbnj;mame-advmame
+cbnj;mame-libretro
+cbnj;mame-mame4all
+cbombers;arcade
+cbombers;fba
+cbombers;mame-advmame
+cbombers;mame-libretro
+cbombers;mame-mame4all
+cbombersj;arcade
+cbombersj;fba
+cbombersj;mame-advmame
+cbombersj;mame-libretro
+cbombersj;mame-mame4all
+cbombersp;arcade
+cbombersp;fba
+cbombersp;mame-advmame
+cbombersp;mame-libretro
+cbombersp;mame-mame4all
+cburnrub2;arcade
+cburnrub2;fba
+cburnrub2;mame-advmame
+cburnrub2;mame-libretro
+cburnrub2;mame-mame4all
+cburnrub;arcade
+cburnrub;fba
+cburnrub;mame-advmame
+cburnrub;mame-libretro
+cburnrub;mame-mame4all
+Championship Sprint 1993 - The Raceists II (USA) (Unl);c64
+changela;arcade
+changela;fba
+changela;mame-advmame
+changela;mame-libretro
+changela;mame-mame4all
+chasehq;arcade
+chasehq;fba
+chasehq;mame-advmame
+chasehq;mame-libretro
+chasehq;mame-mame4all
+chasehqj;arcade
+chasehqj;fba
+chasehqj;mame-advmame
+chasehqj;mame-libretro
+chasehqj;mame-mame4all
+chasehqju;arcade
+chasehqju;fba
+chasehqju;mame-advmame
+chasehqju;mame-libretro
+chasehqju;mame-mame4all
+chasehqu;arcade
+chasehqu;fba
+chasehqu;mame-advmame
+chasehqu;mame-libretro
+chasehqu;mame-mame4all
+Chiki Chiki Machine Mou Race (Japan);gb
+chqflag;arcade
+chqflag;fba
+chqflag;mame-advmame
+chqflag;mame-libretro
+chqflag;mame-mame4all
+chqflagj;arcade
+chqflagj;fba
+chqflagj;mame-advmame
+chqflagj;mame-libretro
+chqflagj;mame-mame4all
+cischeat;arcade
+cischeat;fba
+cischeat;mame-advmame
+cischeat;mame-libretro
+cischeat;mame-mame4all
+clshroad;arcade
+clshroad;fba
+clshroad;mame-advmame
+clshroad;mame-libretro
+clshroad;mame-mame4all
+clshroadd;arcade
+clshroadd;fba
+clshroadd;mame-advmame
+clshroadd;mame-libretro
+clshroadd;mame-mame4all
+clshroads;arcade
+clshroads;fba
+clshroads;mame-advmame
+clshroads;mame-libretro
+clshroads;mame-mame4all
+Cocoto - Kart Racer (Europe) (En,Fr,De,Es,It);gba
+contcirc;arcade
+contcirc;fba
+contcirc;mame-advmame
+contcirc;mame-libretro
+contcirc;mame-mame4all
+contcircj;arcade
+contcircj;fba
+contcircj;mame-advmame
+contcircj;mame-libretro
+contcircj;mame-mame4all
+contcircua;arcade
+contcircua;fba
+contcircua;mame-advmame
+contcircua;mame-libretro
+contcircua;mame-mame4all
+contcircu;arcade
+contcircu;fba
+contcircu;mame-advmame
+contcircu;mame-libretro
+contcircu;mame-mame4all
+coolridr;arcade
+coolridr;fba
+coolridr;mame-advmame
+coolridr;mame-libretro
+coolridr;mame-mame4all
+County Racer (Germany);c64
+Crazy Frog Racer (Europe) (En,Fr,De,Nl);gba
+crshrace2;arcade
+crshrace2;fba
+crshrace2;mame-advmame
+crshrace2;mame-libretro
+crshrace2;mame-mame4all
+crshrace;arcade
+crshrace;fba
+crshrace;mame-advmame
+crshrace;mame-libretro
+crshrace;mame-mame4all
+crusnusa21;arcade
+crusnusa21;fba
+crusnusa21;mame-advmame
+crusnusa21;mame-libretro
+crusnusa21;mame-mame4all
+crusnusa40;arcade
+crusnusa40;fba
+crusnusa40;mame-advmame
+crusnusa40;mame-libretro
+crusnusa40;mame-mame4all
+crusnusa;arcade
+crusnusa;fba
+crusnusa;mame-advmame
+crusnusa;mame-libretro
+crusnusa;mame-mame4all
+crusnwld13;arcade
+crusnwld13;fba
+crusnwld13;mame-advmame
+crusnwld13;mame-libretro
+crusnwld13;mame-mame4all
+crusnwld17;arcade
+crusnwld17;fba
+crusnwld17;mame-advmame
+crusnwld17;mame-libretro
+crusnwld17;mame-mame4all
+crusnwld19;arcade
+crusnwld19;fba
+crusnwld19;mame-advmame
+crusnwld19;mame-libretro
+crusnwld19;mame-mame4all
+crusnwld20;arcade
+crusnwld20;fba
+crusnwld20;mame-advmame
+crusnwld20;mame-libretro
+crusnwld20;mame-mame4all
+crusnwld23;arcade
+crusnwld23;fba
+crusnwld23;mame-advmame
+crusnwld23;mame-libretro
+crusnwld23;mame-mame4all
+crusnwld24;arcade
+crusnwld24;fba
+crusnwld24;mame-advmame
+crusnwld24;mame-libretro
+crusnwld24;mame-mame4all
+crusnwld;arcade
+crusnwld;fba
+crusnwld;mame-advmame
+crusnwld;mame-libretro
+crusnwld;mame-mame4all
+crzrallya;arcade
+crzrallya;fba
+crzrallya;mame-advmame
+crzrallya;mame-libretro
+crzrallya;mame-mame4all
+crzrally;arcade
+crzrally;fba
+crzrally;mame-advmame
+crzrally;mame-libretro
+crzrally;mame-mame4all
+crzrallyg;arcade
+crzrallyg;fba
+crzrallyg;mame-advmame
+crzrallyg;mame-libretro
+crzrallyg;mame-mame4all
+csprint1;arcade
+csprint1;fba
+csprint1;mame-advmame
+csprint1;mame-libretro
+csprint1;mame-mame4all
+csprint2;arcade
+csprint2;fba
+csprint2;mame-advmame
+csprint2;mame-libretro
+csprint2;mame-mame4all
+csprint;arcade
+csprint;fba
+csprint;mame-advmame
+csprint;mame-libretro
+csprint;mame-mame4all
+csprintf;arcade
+csprintf;fba
+csprintf;mame-advmame
+csprintf;mame-libretro
+csprintf;mame-mame4all
+csprintg1;arcade
+csprintg1;fba
+csprintg1;mame-advmame
+csprintg1;mame-libretro
+csprintg1;mame-mame4all
+csprintg;arcade
+csprintg;fba
+csprintg;mame-advmame
+csprintg;mame-libretro
+csprintg;mame-mame4all
+csprints1;arcade
+csprints1;fba
+csprints1;mame-advmame
+csprints1;mame-libretro
+csprints1;mame-mame4all
+csprints;arcade
+csprints;fba
+csprints;mame-advmame
+csprints;mame-libretro
+csprints;mame-mame4all
+Cubix - Robots for Everyone - Race 'n Robots (USA);gbc
+cybrcycc;arcade
+cybrcycc;fba
+cybrcycc;mame-advmame
+cybrcycc;mame-libretro
+cybrcycc;mame-mame4all
+dblaxle;arcade
+dblaxle;fba
+dblaxle;mame-advmame
+dblaxle;mame-libretro
+dblaxle;mame-mame4all
+dblaxleu;arcade
+dblaxleu;fba
+dblaxleu;mame-advmame
+dblaxleu;mame-libretro
+dblaxleu;mame-mame4all
+Death Race 64 (Europe);c64
+Death Race (USA) (Unl);nes
+Demolition Racer - No Exit (USA);dreamcast
+Demolition Racer (USA);psx
+Demolition Racer (USA);psp
+dirtdash;arcade
+dirtdash;fba
+dirtdash;mame-advmame
+dirtdash;mame-libretro
+dirtdash;mame-mame4all
+dirtfoxj;arcade
+dirtfoxj;fba
+dirtfoxj;mame-advmame
+dirtfoxj;mame-libretro
+dirtfoxj;mame-mame4all
+Dirt Racer (Europe);snes
+Dirt Track Racer (Europe);zxspectrum
+dragrace;arcade
+dragrace;fba
+dragrace;mame-advmame
+dragrace;mame-libretro
+dragrace;mame-mame4all
+dragrace;arcade
+dragrace;fba
+dragrace;mame-advmame
+dragrace;mame-libretro
+dragrace;mame-mame4all
+Drag Race Eliminator (USA);c64
+drifto94;arcade
+drifto94;fba
+drifto94;mame-advmame
+drifto94;mame-libretro
+drifto94;mame-mame4all
+driftout;arcade
+driftout;fba
+driftout;mame-advmame
+driftout;mame-libretro
+driftout;mame-mame4all
+driftoutj;arcade
+driftoutj;fba
+driftoutj;mame-advmame
+driftoutj;mame-libretro
+driftoutj;mame-mame4all
+drivedge;arcade
+drivedge;fba
+drivedge;mame-advmame
+drivedge;mame-libretro
+drivedge;mame-mame4all
+driveout;arcade
+driveout;fba
+driveout;mame-advmame
+driveout;mame-libretro
+driveout;mame-mame4all
+drivfrcb;arcade
+drivfrcb;fba
+drivfrcb;mame-advmame
+drivfrcb;mame-libretro
+drivfrcb;mame-mame4all
+drivfrcg;arcade
+drivfrcg;fba
+drivfrcg;mame-advmame
+drivfrcg;mame-libretro
+drivfrcg;mame-mame4all
+drivfrcp;arcade
+drivfrcp;fba
+drivfrcp;mame-advmame
+drivfrcp;mame-libretro
+drivfrcp;mame-mame4all
+drivfrct;arcade
+drivfrct;fba
+drivfrct;mame-advmame
+drivfrct;mame-libretro
+drivfrct;mame-mame4all
+Drome Racers (USA);gba
+endurobl;arcade
+endurobl;fba
+endurobl;mame-advmame
+endurobl;mame-libretro
+endurobl;mame-mame4all
+enduror1;arcade
+enduror1;fba
+enduror1;mame-advmame
+enduror1;mame-libretro
+enduror1;mame-mame4all
+Enduro Racer (Europe);zxspectrum
+enduror;arcade
+enduror;fba
+enduror;mame-advmame
+enduror;mame-libretro
+enduror;mame-mame4all
+Europe Racer (Europe);psx
+Europe Racer (Europe);psp
+excitebka;arcade
+excitebka;fba
+excitebka;mame-advmame
+excitebka;mame-libretro
+excitebka;mame-mame4all
+excitebk;arcade
+excitebk;fba
+excitebk;mame-advmame
+excitebk;mame-libretro
+excitebk;mame-mame4all
+Exertainment Mountain Bike Rally & Speed Racer (USA);snes
+f1dreamba;arcade
+f1dreamba;fba
+f1dreamba;mame-advmame
+f1dreamba;mame-libretro
+f1dreamba;mame-mame4all
+f1dreamb;arcade
+f1dreamb;fba
+f1dreamb;mame-advmame
+f1dreamb;mame-libretro
+f1dreamb;mame-mame4all
+f1en;arcade
+f1en;fba
+f1en;mame-advmame
+f1en;mame-libretro
+f1en;mame-mame4all
+f1enj;arcade
+f1enj;fba
+f1enj;mame-advmame
+f1enj;mame-libretro
+f1enj;mame-mame4all
+f1enu;arcade
+f1enu;fba
+f1enu;mame-advmame
+f1enu;mame-libretro
+f1enu;mame-mame4all
+f1gp2;arcade
+f1gp2;fba
+f1gp2;mame-advmame
+f1gp2;mame-libretro
+f1gp2;mame-mame4all
+f1gp;arcade
+f1gp;fba
+f1gp;mame-advmame
+f1gp;mame-libretro
+f1gp;mame-mame4all
+f1gpstar;arcade
+f1gpstar;fba
+f1gpstar;mame-advmame
+f1gpstar;mame-libretro
+f1gpstar;mame-mame4all
+f1gpstr2;arcade
+f1gpstr2;fba
+f1gpstr2;mame-advmame
+f1gpstr2;mame-libretro
+f1gpstr2;mame-mame4all
+f1lap;arcade
+f1lap;fba
+f1lap;mame-advmame
+f1lap;mame-libretro
+f1lap;mame-mame4all
+f1lapj;arcade
+f1lapj;fba
+f1lapj;mame-advmame
+f1lapj;mame-libretro
+f1lapj;mame-mame4all
+F-1 Race (Japan);famicom
+F-1 Race (World);gb
+F-1 Race (World) (Rev A);gb
+F1 ROC II - Race of Champions (USA);snes
+F1 ROC - Race of Champions (USA);snes
+Famicom Grand Prix - F1 Race (Japan);fds
+Fast Tracks - Tokio Race (Europe);c64
+finalap2;arcade
+finalap2;fba
+finalap2;mame-advmame
+finalap2;mame-libretro
+finalap2;mame-mame4all
+finalap2j;arcade
+finalap2j;fba
+finalap2j;mame-advmame
+finalap2j;mame-libretro
+finalap2j;mame-mame4all
+finalap3a;arcade
+finalap3a;fba
+finalap3a;mame-advmame
+finalap3a;mame-libretro
+finalap3a;mame-mame4all
+finalap3;arcade
+finalap3;fba
+finalap3;mame-advmame
+finalap3;mame-libretro
+finalap3;mame-mame4all
+finalap3jc;arcade
+finalap3jc;fba
+finalap3jc;mame-advmame
+finalap3jc;mame-libretro
+finalap3jc;mame-mame4all
+finalap3j;arcade
+finalap3j;fba
+finalap3j;mame-advmame
+finalap3j;mame-libretro
+finalap3j;mame-mame4all
+finalapr;arcade
+finalapr;fba
+finalapr;mame-advmame
+finalapr;mame-libretro
+finalapr;mame-mame4all
+finalaprj;arcade
+finalaprj;fba
+finalaprj;mame-advmame
+finalaprj;mame-libretro
+finalaprj;mame-mame4all
+finalapro;arcade
+finalapro;fba
+finalapro;mame-advmame
+finalapro;mame-libretro
+finalapro;mame-mame4all
+finallapc;arcade
+finallapc;fba
+finallapc;mame-advmame
+finallapc;mame-libretro
+finallapc;mame-mame4all
+finallapd;arcade
+finallapd;fba
+finallapd;mame-advmame
+finallapd;mame-libretro
+finallapd;mame-mame4all
+finallap;arcade
+finallap;fba
+finallap;mame-advmame
+finallap;mame-libretro
+finallap;mame-mame4all
+finallapjb;arcade
+finallapjb;fba
+finallapjb;mame-advmame
+finallapjb;mame-libretro
+finallapjb;mame-mame4all
+finallapjc;arcade
+finallapjc;fba
+finallapjc;mame-advmame
+finallapjc;mame-libretro
+finallapjc;mame-mame4all
+fourtrax;arcade
+fourtrax;fba
+fourtrax;mame-advmame
+fourtrax;mame-libretro
+fourtrax;mame-mame4all
+fullthrl;arcade
+fullthrl;fba
+fullthrl;mame-advmame
+fullthrl;mame-libretro
+fullthrl;mame-mame4all
+Future Racer (Europe);psx
+Future Racer (Europe);psp
+Gadget Racers (USA);gba
+gekisou;arcade
+gekisou;fba
+gekisou;mame-advmame
+gekisou;mame-libretro
+gekisou;mame-mame4all
+gprider;arcade
+gprider;fba
+gprider;mame-advmame
+gprider;mame-libretro
+gprider;mame-mame4all
+gpriderj;arcade
+gpriderj;fba
+gpriderj;mame-advmame
+gpriderj;mame-libretro
+gpriderj;mame-mame4all
+gprideru;arcade
+gprideru;fba
+gprideru;mame-advmame
+gprideru;mame-libretro
+gprideru;mame-mame4all
+Gravrace (Europe);c64
+grchamp;arcade
+grchamp;fba
+grchamp;mame-advmame
+grchamp;mame-libretro
+grchamp;mame-mame4all
+Great American Cross-Country Road Race, The (USA);c64
+groundfx;arcade
+groundfx;fba
+groundfx;mame-advmame
+groundfx;mame-libretro
+groundfx;mame-mame4all
+grudge;arcade
+grudge;fba
+grudge;mame-advmame
+grudge;mame-libretro
+grudge;mame-mame4all
+gticluba;arcade
+gticluba;fba
+gticluba;mame-advmame
+gticluba;mame-libretro
+gticluba;mame-mame4all
+gticlub;arcade
+gticlub;fba
+gticlub;mame-advmame
+gticlub;mame-libretro
+gticlub;mame-mame4all
+gticlubj;arcade
+gticlubj;fba
+gticlubj;mame-advmame
+gticlubj;mame-libretro
+gticlubj;mame-mame4all
+gticlubu;arcade
+gticlubu;fba
+gticlubu;mame-advmame
+gticlubu;mame-libretro
+gticlubu;mame-mame4all
+gtmr;arcade
+gtmr;fba
+gtmr;mame-advmame
+gtmr;mame-libretro
+gtmr;mame-mame4all
+gtmr;arcade
+gtmr;fba
+gtmr;mame-advmame
+gtmr;mame-libretro
+gtmr;mame-mame4all
+gtmr2a;arcade
+gtmr2a;fba
+gtmr2a;mame-advmame
+gtmr2a;mame-libretro
+gtmr2a;mame-mame4all
+gtmr2a;arcade
+gtmr2a;fba
+gtmr2a;mame-advmame
+gtmr2a;mame-libretro
+gtmr2a;mame-mame4all
+gtmr2;arcade
+gtmr2;fba
+gtmr2;mame-advmame
+gtmr2;mame-libretro
+gtmr2;mame-mame4all
+gtmr2;arcade
+gtmr2;fba
+gtmr2;mame-advmame
+gtmr2;mame-libretro
+gtmr2;mame-mame4all
+gtmr2u;arcade
+gtmr2u;fba
+gtmr2u;mame-advmame
+gtmr2u;mame-libretro
+gtmr2u;mame-mame4all
+gtmra;arcade
+gtmra;fba
+gtmra;mame-advmame
+gtmra;mame-libretro
+gtmra;mame-mame4all
+gtmra;arcade
+gtmra;fba
+gtmra;mame-advmame
+gtmra;mame-libretro
+gtmra;mame-mame4all
+gtmre;arcade
+gtmre;fba
+gtmre;mame-advmame
+gtmre;mame-libretro
+gtmre;mame-mame4all
+gtmre;arcade
+gtmre;fba
+gtmre;mame-advmame
+gtmre;mame-libretro
+gtmre;mame-mame4all
+gtmrusa;arcade
+gtmrusa;fba
+gtmrusa;mame-advmame
+gtmrusa;mame-libretro
+gtmrusa;mame-mame4all
+gtmrusa;arcade
+gtmrusa;fba
+gtmrusa;mame-advmame
+gtmrusa;mame-libretro
+gtmrusa;mame-mame4all
+GT Racers (Europe) (En,Fr,De,Es,It);gba
+hangon1;arcade
+hangon1;fba
+hangon1;mame-advmame
+hangon1;mame-libretro
+hangon1;mame-mame4all
+hangon2;arcade
+hangon2;fba
+hangon2;mame-advmame
+hangon2;mame-libretro
+hangon2;mame-mame4all
+hangon;arcade
+hangon;fba
+hangon;mame-advmame
+hangon;mame-libretro
+hangon;mame-mame4all
+hangonjr;arcade
+hangonjr;fba
+hangonjr;mame-advmame
+hangonjr;mame-libretro
+hangonjr;mame-mame4all
+Harley-Davidson Motor Cycles - Race Across America (USA);gbc
+Harricana - International Snowmobile Race (Europe);amstradcpc
+hcrashc;arcade
+hcrashc;fba
+hcrashc;mame-advmame
+hcrashc;mame-libretro
+hcrashc;mame-mame4all
+hcrash;arcade
+hcrash;fba
+hcrash;mame-advmame
+hcrash;mame-libretro
+hcrash;mame-mame4all
+hndlchmp;arcade
+hndlchmp;fba
+hndlchmp;mame-advmame
+hndlchmp;mame-libretro
+hndlchmp;mame-mame4all
+hotchase;arcade
+hotchase;fba
+hotchase;mame-advmame
+hotchase;mame-libretro
+hotchase;mame-mame4all
+hotroda;arcade
+hotroda;fba
+hotroda;mame-advmame
+hotroda;mame-libretro
+hotroda;mame-mame4all
+hotrod;arcade
+hotrod;fba
+hotrod;mame-advmame
+hotrod;mame-libretro
+hotrod;mame-mame4all
+hotrodj;arcade
+hotrodj;fba
+hotrodj;mame-advmame
+hotrodj;mame-libretro
+hotrodj;mame-mame4all
+Hot Wheels - World Race (USA);gba
+hwrace;arcade
+hwrace;fba
+hwrace;mame-advmame
+hwrace;mame-libretro
+hwrace;mame-mame4all
+hwrace;arcade
+hwrace;fba
+hwrace;mame-advmame
+hwrace;mame-libretro
+hwrace;mame-mame4all
+hyprdriv;arcade
+hyprdriv;fba
+hyprdriv;mame-advmame
+hyprdriv;mame-libretro
+hyprdriv;mame-mame4all
+imolagp;arcade
+imolagp;fba
+imolagp;mame-advmame
+imolagp;mame-libretro
+imolagp;mame-mame4all
+imolagpo;arcade
+imolagpo;fba
+imolagpo;mame-advmame
+imolagpo;mame-libretro
+imolagpo;mame-mame4all
+Indoor Race (Europe);amstradcpc
+Indoor Race (Spain);zxspectrum
+indyheat;arcade
+indyheat;fba
+indyheat;mame-advmame
+indyheat;mame-libretro
+indyheat;mame-mame4all
+Ivan 'Ironman' Stewart's Super Off Road Racer (Europe);amstradcpc
+Ivan 'Ironman' Stewart's Super Off Road Racer (Europe);zxspectrum
+jcross;arcade
+jcross;fba
+jcross;mame-advmame
+jcross;mame-libretro
+jcross;mame-mame4all
+Jetracer (Europe);psx
+Jetracer (Europe);psp
+kamenrid;arcade
+kamenrid;fba
+kamenrid;mame-advmame
+kamenrid;mame-libretro
+kamenrid;mame-mame4all
+kickridr;arcade
+kickridr;fba
+kickridr;mame-advmame
+kickridr;mame-libretro
+kickridr;mame-mame4all
+kikstart;arcade
+kikstart;fba
+kikstart;mame-advmame
+kikstart;mame-libretro
+kikstart;mame-mame4all
+konamigt;arcade
+konamigt;fba
+konamigt;mame-advmame
+konamigt;mame-libretro
+konamigt;mame-mame4all
+Konami Krazy Racers (USA);gba
+lagunar;arcade
+lagunar;fba
+lagunar;mame-advmame
+lagunar;mame-libretro
+lagunar;mame-mame4all
+lagunar;arcade
+lagunar;fba
+lagunar;mame-advmame
+lagunar;mame-libretro
+lagunar;mame-mame4all
+Last Race, The (Europe) (Unl);amstradcpc
+ledstorm2;arcade
+ledstorm2;fba
+ledstorm2;mame-advmame
+ledstorm2;mame-libretro
+ledstorm2;mame-mame4all
+ledstorm;arcade
+ledstorm;fba
+ledstorm;mame-advmame
+ledstorm;mame-libretro
+ledstorm;mame-mame4all
+LEGO Racers 2 (USA) (En,Fr);gba
+LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi);n64
+LEGO Racers (USA);gbc
+LEGO Racers (USA);psx
+LEGO Racers (USA);psp
+London Racer (Europe);psx
+London Racer (Europe);psp
+London Racer II (Europe);psx
+London Racer II (Europe);psp
+Looney Tunes - Space Race (USA);dreamcast
+madgearj;arcade
+madgearj;fba
+madgearj;mame-advmame
+madgearj;mame-libretro
+madgearj;mame-mame4all
+madgear;arcade
+madgear;fba
+madgear;mame-advmame
+madgear;mame-libretro
+madgear;mame-mame4all
+maxrpm;arcade
+maxrpm;fba
+maxrpm;mame-advmame
+maxrpm;mame-libretro
+maxrpm;mame-mame4all
+MegaRace (USA);3do
+MegaRace (USA);segacd
+Metropolis Street Racer (USA);dreamcast
+Michelin Rally Masters - Race of Champions (USA);psx
+Michelin Rally Masters - Race of Champions (USA);psp
+Mini Racers (USA);c64
+Miracle Space Race (USA);psx
+Miracle Space Race (USA);psp
+Monster Racer (Europe);psx
+Monster Racer (Europe);psp
+montecar;arcade
+montecar;fba
+montecar;mame-advmame
+montecar;mame-libretro
+montecar;mame-mame4all
+Moonracer (Germany);c64
+Moonshine Racers (Europe) (Disk 1);atarist
+Moonshine Racers (Europe) (Disk 2);atarist
+motorace;arcade
+motorace;fba
+motorace;mame-advmame
+motorace;mame-libretro
+motorace;mame-mame4all
+mototour;arcade
+mototour;fba
+mototour;mame-advmame
+mototour;mame-libretro
+mototour;mame-mame4all
+Mountain Bike Racer (Positive) (Europe);zxspectrum
+Muppet RaceMania (USA);psx
+Muppet RaceMania (USA);psp
+NASCAR Racers (USA);gbc
+neodrift;arcade
+neodrift;fba
+neodrift;mame-advmame
+neodrift;mame-libretro
+neodrift;mame-mame4all
+NetRacer (USA) (Unl);c64
+Night Racer (Europe);c64
+N.Y. Race (Europe);gbc
+offroadc1;arcade
+offroadc1;fba
+offroadc1;mame-advmame
+offroadc1;mame-libretro
+offroadc1;mame-mame4all
+offroadc3;arcade
+offroadc3;fba
+offroadc3;mame-advmame
+offroadc3;mame-libretro
+offroadc3;mame-mame4all
+offroadc4;arcade
+offroadc4;fba
+offroadc4;mame-advmame
+offroadc4;mame-libretro
+offroadc4;mame-mame4all
+offroadc5;arcade
+offroadc5;fba
+offroadc5;mame-advmame
+offroadc5;mame-libretro
+offroadc5;mame-mame4all
+offroadc;arcade
+offroadc;fba
+offroadc;mame-advmame
+offroadc;mame-libretro
+offroadc;mame-mame4all
+offroad;arcade
+offroad;fba
+offroad;mame-advmame
+offroad;mame-libretro
+offroad;mame-mame4all
+offroadt2p;arcade
+offroadt2p;fba
+offroadt2p;mame-advmame
+offroadt2p;mame-libretro
+offroadt2p;mame-mame4all
+offroadt;arcade
+offroadt;fba
+offroadt;mame-advmame
+offroadt;mame-libretro
+offroadt;mame-mame4all
+orunnersj;arcade
+orunnersj;fba
+orunnersj;mame-advmame
+orunnersj;mame-libretro
+orunnersj;mame-mame4all
+orunners;arcade
+orunners;fba
+orunners;mame-advmame
+orunners;mame-libretro
+orunners;mame-mame4all
+orunnersu;arcade
+orunnersu;fba
+orunnersu;mame-advmame
+orunnersu;mame-libretro
+orunnersu;mame-mame4all
+outrunb;arcade
+outrunb;fba
+outrunb;mame-advmame
+outrunb;mame-libretro
+outrunb;mame-mame4all
+outrundxa;arcade
+outrundxa;fba
+outrundxa;mame-advmame
+outrundxa;mame-libretro
+outrundxa;mame-mame4all
+outrundxj;arcade
+outrundxj;fba
+outrundxj;mame-advmame
+outrundxj;mame-libretro
+outrundxj;mame-mame4all
+outrundx;arcade
+outrundx;fba
+outrundx;mame-advmame
+outrundx;mame-libretro
+outrundx;mame-mame4all
+outrun;arcade
+outrun;fba
+outrun;mame-advmame
+outrun;mame-libretro
+outrun;mame-mame4all
+outrunra;arcade
+outrunra;fba
+outrunra;mame-advmame
+outrunra;mame-libretro
+outrunra;mame-mame4all
+overtop;arcade
+overtop;fba
+overtop;mame-advmame
+overtop;mame-libretro
+overtop;mame-mame4all
+pc_ebike;arcade
+pc_ebike;fba
+pc_ebike;mame-advmame
+pc_ebike;mame-libretro
+pc_ebike;mame-mame4all
+pc_radr2;arcade
+pc_radr2;fba
+pc_radr2;mame-advmame
+pc_radr2;mame-libretro
+pc_radr2;mame-mame4all
+pc_radr2;arcade
+pc_radr2;fba
+pc_radr2;mame-advmame
+pc_radr2;mame-libretro
+pc_radr2;mame-mame4all
+pc_radrc;arcade
+pc_radrc;fba
+pc_radrc;mame-advmame
+pc_radrc;mame-libretro
+pc_radrc;mame-mame4all
+pc_rcpam;arcade
+pc_rcpam;fba
+pc_rcpam;mame-advmame
+pc_rcpam;mame-libretro
+pc_rcpam;mame-mame4all
+pdrifta;arcade
+pdrifta;fba
+pdrifta;mame-advmame
+pdrifta;mame-libretro
+pdrifta;mame-mame4all
+pdrifte;arcade
+pdrifte;fba
+pdrifte;mame-advmame
+pdrifte;mame-libretro
+pdrifte;mame-mame4all
+pdriftj;arcade
+pdriftj;fba
+pdriftj;mame-advmame
+pdriftj;mame-libretro
+pdriftj;mame-mame4all
+pdrift;arcade
+pdrift;fba
+pdrift;mame-advmame
+pdrift;mame-libretro
+pdrift;mame-mame4all
+Penny Racers (Europe);gba
+Penny Racers (Europe);psx
+Penny Racers (Europe);psp
+Penny Racers (USA);n64
+pitnruna;arcade
+pitnruna;fba
+pitnruna;mame-advmame
+pitnruna;mame-libretro
+pitnruna;mame-mame4all
+pitnruna;arcade
+pitnruna;fba
+pitnruna;mame-advmame
+pitnruna;mame-libretro
+pitnruna;mame-mame4all
+pitnrun;arcade
+pitnrun;fba
+pitnrun;mame-advmame
+pitnrun;mame-libretro
+pitnrun;mame-mame4all
+pitnrun;arcade
+pitnrun;fba
+pitnrun;mame-advmame
+pitnrun;mame-libretro
+pitnrun;mame-mame4all
+pocketrc;arcade
+pocketrc;fba
+pocketrc;mame-advmame
+pocketrc;mame-libretro
+pocketrc;mame-mame4all
+polepos2a;arcade
+polepos2a;fba
+polepos2a;mame-advmame
+polepos2a;mame-libretro
+polepos2a;mame-mame4all
+polepos2bi;arcade
+polepos2bi;fba
+polepos2bi;mame-advmame
+polepos2bi;mame-libretro
+polepos2bi;mame-mame4all
+polepos2b;arcade
+polepos2b;fba
+polepos2b;mame-advmame
+polepos2b;mame-libretro
+polepos2b;mame-mame4all
+polepos2;arcade
+polepos2;fba
+polepos2;mame-advmame
+polepos2;mame-libretro
+polepos2;mame-mame4all
+poleposa1;arcade
+poleposa1;fba
+poleposa1;mame-advmame
+poleposa1;mame-libretro
+poleposa1;mame-mame4all
+poleposa2;arcade
+poleposa2;fba
+poleposa2;mame-advmame
+poleposa2;mame-libretro
+poleposa2;mame-mame4all
+poleposj;arcade
+poleposj;fba
+poleposj;mame-advmame
+poleposj;mame-libretro
+poleposj;mame-mame4all
+polepos;arcade
+polepos;fba
+polepos;mame-advmame
+polepos;mame-libretro
+polepos;mame-mame4all
+powerdrv;arcade
+powerdrv;fba
+powerdrv;mame-advmame
+powerdrv;mame-libretro
+powerdrv;mame-mame4all
+Power Racer (USA, Europe);gb
+Power Rangers Zeo - Battle Racers (USA);snes
+ppspeed;arcade
+ppspeed;fba
+ppspeed;mame-advmame
+ppspeed;mame-libretro
+ppspeed;mame-mame4all
+pwheelsj;arcade
+pwheelsj;fba
+pwheelsj;mame-advmame
+pwheelsj;mame-libretro
+pwheelsj;mame-mame4all
+R4 - Ridge Racer Type 4 (USA) (Disc 1);psx
+R4 - Ridge Racer Type 4 (USA) (Disc 1);psp
+R4 - Ridge Racer Type 4 (USA) (Disc 2);psx
+R4 - Ridge Racer Type 4 (USA) (Disc 2);psp
+Race Ace (Europe);zxspectrum
+Race America (USA);nes
+Race Days (USA);gb
+racedriv1;arcade
+racedriv1;fba
+racedriv1;mame-advmame
+racedriv1;mame-libretro
+racedriv1;mame-mame4all
+racedriv1;arcade
+racedriv1;fba
+racedriv1;mame-advmame
+racedriv1;mame-libretro
+racedriv1;mame-mame4all
+racedriv2;arcade
+racedriv2;fba
+racedriv2;mame-advmame
+racedriv2;mame-libretro
+racedriv2;mame-mame4all
+racedriv2;arcade
+racedriv2;fba
+racedriv2;mame-advmame
+racedriv2;mame-libretro
+racedriv2;mame-mame4all
+racedriv3;arcade
+racedriv3;fba
+racedriv3;mame-advmame
+racedriv3;mame-libretro
+racedriv3;mame-mame4all
+racedriv3;arcade
+racedriv3;fba
+racedriv3;mame-advmame
+racedriv3;mame-libretro
+racedriv3;mame-mame4all
+racedriv4;arcade
+racedriv4;fba
+racedriv4;mame-advmame
+racedriv4;mame-libretro
+racedriv4;mame-mame4all
+racedriv4;arcade
+racedriv4;fba
+racedriv4;mame-advmame
+racedriv4;mame-libretro
+racedriv4;mame-mame4all
+racedrivb1;arcade
+racedrivb1;fba
+racedrivb1;mame-advmame
+racedrivb1;mame-libretro
+racedrivb1;mame-mame4all
+racedrivb1;arcade
+racedrivb1;fba
+racedrivb1;mame-advmame
+racedrivb1;mame-libretro
+racedrivb1;mame-mame4all
+racedrivb4;arcade
+racedrivb4;fba
+racedrivb4;mame-advmame
+racedrivb4;mame-libretro
+racedrivb4;mame-mame4all
+racedrivb4;arcade
+racedrivb4;fba
+racedrivb4;mame-advmame
+racedrivb4;mame-libretro
+racedrivb4;mame-mame4all
+racedrivb;arcade
+racedrivb;fba
+racedrivb;mame-advmame
+racedrivb;mame-libretro
+racedrivb;mame-mame4all
+racedrivb;arcade
+racedrivb;fba
+racedrivb;mame-advmame
+racedrivb;mame-libretro
+racedrivb;mame-mame4all
+racedrivc1;arcade
+racedrivc1;fba
+racedrivc1;mame-advmame
+racedrivc1;mame-libretro
+racedrivc1;mame-mame4all
+racedrivc1;arcade
+racedrivc1;fba
+racedrivc1;mame-advmame
+racedrivc1;mame-libretro
+racedrivc1;mame-mame4all
+racedrivc2;arcade
+racedrivc2;fba
+racedrivc2;mame-advmame
+racedrivc2;mame-libretro
+racedrivc2;mame-mame4all
+racedrivc2;arcade
+racedrivc2;fba
+racedrivc2;mame-advmame
+racedrivc2;mame-libretro
+racedrivc2;mame-mame4all
+racedrivc4;arcade
+racedrivc4;fba
+racedrivc4;mame-advmame
+racedrivc4;mame-libretro
+racedrivc4;mame-mame4all
+racedrivc4;arcade
+racedrivc4;fba
+racedrivc4;mame-advmame
+racedrivc4;mame-libretro
+racedrivc4;mame-mame4all
+racedrivcb4;arcade
+racedrivcb4;fba
+racedrivcb4;mame-advmame
+racedrivcb4;mame-libretro
+racedrivcb4;mame-mame4all
+racedrivcb4;arcade
+racedrivcb4;fba
+racedrivcb4;mame-advmame
+racedrivcb4;mame-libretro
+racedrivcb4;mame-mame4all
+racedrivcb;arcade
+racedrivcb;fba
+racedrivcb;mame-advmame
+racedrivcb;mame-libretro
+racedrivcb;mame-mame4all
+racedrivcb;arcade
+racedrivcb;fba
+racedrivcb;mame-advmame
+racedrivcb;mame-libretro
+racedrivcb;mame-mame4all
+racedrivcg4;arcade
+racedrivcg4;fba
+racedrivcg4;mame-advmame
+racedrivcg4;mame-libretro
+racedrivcg4;mame-mame4all
+racedrivcg4;arcade
+racedrivcg4;fba
+racedrivcg4;mame-advmame
+racedrivcg4;mame-libretro
+racedrivcg4;mame-mame4all
+racedrivcg;arcade
+racedrivcg;fba
+racedrivcg;mame-advmame
+racedrivcg;mame-libretro
+racedrivcg;mame-mame4all
+racedrivcg;arcade
+racedrivcg;fba
+racedrivcg;mame-advmame
+racedrivcg;mame-libretro
+racedrivcg;mame-mame4all
+racedrivc;arcade
+racedrivc;fba
+racedrivc;mame-advmame
+racedrivc;mame-libretro
+racedrivc;mame-mame4all
+racedrivc;arcade
+racedrivc;fba
+racedrivc;mame-advmame
+racedrivc;mame-libretro
+racedrivc;mame-mame4all
+racedrivg1;arcade
+racedrivg1;fba
+racedrivg1;mame-advmame
+racedrivg1;mame-libretro
+racedrivg1;mame-mame4all
+racedrivg1;arcade
+racedrivg1;fba
+racedrivg1;mame-advmame
+racedrivg1;mame-libretro
+racedrivg1;mame-mame4all
+racedrivg4;arcade
+racedrivg4;fba
+racedrivg4;mame-advmame
+racedrivg4;mame-libretro
+racedrivg4;mame-mame4all
+racedrivg4;arcade
+racedrivg4;fba
+racedrivg4;mame-advmame
+racedrivg4;mame-libretro
+racedrivg4;mame-mame4all
+racedrivg;arcade
+racedrivg;fba
+racedrivg;mame-advmame
+racedrivg;mame-libretro
+racedrivg;mame-mame4all
+racedrivg;arcade
+racedrivg;fba
+racedrivg;mame-advmame
+racedrivg;mame-libretro
+racedrivg;mame-mame4all
+Race Drivin' (Europe);atarist
+Race Drivin' (USA, Europe);gb
+Race Drivin' (USA);genesis
+Race Drivin' (USA);snes
+racedriv;arcade
+racedriv;fba
+racedriv;mame-advmame
+racedriv;mame-libretro
+racedriv;mame-mame4all
+racedriv;arcade
+racedriv;fba
+racedriv;mame-advmame
+racedriv;mame-libretro
+racedriv;mame-mame4all
+Race (Europe) (Unl);c64
+Race Fun (Europe);zxspectrum
+Race, The (Europe);c64
+Race, The (Europe);zxspectrum
+Race, The (Players Premier) (Europe);amstradcpc
+rachero;arcade
+rachero;fba
+rachero;mame-advmame
+rachero;mame-libretro
+rachero;mame-mame4all
+racingbj;arcade
+racingbj;fba
+racingbj;mame-advmame
+racingbj;mame-libretro
+racingbj;mame-mame4all
+racingb;arcade
+racingb;fba
+racingb;mame-advmame
+racingb;mame-libretro
+racingb;mame-mame4all
+radikalba;arcade
+radikalba;fba
+radikalba;mame-advmame
+radikalba;mame-libretro
+radikalba;mame-mame4all
+radikalb;arcade
+radikalb;fba
+radikalb;mame-advmame
+radikalb;mame-libretro
+radikalb;mame-mame4all
+Radio Controlled Racer (Europe);atarist
+Rad Racer II (USA);nes
+Rad Racer (USA);nes
+Rad Ramp Racer (Europe);zxspectrum
+Rage Racer (USA);psx
+Rage Racer (USA);psp
+rallybik;arcade
+rallybik;fba
+rallybik;mame-advmame
+rallybik;mame-libretro
+rallybik;mame-mame4all
+Rascal Racers (USA);psx
+Rascal Racers (USA);psp
+raveracja;arcade
+raveracja;fba
+raveracja;mame-advmame
+raveracja;mame-libretro
+raveracja;mame-mame4all
+raveracj;arcade
+raveracj;fba
+raveracj;mame-advmame
+raveracj;mame-libretro
+raveracj;mame-mame4all
+raveracw;arcade
+raveracw;fba
+raveracw;mame-advmame
+raveracw;mame-libretro
+raveracw;mame-mame4all
+Ray Tracers (USA);psx
+Ray Tracers (USA);psp
+redlin2p;arcade
+redlin2p;fba
+redlin2p;mame-advmame
+redlin2p;mame-libretro
+redlin2p;mame-mame4all
+Redline F-1 Racer (USA);snes
+Renegade Racers (USA);psx
+Renegade Racers (USA);psp
+rf2;arcade
+rf2;fba
+rf2;mame-advmame
+rf2;mame-libretro
+rf2;mame-mame4all
+ridgera2ja;arcade
+ridgera2ja;fba
+ridgera2ja;mame-advmame
+ridgera2ja;mame-libretro
+ridgera2ja;mame-mame4all
+ridgera2j;arcade
+ridgera2j;fba
+ridgera2j;mame-advmame
+ridgera2j;mame-libretro
+ridgera2j;mame-mame4all
+ridgera2;arcade
+ridgera2;fba
+ridgera2;mame-advmame
+ridgera2;mame-libretro
+ridgera2;mame-mame4all
+ridgerac3;arcade
+ridgerac3;fba
+ridgerac3;mame-advmame
+ridgerac3;mame-libretro
+ridgerac3;mame-mame4all
+ridgeracb;arcade
+ridgeracb;fba
+ridgeracb;mame-advmame
+ridgeracb;mame-libretro
+ridgeracb;mame-mame4all
+Ridge Racer Revolution (USA);psx
+Ridge Racer Revolution (USA);psp
+Ridge Racer (USA);psx
+Ridge Racer (USA);psp
+ridgeracj;arcade
+ridgeracj;fba
+ridgeracj;mame-advmame
+ridgeracj;mame-libretro
+ridgeracj;mame-mame4all
+ridgerac;arcade
+ridgerac;fba
+ridgerac;mame-advmame
+ridgerac;mame-libretro
+ridgerac;mame-mame4all
+ridheroh;arcade
+ridheroh;fba
+ridheroh;mame-advmame
+ridheroh;mame-libretro
+ridheroh;mame-mame4all
+ridhero;arcade
+ridhero;fba
+ridhero;mame-advmame
+ridhero;mame-libretro
+ridhero;mame-mame4all
+Rip-Tide Racer (Europe);gbc
+River Race (Europe) (Unl);amstradcpc
+roadf2;arcade
+roadf2;fba
+roadf2;mame-advmame
+roadf2;mame-libretro
+roadf2;mame-mame4all
+roadf;arcade
+roadf;fba
+roadf;mame-advmame
+roadf;mame-libretro
+roadf;mame-mame4all
+Road Racer (Hyperion Software) (Europe);zxspectrum
+Road Racers (Europe);zxspectrum
+Road Racer (Thorn EMI) (Europe);zxspectrum
+roadrioto;arcade
+roadrioto;fba
+roadrioto;mame-advmame
+roadrioto;mame-libretro
+roadrioto;mame-mame4all
+roadriot;arcade
+roadriot;fba
+roadriot;mame-advmame
+roadriot;mame-libretro
+roadriot;mame-mame4all
+Rocket Racing (USA);pspminis
+roughrac;arcade
+roughrac;fba
+roughrac;mame-advmame
+roughrac;mame-libretro
+roughrac;mame-mame4all
+roughrac;arcade
+roughrac;fba
+roughrac;mame-advmame
+roughrac;mame-libretro
+roughrac;mame-mame4all
+roundup5;arcade
+roundup5;fba
+roundup5;mame-advmame
+roundup5;mame-libretro
+roundup5;mame-mame4all
+RR64 - Ridge Racer 64 (USA);n64
+Safari Race (Japan);sg-1000
+scross;arcade
+scross;fba
+scross;mame-advmame
+scross;mame-libretro
+scross;mame-mame4all
+scrossu;arcade
+scrossu;fba
+scrossu;mame-advmame
+scrossu;mame-libretro
+scrossu;mame-mame4all
+sformula;arcade
+sformula;fba
+sformula;mame-advmame
+sformula;mame-libretro
+sformula;mame-mame4all
+sfrush;arcade
+sfrush;fba
+sfrush;mame-advmame
+sfrush;mame-libretro
+sfrush;mame-mame4all
+shangon2;arcade
+shangon2;fba
+shangon2;mame-advmame
+shangon2;mame-libretro
+shangon2;mame-mame4all
+shangon3;arcade
+shangon3;fba
+shangon3;mame-advmame
+shangon3;mame-libretro
+shangon3;mame-mame4all
+shangonle;arcade
+shangonle;fba
+shangonle;mame-advmame
+shangonle;mame-libretro
+shangonle;mame-mame4all
+shangonrb;arcade
+shangonrb;fba
+shangonrb;mame-advmame
+shangonrb;mame-libretro
+shangonrb;mame-mame4all
+shangonro;arcade
+shangonro;fba
+shangonro;mame-advmame
+shangonro;mame-libretro
+shangonro;mame-mame4all
+shangon;arcade
+shangon;fba
+shangon;mame-advmame
+shangon;mame-libretro
+shangon;mame-mame4all
+shtridera;arcade
+shtridera;fba
+shtridera;mame-advmame
+shtridera;mame-libretro
+shtridera;mame-mame4all
+shtriderb;arcade
+shtriderb;fba
+shtriderb;mame-advmame
+shtriderb;mame-libretro
+shtriderb;mame-mame4all
+shtrider;arcade
+shtrider;fba
+shtrider;mame-advmame
+shtrider;mame-libretro
+shtrider;mame-mame4all
+sidebs2j;arcade
+sidebs2j;fba
+sidebs2j;mame-advmame
+sidebs2j;mame-libretro
+sidebs2j;mame-mame4all
+sidebs2;arcade
+sidebs2;fba
+sidebs2;mame-advmame
+sidebs2;mame-libretro
+sidebs2;mame-mame4all
+sidebsja;arcade
+sidebsja;fba
+sidebsja;mame-advmame
+sidebsja;mame-libretro
+sidebsja;mame-mame4all
+sidebs;arcade
+sidebs;fba
+sidebs;mame-advmame
+sidebs;mame-libretro
+sidebs;mame-mame4all
+slipstrmh;arcade
+slipstrmh;fba
+slipstrmh;mame-advmame
+slipstrmh;mame-libretro
+slipstrmh;mame-mame4all
+slipstrm;arcade
+slipstrm;fba
+slipstrm;mame-advmame
+slipstrm;mame-libretro
+slipstrm;mame-mame4all
+Slot Car Racer (Europe);c64
+smgp5;arcade
+smgp5;fba
+smgp5;mame-advmame
+smgp5;mame-libretro
+smgp5;mame-mame4all
+smgp6;arcade
+smgp6;fba
+smgp6;mame-advmame
+smgp6;mame-libretro
+smgp6;mame-mame4all
+smgpja;arcade
+smgpja;fba
+smgpja;mame-advmame
+smgpja;mame-libretro
+smgpja;mame-mame4all
+smgpj;arcade
+smgpj;fba
+smgpj;mame-advmame
+smgpj;mame-libretro
+smgpj;mame-mame4all
+smgp;arcade
+smgp;fba
+smgp;mame-advmame
+smgp;mame-libretro
+smgp;mame-mame4all
+smgpu1;arcade
+smgpu1;fba
+smgpu1;mame-advmame
+smgpu1;mame-libretro
+smgpu1;mame-mame4all
+smgpu2;arcade
+smgpu2;fba
+smgpu2;mame-advmame
+smgpu2;mame-libretro
+smgpu2;mame-mame4all
+smgpu;arcade
+smgpu;fba
+smgpu;mame-advmame
+smgpu;mame-libretro
+smgpu;mame-mame4all
+Smurf Racer! (USA);psx
+Smurf Racer! (USA);psp
+Space Racer (Europe);atarist
+Space Racer (Europe);zxspectrum
+Space Racer (France);amstradcpc
+Space Racer (France);c64
+spcpostn;arcade
+spcpostn;fba
+spcpostn;mame-advmame
+spcpostn;mame-libretro
+spcpostn;mame-mame4all
+Speed Racer in My Most Dangerous Adventures (USA);snes
+Speed Racer (USA);c64
+Speed Racer (USA);psx
+Speed Racer (USA);psp
+speedrcr;arcade
+speedrcr;fba
+speedrcr;mame-advmame
+speedrcr;mame-libretro
+speedrcr;mame-mame4all
+speedup10;arcade
+speedup10;fba
+speedup10;mame-advmame
+speedup10;mame-libretro
+speedup10;mame-mame4all
+speedup;arcade
+speedup;fba
+speedup;mame-advmame
+speedup;mame-libretro
+speedup;mame-mame4all
+sprcros2a;arcade
+sprcros2a;fba
+sprcros2a;mame-advmame
+sprcros2a;mame-libretro
+sprcros2a;mame-mame4all
+sprcros2;arcade
+sprcros2;fba
+sprcros2;mame-advmame
+sprcros2;mame-libretro
+sprcros2;mame-mame4all
+sprint1;arcade
+sprint1;fba
+sprint1;mame-advmame
+sprint1;mame-libretro
+sprint1;mame-mame4all
+sprint2a;arcade
+sprint2a;fba
+sprint2a;mame-advmame
+sprint2a;mame-libretro
+sprint2a;mame-mame4all
+sprint2h;arcade
+sprint2h;fba
+sprint2h;mame-advmame
+sprint2h;mame-libretro
+sprint2h;mame-mame4all
+sprint2;arcade
+sprint2;fba
+sprint2;mame-advmame
+sprint2;mame-libretro
+sprint2;mame-mame4all
+sprint4a;arcade
+sprint4a;fba
+sprint4a;mame-advmame
+sprint4a;mame-libretro
+sprint4a;mame-mame4all
+sprint4;arcade
+sprint4;fba
+sprint4;mame-advmame
+sprint4;mame-libretro
+sprint4;mame-mame4all
+sprint8a;arcade
+sprint8a;fba
+sprint8a;mame-advmame
+sprint8a;mame-libretro
+sprint8a;mame-mame4all
+sprint8;arcade
+sprint8;fba
+sprint8;mame-advmame
+sprint8;mame-libretro
+sprint8;mame-mame4all
+sspeedr;arcade
+sspeedr;fba
+sspeedr;mame-advmame
+sspeedr;mame-libretro
+sspeedr;mame-mame4all
+sspeedr;arcade
+sspeedr;fba
+sspeedr;mame-advmame
+sspeedr;mame-libretro
+sspeedr;mame-mame4all
+ssprint1;arcade
+ssprint1;fba
+ssprint1;mame-advmame
+ssprint1;mame-libretro
+ssprint1;mame-mame4all
+ssprint3;arcade
+ssprint3;fba
+ssprint3;mame-advmame
+ssprint3;mame-libretro
+ssprint3;mame-mame4all
+ssprintf;arcade
+ssprintf;fba
+ssprintf;mame-advmame
+ssprintf;mame-libretro
+ssprintf;mame-mame4all
+ssprintg1;arcade
+ssprintg1;fba
+ssprintg1;mame-advmame
+ssprintg1;mame-libretro
+ssprintg1;mame-mame4all
+ssprintg;arcade
+ssprintg;fba
+ssprintg;mame-advmame
+ssprintg;mame-libretro
+ssprintg;mame-mame4all
+ssprints;arcade
+ssprints;fba
+ssprints;mame-advmame
+ssprints;mame-libretro
+ssprints;mame-mame4all
+ssprint;arcade
+ssprint;fba
+ssprint;mame-advmame
+ssprint;mame-libretro
+ssprint;mame-mame4all
+ssrj;arcade
+ssrj;fba
+ssrj;mame-advmame
+ssrj;mame-libretro
+ssrj;mame-mame4all
+ssrj;arcade
+ssrj;fba
+ssrj;mame-advmame
+ssrj;mame-libretro
+ssrj;mame-mame4all
+Starace (Europe);c64
+Star Wars Episode I - Racer (USA, Europe);gbc
+Star Wars Episode I - Racer (USA);n64
+Star Wars - Episode I Racer (USA);dreamcast
+Stock Car Racer (Europe);psx
+Stock Car Racer (Europe);psp
+stocker;arcade
+stocker;fba
+stocker;mame-advmame
+stocker;mame-libretro
+stocker;mame-mame4all
+Street Racer (Europe);genesis
+Street Racer (USA, Europe);gb
+Street Racer (USA);atari2600
+Street Racer (USA);psx
+Street Racer (USA);psp
+Street Racer (USA);snes
+Stunt Car Racer (Europe);amstradcpc
+Stunt Car Racer (Europe);atarist
+Stunt Car Racer (Europe);zxspectrum
+Stunt Race FX (USA);snes
+Stunt Racer 64 (USA);n64
+Stunt Track Racer (USA);c64
+Surf Rocket Racers (USA);dreamcast
+suzuk8h2j;arcade
+suzuk8h2j;fba
+suzuk8h2j;mame-advmame
+suzuk8h2j;mame-libretro
+suzuk8h2j;mame-mame4all
+suzuk8h2;arcade
+suzuk8h2;fba
+suzuk8h2;mame-advmame
+suzuk8h2;mame-libretro
+suzuk8h2;mame-mame4all
+suzuka8hj;arcade
+suzuka8hj;fba
+suzuka8hj;mame-advmame
+suzuka8hj;mame-libretro
+suzuka8hj;mame-mame4all
+suzuka8h;arcade
+suzuka8h;fba
+suzuka8h;mame-advmame
+suzuka8h;mame-libretro
+suzuka8h;mame-mame4all
+tail2nos;arcade
+tail2nos;fba
+tail2nos;mame-advmame
+tail2nos;mame-libretro
+tail2nos;mame-mame4all
+Tank Racer (Europe);psx
+Tank Racer (Europe);psp
+Team Losi RC Racer (USA);psx
+Team Losi RC Racer (USA);psp
+thrilldb;arcade
+thrilldb;fba
+thrilldb;mame-advmame
+thrilldb;mame-libretro
+thrilldb;mame-mame4all
+thrilld;arcade
+thrilld;fba
+thrilld;mame-advmame
+thrilld;mame-libretro
+thrilld;mame-mame4all
+Tokyo Xtreme Racer 2 (USA);dreamcast
+Tokyo Xtreme Racer Advance (USA);gba
+Tokyo Xtreme Racer (USA);dreamcast
+Tonka Raceway (USA);gbc
+topracera;arcade
+topracera;fba
+topracera;mame-advmame
+topracera;mame-libretro
+topracera;mame-mame4all
+topracern;arcade
+topracern;fba
+topracern;mame-advmame
+topracern;mame-libretro
+topracern;mame-mame4all
+topracer;arcade
+topracer;fba
+topracer;mame-advmame
+topracer;mame-libretro
+topracer;mame-mame4all
+topspeed;arcade
+topspeed;fba
+topspeed;mame-advmame
+topspeed;mame-libretro
+topspeed;mame-mame4all
+topspeedu;arcade
+topspeedu;fba
+topspeedu;mame-advmame
+topspeedu;mame-libretro
+topspeedu;mame-mame4all
+Touring Car Racer (Europe);atarist
+toutrun1;arcade
+toutrun1;fba
+toutrun1;mame-advmame
+toutrun1;mame-libretro
+toutrun1;mame-mame4all
+toutrun2;arcade
+toutrun2;fba
+toutrun2;mame-advmame
+toutrun2;mame-libretro
+toutrun2;mame-mame4all
+toutrun3;arcade
+toutrun3;fba
+toutrun3;mame-advmame
+toutrun3;mame-libretro
+toutrun3;mame-mame4all
+toutrunj1;arcade
+toutrunj1;fba
+toutrunj1;mame-advmame
+toutrunj1;mame-libretro
+toutrunj1;mame-mame4all
+toutrunj;arcade
+toutrunj;fba
+toutrunj;mame-advmame
+toutrunj;mame-libretro
+toutrunj;mame-mame4all
+toutrun;arcade
+toutrun;fba
+toutrun;mame-advmame
+toutrun;mame-libretro
+toutrun;mame-mame4all
+Toy Racer (Europe);dreamcast
+Toy Story Racer (USA);gbc
+Toy Story Racer (USA);psx
+Toy Story Racer (USA);psp
+trally;arcade
+trally;fba
+trally;mame-advmame
+trally;mame-libretro
+trally;mame-mame4all
+travrusab;arcade
+travrusab;fba
+travrusab;mame-advmame
+travrusab;mame-libretro
+travrusab;mame-mame4all
+travrusa;arcade
+travrusa;fba
+travrusa;mame-advmame
+travrusa;mame-libretro
+travrusa;mame-mame4all
+turboa;arcade
+turboa;fba
+turboa;mame-advmame
+turboa;mame-libretro
+turboa;mame-mame4all
+turbob;arcade
+turbob;fba
+turbob;mame-advmame
+turbob;mame-libretro
+turbob;mame-mame4all
+Turbo Kart Racer (Europe);amstradcpc
+Turbo Kart Racer (Europe);c64
+Turbo Kart Racer (Side A) (Europe);zxspectrum
+Turbo Kart Racer (Side B) (Europe);zxspectrum
+turbo;arcade
+turbo;fba
+turbo;mame-advmame
+turbo;mame-libretro
+turbo;mame-mame4all
+tx1jb;arcade
+tx1jb;fba
+tx1jb;mame-advmame
+tx1jb;mame-libretro
+tx1jb;mame-mame4all
+tx1jc;arcade
+tx1jc;fba
+tx1jc;mame-advmame
+tx1jc;mame-libretro
+tx1jc;mame-mame4all
+tx1;arcade
+tx1;fba
+tx1;mame-advmame
+tx1;mame-libretro
+tx1;mame-mame4all
+Uchuu Race - Astro Go! Go! (Japan);sfc
+Uniracers (USA);snes
+USA Racer (Europe);psx
+USA Racer (Europe);psp
+vaportrxp;arcade
+vaportrxp;fba
+vaportrxp;mame-advmame
+vaportrxp;mame-libretro
+vaportrxp;mame-mame4all
+vaportrx;arcade
+vaportrx;fba
+vaportrx;mame-advmame
+vaportrx;mame-libretro
+vaportrx;mame-mame4all
+vformula;arcade
+vformula;fba
+vformula;mame-advmame
+vformula;mame-libretro
+vformula;mame-mame4all
+victlapw;arcade
+victlapw;fba
+victlapw;mame-advmame
+victlapw;mame-libretro
+victlapw;mame-mame4all
+vr;arcade
+vr;fba
+vr;mame-advmame
+vr;mame-libretro
+vr;mame-mame4all
+Wacky Races (Europe);amstradcpc
+Wacky Races (Europe);atarist
+Wacky Races (Europe);zxspectrum
+Wacky Races (Europe);psx
+Wacky Races (Europe);psp
+Wacky Races (USA) (Proto);genesis
+Wacky Races (USA);gbc
+Wacky Races (USA);dreamcast
+wecleman2;arcade
+wecleman2;fba
+wecleman2;mame-advmame
+wecleman2;mame-libretro
+wecleman2;mame-mame4all
+wecleman;arcade
+wecleman;fba
+wecleman;mame-advmame
+wecleman;mame-libretro
+wecleman;mame-mame4all
+wheelrun;arcade
+wheelrun;fba
+wheelrun;mame-advmame
+wheelrun;mame-libretro
+wheelrun;mame-mame4all
+windheata;arcade
+windheata;fba
+windheata;mame-advmame
+windheata;mame-libretro
+windheata;mame-mame4all
+windheatj;arcade
+windheatj;fba
+windheatj;mame-advmame
+windheatj;mame-libretro
+windheatj;mame-mame4all
+windheatu;arcade
+windheatu;fba
+windheatu;mame-advmame
+windheatu;mame-libretro
+windheatu;mame-mame4all
+windheat;arcade
+windheat;fba
+windheat;mame-advmame
+windheat;mame-libretro
+windheat;mame-mame4all
+winrun91;arcade
+winrun91;fba
+winrun91;mame-advmame
+winrun91;mame-libretro
+winrun91;mame-mame4all
+winrungp;arcade
+winrungp;fba
+winrungp;mame-advmame
+winrungp;mame-libretro
+winrungp;mame-mame4all
+winrun;arcade
+winrun;fba
+winrun;mame-advmame
+winrun;mame-libretro
+winrun;mame-mame4all
+wrallya;arcade
+wrallya;fba
+wrallya;mame-advmame
+wrallya;mame-libretro
+wrallya;mame-mame4all
+wrallyb;arcade
+wrallyb;fba
+wrallyb;mame-advmame
+wrallyb;mame-libretro
+wrallyb;mame-mame4all
+wrally;arcade
+wrally;fba
+wrally;mame-advmame
+wrally;mame-libretro
+wrally;mame-mame4all
+Wrong Way Racer (USA);c64
+Zero Gravity Race (USA);c64
+Zippy Race (Japan);famicom
+Zippy Race (Japan);sg-1000
+Zombie Racers (USA);pspminis

@@ -1,0 +1,60 @@
+2 Games in One! - Paperboy + Rampage (USA);gba
+Rampage (Europe);amstradcpc
+Rampage (Europe);atari800
+Rampage (Europe);atarist
+Rampage (Europe);zxspectrum
+Rampage (USA);apple2
+Rampage (USA);atari7800
+Rampage (USA);c64
+Rampage (USA);nes
+Rampage (USA, Europe);atarilynx
+Rampage (USA, Europe);mastersystem
+Rampage - Puzzle Attack (USA, Europe);gba
+Rampage - Through Time (USA);psx
+Rampage - Total Destruction (USA);gc
+Rampage - World Tour (USA);n64
+Rampage - World Tour (USA);saturn
+Rampage - World Tour (USA);psx
+Rampage - World Tour (USA, Europe);gbc
+Rampage 2 - Universal Tour (USA);n64
+Rampage 2 - Universal Tour (USA);gbc
+Rampage 2 - Universal Tour (USA);psx
+Rampage! (USA);atari2600
+Rampage_ Total Destruction;wii
+Rampage_v1.3;amiga1200
+Rampage_v1.3;amiga
+m5rampg11;arcade
+m5rampg11;fba
+m5rampg11;mame-advmame
+m5rampg11;mame-libretro
+m5rampg11;mame-mame4all
+m5rampg12;arcade
+m5rampg12;fba
+m5rampg12;mame-advmame
+m5rampg12;mame-libretro
+m5rampg12;mame-mame4all
+m5rampg;arcade
+m5rampg;fba
+m5rampg;mame-advmame
+m5rampg;mame-libretro
+m5rampg;mame-mame4all
+rampage2;arcade
+rampage2;fba
+rampage2;mame-advmame
+rampage2;mame-libretro
+rampage2;mame-mame4all
+rampage;arcade
+rampage;fba
+rampage;mame-advmame
+rampage;mame-libretro
+rampage;mame-mame4all
+rmpgwt11;arcade
+rmpgwt11;fba
+rmpgwt11;mame-advmame
+rmpgwt11;mame-libretro
+rmpgwt11;mame-mame4all
+rmpgwt;arcade
+rmpgwt;fba
+rmpgwt;mame-advmame
+rmpgwt;mame-libretro
+rmpgwt;mame-mame4all

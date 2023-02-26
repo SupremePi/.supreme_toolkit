@@ -1,0 +1,13 @@
+Spawn (Original) (2014) (1.0);futurepinball
+spawn;arcade
+spawn;fba
+spawn;mame-advmame
+spawn;mame-libretro
+spawn;mame-mame4all
+Spawn (USA);gbc
+Spawn - Armageddon (USA);gc
+Spawn - In the Demon's Hand (USA);dreamcast
+spawn;naomi
+Spawn - Armageddon (USA);ps2
+Spawn - The Eternal (USA);psx
+Spawn (USA);snes

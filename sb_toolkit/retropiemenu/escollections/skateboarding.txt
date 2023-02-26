@@ -1,0 +1,110 @@
+720;arcade
+720;fba
+720;mame-advmame
+720;mame-libretro
+720;mame-mame4all
+720;arcade
+720;fba
+720;mame-advmame
+720;mame-libretro
+720;mame-mame4all
+720 Degrees Part 2 (USA) (Unl);c64
+720 Degrees (USA);c64
+720g;arcade
+720g;fba
+720g;mame-advmame
+720g;mame-libretro
+720g;mame-mame4all
+720g;arcade
+720g;fba
+720g;mame-advmame
+720g;mame-libretro
+720g;mame-mame4all
+720gr1;arcade
+720gr1;fba
+720gr1;mame-advmame
+720gr1;mame-libretro
+720gr1;mame-mame4all
+720gr1;arcade
+720gr1;fba
+720gr1;mame-advmame
+720gr1;mame-libretro
+720gr1;mame-mame4all
+720r1;arcade
+720r1;fba
+720r1;mame-advmame
+720r1;mame-libretro
+720r1;mame-mame4all
+720r1;arcade
+720r1;fba
+720r1;mame-advmame
+720r1;mame-libretro
+720r1;mame-mame4all
+720r2;arcade
+720r2;fba
+720r2;mame-advmame
+720r2;mame-libretro
+720r2;mame-mame4all
+720r2;arcade
+720r2;fba
+720r2;mame-advmame
+720r2;mame-libretro
+720r2;mame-mame4all
+720r3;arcade
+720r3;fba
+720r3;mame-advmame
+720r3;mame-libretro
+720r3;mame-mame4all
+720r3;arcade
+720r3;fba
+720r3;mame-advmame
+720r3;mame-libretro
+720r3;mame-mame4all
+Cheap Skate (Europe);c64
+cskater;arcade
+cskater;fba
+cskater;mame-advmame
+cskater;mame-libretro
+cskater;mame-mame4all
+cskater;arcade
+cskater;fba
+cskater;mame-advmame
+cskater;mame-libretro
+cskater;mame-mame4all
+Grind Session (USA);psx
+Grind Session (USA);psp
+MTV Sports - Skateboarding featuring Andy MacDonald (USA);gbc
+MTV Sports - Skateboarding Featuring Andy Macdonald (USA);psx
+MTV Sports - Skateboarding Featuring Andy Macdonald (USA);psp
+Neighbours (Europe);c64
+Professional Skateboard Simulator (Europe);c64
+Rad Ramp Racer (Europe);c64
+Rocket Power - Team Rocket Rescue (USA);psx
+Rocket Power - Team Rocket Rescue (USA);psp
+Rollerboard (Europe);c64
+Skateboarding (USA);c64
+Skate Boardin' (USA);atari2600
+Skateboard Joust (Europe);c64
+Skate Crazy (Europe) (Side A);c64
+Skate Crazy (Europe) (Side B);c64
+Skate or Die - Bad 'N Rad (USA);gb
+Skate or Die - Tour de Thrash (USA);gb
+SkateRock (Europe);c64
+Skatin' USA (Europe);c64
+Skidz (Europe);atarist
+Street Sk8er 2 (USA);psx
+Street Sk8er 2 (USA);psp
+Street Sk8er (USA);psx
+Street Sk8er (USA);psp
+Street Surfer (Europe);c64
+Tech Deck Skateboarding (USA, Europe);gbc
+Thrasher - Skate and Destroy (USA);psx
+Thrasher - Skate and Destroy (USA);psp
+Tony Hawk's Pro Skater 2 (USA);psx
+Tony Hawk's Pro Skater 2 (USA);psp
+Tony Hawk's Pro Skater 3 (USA);psx
+Tony Hawk's Pro Skater 3 (USA);psp
+Tony Hawk's Pro Skater 4 (USA);psx
+Tony Hawk's Pro Skater 4 (USA);psp
+Tony Hawk's Pro Skater (USA);psx
+Tony Hawk's Pro Skater (USA);psp

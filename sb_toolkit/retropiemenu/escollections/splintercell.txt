@@ -1,0 +1,16 @@
+Tom Clancy's Splinter Cell 3D (USA);3ds
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,De,Es,It);nds
+Tom Clancy's Splinter Cell (USA) (En,Fr,Es);gba
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es);gba
+Tom Clancy's Splinter Cell (USA);gc
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 1);gc
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 2);gc
+Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 1);gc
+Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 2);gc
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA);gc
+Tom Clancy's Splinter Cell - Blacklist (USA);wiiu
+Tom Clancy's Splinter Cell (USA);ps2
+Tom Clancy's Splinter Cell - Chaos Theory (USA);ps2
+Tom Clancy's Splinter Cell - Double Agent (USA);ps2
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA);ps2
+Tom Clancy's Splinter Cell - Essentials (USA);psp

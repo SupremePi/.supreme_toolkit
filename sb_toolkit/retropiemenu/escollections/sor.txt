@@ -1,0 +1,45 @@
+mt_srage;arcade
+mt_srage;fba
+mt_srage;mame-advmame
+mt_srage;mame-libretro
+mt_srage;mame-mame4all
+mp_sor2;arcade
+mp_sor2;fba
+mp_sor2;mame-advmame
+mp_sor2;mame-libretro
+mp_sor2;mame-mame4all
+Rage of the Streets;openbor
+Streets of Rage (World);gamegear
+Streets of Rage II (World);gamegear
+Streets Of Rage 2 Knuckles (Hack);genh
+Streets of Rage - Killer Difficulty (Hack);genh
+Streets of Rage - Syndicate Wars (Hack);genh
+Streets of Rage 2 - DC Comics Heroes Edition (Hack);genh
+Streets of Rage 2 - Shiva Patch (Hack);genh
+Streets of Rage 2 - The Simpsons Edition (Hack);genh
+Streets of Rage 2 - Ultra 2018 (Hack);genh
+Streets of Rage 2 - Wolverine (Hack);genh
+Streets of Rage 2 BKM Blaze (Hack);genh
+Streets of Rage 2 Blaze-TX Edition (Hack);genh
+Streets of Rage 2 Color Hack (Hack);genh
+Streets of Rage 2 ED-209 (Hack);genh
+Streets of Rage 2 Hero Edition (Hack);genh
+Streets of Rage 2 Naked Blaze (Hack);genh
+Streets of Rage 2 Restoration (Hack);genh
+Streets of Rage 2 Shinobi Edition (Hack);genh
+Streets of Rage 2 Street Fighter Edition (Hack);genh
+Streets of Rage 2 TMNT Edition (Hack);genh
+Streets of Rage 2 WWF Edition (Hack);genh
+Streets of Rage 3 (Hack);genh
+Streets of Rage 3 - Ash Patch (Hack);genh
+Streets of Rage 3 - Really Gay Edition (Hack);genh
+Streets of Rage 3 - Shiva Ash Hack (Hack);genh
+Streets of Rage 3 - Sonic Hack (Hack);genh
+Streets of Rage 3 - Special Edition (Hack);genh
+Streetsofrage2_battletoads (Hack);genh
+Streets of Rage (World);genesis
+Streets of Rage 2 (USA);genesis
+Streets of Rage 3 (USA);genesis
+Streets of Rage (Europe);mastersystem
+Streets of Rage II (Europe);mastersystem
+Bare Knuckle - Ikari no Tetsuken - Streets of Rage (World) (Rev A);megadrive-japan

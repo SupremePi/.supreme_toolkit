@@ -1,0 +1,553 @@
+2 Great Games! - Pac-Man World + Ms. Pac-Man - Maze Madness (USA);gba
+20pacgal;arcade
+20pacgal;fba
+20pacgal;mame-advmame
+20pacgal;mame-libretro
+20pacgal;mame-mame4all
+20pacgalr0;arcade
+20pacgalr0;fba
+20pacgalr0;mame-advmame
+20pacgalr0;mame-libretro
+20pacgalr0;mame-mame4all
+20pacgalr1;arcade
+20pacgalr1;fba
+20pacgalr1;mame-advmame
+20pacgalr1;mame-libretro
+20pacgalr1;mame-mame4all
+20pacgalr2;arcade
+20pacgalr2;fba
+20pacgalr2;mame-advmame
+20pacgalr2;mame-libretro
+20pacgalr2;mame-mame4all
+20pacgalr3;arcade
+20pacgalr3;fba
+20pacgalr3;mame-advmame
+20pacgalr3;mame-libretro
+20pacgalr3;mame-mame4all
+20pacgalr4;arcade
+20pacgalr4;fba
+20pacgalr4;mame-advmame
+20pacgalr4;mame-libretro
+20pacgalr4;mame-mame4all
+25pacman;arcade
+25pacman;fba
+25pacman;mame-advmame
+25pacman;mame-libretro
+25pacman;mame-mame4all
+25pacmano;arcade
+25pacmano;fba
+25pacmano;mame-advmame
+25pacmano;mame-libretro
+25pacmano;mame-mame4all
+Baby Pac-Man (USA);c64
+Classic NES Series - Pac-Man (USA, Europe);gba
+DeluxePacman_v1.0_AGA;amiga1200
+DeluxePacman_v1.0_AGA;amiga
+Jr. Pac-Man (Europe);c64
+Jr. Pac-Man (USA) (Proto);atari5200
+Jr. Pac-Man (USA);atari2600
+Ms Pac-Man (R);dendy
+Ms. Pac-Man (Europe);mastersystem
+Ms. Pac-Man (Europe);zxspectrum
+Ms. Pac-Man (USA) (Part 1);vic20
+Ms. Pac-Man (USA) (Part 2);vic20
+Ms. Pac-Man (USA) (Unl);nes
+Ms. Pac-Man (USA);atari2600
+Ms. Pac-Man (USA);atari5200
+Ms. Pac-Man (USA);atari7800
+Ms. Pac-Man (USA);atari800
+Ms. Pac-Man (USA);nes
+Ms. Pac-Man (USA);gb
+Ms. Pac-Man (USA);gamegear
+Ms. Pac-Man (USA);snes
+Ms. Pac-Man (USA, Europe);atarilynx
+Ms. Pac-Man (USA, Europe);megadrive
+Ms. Pac-Man - Maze Madness (USA);n64
+Ms. Pac-Man - Maze Madness (USA);gba
+Ms. Pac-Man - Maze Madness (USA);dreamcast
+Ms. Pac-Man - Special Color Edition (USA);gbc
+Ms. Pac-Man - Special Color Edition (USA);sgb
+Ms. Pac-Man Maze Madness (USA);psx
+Ms. Pac-Man;ti99
+Ms. Pacman (USA);apple2
+Ms. Pacman (USA);c64
+PAC-MAN Championship Edition (USA);pspminis
+Pac Man (1993);plus4
+Pac Man (Europe) (Unl);amstradcpc
+Pac Man (Tomytronic);gameandwatch
+Pac Man World 3 (USA);psp
+Pac Man;fm7
+Pac Mann (Europe) (Unl);c64
+Pac-Man & Galaga Dimensions (USA);3ds
+Pac-Man (Addcom) (USA) (Unl);apple2
+Pac-Man (Atari) (USA);apple2
+Pac-Man (Atari) (USA);atari2600
+Pac-Man (Atarisoft) (USA);vic20
+Pac-Man (CZ-8CB01) (Craig);x1
+Pac-Man (CZ-8CB01);x1
+Pac-Man (Ebivision) (France) (Unl);atari2600
+Pac-Man (Europe);zxspectrum
+Pac-Man (Japan) (Alt 1);msx
+Pac-Man (Japan) (Alt 2);msx
+Pac-Man (Japan);msx
+Pac-Man (Japan);fds
+Pac-Man (MikroBitti) (USA);vic20
+Pac-Man (Namco) (R);dendy
+Pac-Man (USA);atari5200
+Pac-Man (USA);atari800
+Pac-Man (USA);c64
+Pac-Man (USA);channelf
+Pac-Man (USA);nes
+Pac-Man (USA);gb
+Pac-Man (USA);gamegear
+Pac-Man (World) (En,Ja);ngpc
+Pac-Man (World);intellivision
+Pac-Man - Special Color Edition (USA);gbc
+Pac-Man - Special Color Edition (USA);sgb
+Pac-Man 2 - The New Adventures (USA);megadrive
+Pac-Man 2 - The New Adventures (USA);snes
+Pac-Man 4K (USA) (Unl);atari2600
+Pac-Man Collection (USA);gba
+Pac-Man Fever (USA);gc
+Pac-Man Fever (USA);ps2
+Pac-Man Party 3D (USA);3ds
+Pac-Man Pinball Advance (USA);gba
+Pac-Man Vs. (USA);gc
+Pac-Man World (USA);gba
+Pac-Man World (USA);psx
+Pac-Man World 2 (USA);gba
+Pac-Man World 2 (USA);gc
+Pac-Man World 2 (USA);ps2
+Pac-Man World 3 (USA);gc
+Pac-Man World 3 (USA);nds
+Pac-Man World Rally (USA);gc
+Pac-Man World Rally (USA);psp
+Pac-Man World Rally (USA);ps2
+Pac-Man and the Ghostly Adventures (USA);3ds
+Pac-Man and the Ghostly Adventures (USA);wiiu
+Pac-Man and the Ghostly Adventures 2 (USA);3ds
+Pac-Man and the Ghostly Adventures 2 (USA);wiiu
+Pac-Man;mz700
+Pac-Man;tic80
+Pac-Man;ti99
+Pac-Mania (Europe);amstradcpc
+Pac-Mania (Europe);atarist
+Pac-Mania (Europe);c64
+Pac-Mania (Europe);mastersystem
+Pac-Mania (Europe);zxspectrum
+Pac-Mania (Japan);msx2
+Pac-Mania (USA) (Unl);nes
+Pac-Mania (USA, Europe);megadrive
+PacMania_v1.0_1117;amiga1200
+PacMania_v1.0_1117;amiga
+Pacman (19xx)(-);zx81
+Pacman (Bruce Mackenzie);coco
+Pacman (Donald Burden) (USA) (Unl);c64
+Pacman (Europe) (Unl);atarist
+Pacman (Europe);bbcb
+Pacman (Majestic Software) (Europe);c64
+Pacman ST (Europe) (Unl);atarist
+Pacman on E's (Europe) (Unl);atarist
+Pacman, 3D (Denmark);zxspectrum
+Pacmania (1985);plus4
+Pacmania (Europe);c64
+Pacmania (Europe);vic20
+Super Pac-Man (Europe);c64
+Super Pac-Man (USA) (Proto);atari5200
+Super Pac-Man (USA) (Proto);atari800
+Super-Pacman (Slovakia) (Unl);c64
+babypac2;arcade
+babypac2;fba
+babypac2;mame-advmame
+babypac2;mame-libretro
+babypac2;mame-mame4all
+babypac;arcade
+babypac;fba
+babypac;mame-advmame
+babypac;mame-libretro
+babypac;mame-mame4all
+clubpacm;arcade
+clubpacm;fba
+clubpacm;mame-advmame
+clubpacm;mame-libretro
+clubpacm;mame-mame4all
+cmpacman;arcade
+cmpacman;fba
+cmpacman;mame-advmame
+cmpacman;mame-libretro
+cmpacman;mame-mame4all
+ctrpllrp;arcade
+ctrpllrp;fba
+ctrpllrp;mame-advmame
+ctrpllrp;mame-libretro
+ctrpllrp;mame-mame4all
+hyperpac;arcade
+hyperpac;fba
+hyperpac;mame-advmame
+hyperpac;mame-libretro
+hyperpac;mame-mame4all
+hyperpacb;arcade
+hyperpacb;fba
+hyperpacb;mame-advmame
+hyperpacb;mame-libretro
+hyperpacb;mame-mame4all
+j6pacman;arcade
+j6pacman;fba
+j6pacman;mame-advmame
+j6pacman;mame-libretro
+j6pacman;mame-mame4all
+jrpacman;arcade
+jrpacman;fba
+jrpacman;mame-advmame
+jrpacman;mame-libretro
+jrpacman;mame-mame4all
+jrpacmanf;arcade
+jrpacmanf;fba
+jrpacmanf;mame-advmame
+jrpacmanf;mame-libretro
+jrpacmanf;mame-mame4all
+jrpacmbl;arcade
+jrpacmbl;fba
+jrpacmbl;mame-advmame
+jrpacmbl;mame-libretro
+jrpacmbl;mame-mame4all
+m_mpac;arcade
+m_mpac;fba
+m_mpac;mame-advmame
+m_mpac;mame-libretro
+m_mpac;mame-mame4all
+mschamp;arcade
+mschamp;fba
+mschamp;mame-advmame
+mschamp;mame-libretro
+mschamp;mame-mame4all
+mschamps;arcade
+mschamps;fba
+mschamps;mame-advmame
+mschamps;mame-libretro
+mschamps;mame-mame4all
+msheartb;arcade
+msheartb;fba
+msheartb;mame-advmame
+msheartb;mame-libretro
+msheartb;mame-mame4all
+mspacii2;arcade
+mspacii2;fba
+mspacii2;mame-advmame
+mspacii2;mame-libretro
+mspacii2;mame-mame4all
+mspacii;arcade
+mspacii;fba
+mspacii;mame-advmame
+mspacii;mame-libretro
+mspacii;mame-mame4all
+mspacmab;arcade
+mspacmab;fba
+mspacmab;mame-advmame
+mspacmab;mame-libretro
+mspacmab;mame-mame4all
+mspacman;arcade
+mspacman;fba
+mspacman;mame-advmame
+mspacman;mame-libretro
+mspacman;mame-mame4all
+mspacmanbcc;arcade
+mspacmanbcc;fba
+mspacmanbcc;mame-advmame
+mspacmanbcc;mame-libretro
+mspacmanbcc;mame-mame4all
+mspacmanbg;arcade
+mspacmanbg;fba
+mspacmanbg;mame-advmame
+mspacmanbg;mame-libretro
+mspacmanbg;mame-mame4all
+mspacmanbgd;arcade
+mspacmanbgd;fba
+mspacmanbgd;mame-advmame
+mspacmanbgd;mame-libretro
+mspacmanbgd;mame-mame4all
+mspacmanblt;arcade
+mspacmanblt;fba
+mspacmanblt;mame-advmame
+mspacmanblt;mame-libretro
+mspacmanblt;mame-mame4all
+mspacmancr;arcade
+mspacmancr;fba
+mspacmancr;mame-advmame
+mspacmancr;mame-libretro
+mspacmancr;mame-mame4all
+mspacmat;arcade
+mspacmat;fba
+mspacmat;mame-advmame
+mspacmat;mame-libretro
+mspacmat;mame-mame4all
+mspacmbe;arcade
+mspacmbe;fba
+mspacmbe;mame-advmame
+mspacmbe;mame-libretro
+mspacmbe;mame-mame4all
+mspacmnf;arcade
+mspacmnf;fba
+mspacmnf;mame-advmame
+mspacmnf;mame-libretro
+mspacmnf;mame-mame4all
+mspacpls;arcade
+mspacpls;fba
+mspacpls;mame-advmame
+mspacpls;mame-libretro
+mspacpls;mame-mame4all
+pacgal;arcade
+pacgal;fba
+pacgal;mame-advmame
+pacgal;mame-libretro
+pacgal;mame-mame4all
+pacheart;arcade
+pacheart;fba
+pacheart;mame-advmame
+pacheart;mame-libretro
+pacheart;mame-mame4all
+pacman;arcade
+pacman;fba
+pacman;mame-advmame
+pacman;mame-libretro
+pacman;mame-mame4all
+pacmanbl;arcade
+pacmanbl;fba
+pacmanbl;mame-advmame
+pacmanbl;mame-libretro
+pacmanbl;mame-mame4all
+pacmanbla;arcade
+pacmanbla;fba
+pacmanbla;mame-advmame
+pacmanbla;mame-libretro
+pacmanbla;mame-mame4all
+pacmanf;arcade
+pacmanf;fba
+pacmanf;mame-advmame
+pacmanf;mame-libretro
+pacmanf;mame-mame4all
+pacmania;arcade
+pacmania;fba
+pacmania;mame-advmame
+pacmania;mame-libretro
+pacmania;mame-mame4all
+pacmaniaj;arcade
+pacmaniaj;fba
+pacmaniaj;mame-advmame
+pacmaniaj;mame-libretro
+pacmaniaj;mame-mame4all
+pacmaniao;arcade
+pacmaniao;fba
+pacmaniao;mame-advmame
+pacmaniao;mame-libretro
+pacmaniao;mame-mame4all
+pacmanjpm;arcade
+pacmanjpm;fba
+pacmanjpm;mame-advmame
+pacmanjpm;mame-libretro
+pacmanjpm;mame-mame4all
+pacmansp;arcade
+pacmansp;fba
+pacmansp;mame-advmame
+pacmansp;mame-libretro
+pacmansp;mame-mame4all
+pacmod;arcade
+pacmod;fba
+pacmod;mame-advmame
+pacmod;mame-libretro
+pacmod;mame-mame4all
+pacnchmp;arcade
+pacnchmp;fba
+pacnchmp;mame-advmame
+pacnchmp;mame-libretro
+pacnchmp;mame-mame4all
+pacplus;arcade
+pacplus;fba
+pacplus;mame-advmame
+pacplus;mame-libretro
+pacplus;mame-mame4all
+profpac;arcade
+profpac;fba
+profpac;mame-advmame
+profpac;mame-libretro
+profpac;mame-mame4all
+sc4paccl;arcade
+sc4paccl;fba
+sc4paccl;mame-advmame
+sc4paccl;mame-libretro
+sc4paccl;mame-mame4all
+sc4paccla;arcade
+sc4paccla;fba
+sc4paccla;mame-advmame
+sc4paccla;mame-libretro
+sc4paccla;mame-mame4all
+sc4pacclb;arcade
+sc4pacclb;fba
+sc4pacclb;mame-advmame
+sc4pacclb;mame-libretro
+sc4pacclb;mame-mame4all
+sc4pacclc;arcade
+sc4pacclc;fba
+sc4pacclc;mame-advmame
+sc4pacclc;mame-libretro
+sc4pacclc;mame-mame4all
+sc4paccs;arcade
+sc4paccs;fba
+sc4paccs;mame-advmame
+sc4paccs;mame-libretro
+sc4paccs;mame-mame4all
+sc4paccsa;arcade
+sc4paccsa;fba
+sc4paccsa;mame-advmame
+sc4paccsa;mame-libretro
+sc4paccsa;mame-mame4all
+sc4paccsb;arcade
+sc4paccsb;fba
+sc4paccsb;mame-advmame
+sc4paccsb;mame-libretro
+sc4paccsb;mame-mame4all
+sc4paccsc;arcade
+sc4paccsc;fba
+sc4paccsc;mame-advmame
+sc4paccsc;mame-libretro
+sc4paccsc;mame-mame4all
+sc4paccsd;arcade
+sc4paccsd;fba
+sc4paccsd;mame-advmame
+sc4paccsd;mame-libretro
+sc4paccsd;mame-mame4all
+sc4paccse;arcade
+sc4paccse;fba
+sc4paccse;mame-advmame
+sc4paccse;mame-libretro
+sc4paccse;mame-mame4all
+sc4paccsf;arcade
+sc4paccsf;fba
+sc4paccsf;mame-advmame
+sc4paccsf;mame-libretro
+sc4paccsf;mame-mame4all
+sc4paccsg;arcade
+sc4paccsg;fba
+sc4paccsg;mame-advmame
+sc4paccsg;mame-libretro
+sc4paccsg;mame-mame4all
+sc4paccsh;arcade
+sc4paccsh;fba
+sc4paccsh;mame-advmame
+sc4paccsh;mame-libretro
+sc4paccsh;mame-mame4all
+sc4paccsi;arcade
+sc4paccsi;fba
+sc4paccsi;mame-advmame
+sc4paccsi;mame-libretro
+sc4paccsi;mame-mame4all
+sc4paccsj;arcade
+sc4paccsj;fba
+sc4paccsj;mame-advmame
+sc4paccsj;mame-libretro
+sc4paccsj;mame-mame4all
+sc4paccsk;arcade
+sc4paccsk;fba
+sc4paccsk;mame-advmame
+sc4paccsk;mame-libretro
+sc4paccsk;mame-mame4all
+sc4paccsl;arcade
+sc4paccsl;fba
+sc4paccsl;mame-advmame
+sc4paccsl;mame-libretro
+sc4paccsl;mame-mame4all
+sc4pacmn;arcade
+sc4pacmn;fba
+sc4pacmn;mame-advmame
+sc4pacmn;mame-libretro
+sc4pacmn;mame-mame4all
+sc4pacmna;arcade
+sc4pacmna;fba
+sc4pacmna;mame-advmame
+sc4pacmna;mame-libretro
+sc4pacmna;mame-mame4all
+sc4pacmnb;arcade
+sc4pacmnb;fba
+sc4pacmnb;mame-advmame
+sc4pacmnb;mame-libretro
+sc4pacmnb;mame-mame4all
+sc4pacpl;arcade
+sc4pacpl;fba
+sc4pacpl;mame-advmame
+sc4pacpl;mame-libretro
+sc4pacpl;mame-mame4all
+sc4pacpla;arcade
+sc4pacpla;fba
+sc4pacpla;mame-advmame
+sc4pacpla;mame-libretro
+sc4pacpla;mame-mame4all
+sc4pacplb;arcade
+sc4pacplb;fba
+sc4pacplb;mame-advmame
+sc4pacplb;mame-libretro
+sc4pacplb;mame-mame4all
+sc4pacplc;arcade
+sc4pacplc;fba
+sc4pacplc;mame-advmame
+sc4pacplc;mame-libretro
+sc4pacplc;mame-mame4all
+sc4pacpld;arcade
+sc4pacpld;fba
+sc4pacpld;mame-advmame
+sc4pacpld;mame-libretro
+sc4pacpld;mame-mame4all
+sc4pacple;arcade
+sc4pacple;fba
+sc4pacple;mame-advmame
+sc4pacple;mame-libretro
+sc4pacple;mame-mame4all
+sc4pacplf;arcade
+sc4pacplf;fba
+sc4pacplf;mame-advmame
+sc4pacplf;mame-libretro
+sc4pacplf;mame-mame4all
+sc4pacplg;arcade
+sc4pacplg;fba
+sc4pacplg;mame-advmame
+sc4pacplg;mame-libretro
+sc4pacplg;mame-mame4all
+sc4pacplh;arcade
+sc4pacplh;fba
+sc4pacplh;mame-advmame
+sc4pacplh;mame-libretro
+sc4pacplh;mame-mame4all
+sc4pacqp;arcade
+sc4pacqp;fba
+sc4pacqp;mame-advmame
+sc4pacqp;mame-libretro
+sc4pacqp;mame-mame4all
+sc4pacqpa;arcade
+sc4pacqpa;fba
+sc4pacqpa;mame-advmame
+sc4pacqpa;mame-libretro
+sc4pacqpa;mame-mame4all
+sc4pacqpb;arcade
+sc4pacqpb;fba
+sc4pacqpb;mame-advmame
+sc4pacqpb;mame-libretro
+sc4pacqpb;mame-mame4all
+sc4pmani;arcade
+sc4pmani;fba
+sc4pmani;mame-advmame
+sc4pmani;mame-libretro
+sc4pmani;mame-mame4all
+sc4pmania;arcade
+sc4pmania;fba
+sc4pmania;mame-advmame
+sc4pmania;mame-libretro
+sc4pmania;mame-mame4all
+superpac;arcade
+superpac;fba
+superpac;mame-advmame
+superpac;mame-libretro
+superpac;mame-mame4all
+superpacm;arcade
+superpacm;fba
+superpacm;mame-advmame
+superpacm;mame-libretro
+superpacm;mame-mame4all

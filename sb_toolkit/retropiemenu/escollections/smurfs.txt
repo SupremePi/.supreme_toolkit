@@ -1,0 +1,23 @@
+Smurfs Save the Day (USA);atari2600
+Smurfs, The (USA);3ds
+Smurfs, The (USA) (En,Fr);nds
+Smurfs, The (Europe);nes
+Smurfs, The - The Revenge of the Smurfs (Europe) (En,Fr,De,Es,It,Nl);gba
+Adventures of the Smurfs, The (Europe);gbc
+Smurfs Nightmare, The (USA);gbc
+Smurfs Nightmare, The (Europe);gb
+Smurfs Travel the World, The (Europe);gb
+Smurfs, The (USA, Europe);gb
+Smurfs, The (USA, Europe) (Rev A);gb
+Smurfs, The (USA, Europe) (Rev A);sgb
+Smurfs 2, The (USA);wiiu
+Smurfs, The (Europe);segacd
+Smurfs Travel the World, The (Europe);gamegear
+Smurfs, The (Europe);gamegear
+Smurfs Travel the World, The (Europe);genesis
+Smurfs, The (Europe);genesis
+Smurfs Travel the World, The (Europe);mastersystem
+Smurfs, The (Europe);mastersystem
+Smurfs, The (USA);psx
+Smurfs Travel the World, The (Europe);snes
+Smurfs, The (Europe);snes

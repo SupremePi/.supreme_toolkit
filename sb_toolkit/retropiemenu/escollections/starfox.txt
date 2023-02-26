@@ -1,0 +1,17 @@
+Star Fox (USA);atari2600
+pss61;arcade
+pss61;fba
+pss61;mame-advmame
+pss61;mame-libretro
+pss61;mame-mame4all
+Star Fox 64 3D (USA);3ds
+Star Fox 64 (USA) (Rev A);n64
+Star Fox Command (USA);nds
+Star Fox Adventures (USA);gc
+Star Fox Assault (USA);gc
+Star Fox 2 (Japan) (Proto) (Translated En);sfc
+Star Fox Guard (USA);wiiu
+Star Fox Zero (USA);wiiu
+Star Fox 2 (Hack);snesh
+Star Fox (USA);snes
+Star Fox (USA) (Super Weekend Competition);snes

@@ -1,0 +1,13 @@
+Speed Racer (USA);c64
+Speed Racer (Microdeal Software);dragon32
+speedrcr;arcade
+speedrcr;fba
+speedrcr;mame-advmame
+speedrcr;mame-libretro
+speedrcr;mame-mame4all
+Speed Racer - The Videogame (USA) (En,Fr,Es,Pt);nds
+Speed Racer (USA);ps2
+Speed Racer (USA);psx
+Exertainment Mountain Bike Rally & Speed Racer (USA);snes
+Speed Racer in My Most Dangerous Adventures (USA);snes
+Speed Racer (Michtron);coco

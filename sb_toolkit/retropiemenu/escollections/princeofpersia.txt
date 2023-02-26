@@ -1,0 +1,41 @@
+Battles of Prince of Persia (USA) (En,Fr,De,Es,It,Nl);nds
+Prince Of Persia (Russia);zxspectrum
+Prince of Persia (Europe);amstradcpc
+Prince of Persia (Europe);atarist
+Prince of Persia (Europe);mastersystem
+Prince of Persia (Europe);megadrive
+Prince of Persia (Japan);megacd-japan
+Prince of Persia (R);dendy
+Prince of Persia (USA) (Disk 1);apple2
+Prince of Persia (USA) (Disk 2);apple2
+Prince of Persia (USA) (Disk 3);apple2
+Prince of Persia (USA) (Unl);c64
+Prince of Persia (USA);tg-cd
+Prince of Persia (USA);nes
+Prince of Persia (USA);gb
+Prince of Persia (USA);segacd
+Prince of Persia (USA);snes
+Prince of Persia (USA, Europe);gbc
+Prince of Persia (USA, Europe);gamegear
+Prince of Persia - Arabian Nights (USA);dreamcast
+Prince of Persia - Revelations (USA);psp
+Prince of Persia - Rival Swords (USA);psp
+Prince of Persia - The Fallen King (USA) (En,Fr,De,Es,It);nds
+Prince of Persia - The Forgotten Sands (USA) (En,Fr,De,Es,It,Nl) (NDSi Enhanced) [b];nds
+Prince of Persia - The Forgotten Sands (USA);psp
+Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It);gba
+Prince of Persia - The Sands of Time (USA) (En,Fr,Es);gba
+Prince of Persia - The Sands of Time (USA);gc
+Prince of Persia - The Sands of Time (USA);ps2
+Prince of Persia - The Two Thrones (USA);gc
+Prince of Persia - The Two Thrones (USA);ps2
+Prince of Persia - Warrior Within (USA);gc
+Prince of Persia - Warrior Within (USA);ps2
+Prince of Persia 2 - The Shadow & The Flame (USA);snes
+Prince of Persia 2 - The Shadow and the Flame (Europe) (Proto);megadrive
+Prince of Persia 2 - The Shadow and the Flame (Hack);genh
+Prince of Persia;samcoupe
+PrinceOfPersia_v3.0_1823;amiga1200
+PrinceOfPersia_v3.0_1823;amiga
+prince2;pc
+prince;pc

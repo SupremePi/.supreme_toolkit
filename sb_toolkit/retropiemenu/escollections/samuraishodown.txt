@@ -1,0 +1,103 @@
+Samurai Shodown (USA);segacd
+Samurai Shodown (USA);gamegear
+Samurai Shodown (USA);megadrive
+Samurai Shodown (USA);snes
+Samurai Shodown (USA, Europe);gb
+Samurai Shodown (USA, Europe);sgb
+Samurai Shodown (USA, Europe);3do
+Samurai Shodown (World);neocdz
+Samurai Shodown - Warriors Rage (USA);psx
+Samurai Shodown Anthology (USA);ps2
+Samurai Shodown Anthology (USA, Asia);psp
+Samurai Shodown II (World);neocdz
+Samurai Shodown III (World);neocdz
+Samurai Shodown III - Blades of Blood (USA);psx
+Samurai Shodown IV - Amakusa's Revenge (World);neocdz
+Samurai Shodown! - Pocket Fighting Series (Japan, Europe);ngp
+Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja);ngpc
+fswords;arcade
+fswords;fba
+fswords;mame-advmame
+fswords;mame-libretro
+fswords;mame-mame4all
+sams64;arcade
+sams64;fba
+sams64;mame-advmame
+sams64;mame-libretro
+sams64;mame-mame4all
+sams64_2;arcade
+sams64_2;fba
+sams64_2;mame-advmame
+sams64_2;mame-libretro
+sams64_2;mame-mame4all
+samsh5sp;arcade
+samsh5sp;fba
+samsh5sp;mame-advmame
+samsh5sp;mame-libretro
+samsh5sp;mame-mame4all
+samsh5sph;arcade
+samsh5sph;fba
+samsh5sph;mame-advmame
+samsh5sph;mame-libretro
+samsh5sph;mame-mame4all
+samsh5spho;arcade
+samsh5spho;fba
+samsh5spho;mame-advmame
+samsh5spho;mame-libretro
+samsh5spho;mame-mame4all
+samsho2;arcade
+samsho2;fba
+samsho2;mame-advmame
+samsho2;mame-libretro
+samsho2;mame-mame4all
+samsho2k;arcade
+samsho2k;fba
+samsho2k;mame-advmame
+samsho2k;mame-libretro
+samsho2k;mame-mame4all
+samsho3;arcade
+samsho3;fba
+samsho3;mame-advmame
+samsho3;mame-libretro
+samsho3;mame-mame4all
+samsho3h;arcade
+samsho3h;fba
+samsho3h;mame-advmame
+samsho3h;mame-libretro
+samsho3h;mame-mame4all
+samsho4;arcade
+samsho4;fba
+samsho4;mame-advmame
+samsho4;mame-libretro
+samsho4;mame-mame4all
+samsho4k;arcade
+samsho4k;fba
+samsho4k;mame-advmame
+samsho4k;mame-libretro
+samsho4k;mame-mame4all
+samsho5;arcade
+samsho5;fba
+samsho5;mame-advmame
+samsho5;mame-libretro
+samsho5;mame-mame4all
+samsho5b;arcade
+samsho5b;fba
+samsho5b;mame-advmame
+samsho5b;mame-libretro
+samsho5b;mame-mame4all
+samsho5h;arcade
+samsho5h;fba
+samsho5h;mame-advmame
+samsho5h;mame-libretro
+samsho5h;mame-mame4all
+samsho;arcade
+samsho;fba
+samsho;mame-advmame
+samsho;mame-libretro
+samsho;mame-mame4all
+samshoh;arcade
+samshoh;fba
+samshoh;mame-advmame
+samshoh;mame-libretro
+samshoh;mame-mame4all
+samsptk;atomiswave

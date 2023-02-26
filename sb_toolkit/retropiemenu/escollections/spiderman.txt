@@ -1,0 +1,315 @@
+2 in 1 Game Pack - Spider-Man + Spider-Man 2 (USA) (En,Fr,De+En,Fr,De,Es);gba
+2 in 1 Game Pack - Spider-Man - Mysterio's Menace + X2 - Wolverine's Revenge (USA, Europe);gba
+Amazing Spider-Man 2, The (USA);3ds
+Amazing Spider-Man 2, The (USA);wiiu
+Amazing Spider-Man vs. The Kingpin, The (USA);segacd
+Amazing Spider-Man, The (USA);c64
+Amazing Spider-Man, The (USA);3ds
+Amazing Spider-Man, The (USA);nds
+Amazing Spider-Man, The (USA, Europe);gb
+Amazing Spider-Man, The - Lethal Foes (Japan) (Translated En);sfc
+Amazing Spider-Man, The - Ultimate Edition (USA);wiiu
+Amazing Spider-Man, The - Web of Fire (USA);sega32x
+Amazing Spiderman, The (Europe);atarist
+AmazingSpiderMan_v1.1_1006;amiga1200
+AmazingSpiderMan_v1.1_1006;amiga
+DrDoomsRevenge_v1.1_1Disk_2501;amiga1200
+DrDoomsRevenge_v1.1_1Disk_2501;amiga
+Quest Probe 2 - Spiderman (Europe);bbcb
+Questprobe #2 - Spiderman (1984)(Adventure International);electron
+Questprobe - Spider-Man (USA) (Side A);apple2
+Questprobe - Spider-Man (USA) (Side B);apple2
+Questprobe 2 - Spider-Man (Europe);zxspectrum
+Questprobe 2 - Spider-Man (USA);c64
+Questprobe 2 - Spiderman (Europe);oric
+Questprobe II - Spiderman (USA);atarist
+Spider-Man & Venom - Maximum Carnage (USA);snes
+Spider-Man & Venom - Separation Anxiety (USA);snes
+Spider-Man (Europe) (Proto);odyssey2
+Spider-Man (USA);atari2600
+Spider-Man (USA);n64
+Spider-Man (USA);gc
+Spider-Man (USA);dreamcast
+Spider-Man (USA);psx
+Spider-Man (USA);snes
+Spider-Man (USA, Europe) (Acclaim);megadrive
+Spider-Man (USA, Europe);gba
+Spider-Man (USA, Europe);gbc
+Spider-Man (World) (Sega);megadrive
+Spider-Man - Battle for New York (USA);gba
+Spider-Man - Battle for New York (USA);nds
+Spider-Man - Edge of Time (USA) (En,Fr);nds
+Spider-Man - Edge of Time (USA);3ds
+Spider-Man - Friend or Foe (USA);psp
+Spider-Man - Friend or Foe (USA);ps2
+Spider-Man - Friend or Foe (USA);nds
+Spider-Man - Mysterio's Menace (USA, Europe);gba
+Spider-Man - Return of the Sinister Six (Europe);mastersystem
+Spider-Man - Return of the Sinister Six (R);dendy
+Spider-Man - Return of the Sinister Six (USA);nes
+Spider-Man - Return of the Sinister Six (USA, Europe);gamegear
+Spider-Man - Shattered Dimensions (USA) (En,Fr);nds
+Spider-Man - Web of Shadows (USA) (En,Fr) [b];nds
+Spider-Man - Web of Shadows (USA);psp
+Spider-Man 2 (USA);gc
+Spider-Man 2 (USA);psp
+Spider-Man 2 (USA);ps2
+Spider-Man 2 (USA);nds
+Spider-Man 2 (USA, Europe);gba
+Spider-Man 2 (USA, Europe);gb
+Spider-Man 2 - Enter - Electro (USA);psx
+Spider-Man 2 - The Sinister Six (USA);gbc
+Spider-Man 3 (USA);gba
+Spider-Man 3 (USA);psp
+Spider-Man 3 (USA);ps2
+Spider-Man 3 (USA);nds
+Spider-Man 3 - Invasion of the Spider-Slayers (USA, Europe);gb
+Spider-Man and Venom - Maximum Carnage (World);megadrive
+Spider-Man and Venom - Separation Anxiety (USA, Europe);megadrive
+Spider-Man and X-Men - Arcade's Revenge (USA, Europe);megadrive
+Spider-Man and the X-Men - Arcade's Revenge (USA);snes
+Spider-Man and the X-Men in Arcade's Revenge (USA);gamegear
+Spider-Man vs. The Kingpin (USA, Europe);gamegear
+Spider-Man vs. The Kingpin (USA, Europe);mastersystem
+Spider-Man-X-Men (USA, Europe);gb
+Spiderman - Edge Of Time (USA);wii
+Spiderman 2 (Hack);nesh
+Ultimate Spider-Man (USA);gba
+Ultimate Spider-Man (USA);gc
+Ultimate Spider-Man (USA);ps2
+Ultimate Spider-Man (USA);nds
+m1spid;arcade
+m1spid;fba
+m1spid;mame-advmame
+m1spid;mame-libretro
+m1spid;mame-mame4all
+m1spida;arcade
+m1spida;fba
+m1spida;mame-advmame
+m1spida;mame-libretro
+m1spida;mame-mame4all
+m1spidb;arcade
+m1spidb;fba
+m1spidb;mame-advmame
+m1spidb;mame-libretro
+m1spidb;mame-mame4all
+mt_spman;arcade
+mt_spman;fba
+mt_spman;mame-advmame
+mt_spman;mame-libretro
+mt_spman;mame-mame4all
+sman_130ef;arcade
+sman_130ef;fba
+sman_130ef;mame-advmame
+sman_130ef;mame-libretro
+sman_130ef;mame-mame4all
+sman_130ei;arcade
+sman_130ei;fba
+sman_130ei;mame-advmame
+sman_130ei;mame-libretro
+sman_130ei;mame-mame4all
+sman_130es;arcade
+sman_130es;fba
+sman_130es;mame-advmame
+sman_130es;mame-libretro
+sman_130es;mame-mame4all
+sman_130gf;arcade
+sman_130gf;fba
+sman_130gf;mame-advmame
+sman_130gf;mame-libretro
+sman_130gf;mame-mame4all
+sman_140e;arcade
+sman_140e;fba
+sman_140e;mame-advmame
+sman_140e;mame-libretro
+sman_140e;mame-mame4all
+sman_140ef;arcade
+sman_140ef;fba
+sman_140ef;mame-advmame
+sman_140ef;mame-libretro
+sman_140ef;mame-mame4all
+sman_140ei;arcade
+sman_140ei;fba
+sman_140ei;mame-advmame
+sman_140ei;mame-libretro
+sman_140ei;mame-mame4all
+sman_140es;arcade
+sman_140es;fba
+sman_140es;mame-advmame
+sman_140es;mame-libretro
+sman_140es;mame-mame4all
+sman_140gf;arcade
+sman_140gf;fba
+sman_140gf;mame-advmame
+sman_140gf;mame-libretro
+sman_140gf;mame-mame4all
+sman_142e;arcade
+sman_142e;fba
+sman_142e;mame-advmame
+sman_142e;mame-libretro
+sman_142e;mame-mame4all
+sman_160e;arcade
+sman_160e;fba
+sman_160e;mame-advmame
+sman_160e;mame-libretro
+sman_160e;mame-mame4all
+sman_160ef;arcade
+sman_160ef;fba
+sman_160ef;mame-advmame
+sman_160ef;mame-libretro
+sman_160ef;mame-mame4all
+sman_160ei;arcade
+sman_160ei;fba
+sman_160ei;mame-advmame
+sman_160ei;mame-libretro
+sman_160ei;mame-mame4all
+sman_160es;arcade
+sman_160es;fba
+sman_160es;mame-advmame
+sman_160es;mame-libretro
+sman_160es;mame-mame4all
+sman_160gf;arcade
+sman_160gf;fba
+sman_160gf;mame-advmame
+sman_160gf;mame-libretro
+sman_160gf;mame-mame4all
+sman_170e;arcade
+sman_170e;fba
+sman_170e;mame-advmame
+sman_170e;mame-libretro
+sman_170e;mame-mame4all
+sman_170ef;arcade
+sman_170ef;fba
+sman_170ef;mame-advmame
+sman_170ef;mame-libretro
+sman_170ef;mame-mame4all
+sman_170ei;arcade
+sman_170ei;fba
+sman_170ei;mame-advmame
+sman_170ei;mame-libretro
+sman_170ei;mame-mame4all
+sman_170es;arcade
+sman_170es;fba
+sman_170es;mame-advmame
+sman_170es;mame-libretro
+sman_170es;mame-mame4all
+sman_170gf;arcade
+sman_170gf;fba
+sman_170gf;mame-advmame
+sman_170gf;mame-libretro
+sman_170gf;mame-mame4all
+sman_190e;arcade
+sman_190e;fba
+sman_190e;mame-advmame
+sman_190e;mame-libretro
+sman_190e;mame-mame4all
+sman_190ef;arcade
+sman_190ef;fba
+sman_190ef;mame-advmame
+sman_190ef;mame-libretro
+sman_190ef;mame-mame4all
+sman_190ei;arcade
+sman_190ei;fba
+sman_190ei;mame-advmame
+sman_190ei;mame-libretro
+sman_190ei;mame-mame4all
+sman_190es;arcade
+sman_190es;fba
+sman_190es;mame-advmame
+sman_190es;mame-libretro
+sman_190es;mame-mame4all
+sman_190gf;arcade
+sman_190gf;fba
+sman_190gf;mame-advmame
+sman_190gf;mame-libretro
+sman_190gf;mame-mame4all
+sman_192e;arcade
+sman_192e;fba
+sman_192e;mame-advmame
+sman_192e;mame-libretro
+sman_192e;mame-mame4all
+sman_192ef;arcade
+sman_192ef;fba
+sman_192ef;mame-advmame
+sman_192ef;mame-libretro
+sman_192ef;mame-mame4all
+sman_192ei;arcade
+sman_192ei;fba
+sman_192ei;mame-advmame
+sman_192ei;mame-libretro
+sman_192ei;mame-mame4all
+sman_192es;arcade
+sman_192es;fba
+sman_192es;mame-advmame
+sman_192es;mame-libretro
+sman_192es;mame-mame4all
+sman_192gf;arcade
+sman_192gf;fba
+sman_192gf;mame-advmame
+sman_192gf;mame-libretro
+sman_192gf;mame-mame4all
+sman_200e;arcade
+sman_200e;fba
+sman_200e;mame-advmame
+sman_200e;mame-libretro
+sman_200e;mame-mame4all
+sman_210e;arcade
+sman_210e;fba
+sman_210e;mame-advmame
+sman_210e;mame-libretro
+sman_210e;mame-mame4all
+sman_210ei;arcade
+sman_210ei;fba
+sman_210ei;mame-advmame
+sman_210ei;mame-libretro
+sman_210ei;mame-mame4all
+sman_210es;arcade
+sman_210es;fba
+sman_210es;mame-advmame
+sman_210es;mame-libretro
+sman_210es;mame-mame4all
+sman_210f;arcade
+sman_210f;fba
+sman_210f;mame-advmame
+sman_210f;mame-libretro
+sman_210f;mame-mame4all
+sman_210gf;arcade
+sman_210gf;fba
+sman_210gf;mame-advmame
+sman_210gf;mame-libretro
+sman_210gf;mame-mame4all
+sman_220e;arcade
+sman_220e;fba
+sman_220e;mame-advmame
+sman_220e;mame-libretro
+sman_220e;mame-mame4all
+sman_230e;arcade
+sman_230e;fba
+sman_230e;mame-advmame
+sman_230e;mame-libretro
+sman_230e;mame-mame4all
+sman_240;arcade
+sman_240;fba
+sman_240;mame-advmame
+sman_240;mame-libretro
+sman_240;mame-mame4all
+spidermn;arcade
+spidermn;fba
+spidermn;mame-advmame
+spidermn;mame-libretro
+spidermn;mame-mame4all
+spidman;arcade
+spidman;fba
+spidman;mame-advmame
+spidman;mame-libretro
+spidman;mame-mame4all
+spidmanj;arcade
+spidmanj;fba
+spidmanj;mame-advmame
+spidmanj;mame-libretro
+spidmanj;mame-mame4all
+spidmanu;arcade
+spidmanu;fba
+spidmanu;mame-advmame
+spidmanu;mame-libretro
+spidmanu;mame-mame4all

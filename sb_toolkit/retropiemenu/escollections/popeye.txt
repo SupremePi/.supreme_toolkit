@@ -1,0 +1,230 @@
+Popeye (Europe);amstradcpc
+Popeye 2 (Europe);amstradcpc
+Popeye 3 - Wrestle Crazy (Europe);amstradcpc
+Popeye 3 - Wrestle Crazy (Europe) - Side A;amstradcpc
+Popeye (USA);apple2
+Popeye (USA);atari2600
+Popeye (USA);atari5200
+Popeye (USA);colecovision
+Popeye (Parker Brothers) (USA);c64
+Popeye (Piranha + Macmillan Ltd.) (Europe);c64
+Popeye II (Europe);c64
+Popeye III - Wrestle Crazy (Europe);c64
+Popeye2_v1.1;amiga1200
+RealPopeye_v1.1;amiga1200
+Popeye2_v1.1;amiga
+RealPopeye_v1.1;amiga
+Popeye (R);dendy
+Popeye (Original) (1.0);futurepinball
+Popeye (Europe);odyssey2
+j6popoli;arcade
+j6popoli;fba
+j6popoli;mame-advmame
+j6popoli;mame-libretro
+j6popoli;mame-mame4all
+j6popolia;arcade
+j6popolia;fba
+j6popolia;mame-advmame
+j6popolia;mame-libretro
+j6popolia;mame-mame4all
+j5popeye;arcade
+j5popeye;fba
+j5popeye;mame-advmame
+j5popeye;mame-libretro
+j5popeye;mame-mame4all
+j5popeyei;arcade
+j5popeyei;fba
+j5popeyei;mame-advmame
+j5popeyei;mame-libretro
+j5popeyei;mame-mame4all
+j5popeyea;arcade
+j5popeyea;fba
+j5popeyea;mame-advmame
+j5popeyea;mame-libretro
+j5popeyea;mame-mame4all
+j5popeyeb;arcade
+j5popeyeb;fba
+j5popeyeb;mame-advmame
+j5popeyeb;mame-libretro
+j5popeyeb;mame-mame4all
+j5popeyec;arcade
+j5popeyec;fba
+j5popeyec;mame-advmame
+j5popeyec;mame-libretro
+j5popeyec;mame-mame4all
+j5popeyed;arcade
+j5popeyed;fba
+j5popeyed;mame-advmame
+j5popeyed;mame-libretro
+j5popeyed;mame-mame4all
+j5popeyee;arcade
+j5popeyee;fba
+j5popeyee;mame-advmame
+j5popeyee;mame-libretro
+j5popeyee;mame-mame4all
+j5popeyef;arcade
+j5popeyef;fba
+j5popeyef;mame-advmame
+j5popeyef;mame-libretro
+j5popeyef;mame-mame4all
+j5popeyeg;arcade
+j5popeyeg;fba
+j5popeyeg;mame-advmame
+j5popeyeg;mame-libretro
+j5popeyeg;mame-mame4all
+j5popeyeh;arcade
+j5popeyeh;fba
+j5popeyeh;mame-advmame
+j5popeyeh;mame-libretro
+j5popeyeh;mame-mame4all
+sc4popey;arcade
+sc4popey;fba
+sc4popey;mame-advmame
+sc4popey;mame-libretro
+sc4popey;mame-mame4all
+sc4popeya;arcade
+sc4popeya;fba
+sc4popeya;mame-advmame
+sc4popeya;mame-libretro
+sc4popeya;mame-mame4all
+sc4popeyb;arcade
+sc4popeyb;fba
+sc4popeyb;mame-advmame
+sc4popeyb;mame-libretro
+sc4popeyb;mame-mame4all
+sc4popeyc;arcade
+sc4popeyc;fba
+sc4popeyc;mame-advmame
+sc4popeyc;mame-libretro
+sc4popeyc;mame-mame4all
+sc4popeyd;arcade
+sc4popeyd;fba
+sc4popeyd;mame-advmame
+sc4popeyd;mame-libretro
+sc4popeyd;mame-mame4all
+sc4popeye;arcade
+sc4popeye;fba
+sc4popeye;mame-advmame
+sc4popeye;mame-libretro
+sc4popeye;mame-mame4all
+sc5popey;arcade
+sc5popey;fba
+sc5popey;mame-advmame
+sc5popey;mame-libretro
+sc5popey;mame-mame4all
+sc5popeya;arcade
+sc5popeya;fba
+sc5popeya;mame-advmame
+sc5popeya;mame-libretro
+sc5popeya;mame-mame4all
+sc5popeyb;arcade
+sc5popeyb;fba
+sc5popeyb;mame-advmame
+sc5popeyb;mame-libretro
+sc5popeyb;mame-mame4all
+sc5popeyc;arcade
+sc5popeyc;fba
+sc5popeyc;mame-advmame
+sc5popeyc;mame-libretro
+sc5popeyc;mame-mame4all
+sc5popeyd;arcade
+sc5popeyd;fba
+sc5popeyd;mame-advmame
+sc5popeyd;mame-libretro
+sc5popeyd;mame-mame4all
+sc5popeye;arcade
+sc5popeye;fba
+sc5popeye;mame-advmame
+sc5popeye;mame-libretro
+sc5popeye;mame-mame4all
+sc5popeyf;arcade
+sc5popeyf;fba
+sc5popeyf;mame-advmame
+sc5popeyf;mame-libretro
+sc5popeyf;mame-mame4all
+sc5popeyg;arcade
+sc5popeyg;fba
+sc5popeyg;mame-advmame
+sc5popeyg;mame-libretro
+sc5popeyg;mame-mame4all
+popeyebl;arcade
+popeyebl;fba
+popeyebl;mame-advmame
+popeyebl;mame-libretro
+popeyebl;mame-mame4all
+popeyeu;arcade
+popeyeu;fba
+popeyeu;mame-advmame
+popeyeu;mame-libretro
+popeyeu;mame-mame4all
+popeye;arcade
+popeye;fba
+popeye;mame-advmame
+popeye;mame-libretro
+popeye;mame-mame4all
+popeyef;arcade
+popeyef;fba
+popeyef;mame-advmame
+popeyef;mame-libretro
+popeyef;mame-mame4all
+pop_la4;arcade
+pop_la4;fba
+pop_la4;mame-advmame
+pop_la4;mame-libretro
+pop_la4;mame-mame4all
+pop_lx5;arcade
+pop_lx5;fba
+pop_lx5;mame-advmame
+pop_lx5;mame-libretro
+pop_lx5;mame-mame4all
+pop_pa3;arcade
+pop_pa3;fba
+pop_pa3;mame-advmame
+pop_pa3;mame-libretro
+pop_pa3;mame-mame4all
+j5popth;arcade
+j5popth;fba
+j5popth;mame-advmame
+j5popth;mame-libretro
+j5popth;mame-mame4all
+j5poptha;arcade
+j5poptha;fba
+j5poptha;mame-advmame
+j5poptha;mame-libretro
+j5poptha;mame-mame4all
+j5popthb;arcade
+j5popthb;fba
+j5popthb;mame-advmame
+j5popthb;mame-libretro
+j5popthb;mame-mame4all
+popeyeman;arcade
+popeyeman;fba
+popeyeman;mame-advmame
+popeyeman;mame-libretro
+popeyeman;mame-mame4all
+j5popprz;arcade
+j5popprz;fba
+j5popprz;mame-advmame
+j5popprz;mame-libretro
+j5popprz;mame-mame4all
+j5popprza;arcade
+j5popprza;fba
+j5popprza;mame-advmame
+j5popprza;mame-libretro
+j5popprza;mame-mame4all
+Popeye (World);intellivision
+Popeye (World);nes
+Popeye no Eigo Asobi (Japan) (Translated En);famicom
+Popeye - Rush for Spinach (USA, Europe) (En,Fr,De,Es,It);gba
+Popeye (Japan);gb
+Popeye 2 (USA);gb
+Popeye - Ijiwaru Majo Sea Hag no Maki (Japan) (Translated En);sfc
+Popeye no Beach Volleyball (Japan);gamegear
+Popeye (Europe);zxspectrum
+Popeye 2 (Europe);zxspectrum
+Popeye 3 - Wrestle Crazy (Side A) (Europe);zxspectrum
+Popeye 3 - Wrestle Crazy (Side B) (Europe);zxspectrum
+Popeye;ti99
+Popeye (USA);atari800
+Popeye 2 (Europe);atarist
+Popeye (Europe) (Unl);atarist
