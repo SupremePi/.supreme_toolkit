@@ -1,0 +1,10 @@
+m5xena;arcade
+m5xena;fba
+m5xena;mame-advmame
+m5xena;mame-libretro
+m5xena;mame-mame4all
+mechwarr;pc
+MechWarrior 2 - 31st Century Combat (USA);saturn
+MechWarrior 2 - 31st Century Combat (USA);psx
+MechWarrior (USA);snes
+MechWarrior 3050 (USA);snes

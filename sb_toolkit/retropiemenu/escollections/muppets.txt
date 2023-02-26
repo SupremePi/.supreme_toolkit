@@ -1,0 +1,10 @@
+Muppets Welcome Aboard (USA) (Disk 1);apple2
+Muppets Welcome Aboard (USA) (Disk 2);apple2
+Muppets Welcome Aboard (USA) (Disk 3);apple2
+Muppets Welcome Aboard (USA) (Disk 4);apple2
+Muppets on Stage (USA);c64
+Muppets, The - On with the Show! (USA, Europe) (En,Fr,De,Es,It,Nl);gba
+Spy Muppets - License to Croak (USA) (En,Fr,De,Es,It,Nl);gba
+Muppets, The (USA);gbc
+Muppets - Party Cruise (USA);gc
+Muppets Party Cruise (USA);ps2

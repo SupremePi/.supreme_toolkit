@@ -1,0 +1,74 @@
+LEGO Alpha Team (USA);gbc
+LEGO Batman (USA);wii
+LEGO Batman - The Video Game (USA);psp
+LEGO Batman - The Videogame (USA) (En,Fr,Es);nds
+LEGO Batman - The Videogame (USA);ps2
+LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt);nds
+LEGO Batman 2 - DC Super Heroes (USA);3ds
+LEGO Batman 2 - DC Super Heroes (USA);wiiu
+LEGO Batman 3 - Beyond Gotham (USA);3ds
+LEGO Batman 3 - Beyond Gotham (USA);wiiu
+LEGO Battles (USA) (En,Fr,Es) [b];nds
+LEGO Battles - Ninjago (USA) (En,Fr,Es);nds
+LEGO Bionicle (USA) (En,Fr);gba
+LEGO City Undercover (USA);wiiu
+LEGO City Undercover - The Chase Begins (USA);3ds
+LEGO Dimensions (USA);wiiu
+LEGO Friends (USA);3ds
+LEGO Harry Potter - Years 1-4 (USA) (En,Fr,Es);nds
+LEGO Harry Potter - Years 1-4 (USA);psp
+LEGO Harry Potter - Years 5-7 (USA) (En,Fr,Es);nds
+LEGO Harry Potter - Years 5-7 (USA);3ds
+LEGO Harry Potter - Years 5-7 (USA);psp
+LEGO Harry Potter Years 1-4 (USA);wii
+LEGO Harry Potter Years 5-7 (USA);wii
+LEGO Indiana Jones (USA);wii
+LEGO Indiana Jones - The Original Adventures (USA) (En,Fr,De,Es,It,Da);nds
+LEGO Indiana Jones - The Original Adventures (USA);psp
+LEGO Indiana Jones - The Original Adventures (USA);ps2
+LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es);nds
+LEGO Indiana Jones 2 - The Adventure Continues (USA);psp
+LEGO Island - Xtreme Stunts (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da);gba
+LEGO Island 2 - The Brickster's Revenge (USA) (En,Fr);gba
+LEGO Island 2 - The Brickster's Revenge (USA);gbc
+LEGO Island 2 - The Brickster's Revenge (USA);psx
+LEGO Jurassic World (USA);3ds
+LEGO Jurassic World (USA);wiiu
+LEGO Legends of Chima - Laval's Journey (USA);3ds
+LEGO Marvel Avengers (USA);3ds
+LEGO Marvel Super Heroes (USA);wiiu
+LEGO Marvel Super Heroes - Universe in Peril (USA);3ds
+LEGO Marvel's Avengers (USA);wiiu
+LEGO Movie Videogame, The (USA);3ds
+LEGO Movie Videogame, The (USA);wiiu
+LEGO Ninjago - Nindroids (USA);3ds
+LEGO Ninjago - Shadow of Ronin (USA);3ds
+LEGO Pirates Of The Carribean (USA);wii
+LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es);nds
+LEGO Pirates of the Caribbean - The Video Game (USA);3ds
+LEGO Pirates of the Caribbean - The Video Game (USA);psp
+LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi);n64
+LEGO Racers (USA);gbc
+LEGO Racers (USA)a,Fi);psx
+LEGO Racers 2 (USA) (En,Fr);gba
+LEGO Rock Band (USA) (En,Fr,De,Es,It,Da);nds
+LEGO Rock Raiders (USA);psx
+LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da);gba
+LEGO Star Wars - The Complete Saga (USA);nds
+LEGO Star Wars - The Force Awakens (USA);3ds
+LEGO Star Wars - The Force Awakens (USA);wiiu
+LEGO Star Wars - The Video Game (USA);gc
+LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da);gba
+LEGO Star Wars II - The Original Trilogy (USA);gba
+LEGO Star Wars II - The Original Trilogy (USA);gc
+LEGO Star Wars II - The Original Trilogy (USA);psp
+LEGO Star Wars II - The Original Trilogy (USA);ps2
+LEGO Star Wars II - The Original Trilogy (USA);nds
+LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es);nds
+LEGO Star Wars III - The Clone Wars (USA);3ds
+LEGO Star Wars III - The Clone Wars (USA);psp
+LEGO Stunt Rally (USA);gbc
+LEGO The Hobbit (USA);3ds
+LEGO The Hobbit (USA);wiiu
+LEGO The Lord of the Rings (USA) (En,Fr,Es,Pt);nds
+LEGO The Lord of the Rings (USA);3ds

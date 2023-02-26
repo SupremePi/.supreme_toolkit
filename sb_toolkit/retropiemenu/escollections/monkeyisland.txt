@@ -1,0 +1,17 @@
+MonkeyIsland2_v1.1_0020;amiga1200
+SecretOfMonkeyIsland_v3.4_1625;amiga1200
+MonkeyIsland2_v1.1_0020;amiga
+SecretOfMonkeyIsland_v3.4_1625;amiga
+monkeyis;pc
+monkey4-win;residualvm
+comi;scummvm
+monkey2;scummvm
+monkey;scummvm
+Secret Of Monkey Island, The (USA);segacd
+Secret of Monkey Island, The (Japan);megacd-japan
+Escape from Monkey Island (USA);ps2
+Secret of Monkey Island, The (USA)(Disk 1 of 4);atarist
+Secret of Monkey Island, The (USA)(Disk 2 of 4);atarist
+Secret of Monkey Island, The (USA)(Disk 3 of 4);atarist
+Secret of Monkey Island, The (USA)(Disk 4 of 4);atarist
+Secret of Monkey Island, The (USA);atarist

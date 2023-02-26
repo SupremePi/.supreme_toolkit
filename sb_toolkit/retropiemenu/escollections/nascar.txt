@@ -1,0 +1,105 @@
+sgnascar;arcade
+sgnascar;fba
+sgnascar;mame-advmame
+sgnascar;mame-libretro
+sgnascar;mame-mame4all
+nascarl_301;arcade
+nascarl_301;fba
+nascarl_301;mame-advmame
+nascarl_301;mame-libretro
+nascarl_301;mame-mame4all
+nascar_301;arcade
+nascar_301;fba
+nascar_301;mame-advmame
+nascar_301;mame-libretro
+nascar_301;mame-mame4all
+nascarl_340;arcade
+nascarl_340;fba
+nascarl_340;mame-advmame
+nascarl_340;mame-libretro
+nascarl_340;mame-mame4all
+nascar_340;arcade
+nascar_340;fba
+nascar_340;mame-advmame
+nascar_340;mame-libretro
+nascar_340;mame-mame4all
+nascarl_350;arcade
+nascarl_350;fba
+nascarl_350;mame-advmame
+nascarl_350;mame-libretro
+nascarl_350;mame-mame4all
+nascar_350;arcade
+nascar_350;fba
+nascar_350;mame-advmame
+nascar_350;mame-libretro
+nascar_350;mame-mame4all
+nascarl_352;arcade
+nascarl_352;fba
+nascarl_352;mame-advmame
+nascarl_352;mame-libretro
+nascarl_352;mame-mame4all
+nascar_352;arcade
+nascar_352;fba
+nascar_352;mame-advmame
+nascar_352;mame-libretro
+nascar_352;mame-mame4all
+nascarl_400;arcade
+nascarl_400;fba
+nascarl_400;mame-advmame
+nascarl_400;mame-libretro
+nascarl_400;mame-mame4all
+nascar_400;arcade
+nascar_400;fba
+nascar_400;mame-advmame
+nascar_400;mame-libretro
+nascar_400;mame-mame4all
+nascarl;arcade
+nascarl;fba
+nascarl;mame-advmame
+nascarl;mame-libretro
+nascarl;mame-mame4all
+nascar;arcade
+nascar;fba
+nascar;mame-advmame
+nascar;mame-libretro
+nascar;mame-mame4all
+NASCAR Unleashed (USA);3ds
+NASCAR 2000 (USA);n64
+NASCAR 99 (USA);n64
+Bill Elliott's NASCAR Challenge (USA);nes
+NASCAR Heat 2002 (USA);gba
+NASCAR 2000 (USA, Europe);gbc
+NASCAR Challenge (USA);gbc
+NASCAR Heat (USA);gbc
+NASCAR Racers (USA);gbc
+Bill Elliott's NASCAR Fast Tracks (USA);gb
+NASCAR - Dirt to Daytona (USA);gc
+NASCAR 2005 - Chase for the Cup (USA);gc
+NASCAR Thunder 2003 (USA);gc
+NASCAR The Game 11 (USA);wii
+nascar;pc
+NASCAR '98 (USA);saturn
+NASCAR - Dirt to Daytona (USA);ps2
+NASCAR 06 - Total Team Control (USA);ps2
+NASCAR 07 (USA);ps2
+NASCAR 08 (USA);ps2
+NASCAR 09 (USA);ps2
+NASCAR 2001 (USA);ps2
+NASCAR 2005 - Chase for the Cup (USA);ps2
+NASCAR Heat 2002 (USA);ps2
+NASCAR Thunder 2002 (USA);ps2
+NASCAR Thunder 2003 (USA);ps2
+NASCAR Thunder 2004 (USA);ps2
+NASCAR 2000 (USA);psx
+NASCAR 2001 (USA);psx
+NASCAR 98 (USA);psx
+NASCAR 98 Collector's Edition (USA);psx
+NASCAR 99 (USA);psx
+NASCAR 99 Legacy (USA);psx
+NASCAR Heat (USA);psx
+NASCAR Racing (USA);psx
+NASCAR Rumble (USA);psx
+NASCAR Thunder 2002 (USA);psx
+NASCAR Thunder 2003 (USA);psx
+NASCAR Thunder 2004 (USA);psx
+NASCAR (USA);psp

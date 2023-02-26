@@ -1,0 +1,15 @@
+machbrkr;arcade
+machbrkr;fba
+machbrkr;mame-advmame
+machbrkr;mame-libretro
+machbrkr;mame-mame4all
+outfxiesj;arcade
+outfxiesj;fba
+outfxiesj;mame-advmame
+outfxiesj;mame-libretro
+outfxiesj;mame-mame4all
+outfxies;arcade
+outfxies;fba
+outfxies;mame-advmame
+outfxies;mame-libretro
+outfxies;mame-mame4all

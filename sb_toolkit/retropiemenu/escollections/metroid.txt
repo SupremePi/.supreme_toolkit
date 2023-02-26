@@ -1,0 +1,52 @@
+Classic NES Series - Metroid (USA, Europe);gba
+Metroid (Japan) (Translated En);fds
+Metroid (R);dendy
+Metroid (USA);nes
+Metroid - Adventure (Hack);nesh
+Metroid - Bionic Metroid (Hack);nesh
+Metroid - Mother Brain Returns (Hack);nesh
+Metroid - Rogue_Dawn (Hack);nesh
+Metroid - SMB - Wart's Invasion (Hack);nesh
+Metroid - Samus Returns (USA);3ds
+Metroid - ZM Boss Rush (Hack);gbah
+Metroid - ZM Disturbance (Hack);gbah
+Metroid - Zero Mission (USA);gba
+Metroid Deluxe (Hack);nesh
+Metroid Fusion (USA, Australia);gba
+Metroid II - Return of Samus (Hack);gbh
+Metroid II - Return of Samus (World);gb
+Metroid II - Return of Samus (World);sgb
+Metroid II DX by Redrum (Hack);gbh
+Metroid Mario (Hack);nesh
+Metroid Origin (Hack);nesh
+Metroid Other M (USA);wii
+Metroid Prime (USA);gc
+Metroid Prime - Federation Force (USA);3ds
+Metroid Prime - Hunters (USA);nds
+Metroid Prime 2 - Echoes (USA);gc
+Metroid Prime 3 - Corruption (USA);wii
+Metroid Prime Pinball (USA);nds
+Metroid Prime Trilogy (USA);wii
+Metroid Redesign Axeil Edition (Hack);snesh
+Super Metroid (Japan, USA);snes
+Super Metroid (MSU-1);snesmsu1
+Super Metroid - Advent (Hack);snesh
+Super Metroid - Dependence (Hack);snesh
+Super Metroid - Final Stand (Hack);snesh
+Super Metroid - Golden Dawn (Hack);snesh
+Super Metroid - Justin Bailey (Hack);snesh
+Super Metroid - Limit (Hack);snesh
+Super Metroid - Phazon Hack (Hack);snesh
+Super Metroid - Project Base (Hack);snesh
+Super Metroid - Redesign 2.1 (Hack);snesh
+Super Metroid - Stardust V1.7 (Hack);snesh
+Super Metroid - V Sidehopper Sp (Hack);snesh
+Super Metroid - Volta (Hack);snesh
+Super Metroid - Zero Mission V2.3 (Hack);snesh
+Super Metroid Eris (Hack);snesh
+Super Metroid Ice Metal Uninstall (Hack);snesh
+pc_mtoid;arcade
+pc_mtoid;fba
+pc_mtoid;mame-advmame
+pc_mtoid;mame-libretro
+pc_mtoid;mame-mame4all

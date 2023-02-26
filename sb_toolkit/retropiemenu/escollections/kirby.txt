@@ -1,0 +1,34 @@
+Kirby & the Amazing Mirror (USA);gba
+Kirby - Canvas Curse (USA);nds
+Kirby - Mass Attack (USA) (En,Fr,Es);nds
+Kirby - Nightmare in Dream Land (USA);gba
+Kirby - Planet Robobot (USA);3ds
+Kirby - Squeak Squad (USA);nds
+Kirby - Tilt 'n' Tumble (USA);gbc
+Kirby - Triple Deluxe (USA);3ds
+Kirby 64 - The Crystal Shards (USA);n64
+Kirby Air Ride (USA);gc
+Kirby Super Star (USA);snes
+Kirby Super Star Ultra (USA);nds
+Kirby and the Rainbow Curse (USA);wiiu
+Kirby in Sonic the Hedgehog 2 (Hack);genh
+Kirby no Kirakira Kids (Japan);sfc
+Kirby's Adventure (R);dendy
+Kirby's Adventure (USA);nes
+Kirby's Avalanche (USA);snes
+Kirby's Block Ball (USA, Europe);gb
+Kirby's Block Ball (USA, Europe);sgb
+Kirby's Dream Course (USA);snes
+Kirby's Dream Land (USA, Europe);gb
+Kirby's Dream Land (USA, Europe);sgb
+Kirby's Dream Land 2 (USA, Europe);gb
+Kirby's Dream Land 2 (USA, Europe);sgb
+Kirby's Dream Land 3 (USA);snes
+Kirby's Epic Yarn (USA);wii
+Kirby's Pinball Land (USA, Europe);gb
+Kirby's Pinball Land (USA, Europe);sgb
+Kirby's Star Stacker (USA, Europe);gb
+Kirby's Star Stacker (USA, Europe);sgb
+kirby's toybox - baseball;satellaview
+kirby's toybox - hoshi kuzushi;satellaview
+kirby's toybox - pinball;satellaview

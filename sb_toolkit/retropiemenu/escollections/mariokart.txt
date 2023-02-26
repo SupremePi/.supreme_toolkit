@@ -1,0 +1,64 @@
+Mario Kart - Double Dash!! (USA);gc
+Mario Kart - Super Circuit (USA);gba
+Mario Kart 64 (USA);n64
+Mario Kart 7 (USA);3ds
+Mario Kart 8 (USA);wiiu
+Mario Kart Black (USA);wii
+Mario Kart DS (USA) (En,Fr,De,Es,It);nds
+Mario Kart Wii (USA);wii
+SUPER MARIO KART 8 (Hack);snesh
+Super Mario Kart (MSU-1);snesmsu1
+Super Mario Kart (USA);snes
+Super Mario Kart - Offroad EX (Hack);snesh
+Super Mario Kart - S Parigo Kart (Hack);snesh
+Super Mario Kart R (Hack);snesh
+ep_mkart;arcade
+ep_mkart;fba
+ep_mkart;mame-advmame
+ep_mkart;mame-libretro
+ep_mkart;mame-mame4all
+ep_mkarta;arcade
+ep_mkarta;fba
+ep_mkarta;mame-advmame
+ep_mkarta;mame-libretro
+ep_mkarta;mame-mame4all
+ep_mkartb;arcade
+ep_mkartb;fba
+ep_mkartb;mame-advmame
+ep_mkartb;mame-libretro
+ep_mkartb;mame-mame4all
+ep_mkartc;arcade
+ep_mkartc;fba
+ep_mkartc;mame-advmame
+ep_mkartc;mame-libretro
+ep_mkartc;mame-mame4all
+ep_mkartd;arcade
+ep_mkartd;fba
+ep_mkartd;mame-advmame
+ep_mkartd;mame-libretro
+ep_mkartd;mame-mame4all
+ep_mkarte;arcade
+ep_mkarte;fba
+ep_mkarte;mame-advmame
+ep_mkarte;mame-libretro
+ep_mkarte;mame-mame4all
+mkartag2;arcade
+mkartag2;fba
+mkartag2;mame-advmame
+mkartag2;mame-libretro
+mkartag2;mame-mame4all
+mkartag2a;arcade
+mkartag2a;fba
+mkartag2a;mame-advmame
+mkartag2a;mame-libretro
+mkartag2a;mame-mame4all
+mkartagp;arcade
+mkartagp;fba
+mkartagp;mame-advmame
+mkartagp;mame-libretro
+mkartagp;mame-mame4all
+pss61;arcade
+pss61;fba
+pss61;mame-advmame
+pss61;mame-libretro
+pss61;mame-mame4all

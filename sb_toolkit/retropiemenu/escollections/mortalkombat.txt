@@ -1,0 +1,268 @@
+Mortal Kombat (Europe);mastersystem
+Mortal Kombat (USA);segacd
+Mortal Kombat (USA);snes
+Mortal Kombat (USA, Europe);gb
+Mortal Kombat (USA, Europe);gamegear
+Mortal Kombat (World);megadrive
+Mortal Kombat - Armageddon (USA);ps2
+Mortal Kombat - Deadly Alliance (USA) (En,Fr,De,Es,It);gba
+Mortal Kombat - Deadly Alliance (USA);gc
+Mortal Kombat - Deadly Alliance (USA);ps2
+Mortal Kombat - Deception (USA);gc
+Mortal Kombat - Deception (USA);ps2
+Mortal Kombat - Shaolin Monks (USA);ps2
+Mortal Kombat - Special Forces (USA);psx
+Mortal Kombat - Tournament Edition (USA) (En,Fr,De,Es,It);gba
+Mortal Kombat - Unchained (USA);psp
+Mortal Kombat 2 (Unl);dendy
+Mortal Kombat 2.5 (Hack);snesh
+Mortal Kombat 3 (Brazil);mastersystem
+Mortal Kombat 3 (Europe);gamegear
+Mortal Kombat 3 (USA);gb
+Mortal Kombat 3 (USA);megadrive
+Mortal Kombat 3 (USA);psx
+Mortal Kombat 3 (USA);snes
+Mortal Kombat 3 - Special 56 Peoples (Hack);nesh
+Mortal Kombat 3 - Special 56 Peoples (R);dendy
+Mortal Kombat 3 Special (R) (Unl);dendy
+Mortal Kombat 4 (R);dendy
+Mortal Kombat 4 (USA);n64
+Mortal Kombat 4 (USA);psx
+Mortal Kombat 4 (USA, Europe);gbc
+Mortal Kombat 4 (USA, Europe);sgb
+Mortal Kombat 5 Turbo (R);dendy
+Mortal Kombat Advance (USA);gba
+Mortal Kombat Gold (USA) (Re-release);dreamcast
+Mortal Kombat I & II (USA, Europe);gb
+Mortal Kombat II (Europe);mastersystem
+Mortal Kombat II (Japan, USA);sega32x
+Mortal Kombat II (USA);saturn
+Mortal Kombat II (USA);snes
+Mortal Kombat II (USA, Europe);gb
+Mortal Kombat II (World);gamegear
+Mortal Kombat II (World);megadrive
+Mortal Kombat II - Ultimate (Hack);genh
+Mortal Kombat II Special (Hack);nesh
+Mortal Kombat II Unlimited (Hack);genh
+Mortal Kombat III - Revelations (Hack);genh
+Mortal Kombat III - Ultimate MK3 Trilogy (Hack);genh
+Mortal Kombat Kanzenban (Japan);megacd-japan
+Mortal Kombat Mythologies - Sub-Zero (USA);n64
+Mortal Kombat Mythologies - Sub-Zero (USA);psx
+Mortal Kombat Mythologies Gold 2000 (Hack);snesh
+Mortal Kombat Outworld Assassins;openbor
+Mortal Kombat Revelations (Hack);genh
+Mortal Kombat Trilogy (Hack);nesh
+Mortal Kombat Trilogy (R);dendy
+Mortal Kombat Trilogy (USA) (Rev B);n64
+Mortal Kombat Trilogy (USA);saturn
+Mortal Kombat Trilogy (USA);psx
+Mortal Kombat Unlimited;openbor
+Mortal Kombat;openbor
+MortalKombat2_v1.0_2MB_1105;amiga1200
+MortalKombat2_v1.0_2MB_1105;amiga
+MortalKombat_v0.9_0288;amiga1200
+MortalKombat_v0.9_0288;amiga
+Ultimate Mortal Kombat (USA) (En,Fr,De,Es,It);nds
+Ultimate Mortal Kombat 3 (Hack);nesh
+Ultimate Mortal Kombat 3 (USA);megadrive
+Ultimate Mortal Kombat 3 (USA);saturn
+Ultimate Mortal Kombat 3 (USA);snes
+Ultimate Mortal Kombat Trilogy (World) (Hack);megadrive
+mk2;arcade
+mk2;fba
+mk2;mame-advmame
+mk2;mame-libretro
+mk2;mame-mame4all
+mk2;pc
+mk2chal;arcade
+mk2chal;fba
+mk2chal;mame-advmame
+mk2chal;mame-libretro
+mk2chal;mame-mame4all
+mk2r11;arcade
+mk2r11;fba
+mk2r11;mame-advmame
+mk2r11;mame-libretro
+mk2r11;mame-mame4all
+mk2r14;arcade
+mk2r14;fba
+mk2r14;mame-advmame
+mk2r14;mame-libretro
+mk2r14;mame-mame4all
+mk2r20;arcade
+mk2r20;fba
+mk2r20;mame-advmame
+mk2r20;mame-libretro
+mk2r20;mame-mame4all
+mk2r21;arcade
+mk2r21;fba
+mk2r21;mame-advmame
+mk2r21;mame-libretro
+mk2r21;mame-mame4all
+mk2r30;arcade
+mk2r30;fba
+mk2r30;mame-advmame
+mk2r30;mame-libretro
+mk2r30;mame-mame4all
+mk2r31e;arcade
+mk2r31e;fba
+mk2r31e;mame-advmame
+mk2r31e;mame-libretro
+mk2r31e;mame-mame4all
+mk2r32e;arcade
+mk2r32e;fba
+mk2r32e;mame-advmame
+mk2r32e;mame-libretro
+mk2r32e;mame-mame4all
+mk2r42;arcade
+mk2r42;fba
+mk2r42;mame-advmame
+mk2r42;mame-libretro
+mk2r42;mame-mame4all
+mk2r91;arcade
+mk2r91;fba
+mk2r91;mame-advmame
+mk2r91;mame-libretro
+mk2r91;mame-mame4all
+mk3;arcade
+mk3;fba
+mk3;mame-advmame
+mk3;mame-libretro
+mk3;mame-mame4all
+mk3mdb;arcade
+mk3mdb;fba
+mk3mdb;mame-advmame
+mk3mdb;mame-libretro
+mk3mdb;mame-mame4all
+mk3p40;arcade
+mk3p40;fba
+mk3p40;mame-advmame
+mk3p40;mame-libretro
+mk3p40;mame-mame4all
+mk3r10;arcade
+mk3r10;fba
+mk3r10;mame-advmame
+mk3r10;mame-libretro
+mk3r10;mame-mame4all
+mk3r20;arcade
+mk3r20;fba
+mk3r20;mame-advmame
+mk3r20;mame-libretro
+mk3r20;mame-mame4all
+mk4;arcade
+mk4;fba
+mk4;mame-advmame
+mk4;mame-libretro
+mk4;mame-mame4all
+mk4a;arcade
+mk4a;fba
+mk4a;mame-advmame
+mk4a;mame-libretro
+mk4a;mame-mame4all
+mk4b;arcade
+mk4b;fba
+mk4b;mame-advmame
+mk4b;mame-libretro
+mk4b;mame-mame4all
+mk;arcade
+mk;fba
+mk;mame-advmame
+mk;mame-libretro
+mk;mame-mame4all
+mk;pc
+mkla1;arcade
+mkla1;fba
+mkla1;mame-advmame
+mkla1;mame-libretro
+mkla1;mame-mame4all
+mkla2;arcade
+mkla2;fba
+mkla2;mame-advmame
+mkla2;mame-libretro
+mkla2;mame-mame4all
+mkla3;arcade
+mkla3;fba
+mkla3;mame-advmame
+mkla3;mame-libretro
+mkla3;mame-mame4all
+mkla4;arcade
+mkla4;fba
+mkla4;mame-advmame
+mkla4;mame-libretro
+mkla4;mame-mame4all
+mknifty666;arcade
+mknifty666;fba
+mknifty666;mame-advmame
+mknifty666;mame-libretro
+mknifty666;mame-mame4all
+mknifty;arcade
+mknifty;fba
+mknifty;mame-advmame
+mknifty;mame-libretro
+mknifty;mame-mame4all
+mkprot4;arcade
+mkprot4;fba
+mkprot4;mame-advmame
+mkprot4;mame-libretro
+mkprot4;mame-mame4all
+mkprot8;arcade
+mkprot8;fba
+mkprot8;mame-advmame
+mkprot8;mame-libretro
+mkprot8;mame-mame4all
+mkprot9;arcade
+mkprot9;fba
+mkprot9;mame-advmame
+mkprot9;mame-libretro
+mkprot9;mame-mame4all
+mkr4;arcade
+mkr4;fba
+mkr4;mame-advmame
+mkr4;mame-libretro
+mkr4;mame-mame4all
+mktturbo;arcade
+mktturbo;fba
+mktturbo;mame-advmame
+mktturbo;mame-libretro
+mktturbo;mame-mame4all
+mkyawdim2;arcade
+mkyawdim2;fba
+mkyawdim2;mame-advmame
+mkyawdim2;mame-libretro
+mkyawdim2;mame-mame4all
+mkyawdim3;arcade
+mkyawdim3;fba
+mkyawdim3;mame-advmame
+mkyawdim3;mame-libretro
+mkyawdim3;mame-mame4all
+mkyawdim;arcade
+mkyawdim;fba
+mkyawdim;mame-advmame
+mkyawdim;mame-libretro
+mkyawdim;mame-mame4all
+mkyturbo;arcade
+mkyturbo;fba
+mkyturbo;mame-advmame
+mkyturbo;mame-libretro
+mkyturbo;mame-mame4all
+mkyturboe;arcade
+mkyturboe;fba
+mkyturboe;mame-advmame
+mkyturboe;mame-libretro
+mkyturboe;mame-mame4all
+umk3;arcade
+umk3;fba
+umk3;mame-advmame
+umk3;mame-libretro
+umk3;mame-mame4all
+umk3r10;arcade
+umk3r10;fba
+umk3r10;mame-advmame
+umk3r10;mame-libretro
+umk3r10;mame-mame4all
+umk3r11;arcade
+umk3r11;fba
+umk3r11;mame-advmame
+umk3r11;mame-libretro
+umk3r11;mame-mame4all

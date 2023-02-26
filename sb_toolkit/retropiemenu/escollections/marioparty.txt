@@ -1,0 +1,14 @@
+Mario Party (USA);n64
+Mario Party - Island Tour (USA);3ds
+Mario Party - Star Rush (USA);3ds
+Mario Party 10 (USA);wiiu
+Mario Party 2 (USA);n64
+Mario Party 3 (USA);n64
+Mario Party 4 (USA);gc
+Mario Party 5 (USA);gc
+Mario Party 6 (USA);gc
+Mario Party 7 (USA);gc
+Mario Party 8 (USA);wii
+Mario Party 9 (USA);wii
+Mario Party Advance (USA);gba
+Mario Party DS (USA);nds
