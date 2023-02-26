@@ -1,0 +1,655 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>./emulationtools</path>
+    <name>/ Emulation Tools</name>
+    <desc>This folder contains emulator related scripts.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/emulators.png</image>
+  </game>
+  <game>
+    <path>./frontendselector.sh</path>
+    <name>Front-End selector</name>
+    <desc>This script will let you chose what front end to boot into</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/frontendselector.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-System.sh</path>
+    <name>+Start Systems</name>
+    <desc>Configure Amiberry Amiga, DOSBox PC, DOSBox-SDL2 PC, Reicast, ResidualVM, Scummvm, ZX Spectrum Emulators</desc>
+    <image>./icons/+Start-System.png</image>
+  </game>  
+  <game>
+    <path>./emulationtools/+Start-Fuse.sh</path>
+    <name>+Start Fuse</name>
+    <desc>Configure ZX Spectrum Emulator</desc>
+    <image>./icons/+Start-Fuse.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/openborautoconfig.sh</path>
+    <name>OpenBor Game Autoconfig</name>
+    <desc>Set OpenBor default controler config for all game</desc>
+    <image>./icons/openborautoconfig.png</image>
+    <playcount>2</playcount>
+    <lastplayed>20200521T203936</lastplayed>
+  </game>
+  <game>
+    <path>./emulationtools/openbormoduleselectionscript.sh</path>
+    <name>OpenBor Module Selection Script</name>
+    <desc>Select OpenBOR Module</desc>
+    <image>./icons/openbormoduleselectionscript.png</image>
+    <playcount>1</playcount>
+    <lastplayed>20200521T204357</lastplayed>
+  </game>
+  <game>
+    <path>./emulationtools/n64tweaks.sh</path>
+    <name>N64 Tweaks.</name>
+    <desc>The user friendly N64 tweak script.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/n64tweaks.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-DOSBox-SDL2.sh</path>
+    <name>+Start DOSBox-SDL2</name>
+    <desc>Configure DOSBox-SDL2 PC Emulator</desc>
+    <image>./icons/+Start-DOSBox-SDL2.png</image>
+  </game>
+  <game>
+    <path>./retropietools/clearlastplayed.sh</path>
+    <name>Clear Last Played</name>
+    <desc>The user friendly Game list cleaner By THE SUPREME TEAM</desc>
+    <image>./icons/clearlastplayed.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-DOSBox.sh</path>
+    <name>+Start DOSbox</name>
+    <desc>Configure DOSBox PC Emulator</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/+Start-DOSBox.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-Reicast.sh</path>
+    <name>+Start Reicast</name>
+    <desc>Configure Reicast Dreamcast Emulator </desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/+Start-Reicast.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-ScummVM.sh</path>
+    <name>+Start Scummvm</name>
+    <desc>Configure Scummvm Emulator</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/+Start-ScummVM.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-ResidualVM.sh</path>
+    <name>+Start ResidualVM</name>
+    <desc>Configure ResidualVM Emulator</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/+Start-ResidualVM.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/Auto-Amiga-Install.sh</path>
+    <name>Amiga Auto Install, HS</name>
+    <desc>Enabled on Retropie ! This will install the Amiga required files and folders to work with Amiberry and WHD Load. Retropie has latest Amiberry SDL enabled!</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/Auto-Amiga-Install.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/UAE-Config-Maker.sh</path>
+    <name>UAE Congfig Maker, HS</name>
+    <desc>After adding your Amiga game files in the corresponding roms/amiga-data/ folder, use this script to create automatic WHD Load config files for your Amiga\CD32 main roms folder!</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/UAE-Config-Maker.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/configedit.rp</path>
+    <name>Configuration Editor</name>
+    <desc>Change common RetroArch options, and manually edit RetroArch configs, global configs, and non-RetroArch configs.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/configedit.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/dcdatefix.sh</path>
+    <name>Dreamcast Date &amp; Time</name>
+    <desc>This will enable or disable date &amp; time setting when Reicast starts. Reicast binary by jonsim.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/dc.png</image>
+  </game>
+  <game>
+    <path>./visualtools/genesis.sh</path>
+    <name>Switch Genesis-Megadrive</name>
+    <desc>This script will switch between the Sega Genesis and the Sega Megadrive themes in both ES and AM to show in the main menu. You will need to restart Emulation Station after making the change. By SUPREME TEAM</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/genesis.png</image>
+  </game>
+  <game>
+    <path>./visualtools/emulatoroutput.sh</path>
+    <name>Emulator resolution editor</name>
+    <desc>Change your resolution settings for certain emulators with this amzing tool.</desc>
+    <image>./icons/emulatoroutput.png</image>
+  </game>
+  <game>
+    <path>./emulationtools/rpc80-savefile.sh</path>
+    <name>Saves Single Folder, RPC</name>
+    <desc>Not enabled on Retropie ! Creates a "saves" directory at ~/RetroPie/saves and configures all RetroArch emulators with their own config files to store savefiles at ~/RetroPie/saves/{system_name} and savestate files at ~/Retropie/saves/{system_name}/states.</desc>
+    <image>./icons/rpc80-savefile.png</image>
+  </game>
+  <game>
+    <path>./controllertools</path>
+    <name>/ Controller tools</name>
+    <desc>This folder contains contoller related scripts.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/controller.png</image>
+  </game>
+  <game>
+    <path>./controllertools/LightGunAimtrak.sh</path>
+    <name>LightGun Aimtrak Install, EZH</name>
+    <desc>Enabled on Retropie ! Enables Aimtrack Lightgun support and installs Advance-Mame v1.4. Mouse is supported on Retropie for both Advance-Mame &amp; lr-mame systems/emus.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/LightGunAimtrak.png</image>
+  </game>
+  <game>
+    <path>./controllertools/LightGunConf.sh</path>
+    <name>LightGun Aimtrak Config, EZH</name>
+    <desc>The configuration script created by the Aimtrak script.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/LightGunConf.png</image>
+  </game>
+  <game>
+    <path>./controllertools/resetcontrollers.sh</path>
+    <name>Reset All Controllers</name>
+    <desc>It will reset all ES cotroller configurations and remove any previous controller profiles. This will give you a clean controllers setup!</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/resetcontrollers.png</image>
+  </game>
+  <game>
+    <path>./controllertools/xinmo-juyao.sh</path>
+    <name>XinMo &amp; Juyao Dual</name>
+    <desc>Enable XIN MO or JUYAO dual Arcade player support as per official Wiki.</desc>
+    <image>./icons/xinmo-juyao.png</image>
+  </game>
+  <game>
+    <path>./raspiconfig.rp</path>
+    <name>Raspi-Config</name>
+    <desc>Change user password, boot options, internationalization, camera, add your Pi to Rastrack, overclock, overscan, memory split, SSH and more.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/raspiconfig.png</image>
+  </game>
+  <game>
+    <path>./retropietools</path>
+    <name>/ Retropie Tools</name>
+    <desc>This folder contains more system related scripts from A-Z.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/retropie.png</image>
+  </game>
+  <game>
+    <path>./retropietools/am-latest.sh</path>
+    <name>Install or Update AM &amp; HW Video Encoding</name>
+    <desc>It will install or update your Attract Mode, SFML-Pi &amp; FFMPEG with mmal HW Video Encoding Support. To Enable mmal you need also to set it in the attract.cfg in the general section 'video_decoder   mmal'. Can be done also while in AM by pressing TAB.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/attractmode.png</image>
+  </game>
+  <game>
+    <path>./retropietools/filefind.sh</path>
+    <name>ES Pathfinder Custom Collections</name>
+    <desc>CygeGhost final release! It compares custom imported collections (by other users) with your Romsets. It will automatically correct paths. If there are more than one possible hit, then you can choose out of a selection of ROMs. Standard &amp; advanced search options.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/filefind.png</image>
+  </game>
+  <game>
+    <path>./retropietools/filemanager.rp</path>
+    <name>File Manager</name>
+    <desc>Basic ASCII file manager for Linux allowing you to browse, copy, delete and move files.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/filemanager.png</image>
+  </game>
+  <game>
+    <path>./retropietools/gpioshutdown.sh</path>
+    <name>GPIO Shutdown Utility</name>
+    <desc>The GPIO shutdown script has already been installed on this base image. This script will allow a momentary pusbutton to power on or power off the Raspberry Pi. The script is setup to have the pushbutton wired to GPIO pins 5 and 6. One press will shutdown and one press will power back on.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/gpioshutdown.png</image>
+  </game>
+  <game>
+    <path>./retropietools/reference.sh</path>
+    <name>Reference Utility Menu, DM</name>
+    <desc>Find out common information about Retropie, Emulation Station, Attract Mode, RetroArch and ROM information.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/reference.png</image>
+  </game>
+  <game>
+    <path>./retropietools/repairkodi.sh</path>
+    <name>Kodi Repair</name>
+    <desc>This script will repair kodi launching(emulator.cfg on retropie/configs).</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/kodirepair.png</image>
+  </game>
+  <game>
+    <path>./retropietools/escollections.sh</path>
+    <name>ES Collection List Generator</name>
+    <desc>This will add or update the custom collection gamelist that will be used to show games in the custom collections menu items.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/escollections.png</image>
+  </game>
+  <game>
+    <path>./retropietools/esgamelist.sh</path>
+    <name>ES Gamelist Utility</name>
+    <desc>This script is for installing premade, prescraped Emulation Station gamelist.xml files. The script also provides a cleanup utility to audit existing gamelist.xml files against existing rom files to end up with a gamelist.xml file only containing entries for matching rom files. The premade gamelist files are setup for No Intro filenames like EmuMovies, Hyperspin, Launchbox. They are also setup to use the four folders for PNG/MP4 media. boxart cart snap wheel The premade gamelist files contain multiple entries per game to account for all known filename extensions supported by the particular system.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/esgamelist.png</image>
+  </game>
+  <game>
+    <path>./retropietools/retroarch.rp</path>
+    <name>Retroarch</name>
+    <desc>Launches the RetroArch GUI so you can change RetroArch options. Note: Changes will not be saved unless you have enabled the "Save Configuration On Exit" option.</desc>
+    <image>./icons/retroarch.png</image>
+  </game>
+  <game>
+    <path>./retropietools/retronetplay.rp</path>
+    <name>RetroArch Net Play</name>
+    <desc>Set up RetroArch Netplay options, choose host or client, port, host IP, delay frames, and your nickname.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/retronetplay.png</image>
+  </game>
+  <game>
+    <path>./retropietools/runcommand.rp</path>
+    <name>RunCommand Settings</name>
+    <desc>Change what appears on the runcommand screen. Enable or disable the menu, enable or disable box art and change CPU configuration.</desc>
+    <image>./icons/runcommand.png</image>
+  </game>
+  <game>
+    <path>./retropietools/update.sh</path>
+    <name>Update &amp; Upgrade OS</name>
+    <desc>You can update and upgrade your OS in one click!</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/update.png</image>
+  </game>
+  <game>
+    <path>./retropietools/usb-ext.sh</path>
+    <name>USB Roms On/Off</name>
+    <desc>Dual script! You can choose to expand the roms file system to an external USB MSD or disable it. External MSD needs to be in NTFS format. Note: When you change ext USB you need to run removal script and then connect and enable the new drive.</desc>
+    <image>./icons/usb-ext.png</image>
+  </game>
+  <game>
+    <path>./retropietools/wifi.rp</path>
+    <name>WiFi</name>
+    <desc>Connect to or disconnect from a wifi network and configure wifi settings. On Pi4 you might need to set location.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/wifi.png</image>
+  </game>
+  <game>
+    <path>./audiotools</path>
+    <name>/ Audio Tools</name>
+    <desc>This folder contains Sound related scripts.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/audiotools.png</image>
+  </game>
+  <game>
+    <path>./visualtools</path>
+    <name>/ Visual Tools</name>
+    <desc>This folder contains Visuals related scripts.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/visualtools.png</image>
+  </game>
+  <game>
+    <path>./audiotools/audiosettings.rp</path>
+    <name>Audio Settings</name>
+    <desc>Configure audio settings. Choose default to Auto, 3.5mm Jack or HDMI. Mixer controls, and apply default settings.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/audiosettings.png</image>
+  </game>
+  <game>
+    <path>./visualtools/bezels.sh</path>
+    <name>Bezel Custom Sets</name>
+    <desc>You can enable or disable custom folder bezels such as Motion Blue #2 set or future sets.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/bezels.png</image>
+  </game>
+  <game>
+    <path>./audiotools/bgm.sh</path>
+    <name>Alterative Background Music Setup</name>
+    <desc>Enabled on Retropie ! You can remove or re-install the background music. If removed, run the relative fix in Retropie Toolkit to disable BGM when an emulator starts. NOTE: It won't delete your music folder!</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/music.png</image>
+  </game>
+  <game>
+    <path>./audiotools/bgm-mute.sh</path>
+    <name>Music On/Off</name>
+    <desc>Mute or unmute the background music.</desc>
+    <image>./icons/musicoff.png</image>
+  </game>
+  <game>
+    <path>./retropietools/bluetooth.rp</path>
+    <name>Bluetooth</name>
+    <desc>Register and connect to Bluetooth devices. Unregister, remove devices and display registered &amp; connected devices.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/bluetooth.png</image>
+  </game>
+  <game>
+    <path>./visualtools/supreme-marquee-tool.sh</path>
+    <name>Supreme Marquee Tool</name>
+    <desc>The supreme marquee tool is a all in one place to set up your marquee.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/supreme-marquee-tool.png</image>
+  </game>
+  <game>
+    <path>./visualtools/esthemerandomizer.sh</path>
+    <name>Bootup Theme Randomizer</name>
+    <desc>Utility to enable or disable random themes upon Emulation Station bootup.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/esthemerandomizer.png</image>
+  </game>
+  <game>
+    <path>./audiotools/NoAudioFixes.sh</path>
+    <name>No Audio Fixes</name>
+    <desc>No Audio HDMI configuration audio fixes By EASY HAX.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/NoAudioFixes.png</image>
+  </game>
+  <game>
+    <path>./audiotools/NoAudioFix-TrythisFirst.sh</path>
+    <name>No Audio Fix - Apply 1st!</name>
+    <desc>Try first this HDMI configuration audio fix By EASY HAX.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/NoAudioFix-TrythisFirst.png</image>
+  </game>
+  <game>
+    <path>./audiotools/NoAudioForce720p.sh</path>
+    <name>No Audio Fix - Force 720p</name>
+    <desc>Second HDMI configuration audio fix By EASY HAX.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/NoAudioForce720p.png</image>
+  </game>
+  <game>
+    <path>./audiotools/NoAudioForce1080p.sh</path>
+    <name>No Audio Fix - Force 1080p</name>
+    <desc>Third HDMI configuration audio fix By EASY HAX.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/NoAudioForce1080p.png</image>
+  </game>
+  <game>
+    <path>./visualtools/hurstythemes.sh</path>
+    <name>Hursty's Themes</name>
+    <desc>Install, uninstall, or update Hursty's EmulationStation themes.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/hurstythemes.png</image>
+  </game>
+  <game>
+    <path>./visualtools/shaders.sh</path>
+    <name>RetroArch Shaders On/Off</name>
+    <desc>Enable or disable your RetroArch shaders.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/shaders.png</image>
+  </game>
+  <game>
+    <path>./visualtools/videosmooth.sh</path>
+    <name>Video smooth script</name>
+    <desc>Enable or Disable video smoothing. This may fix screen tearing in emulators if found.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/videosmooth.png</image>
+  </game>
+  <game>
+    <path>./test/launchmp4.sh</path>
+    <name>Mp4 Launching Screens</name>
+    <desc>Disable or enable launching mp4 screen prior loading a rom. Or enable the launching mp4 screens per system. Requires the systems mp4 to exist in the RetroPie/extras+/mp4 folder and match PlayBox system names.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/videosettings.png</image>
+  </game>
+  <game>
+    <path>./visualtools/launchingscreens.sh</path>
+    <name>Launching Screens</name>
+    <desc>This script will enable or disable the use of launching screens. Launching screensets are located here: /home/pi/RetroPie/LaunchingScreens Each set of launching screens you have located there must be in their own parent folder, with the individual emulator system folders containing the launching.png files underneath.</desc>
+    <image>./icons/launchingscreens.png</image>
+  </game>
+  <game>
+    <path>./visualtools/loadingmedia-tool.sh</path>
+    <name>loading-Launching Screens Tool</name>
+    <desc>This script will enable or disable the use of launching screens. Launching screensets are located here: /home/pi/RetroPie/LaunchingScreens Each set of launching screens you have located there must be in their own parent folder, with the individual emulator system folders containing the launching.png files underneath.</desc>
+    <image>./icons/launchingscreens.png</image>
+  </game>
+  <game>
+    <path>./visualtools/removemedia.sh</path>
+    <name>Media Removal Util </name>
+    <desc>This utility will remove extra media files (mixart, boxart, cartart, snap and wheel) for a chosen system when there is not a matching game/rom for it. Mixart tweak added.</desc>
+    <image>./icons/removemedia.png</image>
+  </game>
+  <game>
+    <path>./visualtools/videoloading.sh</path>
+    <name>RetroPie Video Loading screen</name>
+    <desc>Enable or Disable video loading screen.</desc>
+    <image>./icons/videoloading.png</image>
+  </game>
+  <game>
+    <path>./visualtools/videolaunch.sh</path>
+    <name>System Unified Launching Videos</name>
+    <desc>Utility to enable or disable the unified system launching videos.</desc>
+    <image>./icons/videolaunch.png</image>
+  </game>
+  <game>
+    <path>./visualtools/esthemes.rp</path>
+    <name>ES Themes</name>
+    <desc>Install, uninstall, or update EmulationStation themes. Officialy supported themes can be previewed at https://github.com/retropie/RetroPie-Setup/wiki/themes.</desc>
+    <image>./icons/esthemes.png</image>
+  </game>
+  <game>
+    <path>./visualtools/bezelproject.sh</path>
+    <name>Bezel Project</name>
+    <desc>Download and manage games bezels.</desc>
+    <image>./icons/bezelproject.png</image>
+  </game>
+  <game>
+    <path>./basicinfo.sh</path>
+    <name>System Info &amp; Weather</name>
+    <desc>View a summary of your Retropie system info, temperature, partition info, ip, weather etc.! PLEASE GIVE TIME TO GATHER INFO.</desc>
+    <image>./icons/basicinfo.png</image>
+  </game>
+  <game>
+    <path>./audiotools/backgroundmusic.sh</path>
+    <name>Background Music</name>
+    <desc>The mpg123 music script has been installed in this build to play MP3/WAV files during menu navigation in both Emulation Station and Attract Mode. A special folder in /roms has been created called music. This folder is used to place your MP3/WAV files into. Once done, restart the system and they will begin automatically playing. Once you launch a game, the music will stop. Upon exiting out of a game, the music will begin playing again.</desc>
+    <image>./icons/backgroundmusic.png</image>
+  </game>
+  <game>
+    <path>./retropietools/showip.rp</path>
+    <name>What is my IP?</name>
+    <desc>Displays your current IP address, as well as other information provided by the command, "ip addr show."</desc>
+    <image>./icons/showip.png</image>
+  </game>
+  <game>
+    <path>./retropietools/overclock.sh</path>
+    <name>OverClock Optimized</name>
+    <desc>Overclock your Pi4 with N64 optimization in mind.</desc>
+    <image>./icons/overclock.png</image>
+  </game>
+  <game>
+    <path>./visualtools/OverscanOn-Off.sh</path>
+    <name>OverScan On/Off</name>
+    <desc>This script will let quickly enable or disable the overscan setting.</desc>
+    <image>./icons/OverscanOn-Off.png</image>
+  </game>
+  <game>
+    <path>./visualtools/retropie-tweak.sh</path>
+    <name>RetroPie Tweak</name>
+    <desc>This easy to use script lets you pick what layout you want.</desc>
+    <image>./icons/retropie-tweak.png</image>
+  </game>
+  <game>
+    <path>./visualtools/Raspberry-Video-Output.sh</path>
+    <name>Raspberry Video Output</name>
+    <desc>This script will let quickly let you change video output. Some ex 1080P,720P,480P,240P.</desc>
+    <image>./icons/Raspberry-Video-Output.png</image>
+  </game>
+  <game>
+    <path>./retropietools/systeminfo.sh</path>
+    <name>Basic system info</name>
+    <desc>Displays the most basic system info.</desc>
+    <image>./icons/systeminfo.png</image>
+  </game>
+  <game>
+    <path>./joystick_selection.sh</path>
+    <name>Joystick Selection</name>
+    <desc>Select which joystick to use for RetroArch players 1-4 (global or system specific).</desc>
+    <image>./icons/joystick_selection.png</image>
+  </game>
+  <game>
+    <path>./joystick_selection.sh</path>
+    <name>Joystick Selection</name>
+    <desc>Select which joystick to use for RetroArch players 1-4 (global or system specific).</desc>
+    <image>./icons/joystick_selection.png</image>
+  </game>
+  <game>
+    <path>./controllertools/joystick_selection.sh</path>
+    <name>Controller Selection Script, Meleu</name>
+    <desc>Lets the user define which controller to use for RetroArch players 1-4, global and system specific. The joystick selection has two methods of work: 1) selection by joystick index and 2) by joystick name.</desc>
+    <image>./icons/joystick_selection.png</image>
+  </game>
+  <game>
+    <path>./retropietools/usbbootmode.sh</path>
+    <name>USB Boot Mode</name>
+    <desc>This will enable the permanent USB Boot Mode on Pi4 Model. You can boot a USB device with no SD card needed or any further changes.</desc>
+    <image>./icons/usbmod.png</image>
+  </game>
+  <game>
+    <path>./visualtools/skyscraper.sh</path>
+    <name>Skyscraper</name>
+    <desc>A powerful and versatile yet easy to use game scraper. Supports EmulationStation &amp; Attract Mode, 61+ systems. Written by Lars Muldjord.</desc>
+    <image>./icons/skyscraper.png</image>
+  </game>
+  <game>
+    <path>./visualtools/splashscreen.rp</path>
+    <name>Splash Screens</name>
+    <desc>Enable or disable the RetroPie splashscreen during boot. Choose a splashscreen, download new splashscreens or return splashscreen to default.</desc>
+    <image>./icons/splashscreen.png</image>
+  </game>
+  <game>
+    <path>./supreme-online-tool.sh</path>
+    <name>Supreme Online Tool</name>
+    <desc>The supreme online tool offers supreme build tweaks and improvemts using the supreme sever. [ **Must have a internet connection to use** ] </desc>
+    <image>./icons/supremeonline.png</image>
+    <playcount>4</playcount>
+    <lastplayed>20200519T002902</lastplayed>
+  </game>
+  <game>
+    <path>./attractmode.sh</path>
+    <name>Switch To Attract Mode</name>
+    <desc>Enable and switch to Attract Mode FrontEnd.</desc>
+    <image>./icons/attractmode.png</image>
+    <playcount>3</playcount>
+    <lastplayed>20200606T010617</lastplayed>
+  </game>
+  <game>
+    <path>./emulationtools/+Start-Amiberry.sh</path>
+    <name>+Start Amiberry</name>
+    <desc>Configure Amiberry Amiga Emulator</desc>
+    <image>./icons/+Start-Amiberry.png</image>
+    <playcount>4</playcount>
+    <lastplayed>20200613T204025</lastplayed>
+  </game>
+  <game>
+    <path>./fixmybuild.sh</path>
+    <name>FIX MY BUILD</name>
+    <desc>Fix all your broken SUPREME BUILD features. Update, maintenance tools and many more. This Supreme Toolkit runs also from cli so you can use Skyscraper and open Raspbian desktop. (This tool will also let you fix your RetroPie Menu after a update)</desc>
+    <image>./icons/fixmybuild.png</image>
+    <playcount>2</playcount>
+    <lastplayed>20200613T204240</lastplayed>
+  </game>
+  <game>
+    <path>./rpsetup.rp</path>
+    <name>RetroPie Setup</name>
+    <desc>Install RetroPie from binary or source, install experimental packages, additional drivers, edit Samba shares, custom scraper, as well as other RetroPie-related configurations.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/rpsetup.png</image>
+    <playcount>9</playcount>
+    <lastplayed>20200613T204525</lastplayed>
+  </game>
+  <game>
+    <path>./controllertools/sinden-menu.sh</path>
+    <name>sinden lightgun menu</name>
+    <desc>This Script Lets You Start, Stop, And Test Sinden Lightgun For Player 1 And Player 2.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/SindenLightgun.png</image>
+    <rating>0</rating>
+    <playcount>2</playcount>
+  </game>
+  <game>
+    <path>./controllertools/SindenLightgunTestP2.sh</path>
+    <name>Sinden Lightgun Test P2</name>
+    <desc>This script will let you test Sinden Lightgun P2.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/SindenLightgun.png</image>
+    <playcount>1</playcount>
+    <lastplayed/>
+  </game>
+  <game>
+    <path>./controllertools/SindenLightgunTestP1.sh</path>
+    <name>Sinden Lightgun Test P1</name>
+    <desc>This script will let you test Sinden Lightgun P1.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/SindenLightgun.png</image>
+    <playcount>1</playcount>
+    <lastplayed/>
+  </game>
+  <game>
+    <path>./controllertools/SindenLightgunStartP2.sh</path>
+    <name>Sinden Lightgun Start P2</name>
+    <desc>This script will let you start Sinden Lightgun P2.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/SindenLightgun.png</image>
+    <playcount>1</playcount>
+    <lastplayed/>
+  </game>
+  <game>
+    <path>./controllertools/SindenLightgunStartP1.sh</path>
+    <name>Sinden Lightgun Start P1</name>
+    <desc>This script will let you Start Sinden Lightgun P1.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/SindenLightgun.png</image>
+    <playcount>1</playcount>
+    <lastplayed/>
+  </game>
+  <game>
+    <path>./controllertools/SindenLightgun(s)Stop.sh</path>
+    <name>Sinden Lightguns Stop</name>
+    <desc>This script will let you stop Sinden Lightguns.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/SindenLightgun.png</image>
+    <playcount>1</playcount>
+    <lastplayed/>
+  </game>
+  <game>
+    <path>./audiosettings.rp</path>
+    <name>Audio</name>
+    <desc>Configure audio settings. Choose default of auto, 3.5mm jack, or HDMI. Mixer controls, and apply default settings.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/audiosettings.png</image>
+  </game>
+  <game>
+    <path>./bluetooth.rp</path>
+    <name>Bluetooth</name>
+    <desc>Register and connect to Bluetooth devices. Unregister and remove devices, and display registered and connected devices.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/bluetooth.png</image>
+  </game>
+  <game>
+    <path>./configedit.rp</path>
+    <name>Configuration Editor</name>
+    <desc>Change common RetroArch options, and manually edit RetroArch configs, global configs, and non-RetroArch configs.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/configedit.png</image>
+  </game>
+  <game>
+    <path>./esthemes.rp</path>
+    <name>ES Themes</name>
+    <desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://retropie.org.uk/docs/Themes/.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/esthemes.png</image>
+  </game>
+  <game>
+    <path>./filemanager.rp</path>
+    <name>File Manager</name>
+    <desc>Basic ASCII file manager for Linux allowing you to browse, copy, delete, and move files.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/filemanager.png</image>
+  </game>
+  <game>
+    <path>./retroarch.rp</path>
+    <name>Retroarch</name>
+    <desc>Launches the RetroArch GUI so you can change RetroArch options. Note: Changes will not be saved unless you have enabled the "Save Configuration On Exit" option.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/retroarch.png</image>
+  </game>
+  <game>
+    <path>./retronetplay.rp</path>
+    <name>RetroArch Net Play</name>
+    <desc>Set up RetroArch Netplay options, choose host or client, port, host IP, delay frames, and your nickname.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/retronetplay.png</image>
+  </game>
+  <game>
+    <path>./runcommand.rp</path>
+    <name>Run Command Configuration</name>
+    <desc>Change what appears on the runcommand screen. Enable or disable the menu, enable or disable box art, and change CPU configuration.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/runcommand.png</image>
+  </game>
+  <game>
+    <path>./showip.rp</path>
+    <name>Show IP</name>
+    <desc>Displays your current IP address, as well as other information provided by the command "ip addr show."</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/showip.png</image>
+  </game>
+  <game>
+    <path>./splashscreen.rp</path>
+    <name>Splash Screens</name>
+    <desc>Enable or disable the splashscreen on RetroPie boot. Choose a splashscreen, download new splashscreens, and return splashscreen to default.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/splashscreen.png</image>
+  </game>
+  <game>
+    <path>./tamoplus.sh</path>
+    <name>TAMO+</name>
+    <desc>TAMO+ Theme and Music Overlay Plus, much more. This script changes between Themes and their Background Music. Plus many scripts for themes downloading, visual and audio tools and much, much more.</desc>
+    <image>./icons/tamoplus.png</image>
+    <releasedate>20220422T010251</releasedate>
+    <developer>thepitster, Supreme Team</developer>
+    <publisher>thepitster</publisher>
+    <genre>TAMO+ Script</genre>
+    <playcount>2</playcount>
+    <lastplayed>20220525T191722</lastplayed>
+  </game>
+  <game>
+    <path>./wifi.rp</path>
+    <name>WiFi</name>
+    <desc>Connect to or disconnect from a WiFi network and configure WiFi settings.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/wifi.png</image>
+  </game>
+  <game>
+    <path>./FE-Switcheroo.sh</path>
+    <name>FE Switcheroo</name>
+    <desc>This script will let you pick your boot up front-end and so much more.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/FE-Switcheroo.png</image>
+    <playcount>1</playcount>
+    <lastplayed></lastplayed>
+  </game>
+</gameList>
