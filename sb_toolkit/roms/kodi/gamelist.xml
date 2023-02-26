@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Kodi.sh</path>
+		<name>Kodi</name>
+		<desc>Stream movies and TV shows from the internet.</desc>
+		<image>./boxart/Kodi.png</image>
+		<video>./snap/Kodi.mp4</video>
+		<marquee>./wheel/Kodi.png</marquee>
+		<releasedate>2016-01-010</releasedate>
+		<developer>KODI</developer>
+		<publisher>KODI</publisher>
+		<genre>Media</genre>
+		<playcount>7</playcount>
+		<lastplayed>20200512T201143</lastplayed>
+	</game>
+</gameList>

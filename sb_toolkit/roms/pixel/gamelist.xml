@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Pixel.sh</path>
+		<name>Pixel Desktop</name>
+		<desc>Pixel desktop environment.</desc>
+		<image>./boxart/Pixel.png</image>
+		<video>./snap/Pixel.mp4</video>
+		<marquee>./wheel/Pixel.png</marquee>
+		<releasedate>2016-01-010</releasedate>
+		<developer>Google</developer>
+		<publisher>Google</publisher>
+		<genre>Media</genre>
+		<playcount>6</playcount>
+		<lastplayed>20200521T201803</lastplayed>
+	</game>
+</gameList>

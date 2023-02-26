@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+    <game>
+        <path>./Shutdown.sh</path>
+        <name>Shutdown</name>
+        <image>./boxart/Steam.png</image>
+        <video>./boxart/Steam.png</video>
+        <rating></rating>
+        <releasedate></releasedate>
+        <developer></developer>
+        <publisher></publisher>
+        <genre></genre>
+        <players></players>
+    </game>
+</gameList>

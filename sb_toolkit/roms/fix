@@ -1,0 +1,1 @@
+sudo rsync -av /home/pi/RetroPie/scripts/.sb-unified/roms/kodi /home/pi/RetroPie/roms/ && sudo rsync -av /home/pi/RetroPie/scripts/.sb-unified/roms/steam /home/pi/RetroPie/roms/ && sudo rsync -av /home/pi/RetroPie/scripts/.sb-unified/roms/power /home/pi/RetroPie/roms/ && sudo rsync -av /home/pi/RetroPie/scripts/.sb-unified/roms/pixel /home/pi/RetroPie/roms/

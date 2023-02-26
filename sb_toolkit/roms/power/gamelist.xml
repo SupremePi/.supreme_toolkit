@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList>
+    <game>
+        <path>./Shutdown.sh</path>
+        <name>Shutdown</name>
+        <image>./boxart/shutdown.png</image>
+        <video>./boxart/shutdown.png</video>
+        <rating></rating>
+        <releasedate></releasedate>
+        <developer></developer>
+        <publisher></publisher>
+        <genre></genre>
+        <players></players>
+    </game>
+    <game>
+        <path>./Reboot.sh</path>
+        <name>System Restart</name>
+        <image>./boxart/reboot.png</image>
+        <video>./boxart/reboot.png</video>
+        <rating></rating>
+        <releasedate></releasedate>
+        <developer></developer>
+        <publisher></publisher>
+        <genre></genre>
+        <players></players>
+    </game>
+</gameList>

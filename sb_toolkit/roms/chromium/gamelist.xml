@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Chromium.sh</path>
+		<name>Chromium</name>
+		<desc>Chromium the best way to explore the web.</desc>
+		<image>./boxart/Chromium.png</image>
+		<video>./snap/Chromium.mp4</video>
+		<marquee>./wheel/Chromium.png</marquee>
+		<releasedate></releasedate>
+		<developer>Chromium</developer>
+		<publisher>Chromium</publisher>
+		<genre>Media</genre>
+		<playcount>7</playcount>
+		<lastplayed>20200326T205615</lastplayed>
+	</game>
+</gameList>

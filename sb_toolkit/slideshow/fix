@@ -1,0 +1,1 @@
+sudo rsync -av /home/pi/RetroPie/scripts/.sb-unified/slideshow/image /opt/retropie/configs/all/emulationstation/slideshow/
