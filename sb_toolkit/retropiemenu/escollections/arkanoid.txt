@@ -1,0 +1,178 @@
+Arkanoid (Europe);bbcb
+Arkanoid (Europe);amstradcpc
+Arkanoid (Europe);atari800
+Arkanoid (Europe);atarist
+Arkanoid (Europe);c64
+Arkanoid (Europe);zxspectrum
+Arkanoid (Japan) (Alt 1);msx
+Arkanoid (Japan) (Alt 2);msx
+Arkanoid (Japan) (Alt 3);msx
+Arkanoid (Japan);msx
+Arkanoid (R);dendy
+Arkanoid (Tandy) (Coco 1-2, coco 3);coco
+Arkanoid (USA);apple2
+Arkanoid (USA);nes
+Arkanoid - Annoid (Hack);nesh
+Arkanoid - Doh It Again (USA);snes
+Arkanoid - Revenge of Doh (Europe);c64
+Arkanoid 98 [p1][T+Rus Guyver&Multisoft (28.07.2009)];dendy
+Arkanoid DS (USA) (En,Fr,De,Es,It);nds
+Arkanoid II (Japan);famicom
+Arkanoid II (Netherlands) (Unl);atari800
+Arkanoid II (USA) (Unl);c64
+Arkanoid II - Revenge of Doh (Europe);amstradcpc
+Arkanoid II - Revenge of Doh (Europe);atarist
+Arkanoid II - Revenge of Doh (Europe);zxspectrum
+Arkanoid II - Revenge of Doh (Japan);msx2
+Arkanoid III (Europe) (Unl);atarist
+Arkanoid III (USA) (Unl);c64
+Arkanoid III - Doh Strikes Again (Europe) (Unl);amstradcpc
+Arkanoid III - The Last Chance (Europe) (Unl);amstradcpc
+Arkanoid IV (Europe) (Unl);amstradcpc
+Arkanoid IV (USA) (Unl);c64
+Arkanoid Revenge of Doh (Sharp - SPS);x68000
+Arkanoid V (Europe) (Unl);amstradcpc
+Arkanoid V (USA) (Unl);c64
+ArkanoidRevengeOfDoh_v1.0_0765;amiga1200
+ArkanoidRevengeOfDoh_v1.0_0765;amiga
+Arkanoid_v1.7;amiga1200
+Arkanoid_v1.7;amiga
+Dossier Arkanoid, Le (France) (Unl);amstradcpc
+ark1ball;arcade
+ark1ball;fba
+ark1ball;mame-advmame
+ark1ball;mame-libretro
+ark1ball;mame-mame4all
+arkangc2;arcade
+arkangc2;fba
+arkangc2;mame-advmame
+arkangc2;mame-libretro
+arkangc2;mame-mame4all
+arkangc;arcade
+arkangc;fba
+arkangc;mame-advmame
+arkangc;mame-libretro
+arkangc;mame-mame4all
+arkanoid - doh it again;satellaview
+arkanoid;arcade
+arkanoid;fba
+arkanoid;mame-advmame
+arkanoid;mame-libretro
+arkanoid;mame-mame4all
+arkanoid;apple2gs
+arkanoidii-revengeofdoh;apple2gs
+arkanoidj;arcade
+arkanoidj;fba
+arkanoidj;mame-advmame
+arkanoidj;mame-libretro
+arkanoidj;mame-mame4all
+arkanoidja;arcade
+arkanoidja;fba
+arkanoidja;mame-advmame
+arkanoidja;mame-libretro
+arkanoidja;mame-mame4all
+arkanoidjb;arcade
+arkanoidjb;fba
+arkanoidjb;mame-advmame
+arkanoidjb;mame-libretro
+arkanoidjb;mame-mame4all
+arkanoidjbl2;arcade
+arkanoidjbl2;fba
+arkanoidjbl2;mame-advmame
+arkanoidjbl2;mame-libretro
+arkanoidjbl2;mame-mame4all
+arkanoidjbl;arcade
+arkanoidjbl;fba
+arkanoidjbl;mame-advmame
+arkanoidjbl;mame-libretro
+arkanoidjbl;mame-mame4all
+arkanoidu;arcade
+arkanoidu;fba
+arkanoidu;mame-advmame
+arkanoidu;mame-libretro
+arkanoidu;mame-mame4all
+arkanoiduo;arcade
+arkanoiduo;fba
+arkanoiduo;mame-advmame
+arkanoiduo;mame-libretro
+arkanoiduo;mame-mame4all
+arkatayt;arcade
+arkatayt;fba
+arkatayt;mame-advmame
+arkatayt;mame-libretro
+arkatayt;mame-mame4all
+arkatour;arcade
+arkatour;fba
+arkatour;mame-advmame
+arkatour;mame-libretro
+arkatour;mame-mame4all
+arkbloc2;arcade
+arkbloc2;fba
+arkbloc2;mame-advmame
+arkbloc2;mame-libretro
+arkbloc2;mame-mame4all
+arkbloc3;arcade
+arkbloc3;fba
+arkbloc3;mame-advmame
+arkbloc3;mame-libretro
+arkbloc3;mame-mame4all
+arkblock;arcade
+arkblock;fba
+arkblock;mame-advmame
+arkblock;mame-libretro
+arkblock;mame-mame4all
+arkgcbl;arcade
+arkgcbl;fba
+arkgcbl;mame-advmame
+arkgcbl;mame-libretro
+arkgcbl;mame-mame4all
+arkgcbla;arcade
+arkgcbla;fba
+arkgcbla;mame-advmame
+arkgcbla;mame-libretro
+arkgcbla;mame-mame4all
+arknoid2;arcade
+arknoid2;fba
+arknoid2;mame-advmame
+arknoid2;mame-libretro
+arknoid2;mame-mame4all
+arknoid2b;arcade
+arknoid2b;fba
+arknoid2b;mame-advmame
+arknoid2b;mame-libretro
+arknoid2b;mame-mame4all
+arknoid2j;arcade
+arknoid2j;fba
+arknoid2j;mame-advmame
+arknoid2j;mame-libretro
+arknoid2j;mame-mame4all
+arknoid2u;arcade
+arknoid2u;fba
+arknoid2u;mame-advmame
+arknoid2u;mame-libretro
+arknoid2u;mame-mame4all
+arkretrn;arcade
+arkretrn;fba
+arkretrn;mame-advmame
+arkretrn;mame-libretro
+arkretrn;mame-mame4all
+arkretrnj;arcade
+arkretrnj;fba
+arkretrnj;mame-advmame
+arkretrnj;mame-libretro
+arkretrnj;mame-mame4all
+arkretrnu;arcade
+arkretrnu;fba
+arkretrnu;mame-advmame
+arkretrnu;mame-libretro
+arkretrnu;mame-mame4all
+arktayt2;arcade
+arktayt2;fba
+arktayt2;mame-advmame
+arktayt2;mame-libretro
+arktayt2;mame-mame4all
+block2;arcade
+block2;fba
+block2;mame-advmame
+block2;mame-libretro
+block2;mame-mame4all

@@ -1,0 +1,15 @@
+guardian;arcade
+guardian;fba
+guardian;mame-advmame
+guardian;mame-libretro
+guardian;mame-mame4all
+roadriot;arcade
+roadriot;fba
+roadriot;mame-advmame
+roadriot;mame-libretro
+roadriot;mame-mame4all
+roadrioto;arcade
+roadrioto;fba
+roadrioto;mame-advmame
+roadrioto;mame-libretro
+roadrioto;mame-mame4all

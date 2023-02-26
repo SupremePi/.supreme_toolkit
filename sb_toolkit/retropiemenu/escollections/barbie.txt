@@ -1,0 +1,42 @@
+Barbie (USA);apple2
+Barbie (USA);c64
+Barbie (USA);nes
+Barbie - Explorer (USA);psx
+Barbie - Fashion Pack Games (USA, Europe);gbc
+Barbie - Game Girl (USA, Europe);gb
+Barbie - Gotta Have Games (USA);psx
+Barbie - Groom and Glam Pups (USA) (En,Fr);nds
+Barbie - Jet, Set & Style! (USA) (En,Fr) (NDSi Enhanced) [b];nds
+Barbie - Magic Genie Adventure (USA);gbc
+Barbie - Ocean Discovery (USA);gbc
+Barbie - Pet Rescue (USA);gbc
+Barbie - Race & Ride (USA);psx
+Barbie - Super Sports (USA);psx
+Barbie - The Princess and the Pauper (USA);gba
+Barbie Diaries, The - High School Mystery (USA);gba
+Barbie Dreamhouse Party (USA);3ds
+Barbie Dreamhouse Party (USA);wiiu
+Barbie Fashion Show - An Eye for Style (USA) (En,Fr);nds
+Barbie Groovy Games (USA);gba
+Barbie Horse Adventures - Blue Ribbon Race (USA);gba
+Barbie Horse Adventures - Riding Camp (USA) (En,Fr);nds
+Barbie Horse Adventures - Riding Camp (USA);ps2
+Barbie Super Model (USA) (Proto);gamegear
+Barbie Super Model (USA);megadrive
+Barbie Super Model (USA);snes
+Barbie Superpack (USA);gba
+Barbie Vacation Adventure (Hack);genh
+Barbie Vacation Adventure (USA) (Proto);megadrive
+Barbie Vacation Adventure (USA) (Proto);snes
+Barbie and Her Sisters - Puppy Rescue (USA);3ds
+Barbie and Her Sisters - Puppy Rescue (USA);wiiu
+Barbie and the Magic of Pegasus (USA);gba
+Barbie and the Three Musketeers (USA) (En,Fr);nds
+Barbie as The Island Princess (USA);ps2
+Barbie as the Island Princess (USA);gba
+Barbie as the Island Princess (USA);nds
+Barbie in The 12 Dancing Princesses (USA);ps2
+Barbie in the 12 Dancing Princesses (USA);gba
+Barbie in the 12 Dancing Princesses (USA);nds
+Detective Barbie - The Mystery Cruise (USA);psx
+Secret Agent Barbie - Royal Jewels Mission (USA);gba

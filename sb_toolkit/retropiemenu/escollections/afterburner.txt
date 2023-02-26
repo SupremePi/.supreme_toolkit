@@ -1,0 +1,42 @@
+After Burner (Europe);amstradcpc
+AfterBurner_v1.0_Activision_0095;amiga1200
+AfterBurner_v1.2_Sega_0947;amiga1200
+AfterBurner_v1.0_Activision_0095;amiga
+AfterBurner_v1.2_Sega_0947;amiga
+aburner;arcade
+aburner;fba
+aburner;mame-advmame
+aburner;mame-libretro
+aburner;mame-mame4all
+mt_aftrb;arcade
+mt_aftrb;fba
+mt_aftrb;mame-advmame
+mt_aftrb;mame-libretro
+mt_aftrb;mame-mame4all
+abclimax;arcade
+abclimax;fba
+abclimax;mame-advmame
+abclimax;mame-libretro
+abclimax;mame-mame4all
+aburner2;arcade
+aburner2;fba
+aburner2;mame-advmame
+aburner2;mame-libretro
+aburner2;mame-mame4all
+aburner2g;arcade
+aburner2g;fba
+aburner2g;mame-advmame
+aburner2g;mame-libretro
+aburner2g;mame-mame4all
+After Burner II (Japan);pcengine
+After Burner (USA) (Unl);nes
+After Burner (Japan, USA);sega32x
+After Burner III (USA);segacd
+After Burner II (USA, Europe);genesis
+After Burner (World);markiii
+After Burner (World);mastersystem
+After Burner III (Japan);megacd-japan
+After Burner II (Japan);megadrive-japan
+Sega Ages - After Burner II (Japan);saturn-japan
+After Burner - Black Falcon (USA);psp
+After Burner (Europe);atarist

@@ -1,0 +1,32 @@
+Army Men - Air Combat (USA);n64
+Army Men - Sarge's Heroes (USA);n64
+Army Men - Sarge's Heroes 2 (USA);n64
+Army Men - Soldiers of Misfortune (USA);nds
+Army Men - Operation Green (USA, Europe) (En,Fr,De,Es,It);gba
+Army Men - Turf Wars (USA);gba
+Army Men Advance (USA, Europe) (En,Fr,De,Es,It);gba
+Army Men (USA, Europe);gbc
+Army Men - Air Combat (USA);gbc
+Army Men - Sarge's Heroes 2 (USA, Europe);gbc
+Army Men 2 (USA);gbc
+Army Men - Air Combat - The Elite Missions (USA);gc
+Army Men - RTS (USA);gc
+Army Men - Sarge's War (USA);gc
+Army Men - Sarge's Heroes (USA);dreamcast
+Army Men - Air Attack 2 (USA);ps2
+Army Men - Green Rogue (USA);ps2
+Army Men - Major Malfunction (Europe);ps2
+Army Men - RTS (USA);ps2
+Army Men - Sarge's Heroes 2 (USA);ps2
+Army Men - Sarge's War (Europe);ps2
+Army Men - Soldiers of Misfortune (USA);ps2
+Army Men - Air Attack (USA);psx
+Army Men - Air Attack 2 (USA);psx
+Army Men - Green Rogue (USA);psx
+Army Men - Sarge's Heroes (USA);psx
+Army Men - Sarge's Heroes 2 (USA);psx
+Army Men - World War (USA);psx
+Army Men - World War - Final Front (USA);psx
+Army Men - World War - Land, Sea, Air (USA);psx
+Army Men - World War - Team Assault (USA);psx
+Army Men 3D (USA);psx

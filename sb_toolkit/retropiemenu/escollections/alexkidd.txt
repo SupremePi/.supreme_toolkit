@@ -1,0 +1,21 @@
+Alex Kidd - High-Tech World (USA, Europe);mastersystem
+Alex Kidd - Tenkuu Majou (Japan);megadrive-japan
+Alex Kidd - The Lost Stars (World);markiii
+Alex Kidd - The Lost Stars (World);mastersystem
+Alex Kidd BMX Trial (Japan);markiii
+Alex Kidd BMX Trial (Japan);mastersystem
+Alex Kidd in Miracle World (USA, Europe);markiii
+Alex Kidd in Miracle World (USA, Europe);mastersystem
+Alex Kidd in Shinobi World (USA, Europe);markiii
+Alex Kidd in Shinobi World (USA, Europe);mastersystem
+Alex Kidd in the Enchanted Castle (USA);megadrive
+alexkidd1;arcade
+alexkidd1;fba
+alexkidd1;mame-advmame
+alexkidd1;mame-libretro
+alexkidd1;mame-mame4all
+alexkidd;arcade
+alexkidd;fba
+alexkidd;mame-advmame
+alexkidd;mame-libretro
+alexkidd;mame-mame4all

@@ -1,0 +1,104 @@
+Bubble Bobble (Dempa);x68000
+Bubble Bobble (Europe);amstradcpc
+Bubble Bobble (Europe);atarist
+Bubble Bobble (Europe);c64
+Bubble Bobble (Europe);markiii
+Bubble Bobble (Europe);mastersystem
+Bubble Bobble (Europe);zxspectrum
+Bubble Bobble (Japan);msx2
+Bubble Bobble (Japan);fds
+Bubble Bobble (Korea) (Alt 1) (Unl);msx
+Bubble Bobble (Korea) (Unl);msx
+Bubble Bobble (R);dendy
+Bubble Bobble (USA) (Side A);apple2
+Bubble Bobble (USA) (Side B);apple2
+Bubble Bobble (USA);nes
+Bubble Bobble (USA, Europe);gb
+Bubble Bobble (USA, Europe);sgb
+Bubble Bobble (USA, Europe);gamegear
+Bubble Bobble - Also featuring Rainbow Islands (USA);saturn
+Bubble Bobble - Arcade Version (Hack);nesh
+Bubble Bobble - Double Shot (USA) (En,Fr,Es);nds
+Bubble Bobble - Evolution (USA);psp
+Bubble Bobble - Extended Screens (Europe) (Unl);atarist
+Bubble Bobble - Old & New (USA);gba
+Bubble Bobble 2 (Europe) (Proto);atarist
+Bubble Bobble 2 (Europe) (Unl);amstradcpc
+Bubble Bobble 4 CPC (Europe) (Unl);amstradcpc
+Bubble Bobble II (USA) (Unl);c64
+Bubble Bobble Part 2 (USA);nes
+Bubble Bobble Part 2 (USA, Europe);gb
+Bubble Bobble Revolution (USA) (Rev 1);nds
+Bubble Bobble Revolution (USA);nds
+Bubble Bobble Strikes Again (Europe) (Unl);atarist
+Bubble Bobble also featuring Rainbow Islands (USA);psx
+Bubble Bobble! (Europe) (Proto);bbcb
+BubbleBobble_v1.1_2518;amiga1200
+BubbleBobble_v1.1_2518;amiga
+Classic Bubble Bobble (USA);gbc
+Parasol Stars - The Story of Bubble Bobble III (Japan);pcengine
+Parasol Stars - The Story of Bubble Bobble III (USA);tg16
+Rainbow Islands - Bubble Bobble 2 (Europe);nes
+Rainbow Islands - The Story of Bubble Bobble 2 (Europe);amstradcpc
+Rainbow Islands - The Story of Bubble Bobble 2 (Europe);mastersystem
+Rainbow Islands - The Story of Bubble Bobble 2 (Europe);zxspectrum
+Rainbow Islands - The Story of Bubble Bobble 2 (JU) [b1];megadrive-japan
+Rainbow Islands - The Story of Bubble Bobble 2 (R);dendy
+Super Bubble Bobble (Hack);genh
+Super Bubble Bobble (Korea) (Unl);msx
+Super Bubble Bobble MD (China) (Unl);megadrive
+boblbobl;arcade
+boblbobl;fba
+boblbobl;mame-advmame
+boblbobl;mame-libretro
+boblbobl;mame-mame4all
+bub68705;arcade
+bub68705;fba
+bub68705;mame-advmame
+bub68705;mame-libretro
+bub68705;mame-mame4all
+bubblem;arcade
+bubblem;fba
+bubblem;mame-advmame
+bubblem;mame-libretro
+bubblem;mame-mame4all
+bubblemj;arcade
+bubblemj;fba
+bubblemj;mame-advmame
+bubblemj;mame-libretro
+bubblemj;mame-mame4all
+bublbob2;arcade
+bublbob2;fba
+bublbob2;mame-advmame
+bublbob2;mame-libretro
+bublbob2;mame-mame4all
+bublbob2p;arcade
+bublbob2p;fba
+bublbob2p;mame-advmame
+bublbob2p;mame-libretro
+bublbob2p;mame-mame4all
+bublbobl1;arcade
+bublbobl1;fba
+bublbobl1;mame-advmame
+bublbobl1;mame-libretro
+bublbobl1;mame-mame4all
+bublbobl;arcade
+bublbobl;fba
+bublbobl;mame-advmame
+bublbobl;mame-libretro
+bublbobl;mame-mame4all
+bublboblr1;arcade
+bublboblr1;fba
+bublboblr1;mame-advmame
+bublboblr1;mame-libretro
+bublboblr1;mame-mame4all
+bublboblr;arcade
+bublboblr;fba
+bublboblr;mame-advmame
+bublboblr;mame-libretro
+bublboblr;mame-mame4all
+dland;arcade
+dland;fba
+dland;mame-advmame
+dland;mame-libretro
+dland;mame-mame4all

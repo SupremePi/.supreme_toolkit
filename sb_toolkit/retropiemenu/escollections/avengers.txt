@@ -1,0 +1,277 @@
+Avengers (USA);c64
+Captain America and The Avengers (R);dendy
+Captain America and the Avengers (USA);nes
+Captain America and the Avengers (USA);gb
+Captain America and the Avengers (USA);megadrive
+Captain America and the Avengers (USA);snes
+Captain America and the Avengers (USA, Europe);gamegear
+Captain Commando and the Avengers;openbor
+LEGO Marvel Avengers (USA);3ds
+LEGO Marvel's Avengers (USA);wiiu
+Marvel Avengers - Battle for Earth (USA);wiiu
+avengers2;arcade
+avengers2;fba
+avengers2;mame-advmame
+avengers2;mame-libretro
+avengers2;mame-mame4all
+avengers;arcade
+avengers;fba
+avengers;mame-advmame
+avengers;mame-libretro
+avengers;mame-mame4all
+avengrgs;arcade
+avengrgs;fba
+avengrgs;mame-advmame
+avengrgs;mame-libretro
+avengrgs;mame-mame4all
+avengrgsj;arcade
+avengrgsj;fba
+avengrgsj;mame-advmame
+avengrgsj;mame-libretro
+avengrgsj;mame-mame4all
+buraiken;arcade
+buraiken;fba
+buraiken;mame-advmame
+buraiken;mame-libretro
+buraiken;mame-mame4all
+captaven;arcade
+captaven;fba
+captaven;mame-advmame
+captaven;mame-libretro
+captaven;mame-mame4all
+captavena;arcade
+captavena;fba
+captavena;mame-advmame
+captavena;mame-libretro
+captavena;mame-mame4all
+captavene;arcade
+captavene;fba
+captavene;mame-advmame
+captavene;mame-libretro
+captavene;mame-mame4all
+captavenj;arcade
+captavenj;fba
+captavenj;mame-advmame
+captavenj;mame-libretro
+captavenj;mame-mame4all
+captavenu;arcade
+captavenu;fba
+captavenu;mame-advmame
+captavenu;mame-libretro
+captavenu;mame-mame4all
+captavenua;arcade
+captavenua;fba
+captavenua;mame-advmame
+captavenua;mame-libretro
+captavenua;mame-mame4all
+captavenuu;arcade
+captavenuu;fba
+captavenuu;mame-advmame
+captavenuu;mame-libretro
+captavenuu;mame-mame4all
+LEGO Marvel Avengers (USA);3ds
+LEGO Marvel Super Heroes (USA);wiiu
+LEGO Marvel Super Heroes - Universe in Peril (USA);3ds
+LEGO Marvel's Avengers (USA);wiiu
+Marvel - Ultimate Alliance (USA);gba
+Marvel - Ultimate Alliance (USA);psp
+Marvel - Ultimate Alliance (USA);ps2
+Marvel - Ultimate Alliance 2 (USA) [b];nds
+Marvel - Ultimate Alliance 2 (USA);psp
+Marvel Avengers - Battle for Earth (USA);wiiu
+Marvel Infinity War;openbor
+Marvel Land (USA);megadrive
+Marvel Nemesis - Rise of the Imperfects (USA);gc
+Marvel Nemesis - Rise of the Imperfects (USA);psp
+Marvel Nemesis - Rise of the Imperfects (USA);ps2
+Marvel Nemesis - Rise of the Imperfects (USA);nds
+Marvel Super Hero Squad (USA) (En,Fr,Es) [b];nds
+Marvel Super Hero Squad (USA);psp
+Marvel Super Hero Squad (USA);ps2
+Marvel Super Hero Squad - The Infinity Gauntlet (USA) (En,Fr);nds
+Marvel Super Hero Squad - The Infinity Gauntlet (USA);3ds
+Marvel Super Heroes (USA);saturn
+Marvel Super Heroes (USA);psx
+Marvel Super Heroes - War of the Gems (USA);snes
+Marvel Super Heroes vs. Street Fighter (Japan);saturn-japan
+Marvel Super Heroes vs. Street Fighter (USA);psx
+Marvel Super Heroes;openbor
+Marvel Trading Card Game (USA);psp
+Marvel Trading Card Game (USA);nds
+Marvel Ultimate Alliance (USA);wii
+Marvel Ultimate Alliance 2 (USA);wii
+Marvel vs. Capcom - Clash of Super Heroes (USA);dreamcast
+Marvel vs. Capcom - Clash of Super Heroes (USA);psx
+Marvel vs. Capcom 2 (USA);ps2
+Marvel vs. Capcom 2 - The New Age of Heroes (USA);dreamcast
+msh;arcade
+msh;fba
+msh;mame-advmame
+msh;mame-libretro
+msh;mame-mame4all
+msha;arcade
+msha;fba
+msha;mame-advmame
+msha;mame-libretro
+msha;mame-mame4all
+mshb;arcade
+mshb;fba
+mshb;mame-advmame
+mshb;mame-libretro
+mshb;mame-mame4all
+mshh;arcade
+mshh;fba
+mshh;mame-advmame
+mshh;mame-libretro
+mshh;mame-mame4all
+mshj;arcade
+mshj;fba
+mshj;mame-advmame
+mshj;mame-libretro
+mshj;mame-mame4all
+mshjr1;arcade
+mshjr1;fba
+mshjr1;mame-advmame
+mshjr1;mame-libretro
+mshjr1;mame-mame4all
+mshu;arcade
+mshu;fba
+mshu;mame-advmame
+mshu;mame-libretro
+mshu;mame-mame4all
+mshud;arcade
+mshud;fba
+mshud;mame-advmame
+mshud;mame-libretro
+mshud;mame-mame4all
+mshvsf;arcade
+mshvsf;fba
+mshvsf;mame-advmame
+mshvsf;mame-libretro
+mshvsf;mame-mame4all
+mshvsfa1;arcade
+mshvsfa1;fba
+mshvsfa1;mame-advmame
+mshvsfa1;mame-libretro
+mshvsfa1;mame-mame4all
+mshvsfa;arcade
+mshvsfa;fba
+mshvsfa;mame-advmame
+mshvsfa;mame-libretro
+mshvsfa;mame-mame4all
+mshvsfb1;arcade
+mshvsfb1;fba
+mshvsfb1;mame-advmame
+mshvsfb1;mame-libretro
+mshvsfb1;mame-mame4all
+mshvsfb;arcade
+mshvsfb;fba
+mshvsfb;mame-advmame
+mshvsfb;mame-libretro
+mshvsfb;mame-mame4all
+mshvsfh;arcade
+mshvsfh;fba
+mshvsfh;mame-advmame
+mshvsfh;mame-libretro
+mshvsfh;mame-mame4all
+mshvsfj1;arcade
+mshvsfj1;fba
+mshvsfj1;mame-advmame
+mshvsfj1;mame-libretro
+mshvsfj1;mame-mame4all
+mshvsfj2;arcade
+mshvsfj2;fba
+mshvsfj2;mame-advmame
+mshvsfj2;mame-libretro
+mshvsfj2;mame-mame4all
+mshvsfj;arcade
+mshvsfj;fba
+mshvsfj;mame-advmame
+mshvsfj;mame-libretro
+mshvsfj;mame-mame4all
+mshvsfu1;arcade
+mshvsfu1;fba
+mshvsfu1;mame-advmame
+mshvsfu1;mame-libretro
+mshvsfu1;mame-mame4all
+mshvsfu1d;arcade
+mshvsfu1d;fba
+mshvsfu1d;mame-advmame
+mshvsfu1d;mame-libretro
+mshvsfu1d;mame-mame4all
+mshvsfu;arcade
+mshvsfu;fba
+mshvsfu;mame-advmame
+mshvsfu;mame-libretro
+mshvsfu;mame-mame4all
+mt_spman;arcade
+mt_spman;fba
+mt_spman;mame-advmame
+mt_spman;mame-libretro
+mt_spman;mame-mame4all
+mvsc2;arcade
+mvsc2;fba
+mvsc2;mame-advmame
+mvsc2;mame-libretro
+mvsc2;mame-mame4all
+mvsc2;naomi
+mvsc;arcade
+mvsc;fba
+mvsc;mame-advmame
+mvsc;mame-libretro
+mvsc;mame-mame4all
+mvsca;arcade
+mvsca;fba
+mvsca;mame-advmame
+mvsca;mame-libretro
+mvsca;mame-mame4all
+mvscar1;arcade
+mvscar1;fba
+mvscar1;mame-advmame
+mvscar1;mame-libretro
+mvscar1;mame-mame4all
+mvscb;arcade
+mvscb;fba
+mvscb;mame-advmame
+mvscb;mame-libretro
+mvscb;mame-mame4all
+mvsch;arcade
+mvsch;fba
+mvsch;mame-advmame
+mvsch;mame-libretro
+mvsch;mame-mame4all
+mvscj;arcade
+mvscj;fba
+mvscj;mame-advmame
+mvscj;mame-libretro
+mvscj;mame-mame4all
+mvscjr1;arcade
+mvscjr1;fba
+mvscjr1;mame-advmame
+mvscjr1;mame-libretro
+mvscjr1;mame-mame4all
+mvscjsing;arcade
+mvscjsing;fba
+mvscjsing;mame-advmame
+mvscjsing;mame-libretro
+mvscjsing;mame-mame4all
+mvscr1;arcade
+mvscr1;fba
+mvscr1;mame-advmame
+mvscr1;mame-libretro
+mvscr1;mame-mame4all
+mvscu;arcade
+mvscu;fba
+mvscu;mame-advmame
+mvscu;mame-libretro
+mvscu;mame-mame4all
+mvscud;arcade
+mvscud;fba
+mvscud;mame-advmame
+mvscud;mame-libretro
+mvscud;mame-mame4all
+mvscur1;arcade
+mvscur1;fba
+mvscur1;mame-advmame
+mvscur1;mame-libretro
+mvscur1;mame-mame4all

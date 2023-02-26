@@ -1,0 +1,35 @@
+Art of Fighting (USA);megadrive
+Art of Fighting (USA);snes
+Art of Fighting (World);neocdz
+Art of Fighting - Beats of Rage Remix III;openbor
+Art of Fighting 2 (World);neocdz
+Art of Fighting 3 - The Path of the Warrior (World);neocdz
+Art of Fighting Anthology (USA);ps2
+aof2;arcade
+aof2;fba
+aof2;mame-advmame
+aof2;mame-libretro
+aof2;mame-mame4all
+aof2;neogeo
+aof2a;arcade
+aof2a;fba
+aof2a;mame-advmame
+aof2a;mame-libretro
+aof2a;mame-mame4all
+aof3;arcade
+aof3;fba
+aof3;mame-advmame
+aof3;mame-libretro
+aof3;mame-mame4all
+aof3;neogeo
+aof3k;arcade
+aof3k;fba
+aof3k;mame-advmame
+aof3k;mame-libretro
+aof3k;mame-mame4all
+aof;arcade
+aof;fba
+aof;mame-advmame
+aof;mame-libretro
+aof;mame-mame4all
+aof;neogeo

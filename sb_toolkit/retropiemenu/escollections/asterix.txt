@@ -1,0 +1,67 @@
+Asterix and the Magic Cauldron (Europe);amstradcpc
+Asterix et la Potion Magique (France);amstradcpc
+Asterix (USA);atari2600
+AsterixOperationGetafix_v1.3_1009;amiga1200
+AsterixOperationGetafix_v1.3_1009;amiga
+Asterix (R);dendy
+asterixaad;arcade
+asterixaad;fba
+asterixaad;mame-advmame
+asterixaad;mame-libretro
+asterixaad;mame-mame4all
+asterixeaa;arcade
+asterixeaa;fba
+asterixeaa;mame-advmame
+asterixeaa;mame-libretro
+asterixeaa;mame-mame4all
+asterixeac;arcade
+asterixeac;fba
+asterixeac;mame-advmame
+asterixeac;mame-libretro
+asterixeac;mame-mame4all
+asterix;arcade
+asterix;fba
+asterix;mame-advmame
+asterix;mame-libretro
+asterix;mame-mame4all
+asterixj;arcade
+asterixj;fba
+asterixj;mame-advmame
+asterixj;mame-libretro
+asterixj;mame-mame4all
+Asterix - The Mansions of the Gods (Europe);3ds
+Asterix & Obelix XXL 2 - Mission Wifix (Europe) (En,Fr,De,Es,It,Nl);nds
+Asterix - Brain Trainer (Europe) (En,Fr,De,Es,It,Nl);nds
+Asterix - These Romans Are Crazy! (Europe) (En,Fr,De,It,Nl) [b];nds
+Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It,Nl);nds
+Asterix (Europe);nes
+2 in 1 - Asterix & Obelix - Bash Them All! + Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl);gba
+Asterix & Obelix - Bash Them All! (Europe) (En,Fr,De,Es,It,Nl);gba
+Asterix & Obelix XXL (Europe) (En,Fr,De,Es,It,Nl);gba
+Asterix & Obelix (Europe);gbc
+Asterix & Obelix vs Caesar (Europe);gbc
+Asterix - Search for Dogmatix (Europe);gbc
+Asterix & Obelix (Europe);gb
+Asterix (Europe);gb
+Asterix & Obelix XXL (Europe);gc
+Asterix at the Olympic Games (USA);wii
+Asterix and Caesars Challenge;openbor
+Asterix - Caesar's Challenge (Europe);cdimono1
+Asterix and the Great Rescue (USA);gamegear
+Asterix and the Secret Mission (Europe);gamegear
+Asterix and the Great Rescue (USA);genesis
+Asterix and the Power of the Gods (Europe);genesis
+Asterix (Europe);mastersystem
+Asterix and the Great Rescue (Europe);mastersystem
+Asterix and the Secret Mission (Europe);mastersystem
+Asterix and the Magic Cauldron (Europe);zxspectrum
+Asterix & Obelix - Kick Buttix (USA);ps2
+Asterix & Obelix XXL2 - Mission - Las Vegum (Europe);ps2
+Asterix at the Olympic Games (Europe);ps2
+Asterix & Obelix Take On Caesar (Europe);psx
+Asterix (Europe);psx
+Asterix - Mega Madness (Europe);psx
+Asterix & Obelix XXL 2 - Mission WiFix (Europe);psp
+Asterix & Obelix (Europe);snes
+Asterix (Europe);snes
+Asterix - Operation Getafix (Europe);atarist

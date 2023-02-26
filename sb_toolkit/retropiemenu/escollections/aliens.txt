@@ -1,0 +1,47 @@
+Aliens The Computer Game (USA);amstradcpc
+Aliens (USA) (Side A);apple2
+Aliens (USA) (Side B);apple2
+Aliens - The Computer Game (USA);c64
+Aliens (1987);plus4
+Aliens Infestation (Original) (1.1);futurepinball
+aliensj;arcade
+aliensj;fba
+aliensj;mame-advmame
+aliensj;mame-libretro
+aliensj;mame-mame4all
+aliensj2;arcade
+aliensj2;fba
+aliensj2;mame-advmame
+aliensj2;mame-libretro
+aliensj2;mame-mame4all
+aliensu;arcade
+aliensu;fba
+aliensu;mame-advmame
+aliensu;mame-libretro
+aliensu;mame-mame4all
+aliens;arcade
+aliens;fba
+aliens;mame-advmame
+aliens;mame-libretro
+aliens;mame-mame4all
+aliens2;arcade
+aliens2;fba
+aliens2;mame-advmame
+aliens2;mame-libretro
+aliens2;mame-mame4all
+aliens3;arcade
+aliens3;fba
+aliens3;mame-advmame
+aliens3;mame-libretro
+aliens3;mame-mame4all
+Aliens - Alien 2 (Japan);msx
+Aliens - Alien 2 (Japan) (Alt 1);msx
+Aliens - Alien 2 (Japan) (Alt 2);msx
+Aliens - Infestation (USA) (En,Fr,De);nds
+Aliens (Japan) (Proto);fds
+Aliens vs. Predator (Japan);sfc
+Aliens (Electric Dreams Software) (Europe);zxspectrum
+Aliens (Professional Software) (Europe);zxspectrum
+Aliens US Version (Europe);zxspectrum
+Aliens Versus Predator - Extinction (USA);ps2
+Aliens vs. Predator - Requiem (USA);psp

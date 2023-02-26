@@ -1,0 +1,261 @@
+Adventures of Batman & Robin, The (USA);segacd
+Adventures of Batman & Robin, The (USA);megadrive
+Adventures of Batman & Robin, The (USA);snes
+Adventures of Batman & Robin, The (USA, Europe);gamegear
+Batman & Robin (USA);psx
+Batman (CPC+) (Europe);amstradcpc
+Batman (Europe);amstradcpc
+Batman (Europe);zxspectrum
+Batman (Japan);msx
+Batman (Japan);megadrive-japan
+Batman (Japan);pcengine
+Batman (R);dendy
+Batman (USA) (Side A);apple2
+Batman (USA) (Side B);apple2
+Batman (USA);megadrive
+Batman - Arkham City - Armored Edition (USA);wiiu
+Batman - Arkham Origins (USA);wiiu
+Batman - Arkham Origins Blackgate (USA);3ds
+Batman - Dark Tomorrow (USA);gc
+Batman - Gotham City Racer (USA);psx
+Batman - Return of the Joker (R);dendy
+Batman - Return of the Joker (USA);nes
+Batman - Return of the Joker (USA, Europe);gb
+Batman - Revenge of the Joker (USA) (Proto);snes
+Batman - Revenge of the Joker (USA);megadrive
+Batman - Rise of Sin Tzu (USA) (En,Fr,Es);gba
+Batman - Rise of Sin Tzu (USA);gc
+Batman - Rise of Sin Tzu (USA);ps2
+Batman - Shadows of Gotham (R);dendy
+Batman - The Animated Series (USA, Europe);gb
+Batman - The Brave and the Bold - The Videogame (USA) (En,Fr,Es);nds
+Batman - The Caped Crusader (Europe);amstradcpc
+Batman - The Caped Crusader (Europe);atarist
+Batman - The Caped Crusader (Europe);c64
+Batman - The Caped Crusader - Part 1 - A Bird in the Hand (Europe);zxspectrum
+Batman - The Caped Crusader - Part 2 - A Fete Worse than Death (Europe);zxspectrum
+Batman - The Movie (Europe);amstradcpc
+Batman - The Movie (Europe);atarist
+Batman - The Movie (Europe);c64
+Batman - The Movie (Europe);zxspectrum
+Batman - The Video Game (USA);nes
+Batman - The Video Game (World);gb
+Batman - Vengeance (USA) (En,Fr,Es);gba
+Batman - Vengeance (USA);gc
+Batman - Vengeance (USA);ps2
+Batman - Video Game (R) (Prototype);dendy
+Batman Begins (USA);gc
+Batman Begins (USA);ps2
+Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl);gba
+Batman Beyond - Return of the Joker (USA);n64
+Batman Beyond - Return of the Joker (USA);gbc
+Batman Beyond - Return of the Joker (USA);psx
+Batman Flash (R);dendy
+Batman Forever (USA);snes
+Batman Forever (USA, Europe);gb
+Batman Forever (World);gamegear
+Batman Forever (World);megadrive
+Batman Forever - The Arcade Game (USA);saturn
+Batman Forever - The Arcade Game (USA);psx
+Batman Returns (Europe);mastersystem
+Batman Returns (R);dendy
+Batman Returns (USA);nes
+Batman Returns (USA);segacd
+Batman Returns (USA);snes
+Batman Returns (USA, Europe);atarilynx
+Batman Returns (World);gamegear
+Batman Returns (World);megadrive
+Batman Shadows of Gotham v1.1 (Hack);nesh
+Batman the Movie (Europe);gx4000
+BatmanCapedCrusader_v1.1_0050;amiga1200
+BatmanCapedCrusader_v1.1_0050;amiga
+BatmanReturns_v1.0;amiga1200
+BatmanReturns_v1.0;amiga
+BatmanTheMovie_v1.2_2Disk;amiga1200
+BatmanTheMovie_v1.2_2Disk;amiga
+Eamon 187 - Batman!! (USA) (Unl);apple2
+LEGO Batman (USA);wii
+LEGO Batman - The Video Game (USA);psp
+LEGO Batman - The Videogame (USA) (En,Fr,Es);nds
+LEGO Batman - The Videogame (USA);ps2
+LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt);nds
+LEGO Batman 2 - DC Super Heroes (USA);3ds
+LEGO Batman 2 - DC Super Heroes (USA);wiiu
+LEGO Batman 3 - Beyond Gotham (USA);3ds
+LEGO Batman 3 - Beyond Gotham (USA);wiiu
+New Batman Adventures, The - Chaos in Gotham (USA);gbc
+batman2;arcade
+batman2;fba
+batman2;mame-advmame
+batman2;mame-libretro
+batman2;mame-mame4all
+batman;arcade
+batman;fba
+batman;mame-advmame
+batman;mame-libretro
+batman;mame-mame4all
+batmanf3;arcade
+batmanf3;fba
+batmanf3;mame-advmame
+batmanf3;mame-libretro
+batmanf3;mame-mame4all
+batmanf;arcade
+batmanf;fba
+batmanf;mame-advmame
+batmanf;mame-libretro
+batmanf;mame-mame4all
+batmanfr;arcade
+batmanfr;fba
+batmanfr;mame-advmame
+batmanfr;mame-libretro
+batmanfr;mame-mame4all
+bdk_130;arcade
+bdk_130;fba
+bdk_130;mame-advmame
+bdk_130;mame-libretro
+bdk_130;mame-mame4all
+bdk_150;arcade
+bdk_150;fba
+bdk_150;mame-advmame
+bdk_150;mame-libretro
+bdk_150;mame-mame4all
+bdk_160;arcade
+bdk_160;fba
+bdk_160;mame-advmame
+bdk_160;mame-libretro
+bdk_160;mame-mame4all
+bdk_200;arcade
+bdk_200;fba
+bdk_200;mame-advmame
+bdk_200;mame-libretro
+bdk_200;mame-mame4all
+bdk_210;arcade
+bdk_210;fba
+bdk_210;mame-advmame
+bdk_210;mame-libretro
+bdk_210;mame-mame4all
+bdk_220;arcade
+bdk_220;fba
+bdk_220;mame-advmame
+bdk_220;mame-libretro
+bdk_220;mame-mame4all
+bdk_290;arcade
+bdk_290;fba
+bdk_290;mame-advmame
+bdk_290;mame-libretro
+bdk_290;mame-mame4all
+bdk_294;arcade
+bdk_294;fba
+bdk_294;mame-advmame
+bdk_294;mame-libretro
+bdk_294;mame-mame4all
+bmf_at;arcade
+bmf_at;fba
+bmf_at;mame-advmame
+bmf_at;mame-libretro
+bmf_at;mame-mame4all
+bmf_be;arcade
+bmf_be;fba
+bmf_be;mame-advmame
+bmf_be;mame-libretro
+bmf_be;mame-mame4all
+bmf_ch;arcade
+bmf_ch;fba
+bmf_ch;mame-advmame
+bmf_ch;mame-libretro
+bmf_ch;mame-mame4all
+bmf_cn;arcade
+bmf_cn;fba
+bmf_cn;mame-advmame
+bmf_cn;mame-libretro
+bmf_cn;mame-mame4all
+bmf_de;arcade
+bmf_de;fba
+bmf_de;mame-advmame
+bmf_de;mame-libretro
+bmf_de;mame-mame4all
+bmf_fr;arcade
+bmf_fr;fba
+bmf_fr;mame-advmame
+bmf_fr;mame-libretro
+bmf_fr;mame-mame4all
+bmf_it;arcade
+bmf_it;fba
+bmf_it;mame-advmame
+bmf_it;mame-libretro
+bmf_it;mame-mame4all
+bmf_jp;arcade
+bmf_jp;fba
+bmf_jp;mame-advmame
+bmf_jp;mame-libretro
+bmf_jp;mame-mame4all
+bmf_nl;arcade
+bmf_nl;fba
+bmf_nl;mame-advmame
+bmf_nl;mame-libretro
+bmf_nl;mame-mame4all
+bmf_no;arcade
+bmf_no;fba
+bmf_no;mame-advmame
+bmf_no;mame-libretro
+bmf_no;mame-mame4all
+bmf_sp;arcade
+bmf_sp;fba
+bmf_sp;mame-advmame
+bmf_sp;mame-libretro
+bmf_sp;mame-mame4all
+bmf_sv;arcade
+bmf_sv;fba
+bmf_sv;mame-advmame
+bmf_sv;mame-libretro
+bmf_sv;mame-mame4all
+bmf_time;arcade
+bmf_time;fba
+bmf_time;mame-advmame
+bmf_time;mame-libretro
+bmf_time;mame-mame4all
+bmf_uk;arcade
+bmf_uk;fba
+bmf_uk;mame-advmame
+bmf_uk;mame-libretro
+bmf_uk;mame-mame4all
+btmn_101;arcade
+btmn_101;fba
+btmn_101;mame-advmame
+btmn_101;mame-libretro
+btmn_101;mame-mame4all
+btmn_103;arcade
+btmn_103;fba
+btmn_103;mame-advmame
+btmn_103;mame-libretro
+btmn_103;mame-mame4all
+btmn_106;arcade
+btmn_106;fba
+btmn_106;mame-advmame
+btmn_106;mame-libretro
+btmn_106;mame-mame4all
+btmn_g13;arcade
+btmn_g13;fba
+btmn_g13;mame-advmame
+btmn_g13;mame-libretro
+btmn_g13;mame-mame4all
+leaguemn;arcade
+leaguemn;fba
+leaguemn;mame-advmame
+leaguemn;mame-libretro
+leaguemn;mame-mame4all
+nbbatman2bl;arcade
+nbbatman2bl;fba
+nbbatman2bl;mame-advmame
+nbbatman2bl;mame-libretro
+nbbatman2bl;mame-mame4all
+nbbatman;arcade
+nbbatman;fba
+nbbatman;mame-advmame
+nbbatman;mame-libretro
+nbbatman;mame-mame4all
+nbbatmanu;arcade
+nbbatmanu;fba
+nbbatmanu;mame-advmame
+nbbatmanu;mame-libretro
+nbbatmanu;mame-mame4all

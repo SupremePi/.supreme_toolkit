@@ -1,0 +1,411 @@
+AFL Boulder Dash (USA) (Unl);c64
+Boulder Dash (1984);plus4
+Boulder Dash (Craig);x1
+Boulder Dash (Europe);bbcb
+Boulder Dash (Europe);amstradcpc
+Boulder Dash (Europe);gb
+Boulder Dash (Europe);zxspectrum
+Boulder Dash (Japan);msx
+Boulder Dash (R);dendy
+Boulder Dash (USA) (Unl);atari2600
+Boulder Dash (USA);apple2
+Boulder Dash (USA);atari800
+Boulder Dash (USA);atarist
+Boulder Dash (USA);colecovision
+Boulder Dash (USA);c64
+Boulder Dash (USA);nes
+Boulder Dash - Construction Kit (Europe);zxspectrum
+Boulder Dash - Rocks! (Europe) (En,Fr,De,Es,It);nds
+Boulder Dash 2 (France) (Unl);amstradcpc
+Boulder Dash 4 (France) (Unl);amstradcpc
+Boulder Dash 50 (USA) (Unl);c64
+Boulder Dash Construction Kit (Europe);amstradcpc
+Boulder Dash Construction Kit (USA) (Disk 1);c64
+Boulder Dash Construction Kit (USA) (Disk 2);c64
+Boulder Dash Construction Kit (USA) (Disk 3);c64
+Boulder Dash Construction Kit (USA) (Disk 4);c64
+Boulder Dash Construction Kit (USA) (Disk 5);c64
+Boulder Dash Construction Kit (USA);apple2
+Boulder Dash Construction Kit (USA);atari800
+Boulder Dash Construction Kit (USA);atarist
+Boulder Dash DTV (USA) (Unl);c64
+Boulder Dash EX (USA);gba
+Boulder Dash II (1985);plus4
+Boulder Dash II (USA);apple2
+Boulder Dash II (USA);atari800
+Boulder Dash II - Rockford's Revenge (USA);c64
+Boulder Dash II - Rockford's Riot (Europe);zxspectrum
+Boulder Dash III (Europe);amstradcpc
+Boulder Dash III (Europe);zxspectrum
+Boulder Dash III (USA);c64
+Boulder Dash V (Europe) (Unl);c64
+Boulder Dash VI (Europe);amstradcpc
+Boulder Dash-XL 3D (USA);3ds
+Boulder Dash;scv
+Boulder Dash;x1
+BoulderDashConstructionKit_v1.0_0464;amiga1200
+BoulderDashConstructionKit_v1.0_0464;amiga
+Boulder_Dash;mz700
+Boulderdash (198x)(First Step Software)[b];electron
+New-Boulderdash 01 (USA) (Unl);c64
+Super Boulderdash (USA);apple2
+bouldash;arcade
+bouldash;fba
+bouldash;mame-advmame
+bouldash;mame-libretro
+bouldash;mame-mame4all
+bouldashj;arcade
+bouldashj;fba
+bouldashj;mame-advmame
+bouldashj;mame-libretro
+bouldashj;mame-mame4all
+cbdash;arcade
+cbdash;fba
+cbdash;mame-advmame
+cbdash;mame-libretro
+cbdash;mame-mame4all
+m4bdash;arcade
+m4bdash;fba
+m4bdash;mame-advmame
+m4bdash;mame-libretro
+m4bdash;mame-mame4all
+m4bdash__0;arcade
+m4bdash__0;fba
+m4bdash__0;mame-advmame
+m4bdash__0;mame-libretro
+m4bdash__0;mame-mame4all
+m4bdash__1;arcade
+m4bdash__1;fba
+m4bdash__1;mame-advmame
+m4bdash__1;mame-libretro
+m4bdash__1;mame-mame4all
+m4bdash__2;arcade
+m4bdash__2;fba
+m4bdash__2;mame-advmame
+m4bdash__2;mame-libretro
+m4bdash__2;mame-mame4all
+m4bdash__3;arcade
+m4bdash__3;fba
+m4bdash__3;mame-advmame
+m4bdash__3;mame-libretro
+m4bdash__3;mame-mame4all
+m4bdash__4;arcade
+m4bdash__4;fba
+m4bdash__4;mame-advmame
+m4bdash__4;mame-libretro
+m4bdash__4;mame-mame4all
+m4bdash__5;arcade
+m4bdash__5;fba
+m4bdash__5;mame-advmame
+m4bdash__5;mame-libretro
+m4bdash__5;mame-mame4all
+m4bdash__6;arcade
+m4bdash__6;fba
+m4bdash__6;mame-advmame
+m4bdash__6;mame-libretro
+m4bdash__6;mame-mame4all
+m4bdash__7;arcade
+m4bdash__7;fba
+m4bdash__7;mame-advmame
+m4bdash__7;mame-libretro
+m4bdash__7;mame-mame4all
+m4bdash__8;arcade
+m4bdash__8;fba
+m4bdash__8;mame-advmame
+m4bdash__8;mame-libretro
+m4bdash__8;mame-mame4all
+m4bdash__9;arcade
+m4bdash__9;fba
+m4bdash__9;mame-advmame
+m4bdash__9;mame-libretro
+m4bdash__9;mame-mame4all
+m4bdash__a0;arcade
+m4bdash__a0;fba
+m4bdash__a0;mame-advmame
+m4bdash__a0;mame-libretro
+m4bdash__a0;mame-mame4all
+m4bdash__a1;arcade
+m4bdash__a1;fba
+m4bdash__a1;mame-advmame
+m4bdash__a1;mame-libretro
+m4bdash__a1;mame-mame4all
+m4bdash__a2;arcade
+m4bdash__a2;fba
+m4bdash__a2;mame-advmame
+m4bdash__a2;mame-libretro
+m4bdash__a2;mame-mame4all
+m4bdash__a3;arcade
+m4bdash__a3;fba
+m4bdash__a3;mame-advmame
+m4bdash__a3;mame-libretro
+m4bdash__a3;mame-mame4all
+m4bdash__a4;arcade
+m4bdash__a4;fba
+m4bdash__a4;mame-advmame
+m4bdash__a4;mame-libretro
+m4bdash__a4;mame-mame4all
+m4bdash__a;arcade
+m4bdash__a;fba
+m4bdash__a;mame-advmame
+m4bdash__a;mame-libretro
+m4bdash__a;mame-mame4all
+m4bdash__aa;arcade
+m4bdash__aa;fba
+m4bdash__aa;mame-advmame
+m4bdash__aa;mame-libretro
+m4bdash__aa;mame-mame4all
+m4bdash__ab;arcade
+m4bdash__ab;fba
+m4bdash__ab;mame-advmame
+m4bdash__ab;mame-libretro
+m4bdash__ab;mame-mame4all
+m4bdash__ac;arcade
+m4bdash__ac;fba
+m4bdash__ac;mame-advmame
+m4bdash__ac;mame-libretro
+m4bdash__ac;mame-mame4all
+m4bdash__ad;arcade
+m4bdash__ad;fba
+m4bdash__ad;mame-advmame
+m4bdash__ad;mame-libretro
+m4bdash__ad;mame-mame4all
+m4bdash__ae;arcade
+m4bdash__ae;fba
+m4bdash__ae;mame-advmame
+m4bdash__ae;mame-libretro
+m4bdash__ae;mame-mame4all
+m4bdash__af;arcade
+m4bdash__af;fba
+m4bdash__af;mame-advmame
+m4bdash__af;mame-libretro
+m4bdash__af;mame-mame4all
+m4bdash__ag;arcade
+m4bdash__ag;fba
+m4bdash__ag;mame-advmame
+m4bdash__ag;mame-libretro
+m4bdash__ag;mame-mame4all
+m4bdash__ah;arcade
+m4bdash__ah;fba
+m4bdash__ah;mame-advmame
+m4bdash__ah;mame-libretro
+m4bdash__ah;mame-mame4all
+m4bdash__ai;arcade
+m4bdash__ai;fba
+m4bdash__ai;mame-advmame
+m4bdash__ai;mame-libretro
+m4bdash__ai;mame-mame4all
+m4bdash__aj;arcade
+m4bdash__aj;fba
+m4bdash__aj;mame-advmame
+m4bdash__aj;mame-libretro
+m4bdash__aj;mame-mame4all
+m4bdash__ak;arcade
+m4bdash__ak;fba
+m4bdash__ak;mame-advmame
+m4bdash__ak;mame-libretro
+m4bdash__ak;mame-mame4all
+m4bdash__al;arcade
+m4bdash__al;fba
+m4bdash__al;mame-advmame
+m4bdash__al;mame-libretro
+m4bdash__al;mame-mame4all
+m4bdash__am;arcade
+m4bdash__am;fba
+m4bdash__am;mame-advmame
+m4bdash__am;mame-libretro
+m4bdash__am;mame-mame4all
+m4bdash__an;arcade
+m4bdash__an;fba
+m4bdash__an;mame-advmame
+m4bdash__an;mame-libretro
+m4bdash__an;mame-mame4all
+m4bdash__ao;arcade
+m4bdash__ao;fba
+m4bdash__ao;mame-advmame
+m4bdash__ao;mame-libretro
+m4bdash__ao;mame-mame4all
+m4bdash__ap;arcade
+m4bdash__ap;fba
+m4bdash__ap;mame-advmame
+m4bdash__ap;mame-libretro
+m4bdash__ap;mame-mame4all
+m4bdash__aq;arcade
+m4bdash__aq;fba
+m4bdash__aq;mame-advmame
+m4bdash__aq;mame-libretro
+m4bdash__aq;mame-mame4all
+m4bdash__ar;arcade
+m4bdash__ar;fba
+m4bdash__ar;mame-advmame
+m4bdash__ar;mame-libretro
+m4bdash__ar;mame-mame4all
+m4bdash__as;arcade
+m4bdash__as;fba
+m4bdash__as;mame-advmame
+m4bdash__as;mame-libretro
+m4bdash__as;mame-mame4all
+m4bdash__at;arcade
+m4bdash__at;fba
+m4bdash__at;mame-advmame
+m4bdash__at;mame-libretro
+m4bdash__at;mame-mame4all
+m4bdash__au;arcade
+m4bdash__au;fba
+m4bdash__au;mame-advmame
+m4bdash__au;mame-libretro
+m4bdash__au;mame-mame4all
+m4bdash__av;arcade
+m4bdash__av;fba
+m4bdash__av;mame-advmame
+m4bdash__av;mame-libretro
+m4bdash__av;mame-mame4all
+m4bdash__aw;arcade
+m4bdash__aw;fba
+m4bdash__aw;mame-advmame
+m4bdash__aw;mame-libretro
+m4bdash__aw;mame-mame4all
+m4bdash__ax;arcade
+m4bdash__ax;fba
+m4bdash__ax;mame-advmame
+m4bdash__ax;mame-libretro
+m4bdash__ax;mame-mame4all
+m4bdash__ay;arcade
+m4bdash__ay;fba
+m4bdash__ay;mame-advmame
+m4bdash__ay;mame-libretro
+m4bdash__ay;mame-mame4all
+m4bdash__az;arcade
+m4bdash__az;fba
+m4bdash__az;mame-advmame
+m4bdash__az;mame-libretro
+m4bdash__az;mame-mame4all
+m4bdash__b;arcade
+m4bdash__b;fba
+m4bdash__b;mame-advmame
+m4bdash__b;mame-libretro
+m4bdash__b;mame-mame4all
+m4bdash__c;arcade
+m4bdash__c;fba
+m4bdash__c;mame-advmame
+m4bdash__c;mame-libretro
+m4bdash__c;mame-mame4all
+m4bdash__d;arcade
+m4bdash__d;fba
+m4bdash__d;mame-advmame
+m4bdash__d;mame-libretro
+m4bdash__d;mame-mame4all
+m4bdash__e;arcade
+m4bdash__e;fba
+m4bdash__e;mame-advmame
+m4bdash__e;mame-libretro
+m4bdash__e;mame-mame4all
+m4bdash__f;arcade
+m4bdash__f;fba
+m4bdash__f;mame-advmame
+m4bdash__f;mame-libretro
+m4bdash__f;mame-mame4all
+m4bdash__g;arcade
+m4bdash__g;fba
+m4bdash__g;mame-advmame
+m4bdash__g;mame-libretro
+m4bdash__g;mame-mame4all
+m4bdash__h;arcade
+m4bdash__h;fba
+m4bdash__h;mame-advmame
+m4bdash__h;mame-libretro
+m4bdash__h;mame-mame4all
+m4bdash__i;arcade
+m4bdash__i;fba
+m4bdash__i;mame-advmame
+m4bdash__i;mame-libretro
+m4bdash__i;mame-mame4all
+m4bdash__j;arcade
+m4bdash__j;fba
+m4bdash__j;mame-advmame
+m4bdash__j;mame-libretro
+m4bdash__j;mame-mame4all
+m4bdash__k;arcade
+m4bdash__k;fba
+m4bdash__k;mame-advmame
+m4bdash__k;mame-libretro
+m4bdash__k;mame-mame4all
+m4bdash__l;arcade
+m4bdash__l;fba
+m4bdash__l;mame-advmame
+m4bdash__l;mame-libretro
+m4bdash__l;mame-mame4all
+m4bdash__m;arcade
+m4bdash__m;fba
+m4bdash__m;mame-advmame
+m4bdash__m;mame-libretro
+m4bdash__m;mame-mame4all
+m4bdash__n;arcade
+m4bdash__n;fba
+m4bdash__n;mame-advmame
+m4bdash__n;mame-libretro
+m4bdash__n;mame-mame4all
+m4bdash__o;arcade
+m4bdash__o;fba
+m4bdash__o;mame-advmame
+m4bdash__o;mame-libretro
+m4bdash__o;mame-mame4all
+m4bdash__p;arcade
+m4bdash__p;fba
+m4bdash__p;mame-advmame
+m4bdash__p;mame-libretro
+m4bdash__p;mame-mame4all
+m4bdash__q;arcade
+m4bdash__q;fba
+m4bdash__q;mame-advmame
+m4bdash__q;mame-libretro
+m4bdash__q;mame-mame4all
+m4bdash__r;arcade
+m4bdash__r;fba
+m4bdash__r;mame-advmame
+m4bdash__r;mame-libretro
+m4bdash__r;mame-mame4all
+m4bdash__s;arcade
+m4bdash__s;fba
+m4bdash__s;mame-advmame
+m4bdash__s;mame-libretro
+m4bdash__s;mame-mame4all
+m4bdash__t;arcade
+m4bdash__t;fba
+m4bdash__t;mame-advmame
+m4bdash__t;mame-libretro
+m4bdash__t;mame-mame4all
+m4bdash__u;arcade
+m4bdash__u;fba
+m4bdash__u;mame-advmame
+m4bdash__u;mame-libretro
+m4bdash__u;mame-mame4all
+m4bdash__v;arcade
+m4bdash__v;fba
+m4bdash__v;mame-advmame
+m4bdash__v;mame-libretro
+m4bdash__v;mame-mame4all
+m4bdash__w;arcade
+m4bdash__w;fba
+m4bdash__w;mame-advmame
+m4bdash__w;mame-libretro
+m4bdash__w;mame-mame4all
+m4bdash__x;arcade
+m4bdash__x;fba
+m4bdash__x;mame-advmame
+m4bdash__x;mame-libretro
+m4bdash__x;mame-mame4all
+m4bdash__y;arcade
+m4bdash__y;fba
+m4bdash__y;mame-advmame
+m4bdash__y;mame-libretro
+m4bdash__y;mame-mame4all
+m4bdash__z;arcade
+m4bdash__z;fba
+m4bdash__z;mame-advmame
+m4bdash__z;mame-libretro
+m4bdash__z;mame-mame4all
+mf_bdash;arcade
+mf_bdash;fba
+mf_bdash;mame-advmame
+mf_bdash;mame-libretro
+mf_bdash;mame-mame4all

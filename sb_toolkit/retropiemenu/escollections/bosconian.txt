@@ -1,0 +1,35 @@
+Bosconian '87 (Europe);amstradcpc
+Bosconian 87 (Europe);amstradcpc
+Bosconian 87 (Europe);c64
+boscomd;arcade
+boscomd;fba
+boscomd;mame-advmame
+boscomd;mame-libretro
+boscomd;mame-mame4all
+boscomdo;arcade
+boscomdo;fba
+boscomdo;mame-advmame
+boscomdo;mame-libretro
+boscomdo;mame-mame4all
+bosco;arcade
+bosco;fba
+bosco;mame-advmame
+bosco;mame-libretro
+bosco;mame-mame4all
+boscoo;arcade
+boscoo;fba
+boscoo;mame-advmame
+boscoo;mame-libretro
+boscoo;mame-mame4all
+boscoo2;arcade
+boscoo2;fba
+boscoo2;mame-advmame
+boscoo2;mame-libretro
+boscoo2;mame-mame4all
+Bosconian (Japan);msx
+Bosconian (Japan) (Alt 1);msx
+Bosconian (Japan) (Alt 2);msx
+Bosconian (Dempa);x68000
+Bosconian '87 (Europe);zxspectrum
+Bosconian;m5
+Bosconian;x1
