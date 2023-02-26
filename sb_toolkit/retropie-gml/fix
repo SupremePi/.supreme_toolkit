@@ -1,0 +1,5 @@
+RetropieMenu and Gamelist
+rm -rf /home/pi/RetroPie/retropiemenu && rsync -av /home/pi/RetroPie/scripts/.sb-unified/retropiemenu/ /home/pi/RetroPie/retropiemenu && cp /home/pi/RetroPie/scripts/.sb-unified/retropie-gml/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
+
+Gamelist Only
+sudo cp /home/pi/RetroPie/scripts/.sb-unified/retropie-gml/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml 
