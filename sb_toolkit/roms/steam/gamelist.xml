@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gameList>
     <game>
-        <path>./Shutdown.sh</path>
+        <path>./steam.sh</path>
         <name>Shutdown</name>
         <image>./boxart/Steam.png</image>
         <video>./boxart/Steam.png</video>
