@@ -135,9 +135,9 @@ function supreme_apps() {
 		    5 " -  Amiberry Compile and Update From GitHub" \
 		    6 " -  Auto Amiga Install" \
 		    7 " -  UAE Config Maker" \
-		    8 " -  Install N64 Tweaks By Easy Hax " \			
-			9 " -  Attract Update & Install tool" \
-		   10 " -  Vulkan Igalia Driver" \
+                    8 " -  Install N64 Tweaks By Easy Hax" \
+                    9 " -  Attract Update & Install tool" \
+                   10 " -  Vulkan Igalia Driver" \
 		   11 " -  Update PiKISS By Jose Cerrejon" \
 		   12 " -  Update Pi-Apps By Botspot" \
 		   13 " -  Update Bezel Project" \

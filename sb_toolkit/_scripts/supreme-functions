@@ -158,8 +158,13 @@ dialog --backtitle "Menu based ES Systems" \
 function supreme_menu() {
 	dialog --infobox "...Updating..." 3 20 ; sleep 2
 	clear
-	sudo cp $sb_toolkit/es_cfg/es_supreme.cfg /etc/emulationstation/es_systems.cfg
+	if [ "$rpi" = "3" ]; then
+		sudo cp $sb_toolkit/es_cfg/es_supreme_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_supreme_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		else
+	    sudo cp $sb_toolkit/es_cfg/es_supreme.cfg /etc/emulationstation/es_systems.cfg
         sudo cp $sb_toolkit/es_cfg/es_supreme.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		fi
         clear
 	echo "We need to restart system now..."
 	echo
@@ -173,8 +178,13 @@ function supreme_menu() {
 function retropie_menu() {
 	dialog --infobox "...Updating..." 3 20 ; sleep 2
 	clear
-	sudo cp $sb_toolkit/es_cfg/es_retropie.cfg /etc/emulationstation/es_systems.cfg
+	if [ "$rpi" = "3" ]; then
+		sudo cp $sb_toolkit/es_cfg/es_retropie_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_retropie_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		else
+	    sudo cp $sb_toolkit/es_cfg/es_retropie.cfg /etc/emulationstation/es_systems.cfg
         sudo cp $sb_toolkit/es_cfg/es_retropie.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		fi
         clear
 	echo "We need to restart system now..."
 	echo
@@ -187,8 +197,13 @@ function retropie_menu() {
 function kodi_menu() {
 	dialog --infobox "...Updating..." 3 20 ; sleep 2
 	clear
-	sudo cp $sb_toolkit/es_cfg/es_kodi.cfg /etc/emulationstation/es_systems.cfg
+	if [ "$rpi" = "3" ]; then
+		sudo cp $sb_toolkit/es_cfg/es_kodi_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_kodi_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		else
+	    sudo cp $sb_toolkit/es_cfg/es_kodi.cfg /etc/emulationstation/es_systems.cfg
         sudo cp $sb_toolkit/es_cfg/es_kodi.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		fi
         clear
 	echo "We need to restart system now..."
 	echo
@@ -201,8 +216,13 @@ function kodi_menu() {
 function pixel_menu() {
 	dialog --infobox "...Updating..." 3 20 ; sleep 2
 	clear
-	sudo cp $sb_toolkit/es_cfg/es_pixel.cfg /etc/emulationstation/es_systems.cfg
+	if [ "$rpi" = "3" ]; then
+	    sudo cp $sb_toolkit/es_cfg/es_pixel_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_pixel_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+	    else
+        sudo cp $sb_toolkit/es_cfg/es_pixel.cfg /etc/emulationstation/es_systems.cfg
         sudo cp $sb_toolkit/es_cfg/es_pixel.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        fi
 	clear
 	echo "We need to restart system now..."
 	echo
@@ -215,8 +235,13 @@ function pixel_menu() {
 function steam_menu() {
 	dialog --infobox "...Updating..." 3 20 ; sleep 2
 	clear
-	sudo cp $sb_toolkit/es_cfg/es_steam.cfg /etc/emulationstation/es_systems.cfg
+	if [ "$rpi" = "3" ]; then
+	    sudo cp $sb_toolkit/es_cfg/es_steam_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_steam_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		else
+	    sudo cp $sb_toolkit/es_cfg/es_steam.cfg /etc/emulationstation/es_systems.cfg
         sudo cp $sb_toolkit/es_cfg/es_steam.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        fi
         clear
 	echo "We need to restart system now..."
 	echo
@@ -229,8 +254,13 @@ function steam_menu() {
 function chromium_menu() {
 	dialog --infobox "...Updating..." 3 20 ; sleep 2
 	clear
-	sudo cp $sb_toolkit/es_cfg/es_chromium.cfg /etc/emulationstation/es_systems.cfg
-        sudo cp $sb_toolkit/es_cfg/es_chromium.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+	if [ "$rpi" = "3" ]; then
+	    sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		else
+		sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+        fi
         clear
 	echo "We need to restart system now..."
 	echo

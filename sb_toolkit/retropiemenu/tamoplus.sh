@@ -92,6 +92,9 @@ stats_check
            15 "System Info" \
            16 "Usb Ext" \
            17 "Wifi" \
+			- "----------------------" \
+		   18 "Enable/Disable Wi-Fi $wfsw" \
+		   19 "Enable/Disable Bluetooth $btsw" \
            2>&1 > /dev/tty)
         case "$choice" in
             1) sudo /home/pi/RetroPie-Setup/retropie_packages.sh bluetooth gui ;;
@@ -111,6 +114,9 @@ stats_check
            15) bash $INSTALL_DIR/scripts/systeminfo.sh ;;
 		   16) bash $INSTALL_DIR/scripts/usb-ext.sh ;;
            17) sudo /home/pi/RetroPie-Setup/retropie_packages.sh wifi gui ;;
+           18) wifi-switch ;;
+           19) bluetooth-switch ;;
+		    -) nono ;;
             *) break ;;
         esac
     done
@@ -146,6 +152,47 @@ stats_check
 }
 
 visual_menu() {
+rpi=$(cat /proc/device-tree/model |awk '{print $3}')
+if [ "$rpi" = "3" ]; then
+visual_menu_pi3
+else
+visual_menu_pi4
+fi
+}
+
+visual_menu_pi3() {
+stats_check
+    local choice
+    while true; do
+        choice=$(dialog --colors --backtitle "Visual Menu  BGM Status $bgms  Volume: $vol  Theme: $ts  Music: $ms  Overlay: $vpos$hpos  Resolution: $resolution" --title " Visual Menu " \
+            --ok-label OK --cancel-label Exit \
+            --menu "Choose An Option Below" 25 85 20 \
+            1 "TAMO+ Overlay Settings" \
+            2 "Bezel Project" \
+            3 "Full Universal Bezel on/off" \
+            4 "Change Resolution" \
+            5 "Retroarch Visual Tools" \
+            6 "Game Media Removal Utility" \
+            7 "RetroPie splashscreen Utility" \
+            8 "Skyscraper Utility" \
+            9 "Switch Genesis & MegaDrive Swap" \
+           2>&1 > /dev/tty)
+        case "$choice" in
+            1) overlay_menu ;;
+            2) bezel_project ;;
+            3) bash $INSTALL_DIR/scripts/bezels.sh ;;
+            4) bash $INSTALL_DIR/scripts/resolution-tool.sh ;;
+            5) bash $INSTALL_DIR/scripts/retroarch-tool.sh ;;
+            6) bash $INSTALL_DIR/scripts/removemedia.sh ;;
+            7) sudo /home/pi/RetroPie-Setup/retropie_packages.sh splashscreen gui ;;
+            8) bash $INSTALL_DIR/scripts/skyscraper.sh ;;
+            9) bash $INSTALL_DIR/scripts/genesis.sh ;;
+            *) break ;;
+        esac
+    done
+}
+
+visual_menu_pi4() {
 stats_check
     local choice
     while true; do
