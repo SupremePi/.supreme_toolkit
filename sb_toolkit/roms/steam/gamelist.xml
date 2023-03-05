@@ -2,7 +2,7 @@
 <gameList>
     <game>
         <path>./steam.sh</path>
-        <name>Shutdown</name>
+        <name>Steam</name>
         <image>./boxart/Steam.png</image>
         <video>./boxart/Steam.png</video>
         <rating></rating>

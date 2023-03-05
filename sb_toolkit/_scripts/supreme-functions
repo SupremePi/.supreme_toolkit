@@ -286,6 +286,25 @@ function move_menu() {
 function fix_applications() {
 	dialog --infobox "...Fixing..." 3 17 ; sleep 1
 	clear
+	if [ "$rpi" = "3" ]; then
+cat <<\EOF12939 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/chromium/Chromium.sh"
+#! /bin/bash
+/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ chromium 
+EOF12939
+cat <<\EOF129310 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/kodi/Kodi.sh"
+#! /bin/bash
+/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ kodi
+EOF129310
+cat <<\EOF129311 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/pixel/Pixel.sh"
+#! /bin/bash
+/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ lxde 
+EOF129311
+cat <<\EOF129312 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/steam/Steam.sh"
+#! /bin/bash
+/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ steamlink  
+EOF129312
+sudo chmod 755 -R /home/pi/.supreme_toolkit/sb_toolkit/roms/
+	fi
 	sudo rsync -av $sb_toolkit/roms/kodi /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/steam /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/power /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/pixel /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/chromium /home/pi/RetroPie/roms/
 	echo
 	read -n 1 -s -r -p "Press any key to continue..."
