@@ -21,7 +21,12 @@ function fix_menu_layout() {
         sleep 3
 	clear
 	
-        #Rsync RetroPie Menu files
+        #Pi 3 RetroPie Menu Edits 
+        if [ "$rpi" = "3" ]; then
+	sudo rm $sb_menu/visualtools/supreme-marquee-tool.sh
+        fi
+	
+        #Rsync RetroPie Menu files 
         if [ -f $rp_menu/raspiconfig.rp ]; then 
 	sudo rsync -av $rp_menu/raspiconfig.rp $sb_menu/
         fi
@@ -61,7 +66,7 @@ function fix_menu_layout() {
         if [ -f $rp_menu/wifi.rp ]; then 
 	sudo rsync -av $rp_menu/wifi.rp $sb_menu/retropietools/
         fi
-	
+
        #Rsync Custom Menu files
        if [ -f $rp_menu/bezelproject.sh ]; then 
        sudo rsync -av $rp_menu/bezelproject.sh $sb_menu/visualtools/

@@ -6,6 +6,7 @@ sb_version="Supreme ToolKit Version 2"
 sb_toolkit=/home/pi/.supreme_toolkit/sb_toolkit
 rp_menu=/home/pi/RetroPie/retropiemenu
 sb_menu=$sb_toolkit/retropiemenu
+rpi=$(cat /proc/device-tree/model |awk '{print $3}')
 STV=$(cat /proc/cpuinfo)
 STR=$(cat /proc/cpuinfo | grep Serial | cut -d ' ' -f 2)
 currentuser=$(whoami) # Check user

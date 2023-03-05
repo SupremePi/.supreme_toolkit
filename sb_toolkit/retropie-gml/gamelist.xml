@@ -347,6 +347,12 @@
     <image>/home/pi/RetroPie/retropiemenu/icons/videosmooth.png</image>
   </game>
   <game>
+    <path>./visualtools/retroarch-tool.sh</path>
+    <name>Video smooth script</name>
+    <desc>The all in one RetroArch Video Tweak script.</desc>
+    <image>/home/pi/RetroPie/retropiemenu/icons/shaders.png</image>
+  </game>
+  <game>
     <path>./test/launchmp4.sh</path>
     <name>Mp4 Launching Screens</name>
     <desc>Disable or enable launching mp4 screen prior loading a rom. Or enable the launching mp4 screens per system. Requires the systems mp4 to exist in the RetroPie/extras+/mp4 folder and match PlayBox system names.</desc>
@@ -434,6 +440,12 @@
     <path>./visualtools/Raspberry-Video-Output.sh</path>
     <name>Raspberry Video Output</name>
     <desc>This script will let quickly let you change video output. Some ex 1080P,720P,480P,240P.</desc>
+    <image>./icons/Raspberry-Video-Output.png</image>
+  </game>
+    <game>
+    <path>./visualtools/resolution-tool.sh</path>
+    <name>Raspberry Video Output</name>
+    <desc>This utility will let you choose between various forced screen resolutions and ratio.</desc>
     <image>./icons/Raspberry-Video-Output.png</image>
   </game>
   <game>
