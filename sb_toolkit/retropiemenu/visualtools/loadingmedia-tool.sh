@@ -12,9 +12,11 @@ if grep -q 'enablevideolaunch="true"' "$RUNONSTART"; then vls=enable; else vls=d
     20 80 2>&1 > /dev/tty \
     || exit
 
+
 function main_menu() {
     clear
     local choice
+
     while true; do
         choice=$(dialog --backtitle "$BACKTITLE" --title "LAUNCHING MEDIA UTILITY MENU" \
             --ok-label OK --cancel-label Back \
@@ -26,7 +28,6 @@ function main_menu() {
 	    - "" \
 	    - "*** LAUNCHING VIDEOS SELECTION ***" \
             4 "Enable/Disable videoloadingscreens ($vls) " \
-
 	   2>&1 > /dev/tty)
 
         case "$choice" in
@@ -39,6 +40,7 @@ function main_menu() {
         esac
     done
 }
+
 
 function install_screens() {
 
@@ -232,9 +234,11 @@ function download_screens() {
     done
 }
 
+
 video_screens() {
 if grep -q 'enablevideolaunch="true"' "$RUNONSTART"; then sed -i -E 's|enablevideolaunch="true"|enablevideolaunch="false"|g' $RUNONSTART
 else sed -i -E 's|enablevideolaunch="false"|enablevideolaunch="true"|g' $RUNONSTART; fi
 }
 
 main_menu
+
