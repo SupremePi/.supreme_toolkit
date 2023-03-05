@@ -2413,12 +2413,46 @@ function cl_es_gamelist() {
 	sudo reboot
 }
 
-
 function cl_cli_hist() {
 	dialog --infobox "...Fixing..." 3 17 ; sleep 1
 	history -cw && clear
-	cd $HOME
-        cp $sb_toolkit/cli/.bash_history /home/pi/
+        if [ "$rpi" = "3" ]; then
+cat <<\EOF129313 > "/home/pi/.bash_history"
+emulationstation #start Emulationstation
+attract #Start Attract-Mode
+pegasus-fe #Start Pegasus Front-end
+startx #Start Desktop Mode
+FE-Switcheroo #This Will Let You Set Default Boot Mode
+fixmybuild #Start Fix My Build Script
+supremeonlinetool #Start Supreme Online Tool Script
+retropiesetup #Start RetroPie Setup
+sudo raspi-config #Start Raspi-Config
+sb_version #Display Supreme Build Info
+rebootpi #Reboot Your Pi
+poweroffpi #Power Off Your Pi
+sudo raspi-config #Start Raspi-Config
+EOF129313
+	else
+cat <<\EOF129314 > "/home/pi/.bash_history"
+emulationstation #start Emulationstation
+attract #Start Attract-Mode
+pegasus-fe #Start Pegasus Front-end
+startx #Start Desktop Mode
+FE-Switcheroo #This Will Let You Set Default Boot Mode
+fixmybuild #Start Fix My Build Script
+supremeonlinetool #Start Supreme Online Tool Script
+suprememarqueetool #Start Supreme Marquee Tool Script
+retropiesetup #Start RetroPie Setup
+sudo raspi-config #Start Raspi-Config
+sb_version #Display Supreme Build Info
+rebootpi #Reboot Your Pi
+poweroffpi #Power Off Your Pi
+sudo raspi-config #Start Raspi-Config
+EOF129314
+        fi
+        sudo chmod +x /home/pi/.bash_history
+	#cd $HOME
+        #cp $sb_toolkit/cli/.bash_history /home/pi/
 	clear
 	echo
 	echo "[NOW FINISHED!...]"

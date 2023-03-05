@@ -53,12 +53,12 @@ function main_menu() {
             --menu "$sb_version" 25 75 20 \
             - "*** AVAILABLE TOOLKIT SELECTIONS ***" \
             - "" \
-	        1 " -  FIX MY BUILD MENU" \
+	    1 " -  FIX MY BUILD MENU" \
             2 " -  APPS & TWEAKS MENU" \
             3 " -  CLEANUP TOOLS MENU" \
             4 " -  SYSTEM TOOLS MENU" \
 	        - "" \
-	        5 " -  SUPREME ONLINE TOOLKIT" \
+	    5 " -  SUPREME ONLINE TOOLKIT" \
 	        - "" \
             6 " -  POWER OFF" \
             7 " -  RESTART" \
@@ -69,8 +69,8 @@ function main_menu() {
             2) supreme_apps  ;;
             3) supreme_clean  ;;
             4) supreme_sys  ;;
-	        5) supreme_online  ;;
-	        6) supreme_off  ;;
+	    5) supreme_online  ;;
+	    6) supreme_off  ;;
             7) supreme_restart  ;;
             -) none ;;
             *)  break ;;
@@ -89,27 +89,27 @@ function supreme_fix() {
             --ok-label OK --cancel-label Back \
             --menu "Apply the fix(es) you need..." 25 75 20 \
             - "*** FIX SELECTIONS ***" \
-	        - "" \
-	        1 " -  Fix the Retropie Menu Layout" \
+	    - "" \
+	    1 " -  Fix the Retropie Menu Layout" \
             2 " -  Fix Displayed systems" \
-	        3 " -  Fix missig Applactions" \
+	    3 " -  Fix missig Applactions" \
             4 " -  Restore Background Music files" \
             5 " -  Restore Slideshow files" \
             6 " -  Reset All RetroPie Controllers" \
             7 " -  Fix-Reset-Clean RetroPie Setup git" \
-	        8 " -  Fix Supreme edit tool For 64bit support & Basic config edits" \
+	    8 " -  64bit support basic script (Pi 4)" \
             9 " -  Fix X11 applications not loading like Chromium" \
             2>&1 > /dev/tty)
 
         case "$choice" in
             1) fix_menu_layout_rb  ;;
             2) fix_es_layout  ;;
-	        3) fix_applications  ;;
+	    3) fix_applications  ;;
             4) fix_music  ;;
             5) fix_slideshow  ;;
             6) fix_control  ;;			
             7) git_rs  ;;
-	        8) config_script  ;;
+	    8) config_script  ;;
             9) x11_script  ;;
             -) none ;;
             *)  break ;;
@@ -128,9 +128,9 @@ function supreme_apps() {
             --menu "Run the application you need..." 25 75 20 \
             - "*** APPS & TWEAKS SELECTIONS ***" \
 			- "	" \
-			1 " -  Take HD ScreenShot" \
+		    1 " -  Take HD ScreenShot" \
 		    2 " -  RetroArch Main Visual Options (Shaders, Smooth Filter etc)" \
-			3 " -  Hide or Show a System" \
+		    3 " -  Hide or Show a System" \
 		    4 " -  Skyscraper By Lars Muldjord" \
 		    5 " -  Amiberry Compile and Update From GitHub" \
 		    6 " -  Auto Amiga Install" \
@@ -148,18 +148,18 @@ function supreme_apps() {
         case "$choice" in
             1) prntscr  ;;
             2) ra_options_tool  ;;
-	        3) hd_sh_sys  ;;
-	        4) skyscraper  ;;
+	    3) hd_sh_sys  ;;
+	    4) skyscraper  ;;
             5) amiberry_git  ;;
             6) auto-amiga-install  ;;
             7) uae-config-maker  ;;
             8) n64-tweaks  ;;			
-	        9) attract_updater  ;;
-	       10) igalia_vk  ;;
-	       11) pikiss_git  ;;
-	       12) piapps_git  ;;
+	    9) attract_updater  ;;
+	   10) igalia_vk  ;;
+	   11) pikiss_git  ;;
+	   12) piapps_git  ;;
            13) update_bezel_project  ;;
-	       14) rpc80_saves  ;;
+	   14) rpc80_saves  ;;
            15) strg_bench  ;;
             -) none ;;
             *)  break ;;
@@ -181,7 +181,7 @@ function supreme_clean() {
             1 " -  Clean all save, hi, dat etc files in roms folder" \
             2 " -  Clean LastPlayed & PlayCount or Favorites Options" \
             3 " -  Remove ES Auto-gen Gamelists" \
-	        4 " -  Clean CLi Commands History" \
+	    4 " -  Clean CLi Commands History" \
             5 " -  Clean Filesystem Cache" \
             2>&1 > /dev/tty)
 
@@ -211,7 +211,7 @@ function supreme_sys() {
 	        - "	" \
             1 " -  Force A Filesystem Check At Next Boot " \
             2 " -  Show Partitions & Space Info" \
-	        3 " -  Show Folders Size [home/pi]" \
+	    3 " -  Show Folders Size [home/pi]" \
             4 " -  Show System Free Memory Info" \
             5 " -  Show OS Version & Info" \
             6 " -  System & FW Update Options" \
@@ -229,9 +229,9 @@ function supreme_sys() {
            5) os_info  ;;
            6) os_update  ;;
            7) sysinfo  ;;
-	       8) temp_rt  ;;
-	       9) cores_status  ;;
-	      10) ratio_vt  ;;
+	   8) temp_rt  ;;
+	   9) cores_status  ;;
+	  10) ratio_vt  ;;
            -) none ;;
            *)  break ;;
         esac
