@@ -348,8 +348,8 @@
   </game>
   <game>
     <path>./visualtools/retroarch-tool.sh</path>
-    <name>Video smooth script</name>
-    <desc>The all in one RetroArch Video Tweak script.</desc>
+    <name>Retroarch Visual Tool </name>
+    <desc>The all in one RetroArch Visual Tweak script.</desc>
     <image>/home/pi/RetroPie/retropiemenu/icons/shaders.png</image>
   </game>
   <game>
