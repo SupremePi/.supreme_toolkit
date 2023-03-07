@@ -97,8 +97,7 @@ function fix_menu_layout() {
     clear
 }
 
-function fix_es_layout() {
-       
+function fix_es_layout() {       
 	if (dialog --title "Pick Your Es Layout!" --yesno "Would You Like To Pick Your Es Layout Now?" 0 0 )
     then
     fix_es_layout_yes
