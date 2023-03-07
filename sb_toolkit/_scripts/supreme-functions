@@ -17,94 +17,95 @@ function fix_menu_layout_rb() {
 
 function fix_menu_layout() {
 	dialog --infobox "...Fixing..." 3 17 ; sleep 3
-        echo "First Updating RetroPie Menu Files."
-        sleep 3
+    echo "First Updating RetroPie Menu Files."
+    sleep 3
 	clear
 	
-        #Pi 3 RetroPie Menu Edits 
-        if [ "$rpi" = "3" ]; then
+    #Pi 3 RetroPie Menu Edits 
+    if [ "$rpi" = "3" ]; then
+	if [ -f $sb_menu/visualtools/supreme-marquee-tool.sh ]; then 
 	sudo rm $sb_menu/visualtools/supreme-marquee-tool.sh
-        fi
+	fi
+    fi
 	
-        #Rsync RetroPie Menu files 
-        if [ -f $rp_menu/raspiconfig.rp ]; then 
+    #Rsync RetroPie Menu files 
+    if [ -f $rp_menu/raspiconfig.rp ]; then 
 	sudo rsync -av $rp_menu/raspiconfig.rp $sb_menu/
-        fi
-        if [ -f $rp_menu/rpsetup.rp ]; then 
+    fi
+    if [ -f $rp_menu/rpsetup.rp ]; then 
 	sudo rsync -av $rp_menu/rpsetup.rp $sb_menu/
-        fi
-        if [ -f $rp_menu/showip.rp ]; then 
+    fi
+    if [ -f $rp_menu/showip.rp ]; then 
 	sudo rsync -av $rp_menu/showip.rp $sb_menu/retropietools/
-        fi
-        if [ -f $rp_menu/audiosettings.rp ]; then 
+    fi
+    if [ -f $rp_menu/audiosettings.rp ]; then 
 	sudo rsync -av $rp_menu/audiosettings.rp $sb_menu/audiotools/
-        fi
-        if [ -f $rp_menu/bluetooth.rp ]; then 
+    fi
+    if [ -f $rp_menu/bluetooth.rp ]; then 
 	sudo rsync -av $rp_menu/bluetooth.rp $sb_menu/retropietools/
-        fi
-        if [ -f $rp_menu/configedit.rp ]; then 
+    fi
+    if [ -f $rp_menu/configedit.rp ]; then 
 	sudo rsync -av $rp_menu/configedit.rp $sb_menu/emulationtools/
-        fi
-        if [ -f $rp_menu/esthemes.rp ]; then 
+    fi
+    if [ -f $rp_menu/esthemes.rp ]; then 
 	sudo rsync -av $rp_menu/esthemes.rp $sb_menu/visualtools/
-        fi
-        if [ -f $rp_menu/filemanager.rp ]; then 
+    fi
+    if [ -f $rp_menu/filemanager.rp ]; then 
 	sudo rsync -av $rp_menu/filemanager.rp $sb_menu/retropietools/
-        fi
-        if [ -f $rp_menu/retroarch.rp ]; then 
+    fi
+    if [ -f $rp_menu/retroarch.rp ]; then 
 	sudo rsync -av $rp_menu/retroarch.rp $sb_menu/retropietools/
-        fi
-        if [ -f $rp_menu/retronetplay.rp ]; then 
+    fi
+    if [ -f $rp_menu/retronetplay.rp ]; then 
 	sudo rsync -av $rp_menu/retronetplay.rp $sb_menu/retropietools/
-        fi
-        if [ -f $rp_menu/runcommand.rp ]; then 
-        sudo rsync -av $rp_menu/runcommand.rp $sb_menu/retropietools/
-        fi
-        if [ -f $rp_menu/splashscreen.rp ]; then 
+    fi
+    if [ -f $rp_menu/runcommand.rp ]; then 
+    sudo rsync -av $rp_menu/runcommand.rp $sb_menu/retropietools/
+    fi
+    if [ -f $rp_menu/splashscreen.rp ]; then 
 	sudo rsync -av $rp_menu/splashscreen.rp $sb_menu/visualtools/
-        fi
-        if [ -f $rp_menu/wifi.rp ]; then 
+    fi
+    if [ -f $rp_menu/wifi.rp ]; then 
 	sudo rsync -av $rp_menu/wifi.rp $sb_menu/retropietools/
-        fi
+    fi
 
-       #Rsync Custom Menu files
-       if [ -f $rp_menu/bezelproject.sh ]; then 
-       sudo rsync -av $rp_menu/bezelproject.sh $sb_menu/visualtools/
-       fi
-       if [ -f $rp_menu/hurstythemes.sh ]; then 
-       sudo rsync -av $rp_menu/hurstythemes.sh $sb_menu/visualtools/
-       fi
-       if [ -f $rp_menu/fruitbox.btn ]; then 
-       sudo rsync -av $rp_menu/fruitbox.btn $sb_menu/
-       fi
-       if [ -f /home/pi/tamoplus/files/tamoplus.sh ]; then 
-       sudo rsync -av /home/pi/tamoplus/files/tamoplus.sh $sb_menu/
-       fi
+    #Rsync Custom Menu files
+    if [ -f $rp_menu/bezelproject.sh ]; then 
+    sudo rsync -av $rp_menu/bezelproject.sh $sb_menu/visualtools/
+    fi
+    if [ -f $rp_menu/hurstythemes.sh ]; then 
+    sudo rsync -av $rp_menu/hurstythemes.sh $sb_menu/visualtools/
+    fi
+    if [ -f $rp_menu/fruitbox.btn ]; then 
+    sudo rsync -av $rp_menu/fruitbox.btn $sb_menu/
+    fi
+    if [ -f /home/pi/tamoplus/files/tamoplus.sh ]; then 
+    sudo rsync -av /home/pi/tamoplus/files/tamoplus.sh $sb_menu/
+    fi
 	
-       #Cool Down
-       sleep 1
-       clear
-
-       echo "Now Fixing Supreme Menu."
-       sleep 3
-       clear
-       rm -rf $rp_menu/* && rsync -av $sb_menu/ $rp_menu && cp $sb_toolkit/retropie-gml/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
-       sudo chown -R pi:pi $sb_menu/
-	   sudo chmod 755 -R $sb_menu/
-       echo "[NOW FINISHED!...]"
-       sleep 3
-       clear
+    #Cool Down
+    sleep 1
+    clear
+    echo "Now Fixing Supreme Menu."
+    sleep 3
+    clear
+    rm -rf $rp_menu/* && rsync -av $sb_menu/ $rp_menu && cp $sb_toolkit/retropie-gml/gamelist.xml /opt/retropie/configs/all/emulationstation/gamelists/retropie/gamelist.xml
+    sudo chown -R pi:pi $sb_menu/
+	sudo chmod 755 -R $sb_menu/
+    echo "[NOW FINISHED!...]"
+    sleep 3
+    clear
 }
 
 function fix_es_layout() {
        
-	   if (dialog --title "Pick Your Es Layout!" --yesno "Would You Like To Pick Your Es Layout Now?" 0 0 )
-       then
-       fix_es_layout_yes
-       else
-       echo -e "$(tput setaf 2)Skipping Es Layout. $(tput sgr0)"
-       sleep 3
-       fi
+	if (dialog --title "Pick Your Es Layout!" --yesno "Would You Like To Pick Your Es Layout Now?" 0 0 )
+    then
+    fix_es_layout_yes
+    else
+    echo -e "$(tput setaf 2)Skipping Es Layout. $(tput sgr0)"
+    sleep 3
+    fi
 }
 	      
 function fix_es_layout_yes() {
