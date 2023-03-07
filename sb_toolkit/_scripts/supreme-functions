@@ -23,7 +23,7 @@ function fix_menu_layout() {
 	
     #Pi 3 RetroPie Menu Edits 
     if [ "$rpi" = "3" ]; then
-	sudo cp $sb_menu_pi3/retropietools/overclock.sh $sb_menu/retropietools/overclock.sh 
+    sudo cp $sb_menu_pi3/retropietools/overclock.sh $sb_menu/retropietools/overclock.sh	
 	if [ -f $sb_menu/visualtools/supreme-marquee-tool.sh ]; then 
 	sudo rm $sb_menu/visualtools/supreme-marquee-tool.sh
 	fi
