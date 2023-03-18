@@ -92,7 +92,7 @@ function supreme_fix() {
 	    - "" \
 	    1 " -  Fix the Retropie Menu Layout" \
             2 " -  Fix Displayed systems" \
-	    3 " -  Fix missig Applactions" \
+	    3 " -  Restore Applactions Links (Steam,Chromium,Pixel,kodi,ext)" \
             4 " -  Restore Background Music files" \
             5 " -  Restore Slideshow files" \
             6 " -  Reset All RetroPie Controllers" \

@@ -260,8 +260,8 @@ function chromium_menu() {
 	    sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /etc/emulationstation/es_systems.cfg
         sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
 		else
-		sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /etc/emulationstation/es_systems.cfg
-        sudo cp $sb_toolkit/es_cfg/es_chromium_pi3.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
+		sudo cp $sb_toolkit/es_cfg/es_chromium.cfg /etc/emulationstation/es_systems.cfg
+        sudo cp $sb_toolkit/es_cfg/es_chromium.cfg /opt/retropie/configs/all/emulationstation/es_systems.cfg
         fi
         clear
 	echo "We need to restart system now..."
@@ -289,28 +289,29 @@ function fix_applications() {
 	dialog --infobox "...Fixing..." 3 17 ; sleep 1
 	clear
 	if [ "$rpi" = "3" ]; then
-
-sudo chmod 755 -R /home/pi/.supreme_toolkit/sb_toolkit/roms/
-
 #Chromium Restore
-if [ -f /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh.bk ]; then
-mv '/home/pi/RetroPie/roms/ports/Chromium - Open Source Web Browser.sh.bk' '/home/pi/RetroPie/roms/ports/Chromium - Open Source Web Browser.sh'
+if [ -f /home/pi/RetroPie/roms/ports/Chromium.sh.bk ]; then
+mv /home/pi/RetroPie/roms/ports/Chromium.sh.bk /home/pi/RetroPie/roms/ports/Chromium.sh
 fi
-
 if [ -f /home/pi/RetroPie/roms/chromium/Chromium.sh.bk  ]; then
-mv /home/pi/RetroPie/roms/chromium/Chromium.sh.bk /home/pi/RetroPie/roms/chromium/Chromium.sh
+mv  /home/pi/RetroPie/roms/chromium/Chromium.sh.bk  /home/pi/RetroPie/roms/chromium/Chromium.sh
 fi
- 
-if [ -f /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh ]; then
-cp /home/pi/.supreme_toolkit/sb_toolkit/roms/chromium/Chromium.sh /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh
+if [ -f $sb_toolkit/roms/ports/lutris.sh ]; then
+rm $sb_toolkit/roms/ports/lutris.sh
 fi
-
-#Desktop Restore Ports
+fi
+#Remove new entries created by setup
+if [ -f '/home/pi/RetroPie/roms/ports/Chromium - Open Source Web Browser.sh' ]; then
+rm '/home/pi/RetroPie/roms/ports/Chromium - Open Source Web Browser.sh'
+fi
 if [ -f /home/pi/RetroPie/roms/ports/Desktop.sh ]; then
-cp /home/pi/.supreme_toolkit/sb_toolkit/roms/pixel/Pixel.sh /home/pi/RetroPie/roms/ports/Desktop.sh
-fi
-	fi
-	sudo rsync -av $sb_toolkit/roms/kodi /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/steam /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/power /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/pixel /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/chromium /home/pi/RetroPie/roms/
+rm /home/pi/RetroPie/roms/ports/Desktop.sh
+fi  
+    #If user adds own backup files correct permisions
+    sudo chown -R pi:pi $sb_toolkit/roms/
+	sudo chmod 755 -R $sb_toolkit/roms/
+	#Start rsync
+	sudo rsync -av $sb_toolkit/roms/* /home/pi/RetroPie/roms/ 
 	echo
 	read -n 1 -s -r -p "Press any key to continue..."
 	clear

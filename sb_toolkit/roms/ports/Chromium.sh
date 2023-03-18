@@ -38,5 +38,4 @@ if [[ "$rpi_model" == "Raspberry Pi Zero 2"* ]]; then
 	fi 
 fi
 
-"/opt/retropie/supplementary/runcommand/runcommand.sh" 0 _PORT_ "chromium" ""
-	
+"/opt/retropie/supplementary/runcommand/runcommand.sh" 0 _PORT_ "chromium" ""	
