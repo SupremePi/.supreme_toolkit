@@ -307,7 +307,7 @@ fi
 if [ -f /home/pi/RetroPie/roms/ports/Desktop.sh ]; then
 rm /home/pi/RetroPie/roms/ports/Desktop.sh
 fi  
-    #If user adds own backup files correct permisions
+    #If user adds own backup files correct permissions
     sudo chown -R pi:pi $sb_toolkit/roms/
 	sudo chmod 755 -R $sb_toolkit/roms/
 	#Start rsync
