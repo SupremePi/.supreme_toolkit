@@ -2,6 +2,8 @@
 # SUPREME ULTRA V2
 # The Supreme Team https://github.com/SupremePi/
 
+joy2key=/opt/retropie/admin/joy2key/joy2key
+
 # Applies to PieMarquee Script - PieMarquee2 = ON PieMarquee3 = OFF
 if [[ ! -d /home/pi/PieMarquee3 ]] && [[ -d /home/pi/PieMarquee2 ]]; then
     $joy2key start

@@ -17,7 +17,7 @@ fi
 # Only applies to RPI Zero2
 if [[ "$rpi_model" == "Raspberry Pi Zero 2"* ]]; then
        $joy2key start
-    if (dialog --title "WARNING" --yesno "Looks like your on the PI ZERO!\n\nThe Pixel Desktop is unstable on this pi and is known to run very slow.\n\nPlease Note:\nUsing the browser on the deskop is known to crash the desktop and a reboot will be needed.\n\nWould you like to continue anyway?" 15 50 )                 
+    if (dialog --title "WARNING" --yesno "Looks like your on the PI ZERO!\n\nThe Pixel Desktop is unstable on this pi and is known to run very slow.\n\nPlease Note:\nUsing the browser on the deskop is known to freeze the desktop and a reboot will be needed.\n\nWould you like to continue anyway?" 15 50 )                 
        then
        $joy2key stop
        clear	   
