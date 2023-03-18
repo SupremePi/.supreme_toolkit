@@ -289,73 +289,12 @@ function fix_applications() {
 	dialog --infobox "...Fixing..." 3 17 ; sleep 1
 	clear
 	if [ "$rpi" = "3" ]; then
-cat <<\EOF12939 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/chromium/Chromium.sh"
-#!/bin/bash
-# SUPREME ULTRA V2
-# The Supreme Team https://github.com/SupremePi/
 
-rpi_model=$(tr -d '\0' 2>/dev/null < /proc/device-tree/model) 
-joy2key=/opt/retropie/admin/joy2key/joy2key
-
-if [[ "$rpi_model" == "Raspberry Pi Zero 2"* ]]; then
-           $joy2key start
-           if (dialog --title "WARNING" --yesno "Looks like your on the PI ZERO!\n\nChromium is unstable and crashes.\n\nWould you like to hide chromium from the menus?" 10 50 )                 
-           then
-           sleep 4
-           if [ -f /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh ]; then
-		   sudo mv /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh.bk
-           fi
-           if [ -f /home/pi/RetroPie/roms/chromium/Chromium.sh ]; then
-		   sudo mv /home/pi/RetroPie/roms/chromium/Chromium.sh /home/pi/RetroPie/roms/chromium/Chromium.sh.bk
-           fi
-           dialog --msgbox "Finished!\n\nChromium will now not show in the menus.\n\nPlease note:\nTo bring them back if you swap to a diffrent pi use the fix my build script.\n\nNow Rebooting... " 15 50			   
-           $joy2key stop
-           sudo shutdown -r now
-	       else
-           dialog --msgbox "NO? OK...\n\nNow trying to load chromium!\n\nIf chromium crashes please reboot your pi!" 10 50
-           $joy2key stop 
-           "/opt/retropie/supplementary/runcommand/runcommand.sh" 0 _PORT_ "chromium" ""
-    fi
-else
-"/opt/retropie/supplementary/runcommand/runcommand.sh" 0 _PORT_ "chromium" ""	
-fi 
-EOF12939
-cat <<\EOF129310 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/kodi/Kodi.sh"
-#! /bin/bash
-/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ kodi
-EOF129310
-cat <<\EOF129311 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/pixel/Pixel.sh"
-#!/bin/bash
-# SUPREME ULTRA V2
-# The Supreme Team https://github.com/SupremePi/
-
-rpi_model=$(tr -d '\0' 2>/dev/null < /proc/device-tree/model) 
-joy2key=/opt/retropie/admin/joy2key/joy2key
-
-if [[ "$rpi_model" == "Raspberry Pi Zero 2"* ]]; then
-           $joy2key start
-           if (dialog --title "WARNING" --yesno "Looks like your on the PI ZERO!\n\nThe Pixel Desktop is unstable on this pi and is known to run very slow.\n\nPlease Note:\nUsing the browser on the deskop is known to crash the desktop and a reboot will be needed.\n\nWould you like to continue anyway?" 15 50 )                 
-           then
-           clear
-           $joy2key stop 
-	       "/opt/retropie/supplementary/runcommand/runcommand.sh" 0 _PORT_ "lxde" ""
-	       else
-           $joy2key stop 
-           clear
-    fi
-else
-"/opt/retropie/supplementary/runcommand/runcommand.sh" 0 _PORT_ "lxde" ""	
-fi 
-EOF129311
-cat <<\EOF129312 > "/home/pi/.supreme_toolkit/sb_toolkit/roms/steam/Steam.sh"
-#! /bin/bash
-/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ steamlink  
-EOF129312
 sudo chmod 755 -R /home/pi/.supreme_toolkit/sb_toolkit/roms/
 
 #Chromium Restore
 if [ -f /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh.bk ]; then
-mv /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh.bk /home/pi/RetroPie/roms/ports/Chromium\ -\ Open\ Source\ Web\ Browser.sh
+mv '/home/pi/RetroPie/roms/ports/Chromium - Open Source Web Browser.sh.bk' '/home/pi/RetroPie/roms/ports/Chromium - Open Source Web Browser.sh'
 fi
 
 if [ -f /home/pi/RetroPie/roms/chromium/Chromium.sh.bk  ]; then
@@ -369,7 +308,6 @@ fi
 #Desktop Restore Ports
 if [ -f /home/pi/RetroPie/roms/ports/Desktop.sh ]; then
 cp /home/pi/.supreme_toolkit/sb_toolkit/roms/pixel/Pixel.sh /home/pi/RetroPie/roms/ports/Desktop.sh
-
 fi
 	fi
 	sudo rsync -av $sb_toolkit/roms/kodi /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/steam /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/power /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/pixel /home/pi/RetroPie/roms/ && sudo rsync -av $sb_toolkit/roms/chromium /home/pi/RetroPie/roms/

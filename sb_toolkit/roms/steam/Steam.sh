@@ -1,10 +1,14 @@
 #!/bin/bash
-    if [ ! -d /home/pi/PieMarquee3 ]; then
-    echo "$(tput setaf 6)
-    The marquee script is on and this application cant run with it on please turn it off and try again.
-    $(tput sgr0)"
-    sleep 5
-    clear   
-    else
-    /opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ steamlink 
+# SUPREME ULTRA V2
+# The Supreme Team https://github.com/SupremePi/
+
+# Applies to PieMarquee Script - PieMarquee2 = ON PieMarquee3 = OFF
+if [[ ! -d /home/pi/PieMarquee3 ]] && [[ -d /home/pi/PieMarquee2 ]]; then
+    $joy2key start
+    dialog --title "NOTICE" --msgbox "The marquee script is ON\n\nThis application can NOT run with it on!\n\nPlease turn the marquee script OFF and try again." 10 50
+	$joy2key stop
+    clear
+    exit 0
 fi
+
+/opt/retropie/supplementary/runcommand/runcommand.sh 0 _PORT_ steamlink 
