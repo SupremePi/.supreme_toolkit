@@ -6,6 +6,15 @@ let hours=$((${upSeconds}/3600%24))
 let days=$((${upSeconds}/86400))
 UPTIME=`printf "%d days, %02dh%02dm%02ds" "$days" "$hours" "$mins" "$secs"`
 
+function getIPAddress() {
+    local ip_route
+    ip_route=$(ip -4 route get 8.8.8.8 2>/dev/null)
+    if [[ -z "$ip_route" ]]; then
+        ip_route=$(ip -6 route get 2001:4860:4860::8888 2>/dev/null)
+    fi
+    [[ -n "$ip_route" ]] && grep -oP "src \K[^\s]+" <<< "$ip_route"
+}
+
 echo "$(tput setaf 6)
                                                                                                                                                                
                                                                 .,,,,.,*               ,,,.,,,.                                                                
@@ -58,7 +67,7 @@ CPU Max Speed.........: `lscpu | grep max`
 GPU Version...........: `exec -- /opt/vc/bin/vcgencmd version`
 $(tput setaf 6)Memory................: `cat /proc/meminfo | grep MemFree | awk '{printf( "%.2f\n", $2 / 1024 )}'`MB (Free) / `cat /proc/meminfo | grep MemTotal | awk '{printf( "%.2f\n", $2 / 1024 )}'`MB (Total)
 Running Processes.....: `ps ax | wc -l | tr -d " "`
-IP Addresses..........: `ip route get 8.8.8.8 2>/dev/null | awk '{print $NF; exit}'` and `curl -4 icanhazip.com 2>/dev/null | awk '{print $NF; exit}'`
+IP Addresses..........: $(getIPAddress) and `curl -4 icanhazip.com 2>/dev/null | awk '{print $NF; exit}'`
 $(tput setaf 7)
 ........WEATHER.......:
 $(tput setaf 5)	 City		Temp	Condition
