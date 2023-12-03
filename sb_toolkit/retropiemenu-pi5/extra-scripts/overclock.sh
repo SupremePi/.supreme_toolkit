@@ -4,7 +4,7 @@
 
 infobox=""
 infobox="${infobox}\n"
-infobox="${infobox}OverClocking Your Pi4\n\n"
+infobox="${infobox}OverClocking Your Pi 5\n\n"
 infobox="${infobox}\n"
 infobox="${infobox}This will apply necessary configuration to enable/disable overclocking.\n"
 infobox="${infobox}A PI 5 POWER SUPPLY & GOOD COOLING IS NEEED!\n"
@@ -17,8 +17,8 @@ infobox="${infobox}**Disable**\n"
 infobox="${infobox}Disables Overclocking"
 infobox="${infobox}\n"
 
-dialog --backtitle "Pi5 OverClocking" \
---title "Pi4 OverClocking" \
+dialog --backtitle "Pi 5 OverClocking" \
+--title "Pi5 OverClocking" \
 --msgbox "${infobox}" 35 110
 
 # Config file path
