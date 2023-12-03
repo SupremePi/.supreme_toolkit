@@ -1,0 +1,16 @@
+Beyond Beyond Castle Wolfenstein (USA) (Side A);apple2
+Beyond Beyond Castle Wolfenstein (USA) (Side B);apple2
+Beyond Castle Wolfenstein (USA);apple2
+Castle Wolfenstein (USA);apple2
+Wolfenstein 3D (World);atarijaguar
+Beyond Castle Wolfenstein (Europe);c64
+Castle Wolfenstein (Europe);c64
+Wolfenstein 3D (USA, Europe);gba
+Wolfenstein 3D (USA);3do
+castwolf;pc
+wolf3d;pc
+Return to Castle Wolfenstein - Operation Resurrection (USA);ps2
+Wolfenstein 3D (USA);snes
+Beyond Castle Wolfenstein (USA);atari800
+Castle Wolfenstein (USA);atari800
+Wolfenstein 3D (Europe) (Beta);atarist

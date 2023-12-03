@@ -1,0 +1,92 @@
+Shinobi (Europe) (Disk 1);amstradcpc
+Shinobi (Europe) (Disk 2);amstradcpc
+Shinobi (Europe);c64
+Shinobi_v1.3_1054;amiga1200
+Shinobi_v1.3_1054;amiga
+Shinobi (R);dendy
+mt_revsh;arcade
+mt_revsh;fba
+mt_revsh;mame-advmame
+mt_revsh;mame-libretro
+mt_revsh;mame-mame4all
+shinoblb;arcade
+shinoblb;fba
+shinoblb;mame-advmame
+shinoblb;mame-libretro
+shinoblb;mame-mame4all
+shinobld;arcade
+shinobld;fba
+shinobld;mame-advmame
+shinobld;mame-libretro
+shinobld;mame-mame4all
+mt_shnbi;arcade
+mt_shnbi;fba
+mt_shnbi;mame-advmame
+mt_shnbi;mame-libretro
+mt_shnbi;mame-mame4all
+shinobls;arcade
+shinobls;fba
+shinobls;mame-advmame
+shinobls;mame-libretro
+shinobls;mame-mame4all
+shinobi1;arcade
+shinobi1;fba
+shinobi1;mame-advmame
+shinobi1;mame-libretro
+shinobi1;mame-mame4all
+shinobi2;arcade
+shinobi2;fba
+shinobi2;mame-advmame
+shinobi2;mame-libretro
+shinobi2;mame-mame4all
+shinobi3;arcade
+shinobi3;fba
+shinobi3;mame-advmame
+shinobi3;mame-libretro
+shinobi3;mame-mame4all
+shinobi4;arcade
+shinobi4;fba
+shinobi4;mame-advmame
+shinobi4;mame-libretro
+shinobi4;mame-mame4all
+shinobi5;arcade
+shinobi5;fba
+shinobi5;mame-advmame
+shinobi5;mame-libretro
+shinobi5;mame-mame4all
+shinobi;arcade
+shinobi;fba
+shinobi;mame-advmame
+shinobi;mame-libretro
+shinobi;mame-mame4all
+shinfz;arcade
+shinfz;fba
+shinfz;mame-advmame
+shinfz;mame-libretro
+shinfz;mame-mame4all
+mp_shnb3;arcade
+mp_shnb3;fba
+mp_shnb3;mame-advmame
+mp_shnb3;mame-libretro
+mp_shnb3;mame-mame4all
+Shinobi (Japan);pcengine
+Shinobi (USA);3ds
+Shinobi (USA) (Unl);nes
+Revenge of Shinobi, The (USA);gba
+Shinobi (USA, Europe);gamegear
+Shinobi II - The Silent Fury (World);gamegear
+Shinobi III - Return of the Ninja Master (Hack);genh
+Revenge of Shinobi, The (USA, Europe);genesis
+Shinobi III - Return of the Ninja Master (USA);genesis
+Cyber Shinobi, The (Europe);markiii
+Shinobi (USA, Europe);markiii
+Cyber Shinobi, The (Europe);mastersystem
+Shinobi (USA, Europe);mastersystem
+Super Shinobi II, The (Japan);megadrive-japan
+Super Shinobi, The (Japan);megadrive-japan
+Shinobi Legions (USA);saturn
+Shinobi (Europe);zxspectrum
+Shinobi (USA);ps2
+Shinobido - Way of the Ninja (Europe);ps2
+Shinobido - Tales of the Ninja (Europe);psp
+Shinobi (Europe);atarist

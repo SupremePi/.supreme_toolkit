@@ -1,0 +1,242 @@
+Actua Ice Hockey (Europe);psx
+Actua Ice Hockey 2 (Europe);psx
+Air Hockey (USA);psx
+Arcade Air Hockey & Bowling (USA);pspminis
+Backyard Hockey (USA);gba
+Backyard Hockey (USA);nds
+Blades of Steel (USA);c64
+Blades of Steel (USA);nes
+Blades of Steel (USA);gb
+Brett Hull Hockey '95 (USA);megadrive
+Brett Hull Hockey '95 (USA);snes
+Brett Hull Hockey (USA);snes
+Champion Ice Hockey (Japan);msx
+Champion Ice Hockey (Japan);sg-1000
+Championship Hockey (Europe);gamegear
+Championship Hockey (Europe);mastersystem
+ESPN NHL Hockey (USA);ps2
+ESPN National Hockey Night (USA);gbc
+ESPN National Hockey Night (USA);segacd
+ESPN National Hockey Night (USA);megadrive
+ESPN National Hockey Night (USA);snes
+Face Off (Europe);atarist
+Face Off! (USA);c64
+Face-Off (Europe);atarist
+Great Ice Hockey (Japan, USA);mastersystem
+Gretzky NHL (USA);psp
+Gretzky NHL 06 (USA);psp
+Hat Trick (USA);atari7800
+Hat Trick (USA);c64
+Hit the Ice (USA);megadrive
+Hit the Ice (USA);snes
+Hit the Ice (USA, Europe);gb
+Hit the Ice - VHL the Official Video Hockey League (Japan);pcengine
+Hit the Ice - VHL the Official Video Hockey League (USA);tg16
+Hit the Ice - VHL the Video Hockey League (USA) (Proto);nes
+Hockey & Tennis (USA);channelf
+Hockey (1986)(Micropower);electron
+Hockey (Europe);bbcb
+Hockey (USA);atari800
+Hockey (USA);c64
+Hockey (USA, Europe);atarilynx
+Hockey + Soccer (USA, Europe);odyssey2
+Hockey Mania (Europe) (Unl);c64
+Hockey Pista (Italy);atarist
+Ice Hockey (Computerware);coco
+Ice Hockey (Japan);fds
+Ice Hockey (USA) (Unl);vic20
+Ice Hockey (USA);atari2600
+Ice Hockey (USA);nes
+Ice Tea (Germany) (Unl);c64
+Icehockey-Manager (Germany);c64
+Ike Ike! Nekketsu Hockey Bu - Subette Koronde Dai Rantou (R);dendy
+Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan) (Translated En);famicom
+International Hockey (USA);apple2
+International Ice Hockey (Europe);atarist
+International Ice Hockey (Europe);c64
+InternationalIceHockey_v1.0_0665;amiga1200
+InternationalIceHockey_v1.0_0665;amiga
+Karamalz Cup (Germany);c64
+Konamic Ice Hockey (Japan);fds
+Mario Lemieux Hockey (USA, Europe);megadrive
+Mutant League Hockey (USA, Europe);megadrive
+NHL '94 (USA);segacd
+NHL '94 (USA);snes
+NHL '94 (USA, Europe);megadrive
+NHL '95 (USA);snes
+NHL '96 (USA);snes
+NHL '96 (USA, Europe);gb
+NHL '97 (USA);snes
+NHL '98 (USA);snes
+NHL 06 (USA);gc
+NHL 07 (USA);psp
+NHL 2002 (USA);gba
+NHL 2003 (USA);gc
+NHL 2004 (USA);gc
+NHL 2005 (USA);gc
+NHL 2K3 (USA);gc
+NHL 95 (USA, Europe);megadrive
+NHL 96 (USA, Europe);megadrive
+NHL 97 (USA);saturn
+NHL 97 (USA, Europe);megadrive
+NHL 98 (USA);megadrive
+NHL 98 (USA);saturn
+NHL 99 (USA);n64
+NHL All-Star Hockey '95 (USA);megadrive
+NHL All-Star Hockey (USA);gamegear
+NHL All-Star Hockey (USA);saturn
+NHL All-Star Hockey 98 (USA);saturn
+NHL Blades of Steel '99 (USA);n64
+NHL Breakaway 98 (USA);n64
+NHL Breakaway 99 (USA);n64
+NHL Hitz 20-03 (USA);gba
+NHL Hitz 2002 (USA);gc
+NHL Hitz 2003 (USA);gc
+NHL Hitz Pro (USA);gc
+NHL Hockey '95 (USA, Europe);gb
+NHL Hockey '95 (USA, Europe);sgb
+NHL Hockey (USA);megadrive
+NHL Hockey (USA, Europe);gamegear
+NHL Hockey (World);intellivision
+NHL Ice Hockey Manager (Europe);oric
+NHL Powerplay '96 (USA);saturn
+NHL Pro Sport Hockey 2016 (Hack);nesh
+NHL Stanley Cup (USA);snes
+NHLPA Hockey '93 (USA);snes
+NHLPA Hockey 93 (USA, Europe);megadrive
+Nickelodeon GUTS (USA);snes
+Olympic Hockey 98 (USA);n64
+Power-Play Hockey (USA) (Unl);c64
+Powerplay Hockey - USA vs USSR (USA);c64
+Pro Hockey (Japan);megadrive-japan
+Pro Hockey (USA) (Unl);c64
+Pro Sport Hockey (USA);nes
+Pro Sport Hockey (USA);snes
+RHI Roller Hockey '95 (Hack);snesh
+RHI Roller Hockey '95 (USA) (Proto);snes
+Slap Shot (USA);mastersystem
+Slap Shot - Super Pro Hockey (World);intellivision
+Slapshot (Europe);amstradcpc
+Slapshot (USA);c64
+Slapshot II - International Hockey (USA);c64
+Stick Hunter - Exciting Ice Hockey (Japan);famicom
+Street Hockey '95 (USA);snes
+Street Hockey (Europe);atarist
+Super Ice Hockey (Europe);snes
+Super Slap Shot (USA);snes
+Superstar Ice Hockey (USA) (Side A);apple2
+Superstar Ice Hockey (USA) (Side B);apple2
+Superstar Ice Hockey (USA);atarist
+Superstar Ice Hockey (USA);c64
+TV Sports Hockey (Japan);pcengine
+TV Sports Hockey (USA);tg16
+Tecmo Super Hockey (USA);megadrive
+Tornado Baseball+Tennis+Hockey+Handball (USA);astrocde
+Wayne Gretzky Hockey (USA);atarist
+Wayne Gretzky Hockey (USA);nes
+Wayne Gretzky and the NHLPA All-Stars (USA);snes
+Wayne Gretzky and the NHLPA All-Stars (USA, Europe);megadrive
+Wayne Gretzky's 3D Hockey '98 (USA);n64
+Wayne Gretzky's 3D Hockey '98 (USA);psx
+Wayne Gretzky's 3D Hockey (USA) (Rev A);n64
+WayneGretzkyHockey2_v1.0;amiga1200
+WayneGretzkyHockey2_v1.0;amiga
+WayneGretzkyHockey_v1.2;amiga1200
+WayneGretzkyHockey_v1.2;amiga
+World Champion Icehockey (Europe);c64
+World Ice Hockey (Japan);gb
+ar_airh2;arcade
+ar_airh2;fba
+ar_airh2;mame-advmame
+ar_airh2;mame-libretro
+ar_airh2;mame-mame4all
+ar_airh;arcade
+ar_airh;fba
+ar_airh;mame-advmame
+ar_airh;mame-libretro
+ar_airh;mame-mame4all
+bladestl;arcade
+bladestl;fba
+bladestl;mame-advmame
+bladestl;mame-libretro
+bladestl;mame-mame4all
+bladestle;arcade
+bladestle;fba
+bladestle;mame-advmame
+bladestle;mame-libretro
+bladestle;mame-mame4all
+bladestll;arcade
+bladestll;fba
+bladestll;mame-advmame
+bladestll;mame-libretro
+bladestll;mame-mame4all
+bullfgtr;arcade
+bullfgtr;fba
+bullfgtr;mame-advmame
+bullfgtr;mame-libretro
+bullfgtr;mame-mame4all
+bullfgtrs;arcade
+bullfgtrs;fba
+bullfgtrs;mame-advmame
+bullfgtrs;mame-libretro
+bullfgtrs;mame-mame4all
+cfghtice;arcade
+cfghtice;fba
+cfghtice;mame-advmame
+cfghtice;mame-libretro
+cfghtice;mame-mame4all
+faceoff;arcade
+faceoff;fba
+faceoff;mame-advmame
+faceoff;mame-libretro
+faceoff;mame-mame4all
+hattrick;arcade
+hattrick;fba
+hattrick;mame-advmame
+hattrick;mame-libretro
+hattrick;mame-mame4all
+hitice;arcade
+hitice;fba
+hitice;mame-advmame
+hitice;mame-libretro
+hitice;mame-mame4all
+hiticej;arcade
+hiticej;fba
+hiticej;mame-advmame
+hiticej;mame-libretro
+hiticej;mame-mame4all
+hoccer2;arcade
+hoccer2;fba
+hoccer2;mame-advmame
+hoccer2;mame-libretro
+hoccer2;mame-mame4all
+hoccer;arcade
+hoccer;fba
+hoccer;mame-advmame
+hoccer;mame-libretro
+hoccer;mame-mame4all
+mt_mlh;arcade
+mt_mlh;fba
+mt_mlh;mame-advmame
+mt_mlh;mame-libretro
+mt_mlh;mame-mame4all
+openice;arcade
+openice;fba
+openice;mame-advmame
+openice;mame-libretro
+openice;mame-mame4all
+ramtek3;arcade
+ramtek3;fba
+ramtek3;mame-advmame
+ramtek3;mame-libretro
+ramtek3;mame-mame4all
+slapshot;arcade
+slapshot;fba
+slapshot;mame-advmame
+slapshot;mame-libretro
+slapshot;mame-mame4all
+wg3dh;arcade
+wg3dh;fba
+wg3dh;mame-advmame
+wg3dh;mame-libretro
+wg3dh;mame-mame4all

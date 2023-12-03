@@ -1,0 +1,72 @@
+Ghosts 'N Goblins Hardtype (Hack);nesh
+Ghosts 'n Goblins (Europe);amstradcpc
+Ghosts 'n Goblins (R);dendy
+Ghosts 'n Goblins - Hallows Eve (Hack);nesh
+Ghosts 'n' Goblins (Europe);atarist
+Ghosts 'n' Goblins (Europe);zxspectrum
+Ghosts'n Goblins (Europe);c64
+Ghosts'n Goblins (USA);nes
+Ghosts'n Goblins (USA, Europe);gbc
+Ghosts'n Goblins Arcade (USA) (Unl);c64
+Ghouls 'n Ghosts (USA, Europe);megadrive
+Ghouls 'n' Ghosts (Europe);amstradcpc
+Ghouls 'n' Ghosts (Europe);atarist
+Ghouls 'n' Ghosts (Europe);zxspectrum
+Ghouls'n Ghosts (USA, Europe);mastersystem
+Ghouls'n'Ghosts (Europe);c64
+GhoulsNGhosts_v1.0_2252;amiga1200
+GhoulsNGhosts_v1.0_2252;amiga
+Super Ghouls'n Ghosts (MSU-1);snesmsu1
+Super Ghouls'n Ghosts (USA);snes
+Super Ghouls'n Ghosts (USA, Europe);gba
+Ultimate Ghosts 'n Goblins (USA);psp
+ghouls;arcade
+ghouls;fba
+ghouls;mame-advmame
+ghouls;mame-libretro
+ghouls;mame-mame4all
+ghoulsu;arcade
+ghoulsu;fba
+ghoulsu;mame-advmame
+ghoulsu;mame-libretro
+ghoulsu;mame-mame4all
+gng;arcade
+gng;fba
+gng;mame-advmame
+gng;mame-libretro
+gng;mame-mame4all
+gnga;arcade
+gnga;fba
+gnga;mame-advmame
+gnga;mame-libretro
+gnga;mame-mame4all
+gngbl;arcade
+gngbl;fba
+gngbl;mame-advmame
+gngbl;mame-libretro
+gngbl;mame-mame4all
+gngblita;arcade
+gngblita;fba
+gngblita;mame-advmame
+gngblita;mame-libretro
+gngblita;mame-mame4all
+gngc;arcade
+gngc;fba
+gngc;mame-advmame
+gngc;mame-libretro
+gngc;mame-mame4all
+gngprot;arcade
+gngprot;fba
+gngprot;mame-advmame
+gngprot;mame-libretro
+gngprot;mame-mame4all
+gngt;arcade
+gngt;fba
+gngt;mame-advmame
+gngt;mame-libretro
+gngt;mame-mame4all
+mt_gng;arcade
+mt_gng;fba
+mt_gng;mame-advmame
+mt_gng;mame-libretro
+mt_gng;mame-mame4all

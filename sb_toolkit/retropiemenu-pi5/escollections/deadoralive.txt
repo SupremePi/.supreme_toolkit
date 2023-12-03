@@ -1,0 +1,39 @@
+Dead or Alive (Europe);bbcb
+Dead Or Alive (1987)(Alternative Software);electron
+Dead Or Alive (Europe);amstradcpc
+Dead or Alive (Europe);amstradcpc
+Dead or Alive (Europe);c64
+doapp;arcade
+doapp;fba
+doapp;mame-advmame
+doapp;mame-libretro
+doapp;mame-mame4all
+doaa;arcade
+doaa;fba
+doaa;mame-advmame
+doaa;mame-libretro
+doaa;mame-mame4all
+doa;arcade
+doa;fba
+doa;mame-advmame
+doa;mame-libretro
+doa;mame-mame4all
+doa2;arcade
+doa2;fba
+doa2;mame-advmame
+doa2;mame-libretro
+doa2;mame-mame4all
+doa2m;arcade
+doa2m;fba
+doa2m;mame-advmame
+doa2m;mame-libretro
+doa2m;mame-mame4all
+Dead or Alive - Dimensions (USA);3ds
+Dead or Alive 2 (USA);dreamcast
+doa2;naomi
+doa2m;naomi
+Dead or Alive (Japan);saturn
+Dead or Alive (Europe);zxspectrum
+Dead or Alive (USA);psx
+Dead or Alive - Paradise (USA);psp
+Dead or Alive (Europe) (Unl);atarist

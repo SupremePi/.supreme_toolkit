@@ -1,0 +1,12 @@
+Shining Force - Resurrection of the Dark Dragon (USA);gba
+Shining Force CD (USA);segacd
+Shining Force III - Final Conflict (Hack);ggh
+Shining Force Gaiden - Final Conflict (Japan) (Translated En);gamegear
+Shining Force II - The Sword of Hajya (USA, Europe);gamegear
+Shining Force II - Shining Tactics (Hack);genh
+Shining Force (USA);genesis
+Shining Force II (USA);genesis
+Shining Force CD (Japan);megacd-japan
+Shining Force III (USA);saturn
+Shining Force EXA (USA);ps2
+Shining Force Neo (USA);ps2

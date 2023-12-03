@@ -1,0 +1,151 @@
+007 - A View to a Kill (Europe);zxspectrum
+007 - Agent Under Fire (USA);gc
+007 - Agent Under Fire (USA);ps2
+007 - Blood Stone (USA);nds
+007 - Everything or Nothing (USA);gc
+007 - Everything or Nothing (USA);ps2
+007 - Everything or Nothing (USA, Europe) (En,Fr,De);gba
+007 - From Russia with Love (USA);gc
+007 - From Russia with Love (USA);psp
+007 - From Russia with Love (USA);ps2
+007 - GoldenEye (USA);n64
+007 - Licence to Kill (Europe);zxspectrum
+007 - Live and Let Die (Europe);zxspectrum
+007 - NightFire (USA, Europe) (En,Fr,De);gba
+007 - Nightfire (USA);gc
+007 - Nightfire (USA);ps2
+007 - Quantum of Solace (USA) (En,Fr);nds
+007 - Quantum of Solace (USA);ps2
+007 - The Living Daylights (Europe);amstradcpc
+007 - The Living Daylights (Europe);atari800
+007 - The Living Daylights (Europe);zxspectrum
+007 - The Spy Who Loved Me (Europe);zxspectrum
+007 - The World Is Not Enough (USA);n64
+007 - The World Is Not Enough (USA);psx
+007 - The World Is Not Enough (USA, Europe);gbc
+007 - Tomorrow Never Dies (USA);psx
+007 Car Chase (USA);c64
+007 James Bond (1984);multivision
+007 Legends (USA);wiiu
+007 Racing (USA);psx
+GoldenEye 007 (USA);nds
+James Bond (USA);colecovision
+James Bond (USA);c64
+James Bond 007 (Japan);sc-3000
+James Bond 007 (Japan);sg-1000
+James Bond 007 (USA);atari2600
+James Bond 007 (USA);atari5200
+James Bond 007 (USA);atari800
+James Bond 007 (USA, Europe);gb
+James Bond 007 (USA, Europe);sgb
+James Bond 007 - A View to a Kill (USA);apple2
+James Bond 007 - Goldfinger (USA);apple2
+James Bond 007 - The Duel (Europe);gamegear
+James Bond 007 - The Duel (Europe);mastersystem
+James Bond 007 - The Duel (USA);megadrive
+James Bond 007 - The Living Daylights (Europe);bbcb
+James Bond Jr (USA);nes
+James Bond Jr (USA);snes
+James Bond Jr;dendy
+JamesBondTheStealthAffair_v2.0_2016;amiga1200
+JamesBondTheStealthAffair_v2.0_2016;amiga
+jamesb2;arcade
+jamesb2;fba
+jamesb2;mame-advmame
+jamesb2;mame-libretro
+jamesb2;mame-mame4all
+jamesb;arcade
+jamesb;fba
+jamesb;mame-advmame
+jamesb;mame-libretro
+jamesb;mame-mame4all
+m1jbond;arcade
+m1jbond;fba
+m1jbond;mame-advmame
+m1jbond;mame-libretro
+m1jbond;mame-mame4all
+m1jbonda;arcade
+m1jbonda;fba
+m1jbonda;mame-advmame
+m1jbonda;mame-libretro
+m1jbonda;mame-mame4all
+m1jbondb;arcade
+m1jbondb;fba
+m1jbondb;mame-advmame
+m1jbondb;mame-libretro
+m1jbondb;mame-mame4all
+m1jbondc;arcade
+m1jbondc;fba
+m1jbondc;mame-advmame
+m1jbondc;mame-libretro
+m1jbondc;mame-mame4all
+m1jbondd;arcade
+m1jbondd;fba
+m1jbondd;mame-advmame
+m1jbondd;mame-libretro
+m1jbondd;mame-mame4all
+m1jbonde;arcade
+m1jbonde;fba
+m1jbonde;mame-advmame
+m1jbonde;mame-libretro
+m1jbonde;mame-mame4all
+m1jbondf;arcade
+m1jbondf;fba
+m1jbondf;mame-advmame
+m1jbondf;mame-libretro
+m1jbondf;mame-mame4all
+m1jbondg;arcade
+m1jbondg;fba
+m1jbondg;mame-advmame
+m1jbondg;mame-libretro
+m1jbondg;mame-mame4all
+m1jbondh;arcade
+m1jbondh;fba
+m1jbondh;mame-advmame
+m1jbondh;mame-libretro
+m1jbondh;mame-mame4all
+m1jbondi;arcade
+m1jbondi;fba
+m1jbondi;mame-advmame
+m1jbondi;mame-libretro
+m1jbondi;mame-mame4all
+m1jbondj;arcade
+m1jbondj;fba
+m1jbondj;mame-advmame
+m1jbondj;mame-libretro
+m1jbondj;mame-mame4all
+m1jbondk;arcade
+m1jbondk;fba
+m1jbondk;mame-advmame
+m1jbondk;mame-libretro
+m1jbondk;mame-mame4all
+m1jbondl;arcade
+m1jbondl;fba
+m1jbondl;mame-advmame
+m1jbondl;mame-libretro
+m1jbondl;mame-mame4all
+m1jbondm;arcade
+m1jbondm;fba
+m1jbondm;mame-advmame
+m1jbondm;mame-libretro
+m1jbondm;mame-mame4all
+m1jbondn;arcade
+m1jbondn;fba
+m1jbondn;mame-advmame
+m1jbondn;mame-libretro
+m1jbondn;mame-mame4all
+m1jbondo;arcade
+m1jbondo;fba
+m1jbondo;mame-advmame
+m1jbondo;mame-libretro
+m1jbondo;mame-mame4all
+m1jbondp;arcade
+m1jbondp;fba
+m1jbondp;mame-advmame
+m1jbondp;mame-libretro
+m1jbondp;mame-mame4all
+m1jbondq;arcade
+m1jbondq;fba
+m1jbondq;mame-advmame
+m1jbondq;mame-libretro
+m1jbondq;mame-mame4all

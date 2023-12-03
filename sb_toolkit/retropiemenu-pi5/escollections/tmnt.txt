@@ -1,0 +1,162 @@
+Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe);gba
+Nickelodeon Teenage Mutant Ninja Turtles (USA);3ds
+Streets of Rage 2 TMNT Edition (Hack);genh
+TMNT (USA) (En,Fr,De,Es,It);nds
+TMNT (USA) (En,Fr,Es);gba
+TMNT (USA);gc
+TMNT (USA);psp
+TMNT (USA);ps2
+TMNT - Mutant Melee (USA);gc
+Teenage Mutant Hero Turtles (Europe);amstradcpc
+Teenage Mutant Hero Turtles (Europe);atarist
+Teenage Mutant Hero Turtles (Europe);zxspectrum
+Teenage Mutant Hero Turtles - Coin Op (Europe);atarist
+Teenage Mutant Hero Turtles - The Coin-Op (Europe);zxspectrum
+Teenage Mutant Hero Turtles 2 - The Coin-Op (Europe) (Disk 1);amstradcpc
+Teenage Mutant Hero Turtles 2 - The Coin-Op (Europe) (Disk 2);amstradcpc
+Teenage Mutant Hero Turtles World Tour (Europe);amstradcpc
+Teenage Mutant Ninja Turtles (R);dendy
+Teenage Mutant Ninja Turtles (USA) (Disk 1 Side A);c64
+Teenage Mutant Ninja Turtles (USA) (Disk 1 Side B);c64
+Teenage Mutant Ninja Turtles (USA) (Disk 2 Side A);c64
+Teenage Mutant Ninja Turtles (USA) (Disk 2 Side B);c64
+Teenage Mutant Ninja Turtles (USA);3ds
+Teenage Mutant Ninja Turtles (USA);nes
+Teenage Mutant Ninja Turtles (USA);gba
+Teenage Mutant Ninja Turtles (USA);gc
+Teenage Mutant Ninja Turtles (USA);wii
+Teenage Mutant Ninja Turtles (USA);ps2
+Teenage Mutant Ninja Turtles - Arcade Attack (USA) (En,Fr,Es) [b];nds
+Teenage Mutant Ninja Turtles - Danger of the Ooze (USA);3ds
+Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA);gb
+Teenage Mutant Ninja Turtles - Smash Up (USA);wii
+Teenage Mutant Ninja Turtles - The Arcade Game (USA) (Disk 1 Side A);c64
+Teenage Mutant Ninja Turtles - The Arcade Game (USA) (Disk 1 Side B);c64
+Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA);megadrive
+Teenage Mutant Ninja Turtles - Tournament Fighters (Japan);megadrive-japan
+Teenage Mutant Ninja Turtles - Tournament Fighters (R);dendy
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA);nes
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA);megadrive
+Teenage Mutant Ninja Turtles - Tournament Fighters (USA);snes
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1);gc
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2);gc
+Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA);gba
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 1);gc
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA) (Disc 2);gc
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA);ps2
+Teenage Mutant Ninja Turtles 3 - Mutant Nightmare (USA);nds
+Teenage Mutant Ninja Turtles Double Pack (USA) (En,Fr,De,Es,It);gba
+Teenage Mutant Ninja Turtles II - Arcade Game (R);dendy
+Teenage Mutant Ninja Turtles II - Back from the Sewers (USA);gb
+Teenage Mutant Ninja Turtles II - The Arcade Game (USA);nes
+Teenage Mutant Ninja Turtles III - Manhattan Project (R);dendy
+Teenage Mutant Ninja Turtles III - Radical Rescue (USA);gb
+Teenage Mutant Ninja Turtles III - The Manhattan Project (USA);nes
+Teenage Mutant Ninja Turtles III - The Manhattan Project by shinwa (Hack);nesh
+Teenage Mutant Ninja Turtles IV - Turtles in Time (USA);snes
+Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1);snesmsu1
+Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1);snesmsu1
+Teenage Mutant Ninja Turtles The HyperStone Heist - Enhanced Colors (Hack);genh
+Teenage Mutant Ninja Turtles World Tour (Europe);atarist
+Teenage Mutants Hero Turtles World Tour (Europe);c64
+TeenageMutantHeroTurtlesCoinOp_v1.0_2301;amiga1200
+TeenageMutantHeroTurtlesCoinOp_v1.0_2301;amiga
+TeenageMutantHeroTurtles_v1.2_0587;amiga1200
+TeenageMutantHeroTurtles_v1.2_0587;amiga
+TeenageMutantNinjaTurtles_v1.1;amiga1200
+TeenageMutantNinjaTurtles_v1.1;amiga
+pc_tmnt2;arcade
+pc_tmnt2;fba
+pc_tmnt2;mame-advmame
+pc_tmnt2;mame-libretro
+pc_tmnt2;mame-mame4all
+pc_tmnt;arcade
+pc_tmnt;fba
+pc_tmnt;mame-advmame
+pc_tmnt;mame-libretro
+pc_tmnt;mame-mame4all
+tmht22pe;arcade
+tmht22pe;fba
+tmht22pe;mame-advmame
+tmht22pe;mame-libretro
+tmht22pe;mame-mame4all
+tmht2p;arcade
+tmht2p;fba
+tmht2p;mame-advmame
+tmht2p;mame-libretro
+tmht2p;mame-mame4all
+tmht2pa;arcade
+tmht2pa;fba
+tmht2pa;mame-advmame
+tmht2pa;mame-libretro
+tmht2pa;mame-mame4all
+tmht;arcade
+tmht;fba
+tmht;mame-advmame
+tmht;mame-libretro
+tmht;mame-mame4all
+tmhta;arcade
+tmhta;fba
+tmhta;mame-advmame
+tmhta;mame-libretro
+tmhta;mame-mame4all
+tmhtb;arcade
+tmhtb;fba
+tmhtb;mame-advmame
+tmhtb;mame-libretro
+tmhtb;mame-mame4all
+tmnt22pu;arcade
+tmnt22pu;fba
+tmnt22pu;mame-advmame
+tmnt22pu;mame-libretro
+tmnt22pu;mame-mame4all
+tmnt2;arcade
+tmnt2;fba
+tmnt2;mame-advmame
+tmnt2;mame-libretro
+tmnt2;mame-mame4all
+tmnt2a;arcade
+tmnt2a;fba
+tmnt2a;mame-advmame
+tmnt2a;mame-libretro
+tmnt2a;mame-mame4all
+tmnt2pj;arcade
+tmnt2pj;fba
+tmnt2pj;mame-advmame
+tmnt2pj;mame-libretro
+tmnt2pj;mame-mame4all
+tmnt2po;arcade
+tmnt2po;fba
+tmnt2po;mame-advmame
+tmnt2po;mame-libretro
+tmnt2po;mame-mame4all
+tmnt;arcade
+tmnt;fba
+tmnt;mame-advmame
+tmnt;mame-libretro
+tmnt;mame-mame4all
+tmnt_103;arcade
+tmnt_103;fba
+tmnt_103;mame-advmame
+tmnt_103;mame-libretro
+tmnt_103;mame-mame4all
+tmnt_104;arcade
+tmnt_104;fba
+tmnt_104;mame-advmame
+tmnt_104;mame-libretro
+tmnt_104;mame-mame4all
+tmntj;arcade
+tmntj;fba
+tmntj;mame-advmame
+tmntj;mame-libretro
+tmntj;mame-mame4all
+tmntu;arcade
+tmntu;fba
+tmntu;mame-advmame
+tmntu;mame-libretro
+tmntu;mame-mame4all
+tmntua;arcade
+tmntua;fba
+tmntua;mame-advmame
+tmntua;mame-libretro
+tmntua;mame-mame4all

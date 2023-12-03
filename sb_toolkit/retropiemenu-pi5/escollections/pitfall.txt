@@ -1,0 +1,72 @@
+David Crane's Pitfall (USA);c64
+David Crane's Pitfall II - Lost Caverns (USA);atari5200
+Nyan SID (Europe) (Unl);bbcb
+Pitfall (USA) (Unl);vic20
+Pitfall (USA);atari800
+Pitfall - Beyond the Jungle (USA, Europe);gbc
+Pitfall - Pitfall Harry's Jungle Adventure (USA);c64
+Pitfall - The Lost Expedition (USA);gba
+Pitfall - The Lost Expedition (USA);gc
+Pitfall - The Lost Expedition (USA);ps2
+Pitfall - The Mayan Adventure (USA);sega32x
+Pitfall - The Mayan Adventure (USA);segacd
+Pitfall - The Mayan Adventure (USA);megadrive
+Pitfall - The Mayan Adventure (USA);snes
+Pitfall - The Mayan Adventure (USA, Europe);gba
+Pitfall - The Mayan Adventure (World);atarijaguar
+Pitfall - The Unofficial Adventure (World) (Unl);nes
+Pitfall 3D - Beyond the Jungle (USA);psx
+Pitfall II - Lost Caverns (Europe);zxspectrum
+Pitfall II - Lost Caverns (Japan) (Alt 1);msx
+Pitfall II - Lost Caverns (Japan);msx
+Pitfall II - Lost Caverns (USA);apple2
+Pitfall II - Lost Caverns (USA);atari2600
+Pitfall II - Lost Caverns (USA);atari800
+Pitfall II - Lost Caverns (USA);colecovision
+Pitfall II - Lost Caverns (USA);c64
+Pitfall II - The Lost Caverns (Japan);sg-1000
+Pitfall! (Japan) (Alt 1);msx
+Pitfall! (Japan) (Alt 2);msx
+Pitfall! (Japan);msx
+Pitfall! (USA);atari5200
+Pitfall! (USA);colecovision
+Pitfall! (World);intellivision
+Pitfall! - Pitfall Harry's Jungle Adventure (USA);atari2600
+Super Pitfall (R);dendy
+Super Pitfall (USA);nes
+Super Pitfall II (USA) (Proto);nes
+m4pitfal;arcade
+m4pitfal;fba
+m4pitfal;mame-advmame
+m4pitfal;mame-libretro
+m4pitfal;mame-mame4all
+m4pitfala;arcade
+m4pitfala;fba
+m4pitfala;mame-advmame
+m4pitfala;mame-libretro
+m4pitfala;mame-mame4all
+m4pitfalb;arcade
+m4pitfalb;fba
+m4pitfalb;mame-advmame
+m4pitfalb;mame-libretro
+m4pitfalb;mame-mame4all
+m4pitfalc;arcade
+m4pitfalc;fba
+m4pitfalc;mame-advmame
+m4pitfalc;mame-libretro
+m4pitfalc;mame-mame4all
+pitfall2;arcade
+pitfall2;fba
+pitfall2;mame-advmame
+pitfall2;mame-libretro
+pitfall2;mame-mame4all
+pitfall2a;arcade
+pitfall2a;fba
+pitfall2a;mame-advmame
+pitfall2a;mame-libretro
+pitfall2a;mame-mame4all
+pitfall2u;arcade
+pitfall2u;fba
+pitfall2u;mame-advmame
+pitfall2u;mame-libretro
+pitfall2u;mame-mame4all

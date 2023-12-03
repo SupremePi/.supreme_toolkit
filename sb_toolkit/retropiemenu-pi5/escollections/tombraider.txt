@@ -1,0 +1,59 @@
+Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It);gba
+Lara Croft Tomb Raider - Legend (USA) (En,Fr,De,Es,It);nds
+Lara Croft Tomb Raider - Legend (USA);gc
+Lara Croft Tomb Raider - The Angel of Darkness (USA);ps2
+Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It);gba
+Prince of Persia - The Sands of Time & Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It);gba
+Tomb Raider (USA);saturn
+Tomb Raider (USA);psx
+Tomb Raider (USA, Europe);gbc
+Tomb Raider - Anniversary (USA);psp
+Tomb Raider - Curse of the Sword (USA, Europe);gbc
+Tomb Raider - Legend (USA);psp
+Tomb Raider - The Last Revelation (USA);dreamcast
+Tomb Raider - The Last Revelation (USA);psx
+Tomb Raider - Underworld (USA) (En,Fr,Es);nds
+Tomb Raider Chronicles (USA);dreamcast
+Tomb Raider Chronicles (USA);psx
+Tomb Raider II - Starring Lara Croft (USA);psx
+Tomb Raider III - Adventures of Lara Croft (USA);psx
+j6tomb;arcade
+j6tomb;fba
+j6tomb;mame-advmame
+j6tomb;mame-libretro
+j6tomb;mame-mame4all
+j6tomba;arcade
+j6tomba;fba
+j6tomba;mame-advmame
+j6tomba;mame-libretro
+j6tomba;mame-mame4all
+j6tombb;arcade
+j6tombb;fba
+j6tombb;mame-advmame
+j6tombb;mame-libretro
+j6tombb;mame-mame4all
+j6tombc;arcade
+j6tombc;fba
+j6tombc;mame-advmame
+j6tombc;mame-libretro
+j6tombc;mame-mame4all
+j6tombd;arcade
+j6tombd;fba
+j6tombd;mame-advmame
+j6tombd;mame-libretro
+j6tombd;mame-mame4all
+j6tombe;arcade
+j6tombe;fba
+j6tombe;mame-advmame
+j6tombe;mame-libretro
+j6tombe;mame-mame4all
+j6tombf;arcade
+j6tombf;fba
+j6tombf;mame-advmame
+j6tombf;mame-libretro
+j6tombf;mame-mame4all
+j6tombg;arcade
+j6tombg;fba
+j6tombg;mame-advmame
+j6tombg;mame-libretro
+j6tombg;mame-mame4all

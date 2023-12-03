@@ -1,0 +1,12 @@
+Duke Nukem Forever (Original) (1.3);futurepinball
+Duke Nukem - Zero Hour (USA);n64
+Duke Nukem 64 (USA);n64
+Duke Nukem - Critical Mass (Europe) (En,Fr,De,Es,It);nds
+Duke Nukem Advance (USA);gba
+Duke Nukem (USA);gbc
+duke3d;pc
+Duke Nukem 3D (Brazil);genesis
+Duke Nukem 3D (Europe);saturn
+Duke Nukem - Land of the Babes (USA);psx
+Duke Nukem - Time to Kill (USA);psx
+Duke Nukem - Total Meltdown (USA);psx

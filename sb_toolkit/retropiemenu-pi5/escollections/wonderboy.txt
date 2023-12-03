@@ -1,0 +1,158 @@
+Super Wonder Boy (Europe);zxspectrum
+Super Wonderboy in Monster Land (Europe) (Disk 1);amstradcpc
+Super Wonderboy in Monster Land (Europe) (Disk 2);amstradcpc
+Super Wonderboy in Monsterland (Europe);atarist
+Wonder Boy (Europe);zxspectrum
+Wonder Boy (Japan) (Alt 1);msx
+Wonder Boy (Japan);msx
+Wonder Boy (Japan);sg-1000
+Wonder Boy (USA, Europe);markiii
+Wonder Boy (USA, Europe);mastersystem
+Wonder Boy - The Dragon's Trap (Europe);gamegear
+Wonder Boy III - Monster Lair (Japan);megadrive-japan
+Wonder Boy III - Monster Lair (Japan, Europe);megadrive-japan
+Wonder Boy III - Monster Lair (Japan, Europe);megadrive
+Wonder Boy III - Monster Lair (USA);tg-cd
+Wonder Boy III - The Dragon's Trap (USA, Europe);mastersystem
+Wonder Boy V - Monster World III (Japan);megadrive-japan
+Wonder Boy in Monster Land (USA, Europe);markiii
+Wonder Boy in Monster Land (USA, Europe);mastersystem
+Wonder Boy in Monster World (Europe);markiii
+Wonder Boy in Monster World (Europe);mastersystem
+Wonder Boy in Monster World (USA, Europe);megadrive
+Wonderboy (Europe);amstradcpc
+Wonderboy (USA);c64
+Wonderboy in Monsterland (USA) (Side A);c64
+Wonderboy in Monsterland (USA) (Side B);c64
+WonderboyInMonsterland_v1.1;amiga1200
+WonderboyInMonsterland_v1.1;amiga
+wb31;arcade
+wb31;fba
+wb31;mame-advmame
+wb31;mame-libretro
+wb31;mame-mame4all
+wb32;arcade
+wb32;fba
+wb32;mame-advmame
+wb32;mame-libretro
+wb32;mame-mame4all
+wb33;arcade
+wb33;fba
+wb33;mame-advmame
+wb33;mame-libretro
+wb33;mame-mame4all
+wb34;arcade
+wb34;fba
+wb34;mame-advmame
+wb34;mame-libretro
+wb34;mame-mame4all
+wb35;arcade
+wb35;fba
+wb35;mame-advmame
+wb35;mame-libretro
+wb35;mame-mame4all
+wb3;arcade
+wb3;fba
+wb3;mame-advmame
+wb3;mame-libretro
+wb3;mame-mame4all
+wb3bbl;arcade
+wb3bbl;fba
+wb3bbl;mame-advmame
+wb3bbl;mame-libretro
+wb3bbl;mame-mame4all
+wb3bble;arcade
+wb3bble;fba
+wb3bble;mame-advmame
+wb3bble;mame-libretro
+wb3bble;mame-mame4all
+wbdeluxe;arcade
+wbdeluxe;fba
+wbdeluxe;mame-advmame
+wbdeluxe;mame-libretro
+wbdeluxe;mame-mame4all
+wbml;arcade
+wbml;fba
+wbml;mame-advmame
+wbml;mame-libretro
+wbml;mame-mame4all
+wbmlb;arcade
+wbmlb;fba
+wbmlb;mame-advmame
+wbmlb;mame-libretro
+wbmlb;mame-mame4all
+wbmlbg;arcade
+wbmlbg;fba
+wbmlbg;mame-advmame
+wbmlbg;mame-libretro
+wbmlbg;mame-mame4all
+wbmlbge;arcade
+wbmlbge;fba
+wbmlbge;mame-advmame
+wbmlbge;mame-libretro
+wbmlbge;mame-mame4all
+wbmljb;arcade
+wbmljb;fba
+wbmljb;mame-advmame
+wbmljb;mame-libretro
+wbmljb;mame-mame4all
+wbmljo;arcade
+wbmljo;fba
+wbmljo;mame-advmame
+wbmljo;mame-libretro
+wbmljo;mame-mame4all
+wbmlvc;arcade
+wbmlvc;fba
+wbmlvc;mame-advmame
+wbmlvc;mame-libretro
+wbmlvc;mame-mame4all
+wboy2;arcade
+wboy2;fba
+wboy2;mame-advmame
+wboy2;mame-libretro
+wboy2;mame-mame4all
+wboy2u;arcade
+wboy2u;fba
+wboy2u;mame-advmame
+wboy2u;mame-libretro
+wboy2u;mame-mame4all
+wboy3;arcade
+wboy3;fba
+wboy3;mame-advmame
+wboy3;mame-libretro
+wboy3;mame-mame4all
+wboy4;arcade
+wboy4;fba
+wboy4;mame-advmame
+wboy4;mame-libretro
+wboy4;mame-mame4all
+wboy5;arcade
+wboy5;fba
+wboy5;mame-advmame
+wboy5;mame-libretro
+wboy5;mame-mame4all
+wboy;arcade
+wboy;fba
+wboy;mame-advmame
+wboy;mame-libretro
+wboy;mame-mame4all
+wboyo;arcade
+wboyo;fba
+wboyo;mame-advmame
+wboyo;mame-libretro
+wboyo;mame-mame4all
+wboysys2;arcade
+wboysys2;fba
+wboysys2;mame-advmame
+wboysys2;mame-libretro
+wboysys2;mame-mame4all
+wboyu;arcade
+wboyu;fba
+wboyu;mame-advmame
+wboyu;mame-libretro
+wboyu;mame-mame4all
+wboyub;arcade
+wboyub;fba
+wboyub;mame-advmame
+wboyub;mame-libretro
+wboyub;mame-mame4all

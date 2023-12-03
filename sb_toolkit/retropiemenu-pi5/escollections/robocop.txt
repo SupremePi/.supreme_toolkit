@@ -1,0 +1,110 @@
+RoboCop (Europe);c64
+RoboCop (Europe);gbc
+RoboCop (R);dendy
+RoboCop (USA);nes
+RoboCop (USA, Europe) (Rev A);gb
+RoboCop (USA, Europe);gb
+RoboCop 2 (R);dendy
+RoboCop 2 (USA);nes
+RoboCop 2 (USA);gb
+RoboCop 3 (Europe);mastersystem
+RoboCop 3 (R);dendy
+RoboCop 3 (USA);nes
+RoboCop 3 (USA);snes
+RoboCop 3 (USA, Europe);gamegear
+RoboCop 3 (USA, Europe);megadrive
+RoboCop II (Europe);c64
+RoboCop III (Europe);c64
+RoboCop versus The Terminator (Europe);mastersystem
+RoboCop versus The Terminator (Japan);megadrive-japan
+RoboCop versus The Terminator (USA) (Proto);nes
+RoboCop versus The Terminator (USA);megadrive
+RoboCop versus The Terminator (USA);snes
+RoboCop versus The Terminator (USA, Europe);gamegear
+RoboCop vs. The Terminator (USA);gb
+RoboCop2_v1.2_1220;amiga1200
+RoboCop2_v1.2_1220;amiga
+RoboCop3_v1.3_0979;amiga1200
+RoboCop3_v1.3_0979;amiga
+RoboCop_v1.1_2066;amiga1200
+RoboCop_v1.1_2066;amiga
+Robocop (Europe);amstradcpc
+Robocop (Europe);atarist
+Robocop (Europe);zxspectrum
+Robocop (USA) (Side A);apple2
+Robocop (USA) (Side B);apple2
+Robocop - Aratanaru Kiki (Japan);gc
+Robocop 2 (CPC+) (Europe);amstradcpc
+Robocop 2 (Europe);gx4000
+Robocop 2 (Europe);atarist
+Robocop 2 (Europe);zxspectrum
+Robocop 3 (Europe) (Disk 1);atarist
+Robocop 3 (Europe) (Disk 2);atarist
+Robocop 3 (Europe);zxspectrum
+automat;arcade
+automat;fba
+automat;mame-advmame
+automat;mame-libretro
+automat;mame-mame4all
+nss_rob3;arcade
+nss_rob3;fba
+nss_rob3;mame-advmame
+nss_rob3;mame-libretro
+nss_rob3;mame-mame4all
+robo_a34;arcade
+robo_a34;fba
+robo_a34;mame-advmame
+robo_a34;mame-libretro
+robo_a34;mame-mame4all
+robocop2;arcade
+robocop2;fba
+robocop2;mame-advmame
+robocop2;mame-libretro
+robocop2;mame-mame4all
+robocop2j;arcade
+robocop2j;fba
+robocop2j;mame-advmame
+robocop2j;mame-libretro
+robocop2j;mame-mame4all
+robocop2u;arcade
+robocop2u;fba
+robocop2u;mame-advmame
+robocop2u;mame-libretro
+robocop2u;mame-mame4all
+robocop2ua;arcade
+robocop2ua;fba
+robocop2ua;mame-advmame
+robocop2ua;mame-libretro
+robocop2ua;mame-mame4all
+robocop3;pc
+robocop;arcade
+robocop;fba
+robocop;mame-advmame
+robocop;mame-libretro
+robocop;mame-mame4all
+robocop;pc
+robocopb;arcade
+robocopb;fba
+robocopb;mame-advmame
+robocopb;mame-libretro
+robocopb;mame-mame4all
+robocopj;arcade
+robocopj;fba
+robocopj;mame-advmame
+robocopj;mame-libretro
+robocopj;mame-mame4all
+robocopu0;arcade
+robocopu0;fba
+robocopu0;mame-advmame
+robocopu0;mame-libretro
+robocopu0;mame-mame4all
+robocopu;arcade
+robocopu;fba
+robocopu;mame-advmame
+robocopu;mame-libretro
+robocopu;mame-mame4all
+robocopw;arcade
+robocopw;fba
+robocopw;mame-advmame
+robocopw;mame-libretro
+robocopw;mame-mame4all

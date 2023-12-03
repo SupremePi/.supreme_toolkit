@@ -1,0 +1,33 @@
+2 Games in 1 - Power Rangers - Ninja Storm + Power Rangers - Time Force (USA) (En,Fr,De+En);gba
+Mighty Morphin Power Rangers (USA);segacd
+Mighty Morphin Power Rangers (USA);megadrive
+Mighty Morphin Power Rangers (USA);snes
+Mighty Morphin Power Rangers (USA, Europe);gb
+Mighty Morphin Power Rangers (USA, Europe);sgb
+Mighty Morphin Power Rangers (USA, Europe);gamegear
+Mighty Morphin Power Rangers - The Fighting Edition (USA);snes
+Mighty Morphin Power Rangers - The Movie (USA);megadrive
+Mighty Morphin Power Rangers - The Movie (USA);snes
+Mighty Morphin Power Rangers - The Movie (USA, Europe);gb
+Mighty Morphin Power Rangers - The Movie (USA, Europe);sgb
+Mighty Morphin Power Rangers - The Movie (USA, Europe);gamegear
+Mighty Morphin Power Rangers The Movie - Enhanced Colors (Hack);genh
+Power Rangers - Dino Thunder (USA);gc
+Power Rangers - Dino Thunder (USA, Europe);gba
+Power Rangers - Lightspeed Rescue (USA);n64
+Power Rangers - Lightspeed Rescue (USA, Europe);gbc
+Power Rangers - Megaforce (USA);3ds
+Power Rangers - Ninja Storm (USA);gba
+Power Rangers - Samurai (USA) (En,Fr,Es);nds
+Power Rangers - Super Legends (USA) (En,Fr,De,Es,It);nds
+Power Rangers - Super Megaforce (USA);3ds
+Power Rangers - Time Force (USA);gbc
+Power Rangers - Time Force (USA, Europe);gba
+Power Rangers - Wild Force (USA, Europe);gba
+Power Rangers 2 (Unl);dendy
+Power Rangers III (Unl);dendy
+Power Rangers S.P.D. (USA, Europe);gba
+Power Rangers Zeo - Battle Racers (USA);snes
+Saban's Power Rangers - Lightspeed Rescue (USA);psx
+Saban's Power Rangers - Time Force (USA);psx
+Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA);psx

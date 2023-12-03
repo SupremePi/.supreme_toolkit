@@ -1,0 +1,11 @@
+mazingerj;arcade
+mazingerj;fba
+mazingerj;mame-advmame
+mazingerj;mame-libretro
+mazingerj;mame-mame4all
+mazinger;arcade
+mazinger;fba
+mazinger;mame-advmame
+mazinger;mame-libretro
+mazinger;mame-mame4all
+Mazinger Z (Japan);sfc

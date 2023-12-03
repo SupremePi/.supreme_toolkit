@@ -1,0 +1,60 @@
+3D Lemmings (Europe);saturn
+3D Lemmings (USA);psx
+AllNewWorldOfLemmings_v1.0_AGA_0625;amiga1200
+AllNewWorldOfLemmings_v1.0_AGA_0625;amiga
+HolidayLemmings1993_v1.2_0337;amiga1200
+HolidayLemmings1993_v1.2_0337;amiga
+HolidayLemmings1994_v1.2_0492;amiga1200
+HolidayLemmings1994_v1.2_0492;amiga
+Larry The Lemming's Urge For Extinction (Europe);amstradcpc
+Lemming Syndrome (1983)(Dynabyte Software);electron
+Lemming Syndrome (Europe);bbcb
+Lemmings & Oh No! More Lemmings (USA);psx
+Lemmings (Europe) (Disk 1);amstradcpc
+Lemmings (Europe) (Disk 2);amstradcpc
+Lemmings (Europe);atari800
+Lemmings (Europe);atarist
+Lemmings (Europe);cdtv
+Lemmings (Europe);cdimono1
+Lemmings (Europe);mastersystem
+Lemmings (Imagineer);x68000
+Lemmings (Japan);pce-cd
+Lemmings (Japan, USA);megadrive
+Lemmings (Side A) (Europe);zxspectrum
+Lemmings (Side B) (Europe);zxspectrum
+Lemmings (USA) (Disk 1 Side A);c64
+Lemmings (USA) (Disk 1 Side B);c64
+Lemmings (USA) (Disk 2);c64
+Lemmings (USA);apple2
+Lemmings (USA);nes
+Lemmings (USA);gbc
+Lemmings (USA);gb
+Lemmings (USA);3do
+Lemmings (USA);psp
+Lemmings (USA);snes
+Lemmings (USA, Europe);atarilynx
+Lemmings (World);gamegear
+Lemmings 2 - The Tribe (Europe);atarist
+Lemmings 2 - The Tribes (Europe) (Proto);gamegear
+Lemmings 2 - The Tribes (Europe);gb
+Lemmings 2 - The Tribes (USA);megadrive
+Lemmings 2 - The Tribes (USA);snes
+Lemmings 2 - The Tribes (World) (Proto);mastersystem
+Lemmings2_v1.4_1MB_0351;amiga1200
+Lemmings2_v1.4_1MB_0351;amiga
+Lemmings;samcoupe
+Lemmings_v1.4_2Disk_0132;amiga1200
+Lemmings_v1.4_2Disk_0132;amiga
+NewYearLemmings199192_v1.0;amiga1200
+NewYearLemmings199192_v1.0;amiga
+Oh No More Lemmings;samcoupe
+Oh-no! More Lemmings (Europe);atarist
+OhNoMoreLemmings_v1.2_0697;amiga1200
+OhNoMoreLemmings_v1.2_0697;amiga
+lemmings;arcade
+lemmings;fba
+lemmings;mame-advmame
+lemmings;mame-libretro
+lemmings;mame-mame4all
+lemmings;pc
+lemmings;satellaview

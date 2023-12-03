@@ -1,0 +1,40 @@
+Tom Clancy's Ghost Recon - Shadow Wars (USA);3ds
+Tom Clancy's Splinter Cell 3D (USA);3ds
+Tom Clancy's Rainbow Six (USA);n64
+Tom Clancy's EndWar (USA) (En,Fr);nds
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (En,Fr,De,Es,It);nds
+Tom Clancy's Rainbow Six - Rogue Spear (USA) (En,Fr,De,Es,It);gba
+Tom Clancy's Splinter Cell (USA) (En,Fr,Es);gba
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA) (En,Fr,Es);gba
+Tom Clancy's Rainbow Six (USA, Europe);gbc
+Tom Clancy's Ghost Recon (USA);gc
+Tom Clancy's Ghost Recon 2 (USA);gc
+Tom Clancy's Rainbow Six - Lockdown (USA);gc
+Tom Clancy's Rainbow Six 3 (USA);gc
+Tom Clancy's Splinter Cell (USA);gc
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 1);gc
+Tom Clancy's Splinter Cell - Chaos Theory (USA) (Disc 2);gc
+Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 1);gc
+Tom Clancy's Splinter Cell - Double Agent (USA) (Disc 2);gc
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA);gc
+Tom Clancy's Splinter Cell - Blacklist (USA);wiiu
+Tom Clancy's Rainbow Six (USA);dreamcast
+Tom Clancy's Rainbow Six - Rogue Spear (USA);dreamcast
+Tom Clancy's Ghost Recon (USA);ps2
+Tom Clancy's Ghost Recon - Advanced Warfighter (USA);ps2
+Tom Clancy's Ghost Recon - Jungle Storm (USA);ps2
+Tom Clancy's Ghost Recon 2 (USA);ps2
+Tom Clancy's Rainbow Six - Lockdown (USA);ps2
+Tom Clancy's Rainbow Six 3 (USA);ps2
+Tom Clancy's Splinter Cell (USA);ps2
+Tom Clancy's Splinter Cell - Chaos Theory (USA);ps2
+Tom Clancy's Splinter Cell - Double Agent (USA);ps2
+Tom Clancy's Splinter Cell - Pandora Tomorrow (USA);ps2
+Tom Clancy's Rainbow Six (USA);psx
+Tom Clancy's Rainbow Six - Lone Wolf (USA);psx
+Tom Clancy's Rainbow Six - Rogue Spear (USA);psx
+Tom Clancy's EndWar (USA);psp
+Tom Clancy's Ghost Recon - Advanced Warfighter 2 (USA);psp
+Tom Clancy's Ghost Recon - Predator (USA);psp
+Tom Clancy's Rainbow Six - Vegas (USA);psp
+Tom Clancy's Splinter Cell - Essentials (USA);psp

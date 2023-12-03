@@ -1,0 +1,103 @@
+Ax Battler - A Legend of Golden Axe (USA, Europe);gamegear
+Golden Axe (Ch) (Decrypted);dendy
+Golden Axe (Europe) (Disk 1);amstradcpc
+Golden Axe (Europe) (Disk 2);amstradcpc
+Golden Axe (Europe);atarist
+Golden Axe (Europe);c64
+Golden Axe (Japan);wonderswancolor
+Golden Axe (Japan);pce-cd
+Golden Axe (Side A) (Europe);zxspectrum
+Golden Axe (Side B) (Europe);zxspectrum
+Golden Axe (USA, Europe);mastersystem
+Golden Axe (World);megadrive
+Golden Axe - The Duel (USA);saturn
+Golden Axe 2 - Enhanced Colors (Hack);genh
+Golden Axe Color Hack (Hack);genh
+Golden Axe Curse of Death Adder 3.0;openbor
+Golden Axe II (World);megadrive
+Golden Axe III (Japan);megadrive-japan
+Golden Axe III (Japan);megadrive
+Golden Axe Remake;openbor
+Golden Axe Warrior (USA, Europe);mastersystem
+GoldenAxe_v1.3_0017;amiga1200
+GoldenAxe_v1.3_0017;amiga
+ga2;arcade
+ga2;fba
+ga2;mame-advmame
+ga2;mame-libretro
+ga2;mame-mame4all
+ga2j;arcade
+ga2j;fba
+ga2j;mame-advmame
+ga2j;mame-libretro
+ga2j;mame-mame4all
+ga2u;arcade
+ga2u;fba
+ga2u;mame-advmame
+ga2u;mame-libretro
+ga2u;mame-mame4all
+gaxeduel;arcade
+gaxeduel;fba
+gaxeduel;mame-advmame
+gaxeduel;mame-libretro
+gaxeduel;mame-mame4all
+goldnaxe1;arcade
+goldnaxe1;fba
+goldnaxe1;mame-advmame
+goldnaxe1;mame-libretro
+goldnaxe1;mame-mame4all
+goldnaxe2;arcade
+goldnaxe2;fba
+goldnaxe2;mame-advmame
+goldnaxe2;mame-libretro
+goldnaxe2;mame-mame4all
+goldnaxe3;arcade
+goldnaxe3;fba
+goldnaxe3;mame-advmame
+goldnaxe3;mame-libretro
+goldnaxe3;mame-mame4all
+goldnaxe;arcade
+goldnaxe;fba
+goldnaxe;mame-advmame
+goldnaxe;mame-libretro
+goldnaxe;mame-mame4all
+goldnaxeb1;arcade
+goldnaxeb1;fba
+goldnaxeb1;mame-advmame
+goldnaxeb1;mame-libretro
+goldnaxeb1;mame-mame4all
+goldnaxeb2;arcade
+goldnaxeb2;fba
+goldnaxeb2;mame-advmame
+goldnaxeb2;mame-libretro
+goldnaxeb2;mame-mame4all
+goldnaxej;arcade
+goldnaxej;fba
+goldnaxej;mame-advmame
+goldnaxej;mame-libretro
+goldnaxej;mame-mame4all
+goldnaxeu;arcade
+goldnaxeu;fba
+goldnaxeu;mame-advmame
+goldnaxeu;mame-libretro
+goldnaxeu;mame-mame4all
+mp_gaxe2;arcade
+mp_gaxe2;fba
+mp_gaxe2;mame-advmame
+mp_gaxe2;mame-libretro
+mp_gaxe2;mame-mame4all
+mp_gaxe2a;arcade
+mp_gaxe2a;fba
+mp_gaxe2a;mame-advmame
+mp_gaxe2a;mame-libretro
+mp_gaxe2a;mame-mame4all
+mt_gaxe2;arcade
+mt_gaxe2;fba
+mt_gaxe2;mame-advmame
+mt_gaxe2;mame-libretro
+mt_gaxe2;mame-mame4all
+mt_gaxe;arcade
+mt_gaxe;fba
+mt_gaxe;mame-advmame
+mt_gaxe;mame-libretro
+mt_gaxe;mame-mame4all

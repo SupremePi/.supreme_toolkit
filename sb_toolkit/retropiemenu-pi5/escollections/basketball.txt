@@ -1,0 +1,581 @@
+1on1gov;arcade
+1on1gov;fba
+1on1gov;mame-advmame
+1on1gov;mame-libretro
+1on1gov;mame-mame4all
+3on3dunk;arcade
+3on3dunk;fba
+3on3dunk;mame-advmame
+3on3dunk;mame-libretro
+3on3dunk;mame-mame4all
+All American Basketball (Europe);zxspectrum
+All-American Basketball (Europe);c64
+All-Pro Basketball (USA);nes
+Arch Rivals (USA);gamegear
+Arch Rivals - A Basketbrawl! (USA);nes
+Backyard Basketball (USA);gba
+Backyard Basketball (USA);ps2
+Backyard Basketball (USA);nds
+Backyard Sports - Basketball 2007 (USA);gba
+Backyard Sports - Basketball 2007 (USA);ps2
+Barkley Shut Up and Jam! (USA);snes
+Barkley Shut Up and Jam! (USA, Europe);megadrive
+Barkley Shut Up and Jam! 2 (USA);megadrive
+Basket (Spain);zxspectrum
+Basket Manager, The (Europe);atarist
+Basket Manager, The (Italy);c64
+Basket Master (Europe);c64
+Basket Master (Europe);zxspectrum
+Basket Playoff (Italy);c64
+Basketball (Europe);c64
+Basketball (Europe);arcadia
+Basketball (USA);atari2600
+Basketball (USA);atari800
+Basketball - The Pro Game (USA);c64
+Basketball Nightmare (Europe);mastersystem
+Basketbrawl (USA);atari7800
+Basketbrawl (USA, Europe);atarilynx
+Bill Laimbeer's Combat Basketball (USA);snes
+Bowling + Basketball (USA, Europe);odyssey2
+Bulls Vs Lakers and the NBA Playoffs (USA, Europe);megadrive
+Bulls versus Blazers and the NBA Playoffs (USA, Europe);megadrive
+Bulls vs Blazers and the NBA Playoffs (USA);snes
+Coach K College Basketball (USA);megadrive
+College Slam (USA);gb
+College Slam (USA);megadrive
+College Slam (USA);saturn
+College Slam (USA);snes
+Court-Side College Basketball Game (USA) (Disk 1);c64
+Court-Side College Basketball Game (USA) (Disk 2) (Utilities);c64
+Court-Side College Basketball Game (USA) (Disk 3) (Standings);c64
+Court-Side College Basketball Game (USA) (Disk 4) (Current Teams);c64
+Court-Side College Basketball Game (USA) (Disk 5) (Tourney Teams);c64
+David Robinson Basketball (Japan);megadrive-japan
+David Robinson's Supreme Court (USA, Europe);megadrive
+Dear Boys (Japan);sfc
+Dick Vitale's 'Awesome, Baby!' College Hoops (USA);megadrive
+Disney Sports - Basketball (USA);gba
+Disney Sports - Basketball (USA);gc
+Double Dribble (USA);c64
+Double Dribble (USA);nes
+Double Dribble - 5 on 5 (USA);gb
+Double Dribble - The Playoff Edition (USA);megadrive
+Double Dunk (USA);atari2600
+Drazen Petrovic Basket (Spain);amstradcpc
+Drazen Petrovic Basket (Spain);c64
+Drazen Petrovic Basket (Spain);zxspectrum
+Dream Basketball - Dunk & Hoop (Japan);sfc
+Dream Team Challenge 3 on 3 (USA);c64
+Dunk Kids (Japan);gamegear
+ESPN NBA Basketball (USA);ps2
+ESPN NBA Hangtime '95 (USA);segacd
+Exciting Basket (Japan);fds
+Fast Break (USA);c64
+Fernando Martin Basket Master (Europe);amstradcpc
+Fernando Martin Basket Master (Spain);zxspectrum
+Final Four College Basketball Game (USA);c64
+Fox Sports College Hoops '99 (USA);n64
+From TV Animation - Slam Dunk - Shouri e no Starting 5 (Japan);gamegear
+From TV Animation Slam Dunk - Dream Team - Shuueisha Limited (Japan);sfc
+From TV Animation Slam Dunk - SD Heat Up!! (Japan);sfc
+From TV Animation Slam Dunk - Yonkyou Gekitotsu!! (Japan);sfc
+From TV Animation Slam Dunk 2 - IH Yosen Kanzen Ban!! (Japan);sfc
+Future Basketball (Europe);atarist
+FutureBasketball_v1.1_1253;amiga1200
+FutureBasketball_v1.1_1253;amiga
+GBA Championship Basketball (Europe);amstradcpc
+GBA Championship Basketball (Europe);zxspectrum
+GBA Championship Basketball (USA);apple2
+GBA Championship Basketball - Two on Two (USA);atarist
+GBA Championship Basketball - Two-on-Two (USA);c64
+Golden Basket (Spain);amstradcpc
+Golden Basket (Spain);zxspectrum
+Great Basketball (World);markiii
+Great Basketball (World);mastersystem
+Hakunetsu Pro Yakyuu '93 - Ganba League (Japan);sfc
+Harlem Globetrotters (USA);nes
+Harlem Globetrotters - World Tour (USA);gba
+Hoops (USA);nes
+In Your Face (USA);gb
+International Basketball (USA);c64
+Jammit (USA);3do
+Jammit (USA);megadrive
+Jammit (USA);snes
+Jordan Vs Bird (USA, Europe);megadrive
+Jordan vs Bird - One On One (USA);nes
+Jordan vs Bird - One on One (USA, Europe);gb
+Kobe Bryant's NBA Courtside (USA);n64
+Lakers versus Celtics and the NBA Playoffs (USA);megadrive
+Magic Johnson's Basketball (Europe);c64
+Magic Johnson's Basketball (Spain);amstradcpc
+Magic Johnson's Basketball (Spain);zxspectrum
+Magic Johnson's Fast Break (USA);nes
+Michael Jordan vs Larry Bird - One On One (USA) (Side A);c64
+Michael Jordan vs Larry Bird - One On One (USA) (Side B);c64
+Mike Piazza's StrikeZone (USA);n64
+NBA (USA) (Side A);c64
+NBA (USA) (Side B);c64
+NBA (USA);apple2
+NBA (USA);psp
+NBA 06 (USA);psp
+NBA 07 (USA);psp
+NBA 08 (USA);psp
+NBA 09 - The Inside (USA);psp
+NBA 10 - The Inside (USA);psp
+NBA 2K10 (USA);psp
+NBA 2K11 (USA);psp
+NBA 2K12 (USA);psp
+NBA 2K13 (USA);wiiu
+NBA 2K13 (USA);psp
+NBA 2K2 (USA);gc
+NBA 2K3 (USA);gc
+NBA Action '94 (USA);megadrive
+NBA Action '95 Starring David Robinson (USA, Europe);megadrive
+NBA Action (USA);gamegear
+NBA Action (USA);saturn
+NBA Action 98 (USA);saturn
+NBA All Star Challenge (USA, Europe);gb
+NBA All Star Challenge 2 (USA, Europe);gb
+NBA All-Star Challenge (USA);snes
+NBA All-Star Challenge (USA, Europe);megadrive
+NBA Ballers Rebound (USA);psp
+NBA Basketball (World);intellivision
+NBA Basketball 2000 (USA);psx
+NBA Courtside 2 featuring Kobe Bryant (USA);n64
+NBA Courtside 2002 (USA);gc
+NBA Give 'n Go (USA);snes
+NBA Hang Time (USA);megadrive
+NBA Hang Time (USA);snes
+NBA Hangtime (USA);n64
+NBA In the Zone (USA) (Rev A);gbc
+NBA Jam (Europe) (Proto);mastersystem
+NBA Jam (USA);segacd
+NBA Jam (USA);gamegear
+NBA Jam (USA);snes
+NBA Jam (USA, Europe);gb
+NBA Jam (USA, Europe);megadrive
+NBA Jam - Tournament Edition (USA);snes
+NBA Jam - Tournament Edition (USA, Europe);gb
+NBA Jam 2000 (USA);n64
+NBA Jam 99 (USA);n64
+NBA Jam Extreme (USA);saturn
+NBA Jam T.E. (World);atarijaguar
+NBA Jam Tournament Edition (USA);saturn
+NBA Jam Tournament Edition (USA, Europe);gamegear
+NBA Jam Tournament Edition (World);sega32x
+NBA Jam Tournament Edition (World);megadrive
+NBA Live 06 (USA);gc
+NBA Live 06 (USA);psp
+NBA Live 07 (USA);psp
+NBA Live 08 (USA);psp
+NBA Live 09 (USA);psp
+NBA Live 10 (USA);psp
+NBA Live 2000 (USA) (En,Fr,De,Es);n64
+NBA Live 2003 (USA);gc
+NBA Live 2004 (USA);gc
+NBA Live 2005 (USA);gc
+NBA Live 95 (USA);snes
+NBA Live 95 (USA, Europe);megadrive
+NBA Live 96 (USA);snes
+NBA Live 96 (USA, Europe);gb
+NBA Live 96 (USA, Europe);megadrive
+NBA Live 97 (USA);saturn
+NBA Live 97 (USA);snes
+NBA Live 97 (USA, Europe);megadrive
+NBA Live 98 (USA);megadrive
+NBA Live 98 (USA);saturn
+NBA Live 98 (USA);snes
+NBA Live 99 (USA) (En,Fr,De,Es,It);n64
+NBA Pro Basketball '94 (Japan);megadrive-japan
+NBA Pro Basketball - Bulls vs Lakers (Japan);megadrive-japan
+NBA Showdown '94 (USA, Europe);megadrive
+NBA Showdown (USA);snes
+NBA Showtime - NBA on NBC (USA);n64
+NBA Street (USA);gc
+NBA Street Showdown (USA);psp
+NBA Street V3 (USA);gc
+NBA Street Vol. 2 (USA);gc
+NBA in the Zone '98 (USA);n64
+NBA in the Zone '99 (USA);n64
+NBA in the Zone 2000 (USA);n64
+NCAA Basketball (USA);snes
+NCAA Basketball Final Four 97 (USA);psx
+NCAA College Basketball 2K3 (USA);gc
+NCAA Final Four Basketball (USA);megadrive
+NCAA Final Four Basketball (USA);snes
+Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan) (Translated En);famicom
+Omni-Play Basketball (USA) (Disk 1 Side A);c64
+Omni-Play Basketball (USA) (Disk 1 Side B);c64
+Omni-Play Basketball (USA) (Disk 2 Side A);c64
+Omni-Play Basketball (USA) (Disk 2 Side B);c64
+One On One (USA);apple2
+One on One (Europe);zxspectrum
+One on One (USA);c64
+One-on-One Basketball (USA);atari7800
+Pat Riley Basketball (USA) (Proto);mastersystem
+Pat Riley Basketball (USA);megadrive
+Pure Stat College Basketball (USA);apple2
+Pure-Stat College Basketball (USA);c64
+Rap Jam - Volume One (USA);snes
+RealSports Basketball (USA) (Proto);atari2600
+Roundball - 2-on-2 Challenge (USA);nes
+Slam 'N Jam '95 (USA);3do
+Slam 'N Jam '96 featuring Magic & Kareem (USA);saturn
+Slam - Shaq vs. the Legends (USA) (Proto);megadrive
+Slam City with Scottie Pippen (32X) (USA) (Disc 1);segacd
+Slam City with Scottie Pippen (32X) (USA) (Disc 2);segacd
+Slam City with Scottie Pippen (32X) (USA) (Disc 3);segacd
+Slam City with Scottie Pippen (32X) (USA) (Disc 4);segacd
+Slam City with Scottie Pippen (USA) (Disc 1);segacd
+Slam City with Scottie Pippen (USA) (Disc 2);segacd
+Slam City with Scottie Pippen (USA) (Disc 3);segacd
+Slam City with Scottie Pippen (USA) (Disc 4);segacd
+Slam Dunk - Super Pro Basketball (World);intellivision
+Slam-Dunk (Europe);c64
+Space Jam (USA);saturn
+Street Hoops (USA);gc
+Street Jam Basketball (USA, Europe);gba
+Street Sports Basketball (Europe);amstradcpc
+Street Sports Basketball (Europe);zxspectrum
+Street Sports Basketball (USA) (Side A);apple2
+Street Sports Basketball (USA) (Side B);apple2
+Street Sports Basketball (USA);c64
+Super Dunk Shot (Japan);sfc
+Super Dunk Star (Japan);sfc
+Super Slam Dunk (USA);snes
+Super Street Basketball (Japan);gb
+Super Street Basketball 2 (Japan);gb
+Sutobasu Yarou Show (Japan);sfc
+TV Sports Basketball (Japan);pcengine
+TV Sports Basketball (USA);tg16
+TVSportsBasketball_v1.0_2122;amiga1200
+TVSportsBasketball_v1.0_2122;amiga
+Takin' It to the Hoop (USA);tg16
+Team USA Basketball (USA, Europe);megadrive
+Tecmo NBA Basketball (R);dendy
+Tecmo NBA Basketball (USA);nes
+Tecmo Super NBA Basketball (USA);megadrive
+Tecmo Super NBA Basketball (USA);snes
+Tip Off (Europe) (Disk 1);atarist
+Tip Off (Europe) (Disk 2);atarist
+Tip Off (Europe);gb
+USA Pro Basketball (Japan);pcengine
+Ultimate Basketball (R);dendy
+Ultimate Basketball (USA);nes
+White Men Can't Jump (World);atarijaguar
+World League Basketball (Europe);psx
+World Series Basketball (Europe);zxspectrum
+anmlbskt;arcade
+anmlbskt;fba
+anmlbskt;mame-advmame
+anmlbskt;mame-libretro
+anmlbskt;mame-mame4all
+ar_fast;arcade
+ar_fast;fba
+ar_fast;mame-advmame
+ar_fast;mame-libretro
+ar_fast;mame-mame4all
+ar_fasta;arcade
+ar_fasta;fba
+ar_fasta;mame-advmame
+ar_fasta;mame-libretro
+ar_fasta;mame-mame4all
+archrivl;arcade
+archrivl;fba
+archrivl;mame-advmame
+archrivl;mame-libretro
+archrivl;mame-mame4all
+archrivla;arcade
+archrivla;fba
+archrivla;mame-advmame
+archrivla;mame-libretro
+archrivla;mame-mame4all
+archrivlb;arcade
+archrivlb;fba
+archrivlb;mame-advmame
+archrivlb;mame-libretro
+archrivlb;mame-mame4all
+bsktball;arcade
+bsktball;fba
+bsktball;mame-advmame
+bsktball;mame-libretro
+bsktball;mame-mame4all
+ddream95;arcade
+ddream95;fba
+ddream95;mame-advmame
+ddream95;mame-libretro
+ddream95;mame-mame4all
+ddribble;arcade
+ddribble;fba
+ddribble;mame-advmame
+ddribble;mame-libretro
+ddribble;mame-mame4all
+ddribblep;arcade
+ddribblep;fba
+ddribblep;mame-advmame
+ddribblep;mame-libretro
+ddribblep;mame-mame4all
+dunkmnia;arcade
+dunkmnia;fba
+dunkmnia;mame-advmame
+dunkmnia;mame-libretro
+dunkmnia;mame-mame4all
+dunkmniajc;arcade
+dunkmniajc;fba
+dunkmniajc;mame-advmame
+dunkmniajc;mame-libretro
+dunkmniajc;mame-mame4all
+dunkshot;arcade
+dunkshot;fba
+dunkshot;mame-advmame
+dunkshot;mame-libretro
+dunkshot;mame-mame4all
+dunkshoto;arcade
+dunkshoto;fba
+dunkshoto;mame-advmame
+dunkshoto;mame-libretro
+dunkshoto;mame-mame4all
+fghtbskt;arcade
+fghtbskt;fba
+fghtbskt;mame-advmame
+fghtbskt;mame-libretro
+fghtbskt;mame-mame4all
+harddunk;arcade
+harddunk;fba
+harddunk;mame-advmame
+harddunk;mame-libretro
+harddunk;mame-mame4all
+harddunkj;arcade
+harddunkj;fba
+harddunkj;mame-advmame
+harddunkj;mame-libretro
+harddunkj;mame-mame4all
+hoops95;arcade
+hoops95;fba
+hoops95;mame-advmame
+hoops95;mame-libretro
+hoops95;mame-mame4all
+hoops96;arcade
+hoops96;fba
+hoops96;mame-advmame
+hoops96;mame-libretro
+hoops96;mame-mame4all
+hshot_p8;arcade
+hshot_p8;fba
+hshot_p8;mame-advmame
+hshot_p8;mame-libretro
+hshot_p8;mame-mame4all
+jumpshot;arcade
+jumpshot;fba
+jumpshot;mame-advmame
+jumpshot;mame-libretro
+jumpshot;mame-mame4all
+jumpshotp;arcade
+jumpshotp;fba
+jumpshotp;mame-advmame
+jumpshotp;mame-libretro
+jumpshotp;mame-mame4all
+mt_srbb;arcade
+mt_srbb;fba
+mt_srbb;mame-advmame
+mt_srbb;mame-libretro
+mt_srbb;mame-mame4all
+nbahangt;arcade
+nbahangt;fba
+nbahangt;mame-advmame
+nbahangt;mame-libretro
+nbahangt;mame-mame4all
+nbajam;arcade
+nbajam;fba
+nbajam;mame-advmame
+nbajam;mame-libretro
+nbajam;mame-mame4all
+nbajamex;arcade
+nbajamex;fba
+nbajamex;mame-advmame
+nbajamex;mame-libretro
+nbajamex;mame-mame4all
+nbajamr2;arcade
+nbajamr2;fba
+nbajamr2;mame-advmame
+nbajamr2;mame-libretro
+nbajamr2;mame-mame4all
+nbajamte1;arcade
+nbajamte1;fba
+nbajamte1;mame-advmame
+nbajamte1;mame-libretro
+nbajamte1;mame-mame4all
+nbajamte2;arcade
+nbajamte2;fba
+nbajamte2;mame-advmame
+nbajamte2;mame-libretro
+nbajamte2;mame-mame4all
+nbajamte3;arcade
+nbajamte3;fba
+nbajamte3;mame-advmame
+nbajamte3;mame-libretro
+nbajamte3;mame-mame4all
+nbajamte;arcade
+nbajamte;fba
+nbajamte;mame-advmame
+nbajamte;mame-libretro
+nbajamte;mame-mame4all
+nbajamten;arcade
+nbajamten;fba
+nbajamten;mame-advmame
+nbajamten;mame-libretro
+nbajamten;mame-mame4all
+nbamht1;arcade
+nbamht1;fba
+nbamht1;mame-advmame
+nbamht1;mame-libretro
+nbamht1;mame-mame4all
+nbamht;arcade
+nbamht;fba
+nbamht;mame-advmame
+nbamht;mame-libretro
+nbamht;mame-mame4all
+nbapbp;arcade
+nbapbp;fba
+nbapbp;mame-advmame
+nbapbp;mame-libretro
+nbapbp;mame-mame4all
+nbashowt;arcade
+nbashowt;fba
+nbashowt;mame-advmame
+nbashowt;mame-libretro
+nbashowt;mame-mame4all
+nss_ncaa;arcade
+nss_ncaa;fba
+nss_ncaa;mame-advmame
+nss_ncaa;mame-libretro
+nss_ncaa;mame-mame4all
+pc_dbldr;arcade
+pc_dbldr;fba
+pc_dbldr;mame-advmame
+pc_dbldr;mame-libretro
+pc_dbldr;mame-mame4all
+punkshot2;arcade
+punkshot2;fba
+punkshot2;mame-advmame
+punkshot2;mame-libretro
+punkshot2;mame-mame4all
+punkshot;arcade
+punkshot;fba
+punkshot;mame-advmame
+punkshot;mame-libretro
+punkshot;mame-mame4all
+punkshotj;arcade
+punkshotj;fba
+punkshotj;mame-advmame
+punkshotj;mame-libretro
+punkshotj;mame-mame4all
+rimrockn12;arcade
+rimrockn12;fba
+rimrockn12;mame-advmame
+rimrockn12;mame-libretro
+rimrockn12;mame-mame4all
+rimrockn16;arcade
+rimrockn16;fba
+rimrockn16;mame-advmame
+rimrockn16;mame-libretro
+rimrockn16;mame-mame4all
+rimrockn20;arcade
+rimrockn20;fba
+rimrockn20;mame-advmame
+rimrockn20;mame-libretro
+rimrockn20;mame-mame4all
+rimrockn;arcade
+rimrockn;fba
+rimrockn;mame-advmame
+rimrockn;mame-libretro
+rimrockn;mame-mame4all
+rungun2;arcade
+rungun2;fba
+rungun2;mame-advmame
+rungun2;mame-libretro
+rungun2;mame-mame4all
+rungun;arcade
+rungun;fba
+rungun;mame-advmame
+rungun;mame-libretro
+rungun;mame-mame4all
+runguna;arcade
+runguna;fba
+runguna;mame-advmame
+runguna;mame-libretro
+runguna;mame-mame4all
+rungunua;arcade
+rungunua;fba
+rungunua;mame-advmame
+rungunua;mame-libretro
+rungunua;mame-mame4all
+sbasketb;arcade
+sbasketb;fba
+sbasketb;mame-advmame
+sbasketb;mame-libretro
+sbasketb;mame-mame4all
+sbaskete;arcade
+sbaskete;fba
+sbaskete;mame-advmame
+sbaskete;mame-libretro
+sbaskete;mame-mame4all
+sbasketg;arcade
+sbasketg;fba
+sbasketg;mame-advmame
+sbasketg;mame-libretro
+sbasketg;mame-mame4all
+sbasketh;arcade
+sbasketh;fba
+sbasketh;mame-advmame
+sbasketh;mame-libretro
+sbasketh;mame-mame4all
+slamdnk2;arcade
+slamdnk2;fba
+slamdnk2;mame-advmame
+slamdnk2;mame-libretro
+slamdnk2;mame-mame4all
+slmdunkj;arcade
+slmdunkj;fba
+slmdunkj;mame-advmame
+slmdunkj;mame-libretro
+slmdunkj;mame-mame4all
+strhoop;arcade
+strhoop;fba
+strhoop;mame-advmame
+strhoop;mame-libretro
+strhoop;mame-mame4all
+strhoop;neogeo
+suprslam;arcade
+suprslam;fba
+suprslam;mame-advmame
+suprslam;mame-libretro
+suprslam;mame-mame4all
+topshoot;arcade
+topshoot;fba
+topshoot;mame-advmame
+topshoot;mame-libretro
+topshoot;mame-mame4all
+tvusapb;arcade
+tvusapb;fba
+tvusapb;mame-advmame
+tvusapb;mame-libretro
+tvusapb;mame-mame4all
+virnba;arcade
+virnba;fba
+virnba;mame-advmame
+virnba;mame-libretro
+virnba;mame-mame4all
+virnba;naomi
+virnbao;arcade
+virnbao;fba
+virnbao;mame-advmame
+virnbao;mame-libretro
+virnbao;mame-mame4all
+virnbao;naomi
+virnbap;arcade
+virnbap;fba
+virnbap;mame-advmame
+virnbap;mame-libretro
+virnbap;mame-mame4all
+virnbap;naomi

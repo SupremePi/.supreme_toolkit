@@ -1,0 +1,100 @@
+Final Fight (Europe) (Disk 1);amstradcpc
+Final Fight (Europe) (Disk 2);amstradcpc
+Final Fight (Europe);c64
+FinalFight_v1.2_1329;amiga1200
+FinalFight_v1.2_1329;amiga
+Final Fight 3 (Unl) (R);dendy
+Mighty Final Fight (R);dendy
+ffightj1;arcade
+ffightj1;fba
+ffightj1;mame-advmame
+ffightj1;mame-libretro
+ffightj1;mame-mame4all
+ffightj2;arcade
+ffightj2;fba
+ffightj2;mame-advmame
+ffightj2;mame-libretro
+ffightj2;mame-mame4all
+ffightj3;arcade
+ffightj3;fba
+ffightj3;mame-advmame
+ffightj3;mame-libretro
+ffightj3;mame-mame4all
+ffightj;arcade
+ffightj;fba
+ffightj;mame-advmame
+ffightj;mame-libretro
+ffightj;mame-mame4all
+ffightua;arcade
+ffightua;fba
+ffightua;mame-advmame
+ffightua;mame-libretro
+ffightua;mame-mame4all
+ffightub;arcade
+ffightub;fba
+ffightub;mame-advmame
+ffightub;mame-libretro
+ffightub;mame-mame4all
+ffightu;arcade
+ffightu;fba
+ffightu;mame-advmame
+ffightu;mame-libretro
+ffightu;mame-mame4all
+ffightu1;arcade
+ffightu1;fba
+ffightu1;mame-advmame
+ffightu1;mame-libretro
+ffightu1;mame-mame4all
+ffight;arcade
+ffight;fba
+ffight;mame-advmame
+ffight;mame-libretro
+ffight;mame-mame4all
+ffighta;arcade
+ffighta;fba
+ffighta;mame-advmame
+ffighta;mame-libretro
+ffighta;mame-mame4all
+ffightbl;arcade
+ffightbl;fba
+ffightbl;mame-advmame
+ffightbl;mame-libretro
+ffightbl;mame-mame4all
+ffight2b;arcade
+ffight2b;fba
+ffight2b;mame-advmame
+ffight2b;mame-libretro
+ffight2b;mame-mame4all
+ffreveng;arcade
+ffreveng;fba
+ffreveng;mame-advmame
+ffreveng;mame-libretro
+ffreveng;mame-mame4all
+ffightjh;arcade
+ffightjh;fba
+ffightjh;mame-advmame
+ffightjh;mame-libretro
+ffightjh;mame-mame4all
+Mighty Final Fight (USA);nes
+Final Fight One (USA);gba
+Final Fight - Last Round;openbor
+Final Fight Apocalypse - 1st Edition;openbor
+Final Fight Apocalypse - 2nd Edition;openbor
+Final Fight DC Alteration;openbor
+Final Fight Gold;openbor
+Final Fight vs The King Of Fighters - Episode 1;openbor
+Hyper Final Fight;openbor
+Hyper Final Fight 2;openbor
+Luta Final Fight;openbor
+Final Fight CD (USA);segacd
+Final Fight CD (Japan);megacd-japan
+Final Fight Revenge (Japan);saturn-japan
+Final Fight (Europe);zxspectrum
+Final Fight - Streetwise (USA);ps2
+Final Fight (MSU-1);snesmsu1
+Final Fight (USA);snes
+Final Fight 2 (USA);snes
+Final Fight 3 (USA);snes
+Final Fight Guy (USA);snes
+Final Fight (Europe) (Disk 1);atarist
+Final Fight (Europe) (Disk 2);atarist

@@ -1,0 +1,346 @@
+Classic NES Series - Donkey Kong (USA, Europe);gba
+Donkey Kong (Atarisoft) (USA);c64
+Donkey Kong (Coleco);gameandwatch
+Donkey Kong (Europe);amstradcpc
+Donkey Kong (Europe);zxspectrum
+Donkey Kong (Japan);fds
+Donkey Kong (Nintendo, Multi Screen);gameandwatch
+Donkey Kong (Ocean) (Europe);c64
+Donkey Kong (R);dendy
+Donkey Kong (USA) (Part 1);vic20
+Donkey Kong (USA) (Part 2);vic20
+Donkey Kong (USA);apple2
+Donkey Kong (USA);atari2600
+Donkey Kong (USA);atari7800
+Donkey Kong (USA);atari800
+Donkey Kong (USA);atarixegs
+Donkey Kong (USA, Europe);colecovision
+Donkey Kong (World) (Rev A);gb
+Donkey Kong (World) (Rev A);sgb
+Donkey Kong (World);intellivision
+Donkey Kong (World);nes
+Donkey Kong (World);gb
+Donkey Kong - Barrel Blast (USA);wii
+Donkey Kong 3 (R);dendy
+Donkey Kong 3 (World);nes
+Donkey Kong 64 (USA);n64
+Donkey Kong Classics (USA, Europe);nes
+Donkey Kong Country (Hack);nesh
+Donkey Kong Country (MSU-1);snesmsu1
+Donkey Kong Country (USA) (Competition Edition);snes
+Donkey Kong Country (USA);gba
+Donkey Kong Country (USA);snes
+Donkey Kong Country (USA, Europe);gbc
+Donkey Kong Country - Kremlins Revenge (Hack);snesh
+Donkey Kong Country - Tropical Freeze (USA);wiiu
+Donkey Kong Country 2 (USA, Australia);gba
+Donkey Kong Country 2 - Diddy's Kong Quest (USA);snes
+Donkey Kong Country 2 - Diddys Kong Quest (MSU-1);snesmsu1
+Donkey Kong Country 3 (USA, Australia);gba
+Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA);snes
+Donkey Kong Country 4 (Unl);dendy
+Donkey Kong Country Returns (USA);wii
+Donkey Kong Country Returns 3D (USA);3ds
+Donkey Kong II (Nintendo, Multi Screen);gameandwatch
+Donkey Kong Jr (R);dendy
+Donkey Kong Jr (USA, Europe);colecovision
+Donkey Kong Jr (World);intellivision
+Donkey Kong Jr. (Coleco);gameandwatch
+Donkey Kong Jr. (Europe);bbcb
+Donkey Kong Jr. (Japan);fds
+Donkey Kong Jr. (Nintendo, Table Top);gameandwatch
+Donkey Kong Jr. (World);nes
+Donkey Kong Jr. Math (USA, Europe);nes
+Donkey Kong Jr;adam
+Donkey Kong Jungle Beat (USA);gc
+Donkey Kong Junior (Europe) (Unl);c64
+Donkey Kong Junior (USA);atari2600
+Donkey Kong Junior (USA);atari7800
+Donkey Kong Junior (USA);atari800
+Donkey Kong Land (USA, Europe);gb
+Donkey Kong Land (USA, Europe);sgb
+Donkey Kong Land 2 (USA, Europe);gb
+Donkey Kong Land 2 (USA, Europe);sgb
+Donkey Kong Land III (USA, Europe) (Rev A);gb
+Donkey Kong Land III (USA, Europe) (Rev A);sgb
+Donkey Kong Land III (USA, Europe);gb
+Donkey Kong;adam
+Donkey Kong;ti99
+Donkey Konga (USA);gc
+Donkey Konga 2 (USA);gc
+Donkey Konga 3 (Japan);gc
+DonkeyKong_v1.0;amiga1200
+DonkeyKong_v1.0;amiga
+Mario vs. Donkey Kong (USA, Australia);gba
+Mario vs. Donkey Kong - Mini-Land Mayhem! (USA) (En,Fr,Es) (Rev 1) (NDSi Enhanced) [b];nds
+Mario vs. Donkey Kong - Minna de Mini-Land (Japan);wiiu
+Mario vs. Donkey Kong 2 - March of the Minis (USA);nds
+Super Donkey Kong - Banana Boat (Hack);nesh
+Super Donkey Kong - Xiang Jiao Chuan (China) (Unl) (Translated En);famicom
+Super Donkey Kong 99 (Hack);genh
+Super donkey kong junior;adam
+ckongdks;arcade
+ckongdks;fba
+ckongdks;mame-advmame
+ckongdks;mame-libretro
+ckongdks;mame-mame4all
+dkingjr;arcade
+dkingjr;fba
+dkingjr;mame-advmame
+dkingjr;mame-libretro
+dkingjr;mame-mame4all
+dkong3;arcade
+dkong3;fba
+dkong3;mame-advmame
+dkong3;mame-libretro
+dkong3;mame-mame4all
+dkong3abl;arcade
+dkong3abl;fba
+dkong3abl;mame-advmame
+dkong3abl;mame-libretro
+dkong3abl;mame-mame4all
+dkong3b;arcade
+dkong3b;fba
+dkong3b;mame-advmame
+dkong3b;mame-libretro
+dkong3b;mame-mame4all
+dkong3j;arcade
+dkong3j;fba
+dkong3j;mame-advmame
+dkong3j;mame-libretro
+dkong3j;mame-mame4all
+dkong;arcade
+dkong;fba
+dkong;mame-advmame
+dkong;mame-libretro
+dkong;mame-mame4all
+dkongf;arcade
+dkongf;fba
+dkongf;mame-advmame
+dkongf;mame-libretro
+dkongf;mame-mame4all
+dkonghrd;arcade
+dkonghrd;fba
+dkonghrd;mame-advmame
+dkonghrd;mame-libretro
+dkonghrd;mame-mame4all
+dkongj;arcade
+dkongj;fba
+dkongj;mame-advmame
+dkongj;mame-libretro
+dkongj;mame-mame4all
+dkongjnrj;arcade
+dkongjnrj;fba
+dkongjnrj;mame-advmame
+dkongjnrj;mame-libretro
+dkongjnrj;mame-mame4all
+dkongjo1;arcade
+dkongjo1;fba
+dkongjo1;mame-advmame
+dkongjo1;mame-libretro
+dkongjo1;mame-mame4all
+dkongjo;arcade
+dkongjo;fba
+dkongjo;mame-advmame
+dkongjo;mame-libretro
+dkongjo;mame-mame4all
+dkongjr;arcade
+dkongjr;fba
+dkongjr;mame-advmame
+dkongjr;mame-libretro
+dkongjr;mame-mame4all
+dkongjrb;arcade
+dkongjrb;fba
+dkongjrb;mame-advmame
+dkongjrb;mame-libretro
+dkongjrb;mame-mame4all
+dkongjre;arcade
+dkongjre;fba
+dkongjre;mame-advmame
+dkongjre;mame-libretro
+dkongjre;mame-mame4all
+dkongjrj;arcade
+dkongjrj;fba
+dkongjrj;mame-advmame
+dkongjrj;mame-libretro
+dkongjrj;mame-mame4all
+dkongjrm;arcade
+dkongjrm;fba
+dkongjrm;mame-advmame
+dkongjrm;mame-libretro
+dkongjrm;mame-mame4all
+dkongjrpb;arcade
+dkongjrpb;fba
+dkongjrpb;mame-advmame
+dkongjrpb;mame-libretro
+dkongjrpb;mame-mame4all
+dkongo;arcade
+dkongo;fba
+dkongo;mame-advmame
+dkongo;mame-libretro
+dkongo;mame-mame4all
+dkongx11;arcade
+dkongx11;fba
+dkongx11;mame-advmame
+dkongx11;mame-libretro
+dkongx11;mame-mame4all
+dkongx;arcade
+dkongx;fba
+dkongx;mame-advmame
+dkongx;mame-libretro
+dkongx;mame-mame4all
+jrking;arcade
+jrking;fba
+jrking;mame-advmame
+jrking;mame-libretro
+jrking;mame-mame4all
+kong;arcade
+kong;fba
+kong;mame-advmame
+kong;mame-libretro
+kong;mame-mame4all
+m1dkong11;arcade
+m1dkong11;fba
+m1dkong11;mame-advmame
+m1dkong11;mame-libretro
+m1dkong11;mame-mame4all
+m1dkong11p;arcade
+m1dkong11p;fba
+m1dkong11p;mame-advmame
+m1dkong11p;mame-libretro
+m1dkong11p;mame-mame4all
+m1dkong21;arcade
+m1dkong21;fba
+m1dkong21;mame-advmame
+m1dkong21;mame-libretro
+m1dkong21;mame-mame4all
+m1dkong21n;arcade
+m1dkong21n;fba
+m1dkong21n;mame-advmame
+m1dkong21n;mame-libretro
+m1dkong21n;mame-mame4all
+m1dkong21p;arcade
+m1dkong21p;fba
+m1dkong21p;mame-advmame
+m1dkong21p;mame-libretro
+m1dkong21p;mame-mame4all
+m1dkong31;arcade
+m1dkong31;fba
+m1dkong31;mame-advmame
+m1dkong31;mame-libretro
+m1dkong31;mame-mame4all
+m1dkong31p;arcade
+m1dkong31p;fba
+m1dkong31p;mame-advmame
+m1dkong31p;mame-libretro
+m1dkong31p;mame-mame4all
+m1dkong41;arcade
+m1dkong41;fba
+m1dkong41;mame-advmame
+m1dkong41;mame-libretro
+m1dkong41;mame-mame4all
+m1dkong41p;arcade
+m1dkong41p;fba
+m1dkong41p;mame-advmame
+m1dkong41p;mame-libretro
+m1dkong41p;mame-mame4all
+m1dkong51;arcade
+m1dkong51;fba
+m1dkong51;mame-advmame
+m1dkong51;mame-libretro
+m1dkong51;mame-mame4all
+m1dkong51p;arcade
+m1dkong51p;fba
+m1dkong51p;mame-advmame
+m1dkong51p;mame-libretro
+m1dkong51p;mame-mame4all
+m1dkong81;arcade
+m1dkong81;fba
+m1dkong81;mame-advmame
+m1dkong81;mame-libretro
+m1dkong81;mame-mame4all
+m1dkong81n;arcade
+m1dkong81n;fba
+m1dkong81n;mame-advmame
+m1dkong81n;mame-libretro
+m1dkong81n;mame-mame4all
+m1dkong81na;arcade
+m1dkong81na;fba
+m1dkong81na;mame-advmame
+m1dkong81na;mame-libretro
+m1dkong81na;mame-mame4all
+m1dkong81np;arcade
+m1dkong81np;fba
+m1dkong81np;mame-advmame
+m1dkong81np;mame-libretro
+m1dkong81np;mame-mame4all
+m1dkong81p;arcade
+m1dkong81p;fba
+m1dkong81p;mame-advmame
+m1dkong81p;mame-libretro
+m1dkong81p;mame-mame4all
+m1dkong91;arcade
+m1dkong91;fba
+m1dkong91;mame-advmame
+m1dkong91;mame-libretro
+m1dkong91;mame-mame4all
+m1dkong91a;arcade
+m1dkong91a;fba
+m1dkong91a;mame-advmame
+m1dkong91a;mame-libretro
+m1dkong91a;mame-mame4all
+m1dkong91h1;arcade
+m1dkong91h1;fba
+m1dkong91h1;mame-advmame
+m1dkong91h1;mame-libretro
+m1dkong91h1;mame-mame4all
+m1dkong91h2;arcade
+m1dkong91h2;fba
+m1dkong91h2;mame-advmame
+m1dkong91h2;mame-libretro
+m1dkong91h2;mame-mame4all
+m1dkong91n;arcade
+m1dkong91n;fba
+m1dkong91n;mame-advmame
+m1dkong91n;mame-libretro
+m1dkong91n;mame-mame4all
+m1dkong91na;arcade
+m1dkong91na;fba
+m1dkong91na;mame-advmame
+m1dkong91na;mame-libretro
+m1dkong91na;mame-mame4all
+m1dkong91np;arcade
+m1dkong91np;fba
+m1dkong91np;mame-advmame
+m1dkong91np;mame-libretro
+m1dkong91np;mame-mame4all
+m1dkong91p;arcade
+m1dkong91p;fba
+m1dkong91p;mame-advmame
+m1dkong91p;mame-libretro
+m1dkong91p;mame-mame4all
+m1dkong;arcade
+m1dkong;fba
+m1dkong;mame-advmame
+m1dkong;mame-libretro
+m1dkong;mame-mame4all
+m1dkonga;arcade
+m1dkonga;fba
+m1dkonga;mame-advmame
+m1dkonga;mame-libretro
+m1dkonga;mame-mame4all
+m1dkongp;arcade
+m1dkongp;fba
+m1dkongp;mame-advmame
+m1dkongp;mame-libretro
+m1dkongp;mame-mame4all
+pss63;arcade
+pss63;fba
+pss63;mame-advmame
+pss63;mame-libretro
+pss63;mame-mame4all
+pss64;arcade
+pss64;fba
+pss64;mame-advmame
+pss64;mame-libretro
+pss64;mame-mame4all

@@ -1,0 +1,30 @@
+Pocket no Naka no Doraemon (Japan);wonderswancolor
+Doraemon - Giga Zombie no Gyakushuu (R);dendy
+Ji Qi Mao Xiao Ding Dang (Doraemon) (Ch);dendy
+Doraemon (Japan);arcadia
+doraemon;arcade
+doraemon;fba
+doraemon;mame-advmame
+doraemon;mame-libretro
+doraemon;mame-mame4all
+Doraemon - Nobita no Dorabian Night (Japan);pce-cd
+Doraemon - Meikyuu Dai Sakusen (Japan);pcengine
+Doraemon - Nobita no Dorabian Night (Japan);pcengine
+Doraemon 2 - Nobita to Hikari no Shinden (Japan);n64-japan
+Doraemon 3 - Nobita no Machi SOS! (Japan);n64-japan
+Doraemon - Nobita to 3tsu no Seireiseki (Japan);n64-japan
+Doraemon (Japan) (Translated En);famicom
+Doraemon - Giga Zombie no Gyakushuu (Japan) (Translated En);famicom
+Doraemon 2 - Animal Planet Densetsu (Japan);gb
+Doraemon Kart (Japan) (Translated En);gb
+Doraemon Taiketsu HimitsuDougu!! (Japan);gb
+Doraemon - Minna de Asobou! Miniland (Japan);gc
+Doraemon - Nobita to Yousei no Kuni (Japan);sfc
+Doraemon 2 - Nobita no Toys Land Daibouken (Japan);sfc
+Doraemon 3 - Nobita to Toki no Hougyoku (Japan);sfc
+Doraemon 4 - Nobita to Tsuki no Oukoku (Japan) (Translated En);sfc
+Doraemon - Noranosuke no Yabou (Japan);gamegear
+Doraemon - Waku Waku Pocket Paradise (Japan);gamegear
+Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan);genesis
+Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan);megadrive-japan
+Doraemon - Nobita to Fukkatsu no Hoshi (Japan);saturn-japan

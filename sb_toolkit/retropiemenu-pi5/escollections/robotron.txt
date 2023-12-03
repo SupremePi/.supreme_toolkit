@@ -1,0 +1,28 @@
+Robotron (Europe);bbcb
+Robotron (Europe);zxspectrum
+Robotron (Intracolor);dragon32
+Robotron - 2084 (USA);atari7800
+Robotron -2084;ti99
+Robotron 2084 (1982-84)(Atari Inc-Williams Electronics);electron
+Robotron 2084 (Europe);bbcb
+Robotron 2084 (Europe);zxspectrum
+Robotron 2084 (USA) (Part 1);vic20
+Robotron 2084 (USA) (Part 2);vic20
+Robotron 2084 (USA);apple2
+Robotron 2084 (USA);atari5200
+Robotron 2084 (USA);atari800
+Robotron 2084 (USA);atarist
+Robotron 2084 (USA);c64
+Robotron 2084 (USA, Europe);atarilynx
+Robotron 64 (USA);n64
+Robotron X (USA);psx
+robotron;arcade
+robotron;fba
+robotron;mame-advmame
+robotron;mame-libretro
+robotron;mame-mame4all
+robotronyo;arcade
+robotronyo;fba
+robotronyo;mame-advmame
+robotronyo;mame-libretro
+robotronyo;mame-mame4all

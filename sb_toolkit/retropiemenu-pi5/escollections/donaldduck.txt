@@ -1,0 +1,18 @@
+Donald Duck's Playground (USA) (Side A);apple2
+Donald Duck's Playground (USA) (Side B);apple2
+Donald Duck's Speedboat (USA) (Proto);atari2600
+Donald Duck's Playground (USA);c64
+Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It);n64
+Donald Duck Advance (USA);gba
+Donald Duck - Goin' Quackers (USA);gbc
+Disney's Donald Duck - Goin' Quackers (USA);gc
+Donald Duck no Mahou no Boushi (Japan);sfc
+Donald Duck, Disney's - Goin Quackers (USA);dreamcast
+Deep Duck Trouble Starring Donald Duck (USA, Europe);gamegear
+QuackShot Starring Donald Duck (World);genesis
+World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea);genesis
+Deep Duck Trouble Starring Donald Duck (Europe);mastersystem
+Lucky Dime Caper Starring Donald Duck, The (Europe);mastersystem
+Disney's Donald Duck - Goin' Quackers (USA);ps2
+Disney's Donald Duck - Goin' Quackers (USA);psx
+Donald Duck's Playground (USA);atarist

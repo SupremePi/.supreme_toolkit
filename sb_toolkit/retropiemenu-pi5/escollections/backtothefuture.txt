@@ -1,0 +1,48 @@
+Back to the Future (Europe);amstradcpc
+Back to the Future (Europe);c64
+Back to the Future (Europe);zxspectrum
+Back to the Future (Hack);nesh
+Back to the Future (Japan) (Alt 1);msx
+Back to the Future (Japan);msx
+Back to the Future (Japan);mz2500
+Back to the Future (R);dendy
+Back to the Future (USA);nes
+Back to the Future II (Europe) (Disk 1 Side A);c64
+Back to the Future II (Europe) (Disk 1 Side B);c64
+Back to the Future II (Europe) (Disk 1);amstradcpc
+Back to the Future II (Europe) (Disk 2);amstradcpc
+Back to the Future II (Europe) (Disk 3);amstradcpc
+Back to the Future II (Europe);atarist
+Back to the Future II (Europe);zxspectrum
+Back to the Future III (Europe) (Disk 1);amstradcpc
+Back to the Future III (Europe) (Disk 2);amstradcpc
+Back to the Future III (Europe);atarist
+Back to the Future III (Europe);zxspectrum
+Back to the Future Part II & III (USA);nes
+Back to the Future Part II (Europe);mastersystem
+Back to the Future Part III (Europe);c64
+Back to the Future Part III (Europe);mastersystem
+Back to the Future Part III (USA);megadrive
+BackToTheFuturePart3_v1.1_0265;amiga1200
+BackToTheFuturePart3_v1.1_0265;amiga
+Super Back to the Future Part II (Japan) (Translated En);sfc
+bttf_a20;arcade
+bttf_a20;fba
+bttf_a20;mame-advmame
+bttf_a20;mame-libretro
+bttf_a20;mame-mame4all
+bttf_a21;arcade
+bttf_a21;fba
+bttf_a21;mame-advmame
+bttf_a21;mame-libretro
+bttf_a21;mame-mame4all
+bttf_a27;arcade
+bttf_a27;fba
+bttf_a27;mame-advmame
+bttf_a27;mame-libretro
+bttf_a27;mame-mame4all
+bttf_g27;arcade
+bttf_g27;fba
+bttf_g27;mame-advmame
+bttf_g27;mame-libretro
+bttf_g27;mame-mame4all

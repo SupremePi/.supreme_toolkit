@@ -1,0 +1,59 @@
+Asteroid Challenger (Craig);x1
+Asteroid Challenger;x1
+Bakushou Yoshimoto Shinkigeki (Japan);pce-cd
+Compilation Yoshikazu Ishizu pack (Game Pack Vol. 1);x1
+Compilation Yoshikazu Ishizu pack (Game Pack Vol. 2);x1
+Fire Pro Jyoshi - Shoumu Choujyo Taisen - Zenjo vs JWP (Japan);pce-cd
+Integral Arm (Yoshitaka Higashi);x68000
+Ishida Yoshio Tsumego Paradise (Japan);gb
+Minna no Taabou no Nakayoshi Daisakusen (Japan) (Translated En);famicom
+Nakayoshi to Issho (Japan) (Translated En);famicom
+Panic in Nakayoshi World (Japan) (Translated En);sfc
+Poochy & Yoshi's Woolly World (USA);3ds
+Sadakichi 7 Series - Hideyoshi no Ougon (Japan);pcengine
+Super Mario Advance 3 - Yoshi's Island (USA);gba
+Super Mario Bros. - Yoshi's Quest (Hack);nesh
+Super Mario World 2 - Yoshi's Island (USA);snes
+Tsuyoshi Shikkari Shinasai - Taisen Puzzle Dama (Japan);sfc
+Wonder Classic (Japan);wonderswancolor
+Yoshi (USA);nes
+Yoshi (USA);gb
+Yoshi (USA);sgb
+Yoshi - Topsy-Turvy (USA);gba
+Yoshi Touch & Go (USA);nds
+Yoshi no Cookie - Kuruppon Oven de Cookie (Japan);sfc
+Yoshi's Cookie (R);dendy
+Yoshi's Cookie (USA);nes
+Yoshi's Cookie (USA);snes
+Yoshi's Cookie (USA, Europe);gb
+Yoshi's Cookie (USA, Europe);sgb
+Yoshi's Island DS (USA) (Rev 1);nds
+Yoshi's Island DS (USA);nds
+Yoshi's New Island (USA);3ds
+Yoshi's Safari (USA);snes
+Yoshi's Story (USA) (En,Ja);n64
+Yoshi's Woolly World (USA);wiiu
+Yoshida Kensetsu (Japan);msx2plus
+Yoshie's Cookie X1 (Craig);x1
+Yoshie's Cookie X1;x1
+neruton;arcade
+neruton;fba
+neruton;mame-advmame
+neruton;mame-libretro
+neruton;mame-mame4all
+nerutona;arcade
+nerutona;fba
+nerutona;mame-advmame
+nerutona;mame-libretro
+nerutona;mame-mame4all
+yoshi no panepon;satellaview
+yosimotm;arcade
+yosimotm;fba
+yosimotm;mame-advmame
+yosimotm;mame-libretro
+yosimotm;mame-mame4all
+yosimoto;arcade
+yosimoto;fba
+yosimoto;mame-advmame
+yosimoto;mame-libretro
+yosimoto;mame-mame4all

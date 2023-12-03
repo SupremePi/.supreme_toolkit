@@ -1,0 +1,232 @@
+3D Star Wars (Europe);zxspectrum
+Angry Birds - Star Wars (Hack);genh
+Angry Birds - Star Wars (USA);wii
+Angry Birds Star Wars (USA);3ds
+Angry Birds Star Wars (USA);wiiu
+Eamon 197 - Star Wars - Tempest One (USA) (Unl);apple2
+EmpireStrikesBack_v1.2_1235;amiga1200
+EmpireStrikesBack_v1.2_1235;amiga
+LEGO Star Wars - The Complete Saga (USA);nds
+LEGO Star Wars - The Force Awakens (USA);3ds
+LEGO Star Wars - The Force Awakens (USA);wiiu
+LEGO Star Wars - The Video Game (USA);gc
+LEGO Star Wars - The Video Game (USA, Europe) (En,Fr,De,Es,It,Nl,Da);gba
+LEGO Star Wars II - The Original Trilogy (USA);gba
+LEGO Star Wars II - The Original Trilogy (USA);gc
+LEGO Star Wars II - The Original Trilogy (USA);psp
+LEGO Star Wars II - The Original Trilogy (USA);ps2
+LEGO Star Wars II - The Original Trilogy (USA);nds
+LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es);nds
+LEGO Star Wars III - The Clone Wars (USA);3ds
+LEGO Star Wars III - The Clone Wars (USA);psp
+ReturnOfTheJedi_v1.1_2153;amiga1200
+ReturnOfTheJedi_v1.1_2153;amiga
+Star Wars (1983-87)(Lucasfilm Ltd.-Atari Games);electron
+Star Wars (Europe);bbcb
+Star Wars (Europe);amstradcpc
+Star Wars (Europe);atari800
+Star Wars (Europe);atarist
+Star Wars (Europe);mastersystem
+Star Wars (Europe);zxspectrum
+Star Wars (Hack);nesh
+Star Wars (Japan) (Namco) (Translated En);famicom
+Star Wars (Lucasfilm) (USA);apple2
+Star Wars (Namco) (R);dendy
+Star Wars (USA);colecovision
+Star Wars (USA);c64
+Star Wars (USA);vic20
+Star Wars (USA);nes
+Star Wars (USA);gamegear
+Star Wars (USA, Europe) (Rev A);gb
+Star Wars (USA, Europe);gb
+Star Wars - Battlefront (USA);ps2
+Star Wars - Battlefront - Elite Squadron (USA) (En,Fr) [b];nds
+Star Wars - Battlefront II (USA);psp
+Star Wars - Battlefront II (USA);ps2
+Star Wars - Bounty Hunter (USA);gc
+Star Wars - Bounty Hunter (USA);ps2
+Star Wars - Dark Forces (USA);psx
+Star Wars - Demolition (USA);dreamcast
+Star Wars - Demolition (USA);psx
+Star Wars - Episode I - Jedi Power Battles (USA);dreamcast
+Star Wars - Episode I - Jedi Power Battles (USA);psx
+Star Wars - Episode I - Racer (USA);dreamcast
+Star Wars - Episode I - The Phantom Menace (USA);psx
+Star Wars - Episode II - Attack of the Clones (USA);gba
+Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,De,Es,It,Nl);nds
+Star Wars - Episode III - Revenge of the Sith (USA) (En,Fr,Es);gba
+Star Wars - Flight of the Falcon (USA);gba
+Star Wars - Jedi Arena (USA);atari2600
+Star Wars - Jedi Knight II - Jedi Outcast (USA);gc
+Star Wars - Jedi Power Battles (USA);gba
+Star Wars - Lethal Alliance (USA) (En,Fr,De,Es,It);nds
+Star Wars - Lethal Alliance (USA);psp
+Star Wars - Masters of Teras Kasi (USA);psx
+Star Wars - Rebel Assault (Japan);megacd-japan
+Star Wars - Rebel Assault (USA, Europe);3do
+Star Wars - Rebel Assault II - The Hidden Empire (USA);psx
+Star Wars - Return of the Jedi (Europe);bbcb
+Star Wars - Return of the Jedi (Europe);atarist
+Star Wars - Return of the Jedi - Death Star Battle (USA);atari2600
+Star Wars - Return of the Jedi - Death Star Battle (USA);atari5200
+Star Wars - Return of the Jedi - Death Star Battle (USA);atari800
+Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto);atari2600
+Star Wars - Rogue Squadron (USA) (Rev A);n64
+Star Wars - Rogue Squadron II - Rogue Leader (USA);gc
+Star Wars - Rogue Squadron III - Rebel Strike (USA);gc
+Star Wars - Shadows of the Empire (USA) (Rev B);n64
+Star Wars - Starfighter (USA);ps2
+Star Wars - The Arcade Game (USA);atari2600
+Star Wars - The Arcade Game (USA);atari5200
+Star Wars - The Arcade Game (USA);atari800
+Star Wars - The Arcade Game (USA);c64
+Star Wars - The Clone Wars (USA);gc
+Star Wars - The Clone Wars - Jedi Alliance (USA) (En,Fr,De,Es) [b];nds
+Star Wars - The Clone Wars - Republic Heroes (USA) (En,Fr,De,Es,It);nds
+Star Wars - The Clone Wars - Republic Heroes (USA);psp
+Star Wars - The Empire Strikes Back (Europe);bbcb
+Star Wars - The Empire Strikes Back (Europe);atarist
+Star Wars - The Empire Strikes Back (Germany);atari800
+Star Wars - The Empire Strikes Back (USA);atari2600
+Star Wars - The Empire Strikes Back (USA);nes
+Star Wars - The Empire Strikes Back (USA);gb
+Star Wars - The Empire Strikes Back (World);intellivision
+Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It);nds
+Star Wars - The Force Unleashed (USA);psp
+Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It);nds
+Star Wars - The New Droid Army (USA);gba
+Star Wars Arcade (USA);sega32x
+Star Wars Battlefront - Elite Squadron (USA);psp
+Star Wars Battlefront - Renegade Squadron (USA);psp
+Star Wars Chess (USA);segacd
+Star Wars Droids (Europe);amstradcpc
+Star Wars Droids (Europe);zxspectrum
+Star Wars Episode I - Battle for Naboo (USA);n64
+Star Wars Episode I - Obi-Wan's Adventures (USA);gbc
+Star Wars Episode I - Racer (USA);n64
+Star Wars Episode I - Racer (USA, Europe);gbc
+Star Wars Episode III - Revenge of the Sith (USA);ps2
+Star Wars II (Europe);vic20
+Star Wars II - Empire Strikes Back (Europe);amstradcpc
+Star Wars II - The Empire Strikes Back (Europe);zxspectrum
+Star Wars III - Return of the Jedi (Europe);amstradcpc
+Star Wars III - Return of the Jedi (Europe);zxspectrum
+Star Wars Part II (USA) (Unl);apple2
+Star Wars Rebel Assault (USA);segacd
+Star Wars Trilogy - Apprentice of the Force (USA) (En,Fr,Es);gba
+Star Wars;sorcerer
+Star Wars;ti99
+StarWars_v4.0_0403;amiga1200
+StarWars_v4.0_0403;amiga
+Super Star Wars (USA);snes
+Super Star Wars - Return of the Jedi (USA);snes
+Super Star Wars - Return of the Jedi (USA, Europe);gb
+Super Star Wars - The Empire Strikes Back (USA);snes
+podrace;arcade
+podrace;fba
+podrace;mame-advmame
+podrace;mame-libretro
+podrace;mame-mame4all
+sonstwar;arcade
+sonstwar;fba
+sonstwar;mame-advmame
+sonstwar;mame-libretro
+sonstwar;mame-mame4all
+sonstwr2;arcade
+sonstwr2;fba
+sonstwr2;mame-advmame
+sonstwr2;mame-libretro
+sonstwr2;mame-mame4all
+starw1;arcade
+starw1;fba
+starw1;mame-advmame
+starw1;mame-libretro
+starw1;mame-mame4all
+starw;arcade
+starw;fba
+starw;mame-advmame
+starw;mame-libretro
+starw;mame-mame4all
+starwars1;arcade
+starwars1;fba
+starwars1;mame-advmame
+starwars1;mame-libretro
+starwars1;mame-mame4all
+starwars;arcade
+starwars;fba
+starwars;mame-advmame
+starwars;mame-libretro
+starwars;mame-mame4all
+starwarso;arcade
+starwarso;fba
+starwarso;mame-advmame
+starwarso;mame-libretro
+starwarso;mame-mame4all
+starwz;pc
+stwr_102;arcade
+stwr_102;fba
+stwr_102;mame-advmame
+stwr_102;mame-libretro
+stwr_102;mame-mame4all
+stwr_103;arcade
+stwr_103;fba
+stwr_103;mame-advmame
+stwr_103;mame-libretro
+stwr_103;mame-mame4all
+stwr_104;arcade
+stwr_104;fba
+stwr_104;mame-advmame
+stwr_104;mame-libretro
+stwr_104;mame-mame4all
+stwr_a14;arcade
+stwr_a14;fba
+stwr_a14;mame-advmame
+stwr_a14;mame-libretro
+stwr_a14;mame-mame4all
+stwr_e12;arcade
+stwr_e12;fba
+stwr_e12;mame-advmame
+stwr_e12;mame-libretro
+stwr_e12;mame-mame4all
+stwr_g11;arcade
+stwr_g11;fba
+stwr_g11;mame-advmame
+stwr_g11;mame-libretro
+stwr_g11;mame-mame4all
+swa;arcade
+swa;fba
+swa;mame-advmame
+swa;mame-libretro
+swa;mame-mame4all
+swe1pb;arcade
+swe1pb;fba
+swe1pb;mame-advmame
+swe1pb;mame-libretro
+swe1pb;mame-mame4all
+swtril41;arcade
+swtril41;fba
+swtril41;mame-advmame
+swtril41;mame-libretro
+swtril41;mame-mame4all
+swtril43;arcade
+swtril43;fba
+swtril43;mame-advmame
+swtril43;mame-libretro
+swtril43;mame-mame4all
+swtrilgy;arcade
+swtrilgy;fba
+swtrilgy;mame-advmame
+swtrilgy;mame-libretro
+swtrilgy;mame-mame4all
+swtrilgya;arcade
+swtrilgya;fba
+swtrilgya;mame-advmame
+swtrilgya;mame-libretro
+swtrilgya;mame-mame4all
+tiefight;pc
+tomcatsw;arcade
+tomcatsw;fba
+tomcatsw;mame-advmame
+tomcatsw;mame-libretro
+tomcatsw;mame-mame4all
+xwing;pc

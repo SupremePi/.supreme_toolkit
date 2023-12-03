@@ -1,0 +1,480 @@
+10... Knockout! (USA);c64
+3D Boxing (Europe);amstradcpc
+4DSportsBoxing_v1.1_0421;amiga1200
+4DSportsBoxing_v1.1_0421;amiga
+4dboxing;pc
+AVGN K.O. Boxing (USA) (Unl);atari2600
+Animal Boxing (USA);nds
+Ashita no Joe (Japan) (Translated En);sfc
+Bangkok Knights (Europe);atarist
+Bangkok Knights (Europe);c64
+Barry Mc Guigan's Boxing (Europe);amstradcpc
+Barry McGuigan World Championship Boxing (Europe);zxspectrum
+Best of the Best - Championship Panza Gold Edition Karate (Europe);amstradcpc
+Big Baston (France);oric
+Big KO, The (Europe);bbcb
+Big KO, The (Europe);c64
+Black & Bruised (USA);gc
+Boxer's Road 2 - The Real (Japan);psp
+Boxer, The (Europe);amstradcpc
+Boxer, The (Europe);c64
+Boxer, The (Europe);zxspectrum
+Boxing (Europe);arcadia
+Boxing (Europe);zxspectrum
+Boxing (USA);apfm1000
+Boxing (USA);atari2600
+Boxing (USA);psx
+Boxing (World);intellivision
+Boxing Champion (Italy);c64
+Boxing Coach (Europe);zxspectrum
+Boxing Fever (USA, Europe);gba
+Boxing Legends of the Ring (USA);megadrive
+Boxing Legends of the Ring (USA);snes
+Boxing Manager (Europe);amstradcpc
+Boxing Manager (Europe);c64
+Boxing Manager II (Europe);zxspectrum
+Boxing Match (Europe);vc4000
+By Fair Means or Foul (Europe);amstradcpc
+By Fair Means... or Foul (Europe);bbcb
+Center Ring Boxing (USA);saturn
+Champ, The (Europe);zxspectrum
+Champ, The (Switzerland);c64
+Champion Boxing (Japan);msx
+Champion Boxing (Japan);sg-1000
+Champions Forever Boxing (USA);tg16
+Championship Boxing (Side A) (Europe);zxspectrum
+Championship Boxing (Side B) (Europe);zxspectrum
+Championship Boxing (USA);apple2
+Championship Boxing (USA);c64
+Chavez II (USA);megadrive
+Current Contenders Cassette - As At 28-02-90 (Europe);zxspectrum
+Devastating Blow (Europe);c64
+Devastating Blow - 1 Player (Europe);zxspectrum
+Devastating Blow - 2 Players (Europe);zxspectrum
+Don King Boxing (USA) (En,Fr,De,Es,It);nds
+Evander Holyfield Boxing (USA, Europe);gamegear
+Evander Holyfield's 'Real Deal' Boxing (World);megadrive
+Exciting Boxing (Japan);famicom
+Family Boxing - MSX Title Match (Japan);msx2
+Feature Bout Boxing (USA) (Unl);c64
+Fight Night (Europe);c64
+Fight Night (USA);apple2
+Fight Night (USA);atari7800
+Fight Night Round 3 (USA);psp
+Final Blow (Europe);atarist
+Final Blow (USA);c64
+Flintstones, The (USA);megadrive
+Foes of Ali (USA);3do
+Foreman For Real (USA);snes
+Foreman for Real (USA, Europe);gb
+Foreman for Real (World);gamegear
+Frank Bruno's Boxing (Europe);amstradcpc
+Frank Bruno's Boxing (Europe);c64
+Frank Bruno's Boxing (Europe);zxspectrum
+George Foreman's KO Boxing (Europe);mastersystem
+George Foreman's KO Boxing (USA);nes
+George Foreman's KO Boxing (USA);megadrive
+George Foreman's KO Boxing (USA);snes
+George Foreman's KO Boxing (USA, Europe);gb
+George Foreman's KO Boxing (USA, Europe);gamegear
+Greatest Heavyweights (USA);megadrive
+HBO Boxing (USA);psx
+Hajime no Ippo Portable - Victorious Spirits (Japan);psp
+Heavy Boxing (Japan) (Alt 1);msx
+Heavy Boxing (Japan);msx
+Heavy Boxing;m5
+Heavyweight Championship Boxing (USA);gb
+It's a Mug's Game (Europe) (Unl);atarist
+James 'Buster' Douglas Knockout Boxing (USA);mastersystem
+James 'Buster' Douglas Knockout Boxing (USA, Europe);megadrive
+James Bond 007 - The Duel (USA);megadrive
+K.O. Cruiser (USA) (Unl);atari2600
+Kick Boxing, The (Japan);pce-cd
+Kick Boxing, The (Japan);megadrive-japan
+Kickboxing (Europe);zxspectrum
+Kickboxing (USA);psx
+Knockout (Europe);c64
+Knockout Kings 2000 (USA);n64
+Knockout Kings 2003 (USA);gc
+Konami's Boxing (Japan) (Alt 1);msx
+Konami's Boxing (Japan) (Alt 2);msx
+Konami's Boxing (Japan);msx
+Mike Tyson Boxing (USA) (En,Fr,De,Es,It);gba
+Mike Tyson Boxing (USA);psx
+Mike Tyson Heavyweight Boxing (USA);ps2
+Mike Tyson's Intergalactic Power Punch (USA) (Proto);nes
+Mike Tyson's Punch-Out!! (Japan, USA);nes
+Muhammad Ali Heavyweight Boxing (Hack);snesh
+Muhammad Ali Heavyweight Boxing (USA);megadrive
+Muhammad Ali's Boxing (USA, Europe);gb
+Neutral Corner (USA);c64
+On the Ropes II (Side A) (Europe);zxspectrum
+On the Ropes II (Side B) (Europe);zxspectrum
+Onizuka Katsuya Super Virtual Boxing - Shin Kentou Ou Densetsu (Japan);sfc
+Out for the Count (Europe);zxspectrum
+Panza Kick Boxing (CPC+) (Europe);amstradcpc
+Panza Kick Boxing (Europe) (Disk 1);atarist
+Panza Kick Boxing (Europe) (Disk 2);atarist
+Panza Kick Boxing (Europe);amstradcpc
+Panza Kick Boxing (Europe);gx4000
+Panza Kick Boxing (USA);tg16
+PanzaKickBoxing_v1.6_2400;amiga1200
+PanzaKickBoxing_v1.6_2400;amiga
+Poli Diaz (Spain);zxspectrum
+Poli Diaz Boxeo (Spain);amstradcpc
+Power Punch II (USA);nes
+Prince Naseem Boxing (Europe);gbc
+Prince Naseem Boxing (Europe);psx
+Prize Fighter (USA) (Disc 1);segacd
+Prize Fighter (USA) (Disc 2);segacd
+Pro Boxing (USA);c64
+Pro Boxing Simulator (Europe);bbcb
+Pro Boxing Simulator (Europe);amstradcpc
+Pro Boxing Simulator (Europe);atarist
+Pro Boxing Simulator (Europe);c64
+ProBoxingSimulator_v1.1_1663;amiga1200
+ProBoxingSimulator_v1.1_1663;amiga
+Punch King - Arcade Boxing (USA);gba
+Punch-Out!! (USA);nes
+Ready 2 Rumble Boxing (USA);n64
+Ready 2 Rumble Boxing (USA);gbc
+Ready 2 Rumble Boxing (USA);dreamcast
+Ready 2 Rumble Boxing (USA);psx
+Ready 2 Rumble Boxing - Round 2 (USA);n64
+Ready 2 Rumble Boxing - Round 2 (USA);gba
+Ready 2 Rumble Boxing - Round 2 (USA);psx
+RealSports Boxing (USA);atari2600
+Riddick Bowe Boxing (USA);gb
+Riddick Bowe Boxing (USA);gamegear
+Riddick Bowe Boxing (USA);snes
+Ring King (USA);nes
+Ring ni Kakero (Japan);sfc
+Ringside (Europe);atarist
+Ringside (USA);c64
+Ringside Boxing (USA) (Unl) (Side A);c64
+Ringside Boxing (USA) (Unl) (Side B);c64
+Ringside Seat (USA);apple2
+Ringside Seat (USA);c64
+Rocco (Europe);amstradcpc
+Rocky (Europe);c64
+Rocky (Europe);zxspectrum
+Rocky (USA) (En,Fr,De,Es,It);gba
+Rocky (USA);gc
+Rocky (World);markiii
+Rocky (World);mastersystem
+Rocky Balboa (USA);psp
+Rocky Super-Action Boxing (USA, Europe);colecovision
+Seconds Out (Europe);atarist
+Showtime Championship Boxing (USA);nds
+Sierra Championship Boxing (USA);apple2
+Slugger (Europe);c64
+Star Rank Boxing (USA);c64
+Star Rank Boxing II (USA);apple2
+Star Rank Boxing II (USA);c64
+Street Cred Boxing (Europe);amstradcpc
+Street Cred Boxing (Europe);c64
+Street Cred Boxing (Europe);zxspectrum
+Super Punch-Out!! (USA);snes
+TKO (USA);c64
+TKO Professional Boxing (USA) (Disk 1 Side A);c64
+TKO Professional Boxing (USA) (Disk 1 Side B);c64
+TKO Professional Boxing (USA) (Disk 2);c64
+TKO Super Championship Boxing (USA);snes
+Teleroboxer (Japan, USA);virtualboy
+Thai Boxing (1986)(Anco Software);electron
+Thai Boxing (Europe) (Side A);c64
+Thai Boxing (Europe) (Side B);c64
+Thai Boxing (Europe);amstradcpc
+Thai Boxing (Europe);atarist
+Thai Boxing;c128
+Titlebout (USA);c64
+Toughman Contest (USA, Europe);sega32x
+Victory Boxing Champion Edition (Europe);psx
+Wade Hixton's Counter Punch (USA, Europe);gba
+World Boxing (D.B.Software);dragon32
+World Boxing Champ (Europe) (Unl);c64
+World Champ - Super Boxing Great Fight (USA);nes
+World Championship Boxing Manager (Europe);amstradcpc
+World Championship Boxing Manager (Europe);atarist
+World Championship Boxing Manager (Europe);c64
+World Championship Boxing Manager (Europe);zxspectrum
+World Heavyweight Boxing (Europe);zxspectrum
+WorldChampionshipBoxingManager_v1.0;amiga1200
+WorldChampionshipBoxingManager_v1.0;amiga
+ashnojoe;arcade
+ashnojoe;fba
+ashnojoe;mame-advmame
+ashnojoe;mame-libretro
+ashnojoe;mame-mame4all
+bbbxing;arcade
+bbbxing;fba
+bbbxing;mame-advmame
+bbbxing;mame-libretro
+bbbxing;mame-mame4all
+boxer;arcade
+boxer;fba
+boxer;mame-advmame
+boxer;mame-libretro
+boxer;mame-mame4all
+boxingb;arcade
+boxingb;fba
+boxingb;mame-advmame
+boxingb;mame-libretro
+boxingb;mame-mame4all
+boxingb;aae
+boxingm;arcade
+boxingm;fba
+boxingm;mame-advmame
+boxingm;mame-libretro
+boxingm;mame-mame4all
+chboxing;arcade
+chboxing;fba
+chboxing;mame-advmame
+chboxing;mame-libretro
+chboxing;mame-mame4all
+fghtmn;arcade
+fghtmn;fba
+fghtmn;mame-advmame
+fghtmn;mame-libretro
+fghtmn;mame-mame4all
+fghtmna;arcade
+fghtmna;fba
+fghtmna;mame-advmame
+fghtmna;mame-libretro
+fghtmna;mame-mame4all
+fghtmnk;arcade
+fghtmnk;fba
+fghtmnk;mame-advmame
+fghtmnk;mame-libretro
+fghtmnk;mame-mame4all
+fghtmnu;arcade
+fghtmnu;fba
+fghtmnu;mame-advmame
+fghtmnu;mame-libretro
+fghtmnu;mame-mame4all
+fhboxers;arcade
+fhboxers;fba
+fhboxers;mame-advmame
+fhboxers;mame-libretro
+fhboxers;mame-mame4all
+finalb;arcade
+finalb;fba
+finalb;mame-advmame
+finalb;mame-libretro
+finalb;mame-mame4all
+finalbj;arcade
+finalbj;fba
+finalbj;mame-advmame
+finalbj;mame-libretro
+finalbj;mame-mame4all
+finalbu;arcade
+finalbu;fba
+finalbu;mame-advmame
+finalbu;mame-libretro
+finalbu;mame-mame4all
+fround;arcade
+fround;fba
+fround;mame-advmame
+fround;mame-libretro
+fround;mame-mame4all
+froundl;arcade
+froundl;fba
+froundl;mame-advmame
+froundl;mame-libretro
+froundl;mame-mame4all
+hpuncher;arcade
+hpuncher;fba
+hpuncher;mame-advmame
+hpuncher;mame-libretro
+hpuncher;mame-mame4all
+hwchamp;arcade
+hwchamp;fba
+hwchamp;mame-advmame
+hwchamp;mame-libretro
+hwchamp;mame-mame4all
+hwchampj;arcade
+hwchampj;fba
+hwchampj;mame-advmame
+hwchampj;mame-libretro
+hwchampj;mame-mame4all
+kingofb;arcade
+kingofb;fba
+kingofb;mame-advmame
+kingofb;mame-libretro
+kingofb;mame-mame4all
+legendos;neogeo
+mainsnk;arcade
+mainsnk;fba
+mainsnk;mame-advmame
+mainsnk;mame-libretro
+mainsnk;mame-mame4all
+mocapb;arcade
+mocapb;fba
+mocapb;mame-advmame
+mocapb;mame-libretro
+mocapb;mame-mame4all
+mocapbj;arcade
+mocapbj;fba
+mocapbj;mame-advmame
+mocapbj;mame-libretro
+mocapbj;mame-mame4all
+pc_miket;arcade
+pc_miket;fba
+pc_miket;mame-advmame
+pc_miket;mame-libretro
+pc_miket;mame-mame4all
+pnchmn2;arcade
+pnchmn2;fba
+pnchmn2;mame-advmame
+pnchmn2;mame-libretro
+pnchmn2;mame-mame4all
+pnchmn;arcade
+pnchmn;fba
+pnchmn;mame-advmame
+pnchmn;mame-libretro
+pnchmn;mame-mame4all
+pnchmna;arcade
+pnchmna;fba
+pnchmna;mame-advmame
+pnchmna;mame-libretro
+pnchmna;mame-mame4all
+poundfor;arcade
+poundfor;fba
+poundfor;mame-advmame
+poundfor;mame-libretro
+poundfor;mame-mame4all
+poundforj;arcade
+poundforj;fba
+poundforj;mame-advmame
+poundforj;mame-libretro
+poundforj;mame-mame4all
+poundforu;arcade
+poundforu;fba
+poundforu;mame-advmame
+poundforu;mame-libretro
+poundforu;mame-mame4all
+prmtmfgt;arcade
+prmtmfgt;fba
+prmtmfgt;mame-advmame
+prmtmfgt;mame-libretro
+prmtmfgt;mame-mame4all
+prmtmfgto;arcade
+prmtmfgto;fba
+prmtmfgto;mame-advmame
+prmtmfgto;mame-libretro
+prmtmfgto;mame-mame4all
+punchita;arcade
+punchita;fba
+punchita;mame-advmame
+punchita;mame-libretro
+punchita;mame-mame4all
+punchout;arcade
+punchout;fba
+punchout;mame-advmame
+punchout;mame-libretro
+punchout;mame-mame4all
+punchouta;arcade
+punchouta;fba
+punchouta;mame-advmame
+punchouta;mame-libretro
+punchouta;mame-mame4all
+punchoutj;arcade
+punchoutj;fba
+punchoutj;mame-advmame
+punchoutj;mame-libretro
+punchoutj;mame-mame4all
+ringfgt2;arcade
+ringfgt2;fba
+ringfgt2;mame-advmame
+ringfgt2;mame-libretro
+ringfgt2;mame-mame4all
+ringfgt;arcade
+ringfgt;fba
+ringfgt;mame-advmame
+ringfgt;mame-libretro
+ringfgt;mame-mame4all
+ringking2;arcade
+ringking2;fba
+ringking2;mame-advmame
+ringking2;mame-libretro
+ringking2;mame-mame4all
+ringking3;arcade
+ringking3;fba
+ringking3;mame-advmame
+ringking3;mame-libretro
+ringking3;mame-mame4all
+ringking;arcade
+ringking;fba
+ringking;mame-advmame
+ringking;mame-libretro
+ringking;mame-mame4all
+ringkingw;arcade
+ringkingw;fba
+ringkingw;mame-advmame
+ringkingw;mame-libretro
+ringkingw;mame-mame4all
+scessjoe;arcade
+scessjoe;fba
+scessjoe;mame-advmame
+scessjoe;mame-libretro
+scessjoe;mame-mame4all
+spnchout;arcade
+spnchout;fba
+spnchout;mame-advmame
+spnchout;mame-libretro
+spnchout;mame-mame4all
+spnchouta;arcade
+spnchouta;fba
+spnchouta;mame-advmame
+spnchouta;mame-libretro
+spnchouta;mame-mame4all
+spnchoutj;arcade
+spnchoutj;fba
+spnchoutj;mame-advmame
+spnchoutj;mame-libretro
+spnchoutj;mame-mame4all
+titlef;arcade
+titlef;fba
+titlef;mame-advmame
+titlef;mame-libretro
+titlef;mame-mame4all
+titlefj;arcade
+titlefj;fba
+titlefj;mame-advmame
+titlefj;mame-libretro
+titlefj;mame-mame4all
+titlefu;arcade
+titlefu;fba
+titlefu;mame-advmame
+titlefu;mame-libretro
+titlefu;mame-mame4all
+tkoboxng;arcade
+tkoboxng;fba
+tkoboxng;mame-advmame
+tkoboxng;mame-libretro
+tkoboxng;mame-mame4all
+trstar;arcade
+trstar;fba
+trstar;mame-advmame
+trstar;mame-libretro
+trstar;mame-mame4all
+trstarj;arcade
+trstarj;fba
+trstarj;mame-advmame
+trstarj;mame-libretro
+trstarj;mame-mame4all
+trstaro;arcade
+trstaro;fba
+trstaro;mame-advmame
+trstaro;mame-libretro
+trstaro;mame-mame4all
+trstaroj;arcade
+trstaroj;fba
+trstaroj;mame-advmame
+trstaroj;mame-libretro
+trstaroj;mame-mame4all
+vsgongf;arcade
+vsgongf;fba
+vsgongf;mame-advmame
+vsgongf;mame-libretro
+vsgongf;mame-mame4all

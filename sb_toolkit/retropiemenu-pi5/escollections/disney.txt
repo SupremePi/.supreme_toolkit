@@ -1,0 +1,177 @@
+2 Disney Games - Disney Sports - Football + Disney Sports - Skateboarding (Europe) (En,Fr,De,Es,It);gba
+2 Disney Games - Lilo & Stitch 2 + Peter Pan - Return to Neverland (Europe) (En,Fr,De,Es En,Fr,De,Es,It,Nl);gba
+2 Games in 1 - Disney Princess + Brother Bear (Europe) (En+En,Fr,De,Es,It,Nl,Sv,Da);gba
+2 Games in 1 - Disney Princess + Lizzie McGuire (Europe);gba
+2 Games in 1 - The Lion King + Disney Princess (Europe) (En,Fr,De,Es,It,Nl,Sv,Da+En);gba
+Alice in Wonderland (USA);wii
+Arachnophobia (USA);c64
+Black Cauldron, The (USA) (Disk 1 Side A);apple2
+Black Cauldron, The (USA) (Disk 1 Side B);apple2
+Black Cauldron, The (USA) (Disk 2 Side A);apple2
+Black Cauldron, The (USA) (Disk 2 Side B);apple2
+Black Cauldron, The (USA) (Disk 3);apple2
+Black Cauldron, The (USA) (Disk 4) (Save);apple2
+Bolt (USA);ps2
+Cars 2 (USA);3ds
+Cars 2 (USA);psp
+Chase on Tom Sawyer's Island, The (USA);c64
+Chase on Tom Sawyers Island, The (USA);apple2
+Dance Dance Revolution - Disney Dancing Museum (Japan);n64-japan
+Dance Dance Revolution - Disney Mix (USA);psx
+Dinosaur, Disney's (USA) (English only);dreamcast
+Disney Art Academy (USA);3ds
+Disney Epic Mickey - Power of Illusion (USA);3ds
+Disney Friends (USA);nds
+Disney Frozen - Olaf's Quest (USA);3ds
+Disney Infinity (USA);wiiu
+Disney Infinity - Toy Box Challenge (USA);3ds
+Disney Infinity 2.0 Edition (USA);wiiu
+Disney Infinity 3.0 Edition (USA);wiiu
+Disney Magical World (USA);3ds
+Disney Magical World 2 (USA);3ds
+Disney Planes (USA);3ds
+Disney Planes - Fire & Rescue (USA);3ds
+Disney Presents Tigger's Honey Hunt (USA);psx
+Disney Princess (USA, Europe);gba
+Disney Princess - Enchanting Storybooks (USA) (En,Fr);nds
+Disney Princess - Magical Jewels (USA);nds
+Disney Princess - My Fairytale Adventure (USA);3ds
+Disney Princess - Royal Adventure (USA);gba
+Disney Sing It! High School Musical 3 - Senior Year (USA);ps2
+Disney Sports - Basketball (USA);gba
+Disney Sports - Basketball (USA);gc
+Disney Sports - Football (USA);gba
+Disney Sports - Football (USA);gc
+Disney Sports - Motocross (USA);gba
+Disney Sports - Skateboarding (USA);gba
+Disney Sports - Skateboarding (USA);gc
+Disney Sports - Snowboarding (USA);gba
+Disney Sports - Soccer (USA);gba
+Disney Sports - Soccer (USA);gc
+Disney TH!NK Fast (USA);ps2
+Disney Violetta - Rhythm & Music (Europe);3ds
+Disney's 101 Dalmatians II - Patch's London Adventure (USA);psx
+Disney's 102 Dalmatians - Puppies to the Rescue (USA);psx
+Disney's Aladdin in Nasira's Revenge (USA);psx
+Disney's Atlantis - The Lost Empire (USA);psx
+Disney's Chicken Little (USA);gc
+Disney's Chicken Little (USA);ps2
+Disney's Dinosaur (USA);psx
+Disney's Donald Duck - Goin' Quackers (USA);gc
+Disney's Donald Duck - Goin' Quackers (USA);psx
+Disney's Epic Mickey (USA);wii
+Disney's Extreme Skate Adventure (USA);gc
+Disney's Extreme Skate Adventure (USA);ps2
+Disney's Game + TV Episode - Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr);gba
+Disney's Goofy's Fun House (USA);psx
+Disney's Hercules Action Game (USA);psx
+Disney's Hide & Sneak (USA);gc
+Disney's Lilo & Stitch (USA);psx
+Disney's Magical Mirror Starring Mickey Mouse (USA);gc
+Disney's Meet the Robinsons (USA);gc
+Disney's PK - Out of the Shadows (USA);gc
+Disney's Party (USA);gc
+Disney's Party (USA, Europe) (En,Fr,De,Es,It);gba
+Disney's Pooh's Party Game - In Search of the Treasure (USA);psx
+Disney's Story Studio - Mulan (USA);psx
+Disney's Tarzan (USA);psx
+Disney's Tarzan Untamed (USA);gc
+Disney's The Emperor's New Groove (USA);psx
+Disney's The Haunted Mansion (USA);gc
+Disney's The Haunted Mansion (USA);ps2
+Disney's The Lion King II - Simba's Mighty Adventure (USA);psx
+Disney's The Little Mermaid II (USA);psx
+Disney's Treasure Planet (USA);ps2
+Disney's Treasure Planet (USA);psx
+Disney's Winnie the Pooh - Kindergarten (USA);psx
+Disney's Winnie the Pooh - Preschool (USA);psx
+Disney-Pixar A Bug's Life (USA);psx
+Disney-Pixar Buzz Lightyear of Star Command (USA);psx
+Disney-Pixar Cars (USA);gc
+Disney-Pixar Finding Nemo (USA);gc
+Disney-Pixar Finding Nemo (USA);ps2
+Disney-Pixar Monsters, Inc. (USA);ps2
+Disney-Pixar Monsters, Inc. - Scream Arena (USA);gc
+Disney-Pixar Monsters, Inc. - Scream Team (USA);psx
+Disney-Pixar Ratatouille (USA);gc
+Disney-Pixar Ratatouille (USA);ps2
+Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA);psx
+Disney-Pixar Toy Story Racer (USA);psx
+Donald Duck's Playground (USA) (Side A);apple2
+Donald Duck's Playground (USA) (Side B);apple2
+Donald Duck's Playground (USA);c64
+Donald Duck, Disney's - Goin Quackers (USA);dreamcast
+Donald's Alphabet Chase (Europe);amstradcpc
+Donald's Alphabet Chase (Europe);atarist
+Donald's Alphabet Chase (USA);c64
+Duck Tales - The Quest for Gold (Europe);atarist
+Duck Tales - The Quest for Gold (USA) (Side A);c64
+Duck Tales - The Quest for Gold (USA) (Side B);c64
+Enchanted - Once Upon Andalasia (USA) (En,Fr);gba
+Epic Mickey 2 - The Power of Two (USA);wiiu
+G-Force (USA);psp
+Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA);gba
+Goofy's Railway Express (Europe);atarist
+Goofy's Railway Express (USA);c64
+Hannah Montana - Rock Out the Show (USA);psp
+High School Musical - Livin' the Dream (USA);gba
+Home on the Range (USA) (En,Fr);gba
+Hunchback of Notre Dame, The - 5 Foolishly Fun Topsy Turvy Games (USA, Europe);gb
+Jelly Car 2 (USA);pspminis
+Just Dance - Disney Party 2 (USA);wiiu
+Kermit's Electronic Storymaker (USA);c64
+LEGO Pirates of the Caribbean - The Video Game (USA);3ds
+Lilo & Stitch (USA);gba
+Lion King 1 1-2, The (USA);gba
+Lizzie McGuire - On the Go! (USA);gba
+Lizzie McGuire 2 - Lizzie Diaries (USA) (En,Fr);gba
+Lumines Plus (USA);ps2
+Matterhorn Screamer (USA);apple2
+Matterhorn Screamer (USA);c64
+Meet the Robinsons (USA);gba
+Meteos - Disney Magic (USA);nds
+Mickey no Tokyo Disneyland Daibouken (Japan);sfc
+Mickey's Crossword Puzzle (USA);apple2
+Mickey's Runaway Zoo (Europe);atarist
+Mickey's Runaway Zoo (USA);c64
+Mickey's Space Adventure (USA) (Disk 1 Side A);c64
+Mickey's Space Adventure (USA) (Disk 1 Side B);c64
+Mickey's Space Adventure (USA) (Disk 1);apple2
+Mickey's Space Adventure (USA) (Disk 2 Side A);c64
+Mickey's Space Adventure (USA) (Disk 2 Side B);c64
+Mickey's Space Adventure (USA) (Disk 2);apple2
+Mickey's Space Adventure (USA) (Disk 3) (Save);c64
+Mickey's Space Adventure (USA) (Disk 3);apple2
+Mickey's Space Adventure (USA) (Disk 4);apple2
+Mickey's Space Adventure (USA) (Disk 5);apple2
+My Disney Kitchen (USA);psx
+Peter Pan - Return to Neverland (USA);gba
+Peter Pan in Disney's Return to Never Land (USA);psx
+Phineas and Ferb - 2 Disney Games (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced) [b];nds
+Phineas and Ferb - Across the 2nd Dimension (USA);psp
+Piglet's Big Game (USA);gba
+Pinocchio (USA);snes
+Pirates of the Caribbean - At World's End (USA);psp
+Pirates of the Caribbean - Dead Man's Chest (USA);psp
+Planes (USA);wiiu
+Split-Second (USA);psp
+Spy Kids 3-D - Game Over (USA);gba
+Spy Kids Challenger (USA);gba
+TRON - Evolution (USA);psp
+Tokyo Disneyland - Mickey no Cinderella-jou Mystery Tour (Japan);gb
+Toy Story 3 (USA);psp
+Treasure Planet (USA);gba
+W.i.t.c.h. (Europe) (En,Fr,De,Es,It);gba
+Walt Disney World Quest - Magical Racing Tour (USA);dreamcast
+Walt Disney World Quest - Magical Racing Tour (USA);psx
+Walt Disney World Quest - Magical Racing Tour (USA, Europe);gbc
+Walt Disney's The Jungle Book - Rhythm n' Groove (USA);psx
+Who Framed Roger Rabbit (USA);c64
+Win, Lose or Draw (USA) (Side A);c64
+Win, Lose or Draw (USA) (Side B);c64
+Winnie the Pooh in the Hundred Acre Wood (USA);c64
+dsfdr;arcade
+dsfdr;fba
+dsfdr;mame-advmame
+dsfdr;mame-libretro
+dsfdr;mame-mame4all

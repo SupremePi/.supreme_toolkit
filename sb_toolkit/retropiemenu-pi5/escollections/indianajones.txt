@@ -1,0 +1,272 @@
+Indiana Jones & Last Crusade (Taito) (R);dendy
+Indiana Jones 1;tic80
+Indiana Jones And the Temple of Doom (USA) (Disk 1);apple2
+Indiana Jones And the Temple of Doom (USA) (Disk 2);apple2
+Indiana Jones and the Fate of Atlantis (Europe) (Disk 1);amstradcpc
+Indiana Jones and the Fate of Atlantis (Europe) (Disk 2);amstradcpc
+Indiana Jones and the Fate of Atlantis (Europe);c64
+Indiana Jones and the Fate of Atlantis (Side A) (Europe);zxspectrum
+Indiana Jones and the Fate of Atlantis (Side B) (Europe);zxspectrum
+Indiana Jones and the Fate of Atlantis (USA);atarist
+Indiana Jones and the Golden Head (USA) (Unl);c64
+Indiana Jones and the Infernal Machine (USA);n64
+Indiana Jones and the Infernal Machine (USA, Europe);gbc
+Indiana Jones and the Last Crusade (Europe);amstradcpc
+Indiana Jones and the Last Crusade (Europe);c64
+Indiana Jones and the Last Crusade (Europe);cdtv
+Indiana Jones and the Last Crusade (Europe);mastersystem
+Indiana Jones and the Last Crusade (Europe);zxspectrum
+Indiana Jones and the Last Crusade (Taito) (USA);nes
+Indiana Jones and the Last Crusade (UBI Soft) (USA);nes
+Indiana Jones and the Last Crusade (USA);atarist
+Indiana Jones and the Last Crusade (USA);megadrive
+Indiana Jones and the Last Crusade (USA, Europe);gb
+Indiana Jones and the Last Crusade (USA, Europe);gamegear
+Indiana Jones and the Last Crusade - Arcade Game (USA);atarist
+Indiana Jones and the Staff of Kings (USA) (En,Fr);nds
+Indiana Jones and the Staff of Kings (USA);psp
+Indiana Jones and the Staff of Kings (USA);ps2
+Indiana Jones and the Temple of Doom (Europe);amstradcpc
+Indiana Jones and the Temple of Doom (Europe);atarist
+Indiana Jones and the Temple of Doom (Europe);c64
+Indiana Jones and the Temple of Doom (Europe);zxspectrum
+Indiana Jones and the Temple of Doom (USA);nes
+Indiana Jones in Revenge of the Ancients (USA);apple2
+Indiana Jones in the Lost Kingdom (USA);c64
+Indiana Jones' Greatest Adventures (USA);snes
+IndianaJones&TheFateOfAtlantisAction_v1.0;amiga1200
+IndianaJones&TheFateOfAtlantisAction_v1.0;amiga
+IndianaJones&TheFateOfAtlantisAdventure_v1.3_0851;amiga1200
+IndianaJones&TheFateOfAtlantisAdventure_v1.3_0851;amiga
+IndianaJones&TheLastCrusadeAction_v1.2_1619;amiga1200
+IndianaJones&TheLastCrusadeAction_v1.2_1619;amiga
+IndianaJones&TheLastCrusadeAdventure_v1.3_1990;amiga1200
+IndianaJones&TheLastCrusadeAdventure_v1.3_1990;amiga
+IndianaJones&TheTempleOfDoom_v1.0_0660;amiga1200
+IndianaJones&TheTempleOfDoom_v1.0_0660;amiga
+Instruments of Chaos Starring Young Indiana Jones (USA);megadrive
+LEGO Indiana Jones (USA);wii
+LEGO Indiana Jones - The Original Adventures (USA) (En,Fr,De,Es,It,Da);nds
+LEGO Indiana Jones - The Original Adventures (USA);psp
+LEGO Indiana Jones - The Original Adventures (USA);ps2
+LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es);nds
+LEGO Indiana Jones 2 - The Adventure Continues (USA);psp
+Young Indiana Jones Chronicles (R);dendy
+Young Indiana Jones Chronicles, The (USA);nes
+atlantis;scummvm
+ij_l3;arcade
+ij_l3;fba
+ij_l3;mame-advmame
+ij_l3;mame-libretro
+ij_l3;mame-mame4all
+ij_l4;arcade
+ij_l4;fba
+ij_l4;mame-advmame
+ij_l4;mame-libretro
+ij_l4;mame-mame4all
+ij_l5;arcade
+ij_l5;fba
+ij_l5;mame-advmame
+ij_l5;mame-libretro
+ij_l5;mame-mame4all
+ij_l6;arcade
+ij_l6;fba
+ij_l6;mame-advmame
+ij_l6;mame-libretro
+ij_l6;mame-mame4all
+ij_l7;arcade
+ij_l7;fba
+ij_l7;mame-advmame
+ij_l7;mame-libretro
+ij_l7;mame-mame4all
+ij_lg7;arcade
+ij_lg7;fba
+ij_lg7;mame-advmame
+ij_lg7;mame-libretro
+ij_lg7;mame-mame4all
+indy3-vga;scummvm
+indy_113a;arcade
+indy_113a;fba
+indy_113a;mame-advmame
+indy_113a;mame-libretro
+indy_113a;mame-mame4all
+indy_113f;arcade
+indy_113f;fba
+indy_113f;mame-advmame
+indy_113f;mame-libretro
+indy_113f;mame-mame4all
+indy_113g;arcade
+indy_113g;fba
+indy_113g;mame-advmame
+indy_113g;mame-libretro
+indy_113g;mame-mame4all
+indy_113i;arcade
+indy_113i;fba
+indy_113i;mame-advmame
+indy_113i;mame-libretro
+indy_113i;mame-mame4all
+indy_113l;arcade
+indy_113l;fba
+indy_113l;mame-advmame
+indy_113l;mame-libretro
+indy_113l;mame-mame4all
+indy_114a;arcade
+indy_114a;fba
+indy_114a;mame-advmame
+indy_114a;mame-libretro
+indy_114a;mame-mame4all
+indy_114f;arcade
+indy_114f;fba
+indy_114f;mame-advmame
+indy_114f;mame-libretro
+indy_114f;mame-mame4all
+indy_114g;arcade
+indy_114g;fba
+indy_114g;mame-advmame
+indy_114g;mame-libretro
+indy_114g;mame-mame4all
+indy_114i;arcade
+indy_114i;fba
+indy_114i;mame-advmame
+indy_114i;mame-libretro
+indy_114i;mame-mame4all
+indy_114l;arcade
+indy_114l;fba
+indy_114l;mame-advmame
+indy_114l;mame-libretro
+indy_114l;mame-mame4all
+indy_116a;arcade
+indy_116a;fba
+indy_116a;mame-advmame
+indy_116a;mame-libretro
+indy_116a;mame-mame4all
+indy_116f;arcade
+indy_116f;fba
+indy_116f;mame-advmame
+indy_116f;mame-libretro
+indy_116f;mame-mame4all
+indy_116g;arcade
+indy_116g;fba
+indy_116g;mame-advmame
+indy_116g;mame-libretro
+indy_116g;mame-mame4all
+indy_116i;arcade
+indy_116i;fba
+indy_116i;mame-advmame
+indy_116i;mame-libretro
+indy_116i;mame-mame4all
+indy_116l;arcade
+indy_116l;fba
+indy_116l;mame-advmame
+indy_116l;mame-libretro
+indy_116l;mame-mame4all
+indy_210;arcade
+indy_210;fba
+indy_210;mame-advmame
+indy_210;mame-libretro
+indy_210;mame-mame4all
+indy_210f;arcade
+indy_210f;fba
+indy_210f;mame-advmame
+indy_210f;mame-libretro
+indy_210f;mame-mame4all
+indytemp2;arcade
+indytemp2;fba
+indytemp2;mame-advmame
+indytemp2;mame-libretro
+indytemp2;mame-mame4all
+indytemp3;arcade
+indytemp3;fba
+indytemp3;mame-advmame
+indytemp3;mame-libretro
+indytemp3;mame-mame4all
+indytemp4;arcade
+indytemp4;fba
+indytemp4;mame-advmame
+indytemp4;mame-libretro
+indytemp4;mame-mame4all
+indytemp;arcade
+indytemp;fba
+indytemp;mame-advmame
+indytemp;mame-libretro
+indytemp;mame-mame4all
+indytempc;arcade
+indytempc;fba
+indytempc;mame-advmame
+indytempc;mame-libretro
+indytempc;mame-mame4all
+indytempd;arcade
+indytempd;fba
+indytempd;mame-advmame
+indytempd;mame-libretro
+indytempd;mame-mame4all
+j6indy;arcade
+j6indy;fba
+j6indy;mame-advmame
+j6indy;mame-libretro
+j6indy;mame-mame4all
+j6indya;arcade
+j6indya;fba
+j6indya;mame-advmame
+j6indya;mame-libretro
+j6indya;mame-mame4all
+j6indyb;arcade
+j6indyb;fba
+j6indyb;mame-advmame
+j6indyb;mame-libretro
+j6indyb;mame-mame4all
+j6indyc;arcade
+j6indyc;fba
+j6indyc;mame-advmame
+j6indyc;mame-libretro
+j6indyc;mame-mame4all
+j6indyd;arcade
+j6indyd;fba
+j6indyd;mame-advmame
+j6indyd;mame-libretro
+j6indyd;mame-mame4all
+j6indye;arcade
+j6indye;fba
+j6indye;mame-advmame
+j6indye;mame-libretro
+j6indye;mame-mame4all
+j6indyf;arcade
+j6indyf;fba
+j6indyf;mame-advmame
+j6indyf;mame-libretro
+j6indyf;mame-mame4all
+j6indyg;arcade
+j6indyg;fba
+j6indyg;mame-advmame
+j6indyg;mame-libretro
+j6indyg;mame-mame4all
+j6indyge2;arcade
+j6indyge2;fba
+j6indyge2;mame-advmame
+j6indyge2;mame-libretro
+j6indyge2;mame-mame4all
+j6indyge;arcade
+j6indyge;fba
+j6indyge;mame-advmame
+j6indyge;mame-libretro
+j6indyge;mame-mame4all
+j6indyh;arcade
+j6indyh;fba
+j6indyh;mame-advmame
+j6indyh;mame-libretro
+j6indyh;mame-mame4all
+j6indyi;arcade
+j6indyi;fba
+j6indyi;mame-advmame
+j6indyi;mame-libretro
+j6indyi;mame-mame4all
+j6indyj;arcade
+j6indyj;fba
+j6indyj;mame-advmame
+j6indyj;mame-libretro
+j6indyj;mame-mame4all
+j6indyk;arcade
+j6indyk;fba
+j6indyk;mame-advmame
+j6indyk;mame-libretro
+j6indyk;mame-mame4all

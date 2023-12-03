@@ -1,0 +1,51 @@
+Arcade Classic No. 4 - Defender & Joust (USA, Europe);gb
+Arcade Classic No. 4 - Defender & Joust (USA, Europe);sgb
+Arcade Hits - Joust & Defender (USA);gbc
+Joust (198x)(Superior Software-Acornsoft);electron
+Joust (198x)(Superior Software-Acornsoft)[a];electron
+Joust (Europe) (Unl);atarist
+Joust (Europe);amstradcpc
+Joust (Europe);zxspectrum
+Joust (USA);apple2
+Joust (USA);atari2600
+Joust (USA);atari5200
+Joust (USA);atari7800
+Joust (USA);atari800
+Joust (USA);atarist
+Joust (USA);nes
+Joust (USA, Europe);atarilynx
+joust2;arcade
+joust2;fba
+joust2;mame-advmame
+joust2;mame-libretro
+joust2;mame-mame4all
+joust2r1;arcade
+joust2r1;fba
+joust2r1;mame-advmame
+joust2r1;mame-libretro
+joust2r1;mame-mame4all
+joust;arcade
+joust;fba
+joust;mame-advmame
+joust;mame-libretro
+joust;mame-mame4all
+joustr;arcade
+joustr;fba
+joustr;mame-advmame
+joustr;mame-libretro
+joustr;mame-mame4all
+joustwr;arcade
+joustwr;fba
+joustwr;mame-advmame
+joustwr;mame-libretro
+joustwr;mame-mame4all
+jst_l1;arcade
+jst_l1;fba
+jst_l1;mame-advmame
+jst_l1;mame-libretro
+jst_l1;mame-mame4all
+jst_l2;arcade
+jst_l2;fba
+jst_l2;mame-advmame
+jst_l2;mame-libretro
+jst_l2;mame-mame4all

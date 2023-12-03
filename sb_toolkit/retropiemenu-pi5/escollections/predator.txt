@@ -1,0 +1,63 @@
+Predator (Europe);bbcb
+Predator (198x)(Superior Software-Activision);electron
+Predator (19xx)(Superior Software-Activision);electron
+Predator (Europe);amstradcpc
+Predator 2 (Europe);amstradcpc
+Alien vs Predator (World);atarijaguar
+Predator (USA);c64
+Predator II (Europe);c64
+Predator_v1.0;amiga1200
+Predator2_v1.1;amiga1200
+Predator_v1.0;amiga
+Predator2_v1.1;amiga
+Predator (USA);vic20
+Predator (USA);vic20
+Predator (R);dendy
+Predator (Original) (2014) (1.1);futurepinball
+avspa;arcade
+avspa;fba
+avspa;mame-advmame
+avspa;mame-libretro
+avspa;mame-mame4all
+avspd;arcade
+avspd;fba
+avspd;mame-advmame
+avspd;mame-libretro
+avspd;mame-mame4all
+avsp;arcade
+avsp;fba
+avsp;mame-advmame
+avsp;mame-libretro
+avsp;mame-mame4all
+avsph;arcade
+avsph;fba
+avsph;mame-advmame
+avsph;mame-libretro
+avsph;mame-mame4all
+avspj;arcade
+avspj;fba
+avspj;mame-advmame
+avspj;mame-libretro
+avspj;mame-mame4all
+avspu;arcade
+avspu;fba
+avspu;mame-advmame
+avspu;mame-libretro
+avspu;mame-mame4all
+Predator (Japan);msx2
+Predator (USA);nes
+Alien vs Predator - The Last of His Clan (USA);gb
+Aliens vs. Predator (Japan);sfc
+Predator 2 (USA, Europe);gamegear
+Predator 2 (USA, Europe);genesis
+Predator 2 (Europe);mastersystem
+Predator (Europe);zxspectrum
+Predator 2 (Europe);zxspectrum
+Aliens Versus Predator - Extinction (USA);ps2
+Predator - Concrete Jungle (USA);ps2
+Aliens vs. Predator - Requiem (USA);psp
+Alien vs. Predator (USA);snes
+Predator (USA);atari800
+Predator 2 (Europe) (Disk 1);atarist
+Predator 2 (Europe) (Disk 2);atarist
+Predator (Europe);atarist

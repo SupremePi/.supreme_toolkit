@@ -1,0 +1,14 @@
+Bonk 3 - Bonk's Big Adventure (USA);tg-cd
+Bonk III - Bonk's Big Adventure (USA);tg16
+Bonk's Adventure (USA);tg16
+Bonk's Adventure (USA);nes
+Bonk's Adventure (USA);gb
+Bonk's Revenge (USA);tg16
+Bonk's Revenge (USA);gb
+Bonk's Revenge (USA);sgb
+Super Bonk (USA);snes
+bonkadv;arcade
+bonkadv;fba
+bonkadv;mame-advmame
+bonkadv;mame-libretro
+bonkadv;mame-mame4all

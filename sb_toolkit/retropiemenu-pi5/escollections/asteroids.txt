@@ -1,0 +1,121 @@
+3 Games in One! - Yars' Revenge + Asteroids + Pong (USA);gba
+Arcade Asteroids (USA) (Hack);atari2600
+Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe);gb
+Arcade Classic No. 1 - Asteroids & Missile Command (USA, Europe);sgb
+Asteroids (1984)(Mike Pike);zx81
+Asteroids (Arcadia) (Europe);vic20
+Asteroids (Artic Computing) (Europe);oric
+Asteroids (Bug-Byte) (Europe);vic20
+Asteroids (Data Media) (Europe);c64
+Asteroids (Durell Software) (Europe);oric
+Asteroids (Europe) (Unl);atarist
+Asteroids (Norbert Kehrer) (USA) (Unl);c64
+Asteroids (USA) (Proto);atari5200
+Asteroids (USA);atari2600
+Asteroids (USA);atari7800
+Asteroids (USA);atari800
+Asteroids (USA);psx
+Asteroids (USA, Europe);gbc
+Asteroids (USA, Europe);gb
+Asteroids 64 (Germany) (Unl);c64
+Asteroids Deluxe (Europe);bbcb
+Asteroids Deluxe (Europe);atarist
+Asteroids Deluxe (USA) (Hack);atari2600
+Asteroids Hyper 64 (USA);n64
+Asteroids in Space (USA);apple2
+Asteroids v2.0 (Yoz);x68000
+Asteroids;tic80
+CabaretAsteroids_v1.0r_Repacked;amiga1200
+CabaretAsteroids_v1.0r_Repacked;amiga
+Super Asteroids, Missile Command (USA, Europe);atarilynx
+Super Asteroids;sorcerer
+aerolitos;arcade
+aerolitos;fba
+aerolitos;mame-advmame
+aerolitos;mame-libretro
+aerolitos;mame-mame4all
+astdelux1;arcade
+astdelux1;fba
+astdelux1;mame-advmame
+astdelux1;mame-libretro
+astdelux1;mame-mame4all
+astdelux2;arcade
+astdelux2;fba
+astdelux2;mame-advmame
+astdelux2;mame-libretro
+astdelux2;mame-mame4all
+astdelux;arcade
+astdelux;fba
+astdelux;mame-advmame
+astdelux;mame-libretro
+astdelux;mame-mame4all
+asterock;arcade
+asterock;fba
+asterock;mame-advmame
+asterock;mame-libretro
+asterock;mame-mame4all
+asterockv;arcade
+asterockv;fba
+asterockv;mame-advmame
+asterockv;mame-libretro
+asterockv;mame-mame4all
+asteroid1;arcade
+asteroid1;fba
+asteroid1;mame-advmame
+asteroid1;mame-libretro
+asteroid1;mame-mame4all
+asteroid2;arcade
+asteroid2;fba
+asteroid2;mame-advmame
+asteroid2;mame-libretro
+asteroid2;mame-mame4all
+asteroid;arcade
+asteroid;fba
+asteroid;mame-advmame
+asteroid;mame-libretro
+asteroid;mame-mame4all
+asteroidb;arcade
+asteroidb;fba
+asteroidb;mame-advmame
+asteroidb;mame-libretro
+asteroidb;mame-mame4all
+blstroid2;arcade
+blstroid2;fba
+blstroid2;mame-advmame
+blstroid2;mame-libretro
+blstroid2;mame-mame4all
+blstroid3;arcade
+blstroid3;fba
+blstroid3;mame-advmame
+blstroid3;mame-libretro
+blstroid3;mame-mame4all
+blstroid;arcade
+blstroid;fba
+blstroid;mame-advmame
+blstroid;mame-libretro
+blstroid;mame-mame4all
+blstroidg;arcade
+blstroidg;fba
+blstroidg;mame-advmame
+blstroidg;mame-libretro
+blstroidg;mame-mame4all
+blstroidh;arcade
+blstroidh;fba
+blstroidh;mame-advmame
+blstroidh;mame-libretro
+blstroidh;mame-mame4all
+hyperspc;arcade
+hyperspc;fba
+hyperspc;mame-advmame
+hyperspc;mame-libretro
+hyperspc;mame-mame4all
+meteorho;arcade
+meteorho;fba
+meteorho;mame-advmame
+meteorho;mame-libretro
+meteorho;mame-mame4all
+meteorts;arcade
+meteorts;fba
+meteorts;mame-advmame
+meteorts;mame-libretro
+meteorts;mame-mame4all

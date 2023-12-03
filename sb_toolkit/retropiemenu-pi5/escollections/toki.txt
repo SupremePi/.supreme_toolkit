@@ -1,0 +1,33 @@
+Toki (Europe);atarist
+Toki (Europe);c64
+Toki (R);dendy
+Toki (USA);nes
+Toki (USA, Europe);atarilynx
+Toki - Going Ape Spit (World);megadrive
+Toki_v2.2_0040;amiga1200
+Toki_v2.2_0040;amiga
+toki;arcade
+toki;fba
+toki;mame-advmame
+toki;mame-libretro
+toki;mame-mame4all
+tokia;arcade
+tokia;fba
+tokia;mame-advmame
+tokia;mame-libretro
+tokia;mame-mame4all
+tokib;arcade
+tokib;fba
+tokib;mame-advmame
+tokib;mame-libretro
+tokib;mame-mame4all
+tokiu;arcade
+tokiu;fba
+tokiu;mame-advmame
+tokiu;mame-libretro
+tokiu;mame-mame4all
+tokiua;arcade
+tokiua;fba
+tokiua;mame-advmame
+tokiua;mame-libretro
+tokiua;mame-mame4all

@@ -1,0 +1,199 @@
+2 Games in One! - Gauntlet + Rampart (USA);gba
+Gauntlet (1984)(Micro Power);electron
+Gauntlet (198x)(Micropower);electron
+Gauntlet (198x)(Micropower)[a];electron
+Gauntlet (Europe) (Side A);atari800
+Gauntlet (Europe);bbcb
+Gauntlet (Europe);atarist
+Gauntlet (Europe);mastersystem
+Gauntlet (Europe);zxspectrum
+Gauntlet (Japan) (En,Ja);megadrive-japan
+Gauntlet (Japan);megadrive-japan
+Gauntlet (Micro Power) (Europe);amstradcpc
+Gauntlet (R);dendy
+Gauntlet (US Gold) (Europe);amstradcpc
+Gauntlet (USA) (Side A);apple2
+Gauntlet (USA) (Side B);apple2
+Gauntlet (USA);atari2600
+Gauntlet (USA);c64
+Gauntlet (USA);nes
+Gauntlet - Dark Legacy (USA);gba
+Gauntlet - Dark Legacy (USA);gc
+Gauntlet - Dark Legacy (USA);ps2
+Gauntlet - Seven Sorrows (USA);ps2
+Gauntlet - The Deeper Dungeons (Europe);amstradcpc
+Gauntlet - The Deeper Dungeons (Europe);c64
+Gauntlet - The Deeper Dungeons (Europe);zxspectrum
+Gauntlet - The Third Encounter (USA, Europe);atarilynx
+Gauntlet II (Europe);amstradcpc
+Gauntlet II (Europe);atarist
+Gauntlet II (Europe);zxspectrum
+Gauntlet II (R);dendy
+Gauntlet II (USA);c64
+Gauntlet II (USA);nes
+Gauntlet II (USA, Europe);gb
+Gauntlet III - The Final Fight (Europe) (Side A);c64
+Gauntlet III - The Final Fight (Europe) (Side B);c64
+Gauntlet III - The Final Quest (Europe) (Disk 1);amstradcpc
+Gauntlet III - The Final Quest (Europe) (Disk 1);atarist
+Gauntlet III - The Final Quest (Europe) (Disk 2);amstradcpc
+Gauntlet III - The Final Quest (Europe) (Disk 2);atarist
+Gauntlet III - The Final Quest (Europe) (Disk 3);atarist
+Gauntlet III - The Final Quest (Europe);zxspectrum
+Gauntlet IV (Japan) (En,Ja);megadrive-japan
+Gauntlet IV (USA, Europe);megadrive
+Gauntlet Legends (USA);n64
+Gauntlet Legends (USA);dreamcast
+Gauntlet Legends (USA);psx
+Gauntlet of Meldir (Europe);zxspectrum
+Gauntlet, The (1982)(Colourmatic Computing);zx81
+Gauntlet2_v1.14_0182;amiga1200
+Gauntlet2_v1.14_0182;amiga
+Gauntlet3_v1.2_1550;amiga1200
+Gauntlet3_v1.2_1550;amiga
+gaunt22p1;arcade
+gaunt22p1;fba
+gaunt22p1;mame-advmame
+gaunt22p1;mame-libretro
+gaunt22p1;mame-mame4all
+gaunt22p;arcade
+gaunt22p;fba
+gaunt22p;mame-advmame
+gaunt22p;mame-libretro
+gaunt22p;mame-mame4all
+gaunt22pg;arcade
+gaunt22pg;fba
+gaunt22pg;mame-advmame
+gaunt22pg;mame-libretro
+gaunt22pg;mame-mame4all
+gaunt2;arcade
+gaunt2;fba
+gaunt2;mame-advmame
+gaunt2;mame-libretro
+gaunt2;mame-mame4all
+gaunt2g;arcade
+gaunt2g;fba
+gaunt2g;mame-advmame
+gaunt2g;mame-libretro
+gaunt2g;mame-mame4all
+gauntdl;arcade
+gauntdl;fba
+gauntdl;mame-advmame
+gauntdl;mame-libretro
+gauntdl;mame-mame4all
+gauntleg12;arcade
+gauntleg12;fba
+gauntleg12;mame-advmame
+gauntleg12;mame-libretro
+gauntleg12;mame-mame4all
+gauntleg;arcade
+gauntleg;fba
+gauntleg;mame-advmame
+gauntleg;mame-libretro
+gauntleg;mame-mame4all
+gauntlet2p;arcade
+gauntlet2p;fba
+gauntlet2p;mame-advmame
+gauntlet2p;mame-libretro
+gauntlet2p;mame-mame4all
+gauntlet2pg1;arcade
+gauntlet2pg1;fba
+gauntlet2pg1;mame-advmame
+gauntlet2pg1;mame-libretro
+gauntlet2pg1;mame-mame4all
+gauntlet2pg;arcade
+gauntlet2pg;fba
+gauntlet2pg;mame-advmame
+gauntlet2pg;mame-libretro
+gauntlet2pg;mame-mame4all
+gauntlet2pj2;arcade
+gauntlet2pj2;fba
+gauntlet2pj2;mame-advmame
+gauntlet2pj2;mame-libretro
+gauntlet2pj2;mame-mame4all
+gauntlet2pj;arcade
+gauntlet2pj;fba
+gauntlet2pj;mame-advmame
+gauntlet2pj;mame-libretro
+gauntlet2pj;mame-mame4all
+gauntlet2pr3;arcade
+gauntlet2pr3;fba
+gauntlet2pr3;mame-advmame
+gauntlet2pr3;mame-libretro
+gauntlet2pr3;mame-mame4all
+gauntlet;arcade
+gauntlet;fba
+gauntlet;mame-advmame
+gauntlet;mame-libretro
+gauntlet;mame-mame4all
+gauntlet;apple2gs
+gauntletg;arcade
+gauntletg;fba
+gauntletg;mame-advmame
+gauntletg;mame-libretro
+gauntletg;mame-mame4all
+gauntletgr3;arcade
+gauntletgr3;fba
+gauntletgr3;mame-advmame
+gauntletgr3;mame-libretro
+gauntletgr3;mame-mame4all
+gauntletgr6;arcade
+gauntletgr6;fba
+gauntletgr6;mame-advmame
+gauntletgr6;mame-libretro
+gauntletgr6;mame-mame4all
+gauntletgr8;arcade
+gauntletgr8;fba
+gauntletgr8;mame-advmame
+gauntletgr8;mame-libretro
+gauntletgr8;mame-mame4all
+gauntletj12;arcade
+gauntletj12;fba
+gauntletj12;mame-advmame
+gauntletj12;mame-libretro
+gauntletj12;mame-mame4all
+gauntletj;arcade
+gauntletj;fba
+gauntletj;mame-advmame
+gauntletj;mame-libretro
+gauntletj;mame-mame4all
+gauntletr1;arcade
+gauntletr1;fba
+gauntletr1;mame-advmame
+gauntletr1;mame-libretro
+gauntletr1;mame-mame4all
+gauntletr2;arcade
+gauntletr2;fba
+gauntletr2;mame-advmame
+gauntletr2;mame-libretro
+gauntletr2;mame-mame4all
+gauntletr4;arcade
+gauntletr4;fba
+gauntletr4;mame-advmame
+gauntletr4;mame-libretro
+gauntletr4;mame-mame4all
+gauntletr5;arcade
+gauntletr5;fba
+gauntletr5;mame-advmame
+gauntletr5;mame-libretro
+gauntletr5;mame-mame4all
+gauntletr7;arcade
+gauntletr7;fba
+gauntletr7;mame-advmame
+gauntletr7;mame-libretro
+gauntletr7;mame-mame4all
+gauntletr9;arcade
+gauntletr9;fba
+gauntletr9;mame-advmame
+gauntletr9;mame-libretro
+gauntletr9;mame-mame4all
+gauntlets;arcade
+gauntlets;fba
+gauntlets;mame-advmame
+gauntlets;mame-libretro
+gauntlets;mame-mame4all
+pc_gntlt;arcade
+pc_gntlt;fba
+pc_gntlt;mame-advmame
+pc_gntlt;mame-libretro
+pc_gntlt;mame-mame4all

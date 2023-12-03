@@ -1,0 +1,85 @@
+R-Type (Europe) (Unl);amstradcpc
+R-Type (Europe);amstradcpc
+R-Type (Europe);atarist
+R-Type (Europe);zxspectrum
+R-Type (Hack);nesh
+R-Type (Irem);x68000
+R-Type (Japan) (Alt 1);msx
+R-Type (Japan) (Alt 2);msx
+R-Type (Japan);msx
+R-Type (USA) (Disk 1 Side A);c64
+R-Type (USA) (Disk 1 Side B);c64
+R-Type (USA) (Disk 2);c64
+R-Type (USA);tg16
+R-Type (USA, Europe);gb
+R-Type (World);markiii
+R-Type (World);mastersystem
+R-Type Command (USA);psp
+R-Type Complete (Japan);pce-cd
+R-Type DX (USA, Europe);gbc
+R-Type Delta (USA);psx
+R-Type Final (USA);ps2
+R-Type II (Europe);atarist
+R-Type II (Europe);gb
+R-Type III - The Third Lightning (USA);gba
+R-Type III - The Third Lightning (USA);snes
+R-Type Part-1 (Japan);pcengine
+R-Type Part-2 (Japan);pcengine
+R-Type Tactics II - Operation Bitter Chocolate (Japan);psp-japan
+R-Type Tactics II - Operation Bitter Chocolate (Japan);psp
+R-Types (USA);psx
+RType2_v1.1_2065;amiga1200
+RType2_v1.1_2065;amiga
+RType_v1.4.1_0940;amiga1200
+RType_v1.4.1_0940;amiga
+Super R-Type (USA);snes
+rtype2;arcade
+rtype2;fba
+rtype2;mame-advmame
+rtype2;mame-libretro
+rtype2;mame-mame4all
+rtype2j;arcade
+rtype2j;fba
+rtype2j;mame-advmame
+rtype2j;mame-libretro
+rtype2j;mame-mame4all
+rtype2jc;arcade
+rtype2jc;fba
+rtype2jc;mame-advmame
+rtype2jc;mame-libretro
+rtype2jc;mame-mame4all
+rtype;arcade
+rtype;fba
+rtype;mame-advmame
+rtype;mame-libretro
+rtype;mame-mame4all
+rtypeb;arcade
+rtypeb;fba
+rtypeb;mame-advmame
+rtypeb;mame-libretro
+rtypeb;mame-mame4all
+rtypej;arcade
+rtypej;fba
+rtypej;mame-advmame
+rtypej;mame-libretro
+rtypej;mame-mame4all
+rtypejp;arcade
+rtypejp;fba
+rtypejp;mame-advmame
+rtypejp;mame-libretro
+rtypejp;mame-mame4all
+rtypeleo;arcade
+rtypeleo;fba
+rtypeleo;mame-advmame
+rtypeleo;mame-libretro
+rtypeleo;mame-mame4all
+rtypeleoj;arcade
+rtypeleoj;fba
+rtypeleoj;mame-advmame
+rtypeleoj;mame-libretro
+rtypeleoj;mame-mame4all
+rtypeu;arcade
+rtypeu;fba
+rtypeu;mame-advmame
+rtypeu;mame-libretro
+rtypeu;mame-mame4all

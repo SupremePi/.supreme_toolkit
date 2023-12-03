@@ -1,0 +1,32 @@
+Rayman (World);atarijaguar
+Rayman 3D (USA);3ds
+Rayman Origins (USA);3ds
+Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It);n64
+Rayman - Raving Rabbids (USA) (En,Fr,Es);nds
+Rayman - Raving Rabbids - TV Party (USA) (En,Fr,Es) [b];nds
+Rayman - Raving Rabbids 2 (USA) (En,Fr,Es);nds
+Rayman DS (USA) (En,Fr,Es);nds
+Rayman - 10th Anniversary (USA) (En,Fr,De,Es,It);gba
+Rayman - Hoodlum's Revenge (USA) (En,Fr,Es);gba
+Rayman - Raving Rabbids (USA) (En,Fr,Es);gba
+Rayman 3 (USA) (En,Fr,Es);gba
+Rayman Advance (USA) (En,Fr,De,Es,It);gba
+Winnie the Pooh's Rumbly Tumbly Adventure & Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi);gba
+Rayman (USA);gbc
+Rayman 2 - The Great Escape (USA);gbc
+Rayman 3 - Hoodlum Havoc (USA);gc
+Rayman Arena (USA);gc
+Rayman Raving Rabbids (USA);wii
+Rayman Raving Rabbids 2 (USA);wii
+Rayman Legends (USA);wiiu
+rayman;pc
+Rayman 2 - The Great Escape (USA);dreamcast
+Rayman (USA);saturn
+Rayman 2 - Revolution (USA);ps2
+Rayman 3 - Hoodlum Havoc (USA);ps2
+Rayman Arena (USA);ps2
+Rayman Raving Rabbids (USA);ps2
+Rayman (USA);psx
+Rayman 2 - The Great Escape (USA);psx
+Rayman Brain Games (USA);psx
+Rayman Rush (USA);psx

@@ -1,0 +1,40 @@
+Bard's Tale (Europe) (Disk 1);amstradcpc
+Bard's Tale (Europe) (Disk 2);amstradcpc
+bardstale-talesoftheunknown_disk1;apple2gs
+bardstaleii-thedestinyknight_disk1;apple2gs
+Bard's Tale II - The Destiny Knight, The (USA) (Disk 1);apple2
+Bard's Tale II - The Destiny Knight, The (USA) (Disk 2) (Character);apple2
+Bard's Tale II - The Destiny Knight, The (USA) (Disk 3) (Dungeon 1);apple2
+Bard's Tale II - The Destiny Knight, The (USA) (Disk 4) (Dungeon 2);apple2
+Bard's Tale III - The Thief of Fate, The (USA) (Disk 1);apple2
+Bard's Tale III - The Thief of Fate, The (USA) (Disk 2) (Character);apple2
+Bard's Tale III - The Thief of Fate, The (USA) (Disk 3) (Dungeon 1);apple2
+Bard's Tale III - The Thief of Fate, The (USA) (Disk 4) (Dungeon 2);apple2
+Bard's Tale, The (USA) (Disk 1);apple2
+Bard's Tale, The (USA) (Disk 2) (Character);apple2
+Bard's Tale, The (USA) (Disk 3) (Dungeon 1);apple2
+Bard's Tale, The (USA) (Disk 4) (Dungeon 2);apple2
+Bard's Tale , The - Tales of the Unknown (USA) (Disk 1 Side A);c64
+Bard's Tale , The - Tales of the Unknown (USA) (Disk 1 Side B);c64
+Bard's Tale , The - Tales of the Unknown (USA) (Disk 2);c64
+Bard's Tale II, The - The Destiny Knight (USA) (Disk 1 Side A);c64
+Bard's Tale II, The - The Destiny Knight (USA) (Disk 1 Side B);c64
+Bard's Tale II, The - The Destiny Knight (USA) (Disk 2 Side A);c64
+Bard's Tale II, The - The Destiny Knight (USA) (Disk 2 Side B);c64
+Bard's Tale II, The - The Destiny Knight (USA) (Disk 3);c64
+Bard's Tale III, The - Thief of Fate (USA) (Disk 1 Side A);c64
+Bard's Tale III, The - Thief of Fate (USA) (Disk 1 Side B);c64
+Bard's Tale III, The - Thief of Fate (USA) (Disk 2 Side A);c64
+Bard's Tale III, The - Thief of Fate (USA) (Disk 2 Side B);c64
+Bard's Tale III, The - Thief of Fate (USA) (Disk 3 Side A);c64
+Bard's Tale III, The - Thief of Fate (USA) (Disk 3 Side B);c64
+BardsTale_v1.0_0010;amiga1200
+BardsTale_v1.0_0010;amiga
+Bard's Tale, The (USA);nes
+bardtale;pc
+bardst2;pc
+bardst3;pc
+Bard's Tale, The (Europe);zxspectrum
+Bard's Tale, The (USA);ps2
+Bard's Tale, The  - Tales of the Unknown (USA);atarist
+Bard's Tale, The - Tales of the Unknown (USA);atarist

@@ -1,0 +1,53 @@
+Super Zaxxon (Europe);atari800
+Super Zaxxon (HesWare) (USA);c64
+Super Zaxxon (US Gold+SEGA) (Europe);c64
+Super Zaxxon (USA);apple2
+Super Zaxxon;adam
+Zaxxon (Datasoft );coco
+Zaxxon (Datasoft Inc);dragon32
+Zaxxon (Europe);zxspectrum
+Zaxxon (Japan);sc-3000
+Zaxxon (Japan);sg-1000
+Zaxxon (Synapse Software) (USA);c64
+Zaxxon (US Gold + SEGA) (Europe);c64
+Zaxxon (USA);apple2
+Zaxxon (USA);atari2600
+Zaxxon (USA);atari5200
+Zaxxon (USA);atari800
+Zaxxon (USA, Europe);colecovision
+Zaxxon (World);intellivision
+Zaxxon 3-D (World);markiii
+Zaxxon 3-D (World);mastersystem
+Zaxxon's Motherbase 2000 (Japan, USA);sega32x
+Zaxxon_v1.1_1MB;amiga1200
+Zaxxon_v1.1_1MB;amiga
+szaxxon;arcade
+szaxxon;fba
+szaxxon;mame-advmame
+szaxxon;mame-libretro
+szaxxon;mame-mame4all
+zaxxon2;arcade
+zaxxon2;fba
+zaxxon2;mame-advmame
+zaxxon2;mame-libretro
+zaxxon2;mame-mame4all
+zaxxon3;arcade
+zaxxon3;fba
+zaxxon3;mame-advmame
+zaxxon3;mame-libretro
+zaxxon3;mame-mame4all
+zaxxon;arcade
+zaxxon;fba
+zaxxon;mame-advmame
+zaxxon;mame-libretro
+zaxxon;mame-mame4all
+zaxxonb;arcade
+zaxxonb;fba
+zaxxonb;mame-advmame
+zaxxonb;mame-libretro
+zaxxonb;mame-mame4all
+zaxxonj;arcade
+zaxxonj;fba
+zaxxonj;mame-advmame
+zaxxonj;mame-libretro
+zaxxonj;mame-mame4all

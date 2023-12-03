@@ -1,0 +1,230 @@
+Spider-Man and X-Men - Arcade's Revenge (USA, Europe);megadrive
+Spider-Man and the X-Men - Arcade's Revenge (USA);snes
+Spider-Man and the X-Men in Arcade's Revenge (USA);gamegear
+Spider-Man-X-Men (USA, Europe);gb
+Uncanny X-Men (R);dendy
+Uncanny X-Men, The (USA);nes
+X-Men (USA);gamegear
+X-Men (USA);megadrive
+X-Men - Children of the Atom (USA);saturn
+X-Men - Children of the Atom (USA);psx
+X-Men - Destiny (USA);nds
+X-Men - Gamemaster's Legacy (USA, Europe);gamegear
+X-Men - Madness in Murderworld (USA) (Side A);c64
+X-Men - Madness in Murderworld (USA) (Side B);c64
+X-Men - Mojo World (Brazil);mastersystem
+X-Men - Mojo World (USA, Europe);gamegear
+X-Men - Mutant Academy (USA);psx
+X-Men - Mutant Academy (USA, Europe);gbc
+X-Men - Mutant Academy 2 (USA);psx
+X-Men - Mutant Apocalypse (USA);snes
+X-Men - Mutant Wars (USA, Europe);gbc
+X-Men - Next Dimension (USA);gc
+X-Men - Next Dimension (USA);ps2
+X-Men - Reign of Apocalypse (USA, Europe);gba
+X-Men - The Official Game (USA);gba
+X-Men - The Official Game (USA);gc
+X-Men - The Official Game (USA);ps2
+X-Men - The Official Game (USA);nds
+X-Men - Wolverine's Rage (USA);gbc
+X-Men 2 - Clone Wars (USA, Europe);megadrive
+X-Men Legends (USA);gc
+X-Men Legends (USA);ps2
+X-Men Legends II - Rise of Apocalypse (USA);gc
+X-Men Legends II - Rise of Apocalypse (USA);psp
+X-Men Legends II - Rise of Apocalypse (USA);ps2
+X-Men Origins - Wolverine (USA) (En,Fr) [b];nds
+X-Men Origins - Wolverine (USA);psp
+X-Men Origins - Wolverine (USA);ps2
+X-Men vs. Street Fighter (USA);psx
+X-Men;openbor
+xmcota;arcade
+xmcota;fba
+xmcota;mame-advmame
+xmcota;mame-libretro
+xmcota;mame-mame4all
+xmcotaa;arcade
+xmcotaa;fba
+xmcotaa;mame-advmame
+xmcotaa;mame-libretro
+xmcotaa;mame-mame4all
+xmcotaar1;arcade
+xmcotaar1;fba
+xmcotaar1;mame-advmame
+xmcotaar1;mame-libretro
+xmcotaar1;mame-mame4all
+xmcotah;arcade
+xmcotah;fba
+xmcotah;mame-advmame
+xmcotah;mame-libretro
+xmcotah;mame-mame4all
+xmcotahr1;arcade
+xmcotahr1;fba
+xmcotahr1;mame-advmame
+xmcotahr1;mame-libretro
+xmcotahr1;mame-mame4all
+xmcotaj1;arcade
+xmcotaj1;fba
+xmcotaj1;mame-advmame
+xmcotaj1;mame-libretro
+xmcotaj1;mame-mame4all
+xmcotaj2;arcade
+xmcotaj2;fba
+xmcotaj2;mame-advmame
+xmcotaj2;mame-libretro
+xmcotaj2;mame-mame4all
+xmcotaj3;arcade
+xmcotaj3;fba
+xmcotaj3;mame-advmame
+xmcotaj3;mame-libretro
+xmcotaj3;mame-mame4all
+xmcotaj;arcade
+xmcotaj;fba
+xmcotaj;mame-advmame
+xmcotaj;mame-libretro
+xmcotaj;mame-mame4all
+xmcotajr;arcade
+xmcotajr;fba
+xmcotajr;mame-advmame
+xmcotajr;mame-libretro
+xmcotajr;mame-mame4all
+xmcotar1;arcade
+xmcotar1;fba
+xmcotar1;mame-advmame
+xmcotar1;mame-libretro
+xmcotar1;mame-mame4all
+xmcotar1d;arcade
+xmcotar1d;fba
+xmcotar1d;mame-advmame
+xmcotar1d;mame-libretro
+xmcotar1d;mame-mame4all
+xmcotau;arcade
+xmcotau;fba
+xmcotau;mame-advmame
+xmcotau;mame-libretro
+xmcotau;mame-mame4all
+xmen2pa;arcade
+xmen2pa;fba
+xmen2pa;mame-advmame
+xmen2pa;mame-libretro
+xmen2pa;mame-mame4all
+xmen2pe;arcade
+xmen2pe;fba
+xmen2pe;mame-advmame
+xmen2pe;mame-libretro
+xmen2pe;mame-mame4all
+xmen2pj;arcade
+xmen2pj;fba
+xmen2pj;mame-advmame
+xmen2pj;mame-libretro
+xmen2pj;mame-mame4all
+xmen2pu;arcade
+xmen2pu;fba
+xmen2pu;mame-advmame
+xmen2pu;mame-libretro
+xmen2pu;mame-mame4all
+xmen6p;arcade
+xmen6p;fba
+xmen6p;mame-advmame
+xmen6p;mame-libretro
+xmen6p;mame-mame4all
+xmen6pu;arcade
+xmen6pu;fba
+xmen6pu;mame-advmame
+xmen6pu;mame-libretro
+xmen6pu;mame-mame4all
+xmen;arcade
+xmen;fba
+xmen;mame-advmame
+xmen;mame-libretro
+xmen;mame-mame4all
+xmena;arcade
+xmena;fba
+xmena;mame-advmame
+xmena;mame-libretro
+xmena;mame-mame4all
+xmenaa;arcade
+xmenaa;fba
+xmenaa;mame-advmame
+xmenaa;mame-libretro
+xmenaa;mame-mame4all
+xmene;arcade
+xmene;fba
+xmene;mame-advmame
+xmene;mame-libretro
+xmene;mame-mame4all
+xmenj;arcade
+xmenj;fba
+xmenj;mame-advmame
+xmenj;mame-libretro
+xmenj;mame-mame4all
+xmvsf;arcade
+xmvsf;fba
+xmvsf;mame-advmame
+xmvsf;mame-libretro
+xmvsf;mame-mame4all
+xmvsfa;arcade
+xmvsfa;fba
+xmvsfa;mame-advmame
+xmvsfa;mame-libretro
+xmvsfa;mame-mame4all
+xmvsfar1;arcade
+xmvsfar1;fba
+xmvsfar1;mame-advmame
+xmvsfar1;mame-libretro
+xmvsfar1;mame-mame4all
+xmvsfar2;arcade
+xmvsfar2;fba
+xmvsfar2;mame-advmame
+xmvsfar2;mame-libretro
+xmvsfar2;mame-mame4all
+xmvsfar3;arcade
+xmvsfar3;fba
+xmvsfar3;mame-advmame
+xmvsfar3;mame-libretro
+xmvsfar3;mame-mame4all
+xmvsfb;arcade
+xmvsfb;fba
+xmvsfb;mame-advmame
+xmvsfb;mame-libretro
+xmvsfb;mame-mame4all
+xmvsfh;arcade
+xmvsfh;fba
+xmvsfh;mame-advmame
+xmvsfh;mame-libretro
+xmvsfh;mame-mame4all
+xmvsfj;arcade
+xmvsfj;fba
+xmvsfj;mame-advmame
+xmvsfj;mame-libretro
+xmvsfj;mame-mame4all
+xmvsfjr1;arcade
+xmvsfjr1;fba
+xmvsfjr1;mame-advmame
+xmvsfjr1;mame-libretro
+xmvsfjr1;mame-mame4all
+xmvsfjr2;arcade
+xmvsfjr2;fba
+xmvsfjr2;mame-advmame
+xmvsfjr2;mame-libretro
+xmvsfjr2;mame-mame4all
+xmvsfr1;arcade
+xmvsfr1;fba
+xmvsfr1;mame-advmame
+xmvsfr1;mame-libretro
+xmvsfr1;mame-mame4all
+xmvsfu1d;arcade
+xmvsfu1d;fba
+xmvsfu1d;mame-advmame
+xmvsfu1d;mame-libretro
+xmvsfu1d;mame-mame4all
+xmvsfu;arcade
+xmvsfu;fba
+xmvsfu;mame-advmame
+xmvsfu;mame-libretro
+xmvsfu;mame-mame4all
+xmvsfur1;arcade
+xmvsfur1;fba
+xmvsfur1;mame-advmame
+xmvsfur1;mame-libretro
+xmvsfur1;mame-mame4all

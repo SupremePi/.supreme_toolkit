@@ -1,0 +1,38 @@
+Shrek (Stern) (2008) (1.2);futurepinball
+sh_141;arcade
+sh_141;fba
+sh_141;mame-advmame
+sh_141;mame-libretro
+sh_141;mame-mame4all
+Shrek - Forever After (USA) (En,Fr) (NDSi Enhanced) [b];nds
+Shrek - Ogres & Dronkeys (USA);nds
+Shrek - Smash n' Crash Racing (USA);nds
+Shrek - Super Slam (USA);nds
+Shrek the Third (USA);nds
+Shrek's Carnival Craze - Party Games (USA) (En,Fr) [b];nds
+2 in 1 Game Pack - Shrek 2 + Shark Tale (USA);gba
+2-in-1 Fun Pack - Shrek 2 + Madagascar (USA);gba
+2-in-1 Fun Pack - Shrek 2 + Madagascar - Operation Penguin (USA);gba
+Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl);gba
+Shrek - Reekin' Havoc (USA) (En,Fr,De,Es,It,Nl);gba
+Shrek - Smash n' Crash Racing (USA);gba
+Shrek - Super Slam (USA);gba
+Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl);gba
+Shrek 2 (USA, Europe);gba
+Shrek 2 - Beg for Mercy (USA, Europe);gba
+Shrek the Third (USA);gba
+Shrek - Fairy Tale Freakdown (USA, Europe);gbc
+Shrek - Extra Large (USA);gc
+Shrek 2 (USA);gc
+Shrek Smash n' Crash Racing (USA);gc
+Shrek Super Party (USA);gc
+Shrek SuperSlam (USA);gc
+Shrek - Super Party (USA);ps2
+Shrek 2 (USA);ps2
+Shrek Smash n' Crash Racing (USA);ps2
+Shrek SuperSlam (USA);ps2
+Shrek the Third (USA);ps2
+Shrek's Carnival Craze (USA);ps2
+Shrek Treasure Hunt (USA);psx
+Shrek - Smash n' Crash Racing (USA);psp
+Shrek the Third (USA);psp

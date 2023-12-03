@@ -1,0 +1,60 @@
+Wipeout (Europe);amstradcpc
+Wipeout (USA) (Side A);apple2
+Wipeout (USA) (Side B);apple2
+Wipeout (USA);c64
+Wipeout (Active Software);dragon32
+Wipeout (Datacom Publications);dragon32
+ep_wipeo;arcade
+ep_wipeo;fba
+ep_wipeo;mame-advmame
+ep_wipeo;mame-libretro
+ep_wipeo;mame-mame4all
+ep_wipeoa;arcade
+ep_wipeoa;fba
+ep_wipeoa;mame-advmame
+ep_wipeoa;mame-libretro
+ep_wipeoa;mame-mame4all
+ep_wipeob;arcade
+ep_wipeob;fba
+ep_wipeob;mame-advmame
+ep_wipeob;mame-libretro
+ep_wipeob;mame-mame4all
+ep_wipeoc;arcade
+ep_wipeoc;fba
+ep_wipeoc;mame-advmame
+ep_wipeoc;mame-libretro
+ep_wipeoc;mame-mame4all
+ep_wipeoe;arcade
+ep_wipeoe;fba
+ep_wipeoe;mame-advmame
+ep_wipeoe;mame-libretro
+ep_wipeoe;mame-mame4all
+wipeormt;arcade
+wipeormt;fba
+wipeormt;mame-advmame
+wipeormt;mame-libretro
+wipeormt;mame-mame4all
+wipeout;arcade
+wipeout;fba
+wipeout;mame-advmame
+wipeout;mame-libretro
+wipeout;mame-mame4all
+Wipeout - Create and Crash (USA);3ds
+Wipeout 2 (USA);3ds
+Wipeout 3 (USA);3ds
+Wipeout 64 (USA);n64
+Wipeout - The Game (USA);nds
+Wipeout 2 (USA);nds
+Wipeout 3 (USA);wiiu
+Wipeout - Create & Crash (USA);wiiu
+WipEout (USA);saturn
+WipEout 2097 (Europe);saturn
+Wipeout (Europe);zxspectrum
+Wipeout Fusion (USA);ps2
+Wipeout Pulse (Europe);ps2
+WipEout (USA);psx
+WipEout 3 (USA);psx
+WipEout 3 - Special Edition (Europe);psx
+Wipeout XL (USA);psx
+WipEout Pulse (USA);psp
+WipEout Pure (USA);psp

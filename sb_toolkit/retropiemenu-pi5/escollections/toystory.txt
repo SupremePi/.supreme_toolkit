@@ -1,0 +1,13 @@
+Toy Story 2 (USA);n64
+Toy Story 3 (USA) (En,Fr,Es) (NDSi Enhanced) [b];nds
+Toy Story 2 (USA, Europe);gbc
+Toy Story Racer (USA);gbc
+Toy Story (USA);gb
+Toy Story (USA) (Rev A);gb
+Toy Story 2 - Buzz Lightyear to the Rescue! (USA);dreamcast
+Toy Story (USA);genesis
+Toy Story 3 (USA);ps2
+Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue! (USA);psx
+Disney-Pixar Toy Story Racer (USA);psx
+Toy Story 3 (USA);psp
+Toy Story (USA);snes

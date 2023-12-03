@@ -1,0 +1,14 @@
+Doom (World);atarijaguar
+Doom (Europe) (Unl);vic20
+Doom (Europe) (Unl);vic20
+Doom 64 (USA) (Rev A);n64
+Doom (USA, Europe);gba
+Doom II (USA);gba
+Doom (USA);3do
+doom2;pc
+doomult;pc
+Doom (Japan, USA);sega32x
+Doom Troopers (USA);genesis
+Doom (USA);saturn
+Doom (USA);psx
+Doom (USA);snes

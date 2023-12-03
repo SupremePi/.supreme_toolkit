@@ -1,0 +1,53 @@
+sprk_090;arcade
+sprk_090;fba
+sprk_090;mame-advmame
+sprk_090;mame-libretro
+sprk_090;mame-mame4all
+sprk_096;arcade
+sprk_096;fba
+sprk_096;mame-advmame
+sprk_096;mame-libretro
+sprk_096;mame-mame4all
+sprk_103;arcade
+sprk_103;fba
+sprk_103;mame-advmame
+sprk_103;mame-libretro
+sprk_103;mame-mame4all
+sc4spark;arcade
+sc4spark;fba
+sc4spark;mame-advmame
+sc4spark;mame-libretro
+sc4spark;mame-mame4all
+sc4sparka;arcade
+sc4sparka;fba
+sc4sparka;mame-advmame
+sc4sparka;mame-libretro
+sc4sparka;mame-mame4all
+sc4sparkb;arcade
+sc4sparkb;fba
+sc4sparkb;mame-advmame
+sc4sparkb;mame-libretro
+sc4sparkb;mame-mame4all
+sc4sparkc;arcade
+sc4sparkc;fba
+sc4sparkc;mame-advmame
+sc4sparkc;mame-libretro
+sc4sparkc;mame-mame4all
+sc4sparkd;arcade
+sc4sparkd;fba
+sc4sparkd;mame-advmame
+sc4sparkd;mame-libretro
+sc4sparkd;mame-mame4all
+sc4sparke;arcade
+sc4sparke;fba
+sc4sparke;mame-advmame
+sc4sparke;mame-libretro
+sc4sparke;mame-mame4all
+South Park (USA);n64
+South Park - Chef's Luv Shack (USA);n64
+South Park Rally (USA);n64
+South Park - Chef's Luv Shack (USA);dreamcast
+South Park Rally (USA);dreamcast
+South Park (USA);psx
+South Park - Chef's Luv Shack (USA);psx
+South Park Rally (USA);psx

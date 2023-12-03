@@ -1,0 +1,305 @@
+Color Space Invaders (PMODE 4) (Spectral Associates);coco
+Color Space Invaders (Spectral Associates);coco
+Pepsi Invaders - Coke Wins (USA);atari2600
+Space Invaders '91 (USA);megadrive
+Space Invaders (Acornsoft) (Europe);bbcb
+Space Invaders (Budgie UK) (Europe) (Unl);atarist
+Space Invaders (Bug Byte) (Europe);bbcb
+Space Invaders (Europe);amstradcpc
+Space Invaders (Europe);vic20
+Space Invaders (J.Morrison Micros);dragon32
+Space Invaders (Japan);wonderswan
+Space Invaders (Japan);msx
+Space Invaders (Japan);famicom
+Space Invaders (Japan);gb
+Space Invaders (Japan);sc-3000
+Space Invaders (Japan);sg-1000
+Space Invaders (Japan);saturn-japan
+Space Invaders (Japan);saturn
+Space Invaders (Pro Software) (Europe);bbcb
+Space Invaders (R);dendy
+Space Invaders (Sinister Developments) (Europe) (Unl);atarist
+Space Invaders (Superior Software) (Europe);bbcb
+Space Invaders (Tiny-Tomo);x68000
+Space Invaders (USA);atari2600
+Space Invaders (USA);atari5200
+Space Invaders (USA);atari800
+Space Invaders (USA);astrocde
+Space Invaders (USA);c64
+Space Invaders (USA);n64
+Space Invaders (USA);gbc
+Space Invaders (USA);gb
+Space Invaders (USA);sgb
+Space Invaders (USA);psx
+Space Invaders (USA, Europe);gba
+Space Invaders - Empire Invaders (Hack);nesh
+Space Invaders - Fukkatsu no Hi (Japan);pcengine
+Space Invaders - The Original Game (Japan);pce-cd
+Space Invaders - The Original Game (USA);snes
+Space Invaders - Virtual Collection (Japan);virtualboy
+Space Invaders Evolution (Europe);psp
+Space Invaders Extreme (USA) (En,Ja,Fr,De,Es,It);nds
+Space Invaders Extreme (USA);psp
+Space Invaders Extreme 2 (USA) (En,Ja,Fr,De,Es,It);nds
+Space Invaders Pocket (Japan);psp-japan
+Space Invaders Pocket (Japan);psp
+Space Invaders Revolution (USA) (En,Fr,De,Es,It);nds
+Space_Invaders;mz700
+Super Space Invaders (Europe);amstradcpc
+Super Space Invaders (Europe);atarist
+Super Space Invaders (Europe);c64
+Super Space Invaders (Europe);mastersystem
+Super Space Invaders (Europe);zxspectrum
+Super Space Invaders (USA, Europe);gamegear
+SuperSpaceInvaders_v1.2;amiga1200
+SuperSpaceInvaders_v1.2;amiga
+darthvdr;arcade
+darthvdr;fba
+darthvdr;mame-advmame
+darthvdr;mame-libretro
+darthvdr;mame-mame4all
+invad2ct;arcade
+invad2ct;fba
+invad2ct;mame-advmame
+invad2ct;mame-libretro
+invad2ct;mame-mame4all
+invaddlx;arcade
+invaddlx;fba
+invaddlx;mame-advmame
+invaddlx;mame-libretro
+invaddlx;mame-mame4all
+invader4;arcade
+invader4;fba
+invader4;mame-advmame
+invader4;mame-libretro
+invader4;mame-mame4all
+invaderl;arcade
+invaderl;fba
+invaderl;mame-advmame
+invaderl;mame-libretro
+invaderl;mame-mame4all
+invaders;arcade
+invaders;fba
+invaders;mame-advmame
+invaders;mame-libretro
+invaders;mame-mame4all
+invadersem;arcade
+invadersem;fba
+invadersem;mame-advmame
+invadersem;mame-libretro
+invadersem;mame-mame4all
+invadpt2;arcade
+invadpt2;fba
+invadpt2;mame-advmame
+invadpt2;mame-libretro
+invadpt2;mame-mame4all
+invadpt2br;arcade
+invadpt2br;fba
+invadpt2br;mame-advmame
+invadpt2br;mame-libretro
+invadpt2br;mame-mame4all
+invadrmr;arcade
+invadrmr;fba
+invadrmr;mame-advmame
+invadrmr;mame-libretro
+invadrmr;mame-mame4all
+invmulti;arcade
+invmulti;fba
+invmulti;mame-advmame
+invmulti;mame-libretro
+invmulti;mame-mame4all
+invmultim1a;arcade
+invmultim1a;fba
+invmultim1a;mame-advmame
+invmultim1a;mame-libretro
+invmultim1a;mame-mame4all
+invmultim2a;arcade
+invmultim2a;fba
+invmultim2a;mame-advmame
+invmultim2a;mame-libretro
+invmultim2a;mame-mame4all
+invmultim2c;arcade
+invmultim2c;fba
+invmultim2c;mame-advmame
+invmultim2c;mame-libretro
+invmultim2c;mame-mame4all
+invmultim3a;arcade
+invmultim3a;fba
+invmultim3a;mame-advmame
+invmultim3a;mame-libretro
+invmultim3a;mame-mame4all
+invmultip;arcade
+invmultip;fba
+invmultip;mame-advmame
+invmultip;mame-libretro
+invmultip;mame-mame4all
+invmultis1a;arcade
+invmultis1a;fba
+invmultis1a;mame-advmame
+invmultis1a;mame-libretro
+invmultis1a;mame-mame4all
+invmultis2a;arcade
+invmultis2a;fba
+invmultis2a;mame-advmame
+invmultis2a;mame-libretro
+invmultis2a;mame-mame4all
+invmultis3a;arcade
+invmultis3a;fba
+invmultis3a;mame-advmame
+invmultis3a;mame-libretro
+invmultis3a;mame-mame4all
+invmultit3d;arcade
+invmultit3d;fba
+invmultit3d;mame-advmame
+invmultit3d;mame-libretro
+invmultit3d;mame-mame4all
+invqix;arcade
+invqix;fba
+invqix;mame-advmame
+invqix;mame-libretro
+invqix;mame-mame4all
+j6spcinv;arcade
+j6spcinv;fba
+j6spcinv;mame-advmame
+j6spcinv;mame-libretro
+j6spcinv;mame-mame4all
+majest12;arcade
+majest12;fba
+majest12;mame-advmame
+majest12;mame-libretro
+majest12;mame-mame4all
+sicv;arcade
+sicv;fba
+sicv;mame-advmame
+sicv;mame-libretro
+sicv;mame-mame4all
+sisv1;arcade
+sisv1;fba
+sisv1;mame-advmame
+sisv1;mame-libretro
+sisv1;mame-mame4all
+sisv2;arcade
+sisv2;fba
+sisv2;mame-advmame
+sisv2;mame-libretro
+sisv2;mame-mame4all
+sisv3;arcade
+sisv3;fba
+sisv3;mame-advmame
+sisv3;mame-libretro
+sisv3;mame-mame4all
+sisv;arcade
+sisv;fba
+sisv;mame-advmame
+sisv;mame-libretro
+sisv;mame-mame4all
+sitv1;arcade
+sitv1;fba
+sitv1;mame-advmame
+sitv1;mame-libretro
+sitv1;mame-mame4all
+sitv;arcade
+sitv;fba
+sitv;mame-advmame
+sitv;mame-libretro
+sitv;mame-mame4all
+spaceat2;arcade
+spaceat2;fba
+spaceat2;mame-advmame
+spaceat2;mame-libretro
+spaceat2;mame-mame4all
+spaceatt;arcade
+spaceatt;fba
+spaceatt;mame-advmame
+spaceatt;mame-libretro
+spaceatt;mame-mame4all
+spacecom;arcade
+spacecom;fba
+spacecom;mame-advmame
+spacecom;mame-libretro
+spacecom;mame-mame4all
+spacedx;arcade
+spacedx;fba
+spacedx;mame-advmame
+spacedx;mame-libretro
+spacedx;mame-mame4all
+spacedxj;arcade
+spacedxj;fba
+spacedxj;mame-advmame
+spacedxj;mame-libretro
+spacedxj;mame-mame4all
+spacedxo;arcade
+spacedxo;fba
+spacedxo;mame-advmame
+spacedxo;mame-libretro
+spacedxo;mame-mame4all
+spaceinv;arcade
+spaceinv;fba
+spaceinv;mame-advmame
+spaceinv;mame-libretro
+spaceinv;mame-mame4all
+spacerng;arcade
+spacerng;fba
+spacerng;mame-advmame
+spacerng;mame-libretro
+spacerng;mame-mame4all
+spacewr3;arcade
+spacewr3;fba
+spacewr3;mame-advmame
+spacewr3;mame-libretro
+spacewr3;mame-mame4all
+spceking;arcade
+spceking;fba
+spceking;mame-advmame
+spceking;mame-libretro
+spceking;mame-mame4all
+spcewars;arcade
+spcewars;fba
+spcewars;mame-advmame
+spcewars;mame-libretro
+spcewars;mame-mame4all
+spcinv95;arcade
+spcinv95;fba
+spcinv95;mame-advmame
+spcinv95;mame-libretro
+spcinv95;mame-mame4all
+spcinv95u;arcade
+spcinv95u;fba
+spcinv95u;mame-advmame
+spcinv95u;mame-libretro
+spcinv95u;mame-mame4all
+spcinvdj;arcade
+spcinvdj;fba
+spcinvdj;mame-advmame
+spcinvdj;mame-libretro
+spcinvdj;mame-mame4all
+ssi;arcade
+ssi;fba
+ssi;mame-advmame
+ssi;mame-libretro
+ssi;mame-mame4all
+ssia;arcade
+ssia;fba
+ssia;mame-advmame
+ssia;mame-libretro
+ssia;mame-mame4all
+tst_invd;arcade
+tst_invd;fba
+tst_invd;mame-advmame
+tst_invd;mame-libretro
+tst_invd;mame-mame4all
+v4psi;arcade
+v4psi;fba
+v4psi;mame-advmame
+v4psi;mame-libretro
+v4psi;mame-mame4all
+v4psia;arcade
+v4psia;fba
+v4psia;mame-advmame
+v4psia;mame-libretro
+v4psia;mame-mame4all
+v4psib;arcade
+v4psib;fba
+v4psib;mame-advmame
+v4psib;mame-libretro
+v4psib;mame-mame4all

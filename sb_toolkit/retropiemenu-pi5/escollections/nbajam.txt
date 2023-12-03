@@ -1,0 +1,63 @@
+NBA Jam '99 (USA, Europe);gbc
+NBA Jam (Europe) (Proto);mastersystem
+NBA Jam (Japan);megacd-japan
+NBA Jam (USA);segacd
+NBA Jam (USA);gamegear
+NBA Jam (USA);snes
+NBA Jam (USA, Europe);gb
+NBA Jam (USA, Europe);megadrive
+NBA Jam - Tournament Edition (USA);psx
+NBA Jam - Tournament Edition (USA);snes
+NBA Jam - Tournament Edition (USA, Europe);gb
+NBA Jam 2000 (USA);n64
+NBA Jam 2001 (USA);gbc
+NBA Jam 2002 (USA, Europe);gba
+NBA Jam 2k17 (Hack);snesh
+NBA Jam 99 (USA);n64
+NBA Jam Extreme (USA);saturn
+NBA Jam Extreme (USA);psx
+NBA Jam T.E. (World);atarijaguar
+NBA Jam Tournament Edition (USA);saturn
+NBA Jam Tournament Edition (USA, Europe);gamegear
+NBA Jam Tournament Edition (World);sega32x
+NBA Jam Tournament Edition (World);megadrive
+nbajam;arcade
+nbajam;fba
+nbajam;mame-advmame
+nbajam;mame-libretro
+nbajam;mame-mame4all
+nbajamex;arcade
+nbajamex;fba
+nbajamex;mame-advmame
+nbajamex;mame-libretro
+nbajamex;mame-mame4all
+nbajamr2;arcade
+nbajamr2;fba
+nbajamr2;mame-advmame
+nbajamr2;mame-libretro
+nbajamr2;mame-mame4all
+nbajamte1;arcade
+nbajamte1;fba
+nbajamte1;mame-advmame
+nbajamte1;mame-libretro
+nbajamte1;mame-mame4all
+nbajamte2;arcade
+nbajamte2;fba
+nbajamte2;mame-advmame
+nbajamte2;mame-libretro
+nbajamte2;mame-mame4all
+nbajamte3;arcade
+nbajamte3;fba
+nbajamte3;mame-advmame
+nbajamte3;mame-libretro
+nbajamte3;mame-mame4all
+nbajamte;arcade
+nbajamte;fba
+nbajamte;mame-advmame
+nbajamte;mame-libretro
+nbajamte;mame-mame4all
+nbajamten;arcade
+nbajamten;fba
+nbajamten;mame-advmame
+nbajamten;mame-libretro
+nbajamten;mame-mame4all

@@ -1,0 +1,90 @@
+C - The Contra Adventure (USA);psx
+Contra (Japan) (Translated En);famicom
+Contra (Japan);msx2
+Contra (R);dendy
+Contra (USA);c64
+Contra (USA);nes
+Contra - Hard Corps (Hack);genh
+Contra - Hard Corps (USA, Korea);megadrive
+Contra - Legacy of War (USA);saturn
+Contra - Legacy of War (USA);psx
+Contra - Shattered Soldier;ps2
+Contra - Super Contra II (Hack);nesh
+Contra - The Alien Wars (USA);gb
+Contra - The Alien Wars (USA);sgb
+Contra - The Hard Corps (Japan);megadrive-japan
+Contra 4 (USA);nds
+Contra Advance - The Alien Wars EX (USA);gba
+Contra Force (R);dendy
+Contra Force (USA);nes
+Contra III - The Alien Wars (MSU-1);snesmsu1
+Contra III - The Alien Wars (USA);snes
+Contra IV - The Alien Wars (Hack);snesh
+Super Contra (R);dendy
+Super Contra 7 (As) (Unl) [t3][T-Rus Multisoft (20.08.2009)];dendy
+Super Contra 7 (China) (Unl) (Translated En);famicom
+contra1;arcade
+contra1;fba
+contra1;mame-advmame
+contra1;mame-libretro
+contra1;mame-mame4all
+contra;arcade
+contra;fba
+contra;mame-advmame
+contra;mame-libretro
+contra;mame-mame4all
+contrab;arcade
+contrab;fba
+contrab;mame-advmame
+contrab;mame-libretro
+contrab;mame-mame4all
+contrabj1;arcade
+contrabj1;fba
+contrabj1;mame-advmame
+contrabj1;mame-libretro
+contrabj1;mame-mame4all
+contrabj;arcade
+contrabj;fba
+contrabj;mame-advmame
+contrabj;mame-libretro
+contrabj;mame-mame4all
+contraj1;arcade
+contraj1;fba
+contraj1;mame-advmame
+contraj1;mame-libretro
+contraj1;mame-mame4all
+contraj;arcade
+contraj;fba
+contraj;mame-advmame
+contraj;mame-libretro
+contraj;mame-mame4all
+gryzor1;arcade
+gryzor1;fba
+gryzor1;mame-advmame
+gryzor1;mame-libretro
+gryzor1;mame-mame4all
+gryzor;arcade
+gryzor;fba
+gryzor;mame-advmame
+gryzor;mame-libretro
+gryzor;mame-mame4all
+nss_con3;arcade
+nss_con3;fba
+nss_con3;mame-advmame
+nss_con3;mame-libretro
+nss_con3;mame-mame4all
+pc_cntra;arcade
+pc_cntra;fba
+pc_cntra;mame-advmame
+pc_cntra;mame-libretro
+pc_cntra;mame-mame4all
+scontra;arcade
+scontra;fba
+scontra;mame-advmame
+scontra;mame-libretro
+scontra;mame-mame4all
+scontraj;arcade
+scontraj;fba
+scontraj;mame-advmame
+scontraj;mame-libretro
+scontraj;mame-mame4all

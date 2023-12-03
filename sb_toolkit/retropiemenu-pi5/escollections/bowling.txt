@@ -1,0 +1,325 @@
+10th Frame (Europe);amstradcpc
+Indoor Bowling (Europe);amstradcpc
+Strike! (Europe);amstradcpc
+Ten-Pin Challenge (Europe);amstradcpc
+Bowling_Micro Match (USA);apfm1000
+Apple Bowl (USA);apple2
+Bowling (USA);apple2
+Bowling (USA);atari2600
+Bowling (USA);astrocde
+10 Pin (Europe);c64
+10th Frame (USA);c64
+5-Pin Bowling (Europe);c64
+Alley Oops (USA);c64
+Bowling (Commodore) (USA);c64
+Bowling (High Tech Software) (Europe);c64
+Bowling (USA);c64
+Bowling Night (Australia);c64
+Little People Bowling Alley (USA);c64
+Number Bowling (Europe);c64
+Strike! (Europe);c64
+Ten Pin Bowling (USA);c64
+Kingpin_-_Arcade_Sports_Bowling_CD32_(Europe);amigacd32
+Bowling (19xx);plus4
+Skittels (USA);vic20
+Ten Pin Bowls (Australia);vic20
+VIC Bowling (USA);vic20
+Skittels (USA);vic20
+Ten Pin Bowls (Australia);vic20
+VIC Bowling (USA);vic20
+Bowling (Unknown) (Proto);dendy
+3D Bowling (USA, Europe);arcadia
+Bowling (USA);channelf
+Bowling-Ninepins (Europe);vc4000
+Bowling + Basketball (USA, Europe);odyssey2
+bowl3d;arcade
+bowl3d;fba
+bowl3d;mame-advmame
+bowl3d;mame-libretro
+bowl3d;mame-mame4all
+alleymas;arcade
+alleymas;fba
+alleymas;mame-advmame
+alleymas;mame-libretro
+alleymas;mame-mame4all
+bbbowlin;arcade
+bbbowlin;fba
+bbbowlin;mame-advmame
+bbbowlin;mame-libretro
+bbbowlin;mame-mame4all
+bowlrama;arcade
+bowlrama;fba
+bowlrama;mame-advmame
+bowlrama;mame-libretro
+bowlrama;mame-mame4all
+bowler;arcade
+bowler;fba
+bowler;mame-advmame
+bowler;mame-libretro
+bowler;mame-mame4all
+bowltry;arcade
+bowltry;fba
+bowltry;mame-advmame
+bowltry;mame-libretro
+bowltry;mame-mame4all
+capbowl;arcade
+capbowl;fba
+capbowl;mame-advmame
+capbowl;mame-libretro
+capbowl;mame-mame4all
+capbowl2;arcade
+capbowl2;fba
+capbowl2;mame-advmame
+capbowl2;mame-libretro
+capbowl2;mame-mame4all
+capbowl3;arcade
+capbowl3;fba
+capbowl3;mame-advmame
+capbowl3;mame-libretro
+capbowl3;mame-mame4all
+capbowl4;arcade
+capbowl4;fba
+capbowl4;mame-advmame
+capbowl4;mame-libretro
+capbowl4;mame-mame4all
+cmmb162;arcade
+cmmb162;fba
+cmmb162;mame-advmame
+cmmb162;mame-libretro
+cmmb162;mame-mame4all
+champbwl;arcade
+champbwl;fba
+champbwl;mame-advmame
+champbwl;mame-libretro
+champbwl;mame-mame4all
+clbowl;arcade
+clbowl;fba
+clbowl;mame-advmame
+clbowl;mame-libretro
+clbowl;mame-mame4all
+gogostrk;arcade
+gogostrk;fba
+gogostrk;mame-advmame
+gogostrk;mame-libretro
+gogostrk;mame-mame4all
+kingpin;arcade
+kingpin;fba
+kingpin;mame-advmame
+kingpin;mame-libretro
+kingpin;mame-mame4all
+bmcbowl;arcade
+bmcbowl;fba
+bmcbowl;mame-advmame
+bmcbowl;mame-libretro
+bmcbowl;mame-mame4all
+krzybowl;arcade
+krzybowl;fba
+krzybowl;mame-advmame
+krzybowl;mame-libretro
+krzybowl;mame-mame4all
+lbowling;arcade
+lbowling;fba
+lbowling;mame-advmame
+lbowling;mame-libretro
+lbowling;mame-mame4all
+medlanes;arcade
+medlanes;fba
+medlanes;mame-advmame
+medlanes;mame-libretro
+medlanes;mame-mame4all
+cprobowl;arcade
+cprobowl;fba
+cprobowl;mame-advmame
+cprobowl;mame-libretro
+cprobowl;mame-mame4all
+prosport;arcade
+prosport;fba
+prosport;mame-advmame
+prosport;mame-libretro
+prosport;mame-mame4all
+prosporta;arcade
+prosporta;fba
+prosporta;mame-advmame
+prosporta;mame-libretro
+prosporta;mame-mame4all
+pzlbowl;arcade
+pzlbowl;fba
+pzlbowl;mame-advmame
+pzlbowl;mame-libretro
+pzlbowl;mame-mame4all
+robotbwl;arcade
+robotbwl;fba
+robotbwl;mame-advmame
+robotbwl;mame-libretro
+robotbwl;mame-mame4all
+simpbowl;arcade
+simpbowl;fba
+simpbowl;mame-advmame
+simpbowl;mame-libretro
+simpbowl;mame-mame4all
+ar_bowl;arcade
+ar_bowl;fba
+ar_bowl;mame-advmame
+ar_bowl;mame-libretro
+ar_bowl;mame-mame4all
+monrobwl;arcade
+monrobwl;fba
+monrobwl;mame-advmame
+monrobwl;mame-libretro
+monrobwl;mame-mame4all
+stratab1;arcade
+stratab1;fba
+stratab1;mame-advmame
+stratab1;mame-libretro
+stratab1;mame-mame4all
+stratab;arcade
+stratab;fba
+stratab;mame-advmame
+stratab;mame-libretro
+stratab;mame-mame4all
+sbowling;arcade
+sbowling;fba
+sbowling;mame-advmame
+sbowling;mame-libretro
+sbowling;mame-mame4all
+sstrike;arcade
+sstrike;fba
+sstrike;mame-advmame
+sstrike;mame-libretro
+sstrike;mame-mame4all
+techbowl;arcade
+techbowl;fba
+techbowl;mame-advmame
+techbowl;mame-libretro
+techbowl;mame-mame4all
+upyoural;arcade
+upyoural;fba
+upyoural;mame-advmame
+upyoural;mame-libretro
+upyoural;mame-mame4all
+vbowlj;arcade
+vbowlj;fba
+vbowlj;mame-advmame
+vbowlj;mame-libretro
+vbowlj;mame-mame4all
+vbowl;arcade
+vbowl;fba
+vbowl;mame-advmame
+vbowl;mame-libretro
+vbowl;mame-mame4all
+wcbowl11;arcade
+wcbowl11;fba
+wcbowl11;mame-advmame
+wcbowl11;mame-libretro
+wcbowl11;mame-mame4all
+wcbowl12;arcade
+wcbowl12;fba
+wcbowl12;mame-advmame
+wcbowl12;mame-libretro
+wcbowl12;mame-mame4all
+wcbowl13;arcade
+wcbowl13;fba
+wcbowl13;mame-advmame
+wcbowl13;mame-libretro
+wcbowl13;mame-mame4all
+wcbowl13j;arcade
+wcbowl13j;fba
+wcbowl13j;mame-advmame
+wcbowl13j;mame-libretro
+wcbowl13j;mame-mame4all
+wcbowl14;arcade
+wcbowl14;fba
+wcbowl14;mame-advmame
+wcbowl14;mame-libretro
+wcbowl14;mame-mame4all
+wcbowl15;arcade
+wcbowl15;fba
+wcbowl15;mame-advmame
+wcbowl15;mame-libretro
+wcbowl15;mame-mame4all
+wcbowl16;arcade
+wcbowl16;fba
+wcbowl16;mame-advmame
+wcbowl16;mame-libretro
+wcbowl16;mame-mame4all
+wcbowl161;arcade
+wcbowl161;fba
+wcbowl161;mame-advmame
+wcbowl161;mame-libretro
+wcbowl161;mame-mame4all
+wcbowl165;arcade
+wcbowl165;fba
+wcbowl165;mame-advmame
+wcbowl165;mame-libretro
+wcbowl165;mame-mame4all
+wcbowl;arcade
+wcbowl;fba
+wcbowl;mame-advmame
+wcbowl;mame-libretro
+wcbowl;mame-mame4all
+wcbowldx;arcade
+wcbowldx;fba
+wcbowldx;mame-advmame
+wcbowldx;mame-libretro
+wcbowldx;mame-mame4all
+wcbowl140;arcade
+wcbowl140;fba
+wcbowl140;mame-advmame
+wcbowl140;mame-libretro
+wcbowl140;mame-mame4all
+PBA Bowling (World);intellivision
+Bowling Bonanza 3D (Europe);3ds
+Brunswick Pro Bowling (USA);3ds
+Brunswick Circuit Pro Bowling (USA);n64
+Milo's Astro Lanes (USA);n64
+Super Bowling (USA);n64
+AMF Bowling Pinbusters! (USA);nds
+Elf Bowling 1 & 2 (USA);nds
+Championship Bowling (USA);nes
+Big Challenge! Go! Go! Bowling (Japan);fds
+Dynamite Bowl (Japan);famicom
+Perfect Bowling (Japan);famicom
+Elf Bowling 1 & 2 (USA);gba
+Ten Pin Alley 2 (USA);gba
+10-Pin Bowling (USA);gbc
+Pocket Bowling (USA);gbc
+World Bowling (USA);gb
+Strike Force Bowling (USA);gc
+Nester's Funky Bowling (USA);virtualboy
+Virtual Bowling (Japan);virtualboy
+Brunswick Pro Bowling (USA);wiiu
+PBA Bowling 2001 (Beta);dreamcast
+Championship Bowling (USA);genesis
+Boogie Woogie Bowling (Japan);megadrive-japan
+Ten Pin Alley (USA);saturn
+BOWLING;zx81
+10th Frame (Europe);zxspectrum
+Spectrum Bowls (Europe);zxspectrum
+Strike! (Europe);zxspectrum
+Ten Pin Challenge (Europe);zxspectrum
+lbowling;neogeo
+League Bowling (World);neocdz
+10 Pin - Champions Alley (Europe);ps2
+AMF Xtreme Bowling (USA);ps2
+Arcade USA (Europe);ps2
+Black Market Bowling (Europe);ps2
+Bowling Xciting (Europe);ps2
+Brunswick Pro Bowling (USA);ps2
+Strike Force Bowling (USA);ps2
+Big Strike Bowling (USA);psx
+Bowling (USA);psx
+Brunswick Circuit Pro Bowling (USA);psx
+Brunswick Circuit Pro Bowling 2 (USA);psx
+Flintstones, The - Bedrock Bowling (USA);psx
+King of Bowling 2 (Europe);psx
+King of Bowling 3 (Europe);psx
+Arcade Air Hockey & Bowling (USA);pspminis
+Bowling 3D (USA);pspminis
+Brunswick Pro Bowling (USA);psp
+Super Bowling (USA);snes
+CoCo's Bowling Alley (Floyd Keirnan);coco
+Bowling I (USA);atari800
+Bowling Version 2 (USA);atari800
+Pro Bowling (USA);atari800
+10th Frame (USA);atarist
+Strike (Europe);atarist

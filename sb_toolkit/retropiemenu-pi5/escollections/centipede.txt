@@ -1,0 +1,89 @@
+1K Centipede (Europe) (Unl);oric
+3 Games in One! - Breakout + Centipede + Warlords (USA);gba
+Arcade Classic No. 2 - Centipede & Millipede (USA, Europe);gb
+Arcade Classic No. 2 - Centipede & Millipede (USA, Europe);sgb
+Centipede (Europe) (Unl);atarist
+Centipede (Europe);zxspectrum
+Centipede (Europe);oric
+Centipede (Intracolor);dragon32
+Centipede (Superior Software) (Europe);bbcb
+Centipede (USA) (Part 1);vic20
+Centipede (USA) (Part 2);vic20
+Centipede (USA);apple2
+Centipede (USA);atari2600
+Centipede (USA);atari5200
+Centipede (USA);atari7800
+Centipede (USA);atari800
+Centipede (USA);colecovision
+Centipede (USA);c64
+Centipede (USA);gbc
+Centipede (USA);dreamcast
+Centipede (USA);psx
+Centipede (USA, Europe);gb
+Centipede (USA, Europe);sgb
+Centipede (Wilsonsoft) (Europe);bbcb
+Centipede (World);intellivision
+Centipede - Infestation (USA);3ds
+Centipede 2025 (Europe);c64
+Centipede;ti99
+Centipedes (Europe);zxspectrum
+caterplr;arcade
+caterplr;fba
+caterplr;mame-advmame
+caterplr;mame-libretro
+caterplr;mame-mame4all
+centipdb;arcade
+centipdb;fba
+centipdb;mame-advmame
+centipdb;mame-libretro
+centipdb;mame-mame4all
+centipdd;arcade
+centipdd;fba
+centipdd;mame-advmame
+centipdd;mame-libretro
+centipdd;mame-mame4all
+centiped1;arcade
+centiped1;fba
+centiped1;mame-advmame
+centiped1;mame-libretro
+centiped1;mame-mame4all
+centiped2;arcade
+centiped2;fba
+centiped2;mame-advmame
+centiped2;mame-libretro
+centiped2;mame-mame4all
+centiped3;arcade
+centiped3;fba
+centiped3;mame-advmame
+centiped3;mame-libretro
+centiped3;mame-mame4all
+centiped;arcade
+centiped;fba
+centiped;mame-advmame
+centiped;mame-libretro
+centiped;mame-mame4all
+cmmb162;arcade
+cmmb162;fba
+cmmb162;mame-advmame
+cmmb162;mame-libretro
+cmmb162;mame-mame4all
+magworm;arcade
+magworm;fba
+magworm;mame-advmame
+magworm;mame-libretro
+magworm;mame-mame4all
+magworma;arcade
+magworma;fba
+magworma;mame-advmame
+magworma;mame-libretro
+magworma;mame-mame4all
+millpac;arcade
+millpac;fba
+millpac;mame-advmame
+millpac;mame-libretro
+millpac;mame-mame4all
+multiped;arcade
+multiped;fba
+multiped;mame-advmame
+multiped;mame-libretro
+multiped;mame-mame4all

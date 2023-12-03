@@ -1,0 +1,38 @@
+Rally-X (USA);vic20
+Rally-X (USA);vic20
+Rally-X (Japan);msx
+Rally-X (Japan) (Alt 1);msx
+Rally-X (Japan) (Alt 2);msx
+Rally-X (IT);x68000
+Rally-X (Craig);x1
+Rally-X;x1
+nrallyx;arcade
+nrallyx;fba
+nrallyx;mame-advmame
+nrallyx;mame-libretro
+nrallyx;mame-mame4all
+nrallyxb;arcade
+nrallyxb;fba
+nrallyxb;mame-advmame
+nrallyxb;mame-libretro
+nrallyxb;mame-mame4all
+rallyxa;arcade
+rallyxa;fba
+rallyxa;mame-advmame
+rallyxa;mame-libretro
+rallyxa;mame-mame4all
+rallyx;arcade
+rallyx;fba
+rallyx;mame-advmame
+rallyx;mame-libretro
+rallyx;mame-mame4all
+rallyxm;arcade
+rallyxm;fba
+rallyxm;mame-advmame
+rallyxm;mame-libretro
+rallyxm;mame-mame4all
+rallyxmr;arcade
+rallyxmr;fba
+rallyxmr;mame-advmame
+rallyxmr;mame-libretro
+rallyxmr;mame-mame4all

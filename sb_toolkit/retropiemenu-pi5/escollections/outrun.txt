@@ -1,0 +1,111 @@
+Battle OutRun (Europe);mastersystem
+Ninja Outrun;tic80
+OutRun (Japan);megadrive-japan
+OutRun (USA, Europe);gamegear
+OutRun (USA, Europe);megadrive
+OutRun (World);mastersystem
+OutRun 2006 - Coast 2 Coast (USA);psp
+OutRun 2006 - Coast 2 Coast (USA);ps2
+OutRun 2019 (USA);megadrive
+OutRun 3-D (Europe);markiii
+OutRun 3-D (Europe);mastersystem
+OutRun Europa (Europe);mastersystem
+OutRun Europa (USA, Europe);gamegear
+OutRunEuropa_v1.1;amiga1200
+OutRunEuropa_v1.1;amiga
+OutRun_v1.2_Sega_2355;amiga1200
+OutRun_v1.2_Sega_2355;amiga
+OutRun_v1.2_USGold_1161;amiga1200
+OutRun_v1.2_USGold_1161;amiga
+OutRunners (USA);megadrive
+Turbo OutRun (Japan, Europe);megadrive
+Turbo Outrun (Europe) (Disk 1);atarist
+Turbo Outrun (Europe) (Disk 2);atarist
+Turbo Outrun (Hack);genh
+TurboOutRun_v1.1_1064;amiga1200
+TurboOutRun_v1.1_1064;amiga
+mt_tout;arcade
+mt_tout;fba
+mt_tout;mame-advmame
+mt_tout;mame-libretro
+mt_tout;mame-mame4all
+orunners;arcade
+orunners;fba
+orunners;mame-advmame
+orunners;mame-libretro
+orunners;mame-mame4all
+orunnersj;arcade
+orunnersj;fba
+orunnersj;mame-advmame
+orunnersj;mame-libretro
+orunnersj;mame-mame4all
+orunnersu;arcade
+orunnersu;fba
+orunnersu;mame-advmame
+orunnersu;mame-libretro
+orunnersu;mame-mame4all
+outr2sdx;arcade
+outr2sdx;fba
+outr2sdx;mame-advmame
+outr2sdx;mame-libretro
+outr2sdx;mame-mame4all
+outrun;arcade
+outrun;fba
+outrun;mame-advmame
+outrun;mame-libretro
+outrun;mame-mame4all
+outrunb;arcade
+outrunb;fba
+outrunb;mame-advmame
+outrunb;mame-libretro
+outrunb;mame-mame4all
+outrundx;arcade
+outrundx;fba
+outrundx;mame-advmame
+outrundx;mame-libretro
+outrundx;mame-mame4all
+outrundxa;arcade
+outrundxa;fba
+outrundxa;mame-advmame
+outrundxa;mame-libretro
+outrundxa;mame-mame4all
+outrundxj;arcade
+outrundxj;fba
+outrundxj;mame-advmame
+outrundxj;mame-libretro
+outrundxj;mame-mame4all
+outrunra;arcade
+outrunra;fba
+outrunra;mame-advmame
+outrunra;mame-libretro
+outrunra;mame-mame4all
+toutrun1;arcade
+toutrun1;fba
+toutrun1;mame-advmame
+toutrun1;mame-libretro
+toutrun1;mame-mame4all
+toutrun2;arcade
+toutrun2;fba
+toutrun2;mame-advmame
+toutrun2;mame-libretro
+toutrun2;mame-mame4all
+toutrun3;arcade
+toutrun3;fba
+toutrun3;mame-advmame
+toutrun3;mame-libretro
+toutrun3;mame-mame4all
+toutrun;arcade
+toutrun;fba
+toutrun;mame-advmame
+toutrun;mame-libretro
+toutrun;mame-mame4all
+toutrunj1;arcade
+toutrunj1;fba
+toutrunj1;mame-advmame
+toutrunj1;mame-libretro
+toutrunj1;mame-mame4all
+toutrunj;arcade
+toutrunj;fba
+toutrunj;mame-advmame
+toutrunj;mame-libretro
+toutrunj;mame-mame4all

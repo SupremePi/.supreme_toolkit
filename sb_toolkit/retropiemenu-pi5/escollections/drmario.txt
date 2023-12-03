@@ -1,0 +1,24 @@
+DrMario_v1.0;amiga1200
+DrMario_v1.0;amiga
+Dr Mario (R);dendy
+drmario;arcade
+drmario;fba
+drmario;mame-advmame
+drmario;mame-libretro
+drmario;mame-mame4all
+pc_drmro;arcade
+pc_drmro;fba
+pc_drmro;mame-advmame
+pc_drmro;mame-libretro
+pc_drmro;mame-mame4all
+Dr. Mario 64 (USA);n64
+Dr. Mario (Japan, USA);nes
+2 Games in One! - Dr. Mario + Puzzle League (USA, Australia);gba
+Classic NES Series - Dr. Mario (USA, Europe);gba
+Dr. Mario (World);gb
+Dr. Mario (World) (Rev A);gb
+dr. mario;satellaview
+Dr. Mario (Japan);sfc
+Dr. Mario (World) (Rev A);sgb
+Tetris & Dr. Mario (USA);snes
+Dr. Mario (Poland) (Unl);atari800

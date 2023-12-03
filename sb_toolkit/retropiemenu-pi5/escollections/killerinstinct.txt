@@ -1,0 +1,60 @@
+Killer Instinct (USA);snes
+Killer Instinct (USA, Europe);gb
+Killer Instinct (USA, Europe);sgb
+Killer Instinct - Eyedol Unlocked (Hack);snesh
+Killer Instinct Gold (USA) (Rev B);n64
+kinst13;arcade
+kinst13;fba
+kinst13;mame-advmame
+kinst13;mame-libretro
+kinst13;mame-mame4all
+kinst14;arcade
+kinst14;fba
+kinst14;mame-advmame
+kinst14;mame-libretro
+kinst14;mame-mame4all
+kinst210;arcade
+kinst210;fba
+kinst210;mame-advmame
+kinst210;mame-libretro
+kinst210;mame-mame4all
+kinst211;arcade
+kinst211;fba
+kinst211;mame-advmame
+kinst211;mame-libretro
+kinst211;mame-mame4all
+kinst213;arcade
+kinst213;fba
+kinst213;mame-advmame
+kinst213;mame-libretro
+kinst213;mame-mame4all
+kinst2;arcade
+kinst2;fba
+kinst2;mame-advmame
+kinst2;mame-libretro
+kinst2;mame-mame4all
+kinst2k3;arcade
+kinst2k3;fba
+kinst2k3;mame-advmame
+kinst2k3;mame-libretro
+kinst2k3;mame-mame4all
+kinst2k4;arcade
+kinst2k4;fba
+kinst2k4;mame-advmame
+kinst2k4;mame-libretro
+kinst2k4;mame-mame4all
+kinst;arcade
+kinst;fba
+kinst;mame-advmame
+kinst;mame-libretro
+kinst;mame-mame4all
+kinstb;arcade
+kinstb;fba
+kinstb;mame-advmame
+kinstb;mame-libretro
+kinstb;mame-mame4all
+kinstp;arcade
+kinstp;fba
+kinstp;mame-advmame
+kinstp;mame-libretro
+kinstp;mame-mame4all

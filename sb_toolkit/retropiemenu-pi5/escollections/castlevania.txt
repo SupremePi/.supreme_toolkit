@@ -1,0 +1,65 @@
+Akumajou Dracula X - Chi no Rondo (Japan);pce-cd
+Akumajou Dracula X - Gekka no Yasoukyoku (Japan);saturn-japan
+CastleVania_v1.1;amiga1200
+CastleVania_v1.1;amiga
+Castlevania (R);dendy
+Castlevania (USA) (Rev B);n64
+Castlevania (USA);c64
+Castlevania (USA);nes
+Castlevania - Aria of Sorrow (USA);gba
+Castlevania - Blood Moon (Hack);nesh
+Castlevania - Bloodlines (USA);megadrive
+Castlevania - Chorus of Mysteries (Hack);nesh
+Castlevania - Circle of the Moon (USA);gba
+Castlevania - Curse of Darkness (USA);ps2
+Castlevania - Dawn of Sorrow (USA);nds
+Castlevania - Dracula X (MSU-1);snesmsu1
+Castlevania - Dracula X (USA);snes
+Castlevania - Dracula's Revenge (Hack);nesh
+Castlevania - Extreme (Hack);nesh
+Castlevania - Harmony of Dissonance (USA);gba
+Castlevania - Judgment (USA);wii
+Castlevania - Lament of Innocence (USA);ps2
+Castlevania - Legacy of Darkness (USA);n64
+Castlevania - Lords of Shadow - Mirror of Fate (USA);3ds
+Castlevania - Orchestra of Despair (Hack);nesh
+Castlevania - Order of Ecclesia (USA) (En,Fr);nds
+Castlevania - Overflow Darkness (Hack);nesh
+Castlevania - Portrait of Ruin (USA);nds
+Castlevania - Prelude of Dark (Hack);nesh
+Castlevania - Revenge On Findesiecle X (Hack);gbah
+Castlevania - Slumber of Darkness (Hack);nesh
+Castlevania - Symphony of the Night (USA);psx
+Castlevania - The Adventure (USA);gb
+Castlevania - The Dracula X Chronicles (USA);psp
+Castlevania 5 - Legacy (Hack);nesh
+Castlevania Adventure, The (Hack);gbh
+Castlevania Adventure, The (USA);gb
+Castlevania Chronicles (USA);psx
+Castlevania Double Pack (USA);gba
+Castlevania II - Belmont's Revenge (Hack);gbh
+Castlevania II - Belmont's Revenge (USA, Europe);gb
+Castlevania II - Dishonor Thy Father (Hack);nesh
+Castlevania II - Simon's Quest (R);dendy
+Castlevania II - Simon's Quest (USA);nes
+Castlevania III - Dracula's Curse (R);dendy
+Castlevania III - Dracula's Curse (USA);nes
+Castlevania III - Resurrection (Hack);nesh
+Castlevania Legends (Hack);gbh
+Castlevania Legends (USA, Europe);gb
+Castlevania Legends (USA, Europe);sgb
+Classic NES Series - Castlevania (USA, Europe);gba
+Super Castlevania II - (Hack);nesh
+Super Castlevania IV (MSU-1);snesmsu1
+Super Castlevania IV (USA);snes
+castleva;pc
+cstlevna;arcade
+cstlevna;fba
+cstlevna;mame-advmame
+cstlevna;mame-libretro
+cstlevna;mame-mame4all
+pc_cvnia;arcade
+pc_cvnia;fba
+pc_cvnia;mame-advmame
+pc_cvnia;mame-libretro
+pc_cvnia;mame-mame4all

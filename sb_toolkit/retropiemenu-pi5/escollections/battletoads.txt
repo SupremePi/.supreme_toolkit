@@ -1,0 +1,24 @@
+Battletoads & Double Dragon (R);dendy
+Battletoads & Double Dragon (USA);megadrive
+Battletoads & Double Dragon (USA);snes
+Battletoads & Double Dragon IV - The Return of the Dark Forces;openbor
+Battletoads (R);dendy
+Battletoads (USA);nes
+Battletoads (USA);gamegear
+Battletoads (USA, Europe);gb
+Battletoads (World);megadrive
+Battletoads and Double Dragon (Hack);genh
+Battletoads in Battlemaniacs (USA);snes
+Battletoads in Ragnarok's World (USA);gb
+Battletoads-Double Dragon (USA);nes
+Battletoads-Double Dragon (USA);gb
+Battletoads_CD32_(Europe);amigacd32
+Battletoads_v1.2_1816;amiga1200
+Battletoads_v1.2_1816;amiga
+Jeopardy! - Battletoads Edition (Hack);nesh
+Streetsofrage2_battletoads (Hack);genh
+btoads;arcade
+btoads;fba
+btoads;mame-advmame
+btoads;mame-libretro
+btoads;mame-mame4all

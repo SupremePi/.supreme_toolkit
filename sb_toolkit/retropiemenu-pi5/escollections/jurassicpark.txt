@@ -1,0 +1,81 @@
+JurassicPark_v1.4_AGA_0836;amiga1200
+JurassicPark_v1.4_AGA_0836;amiga
+Jurassic Park (R);dendy
+Jurassic Park (Data East) (1993) (UE) (1.05);futurepinball
+jupk_g51;arcade
+jupk_g51;fba
+jupk_g51;mame-advmame
+jupk_g51;mame-libretro
+jupk_g51;mame-mame4all
+jupk_501;arcade
+jupk_501;fba
+jupk_501;mame-advmame
+jupk_501;mame-libretro
+jupk_501;mame-mame4all
+jupk_513;arcade
+jupk_513;fba
+jupk_513;mame-advmame
+jupk_513;mame-libretro
+jupk_513;mame-mame4all
+jparkja;arcade
+jparkja;fba
+jparkja;mame-advmame
+jparkja;mame-libretro
+jparkja;mame-mame4all
+jparkjc;arcade
+jparkjc;fba
+jparkjc;mame-advmame
+jparkjc;mame-libretro
+jparkjc;mame-mame4all
+jparkj;arcade
+jparkj;fba
+jparkj;mame-advmame
+jparkj;mame-libretro
+jparkj;mame-mame4all
+jpark;arcade
+jpark;fba
+jpark;mame-advmame
+jpark;mame-libretro
+jpark;mame-mame4all
+jpark3;arcade
+jpark3;fba
+jpark3;mame-advmame
+jpark3;mame-libretro
+jpark3;mame-mame4all
+jplstw20;arcade
+jplstw20;fba
+jplstw20;mame-advmame
+jplstw20;mame-libretro
+jplstw20;mame-mame4all
+jplstw22;arcade
+jplstw22;fba
+jplstw22;mame-advmame
+jplstw22;mame-libretro
+jplstw22;mame-mame4all
+Jurassic Park (USA);nes
+Jurassic Park III - Island Attack (USA);gba
+Jurassic Park III - Park Builder (USA);gba
+Jurassic Park III - The DNA Factor (USA);gba
+Jurassic Park (USA);gb
+Jurassic Park Part 2 - The Chaos Continues (USA, Europe);gb
+Lost World, The - Jurassic Park (USA, Europe);gb
+Lost World, The - Jurassic Park (USA, Europe);sgb
+Jurassic Park Interactive (USA);3do
+Jurassic Park (USA);segacd
+Jurassic Park (USA, Europe);gamegear
+Lost World, The - Jurassic Park (USA);gamegear
+Jurassic Park (USA);genesis
+Jurassic Park - Rampage Edition (USA, Europe);genesis
+Lost World, The - Jurassic Park (USA, Europe);genesis
+Jurassic Park (Europe);mastersystem
+Jurassic Park (Japan);megacd-japan
+Jurassic Park (Japan);megadrive-japan
+Lost World, The - Jurassic Park (USA);saturn
+Jurassic Park - Operation Genesis (USA);ps2
+Lost World, The - Jurassic Park (USA);psx
+Lost World, The - Jurassic Park - Special Edition (USA);psx
+Warpath - Jurassic Park (USA);psx
+Jurassic Park (USA);snes
+Jurassic Park II - The Chaos Continues (USA);snes
+Jurassic Park (USA);atari800
+Jurassic Park II (Poland);atari800

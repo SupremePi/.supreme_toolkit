@@ -1,0 +1,75 @@
+Gradius (Japan);pcengine
+Gradius (R);dendy
+Gradius (USA);c64
+Gradius (USA);nes
+Gradius - Luidius (Hack);nesh
+Gradius - OPM hack;x1
+Gradius - The Interstellar Assault (USA);gb
+Gradius 2 - Gofer no Yabou (Japan);pce-cd
+Gradius Collection (USA);psp
+Gradius Deluxe Pack (Japan);saturn-japan
+Gradius Galaxies (USA);gba
+Gradius II (Japan);famicom
+Gradius II Arcade (Hack);nesh
+Gradius III (MSU-1);snesmsu1
+Gradius III (USA);snes
+Gradius III Legends (Spain);msx2plus
+Gradius V (USA);ps2
+Gradius;x1
+Nemesis '93 Gradius 2 (Gra2 Project Team);x68000
+Nemesis '94 Gradius 2 (Gra2 Project Team);x68000
+gradius2;arcade
+gradius2;fba
+gradius2;mame-advmame
+gradius2;mame-libretro
+gradius2;mame-mame4all
+gradius2a;arcade
+gradius2a;fba
+gradius2a;mame-advmame
+gradius2a;mame-libretro
+gradius2a;mame-mame4all
+gradius2b;arcade
+gradius2b;fba
+gradius2b;mame-advmame
+gradius2b;mame-libretro
+gradius2b;mame-mame4all
+gradius3;arcade
+gradius3;fba
+gradius3;mame-advmame
+gradius3;mame-libretro
+gradius3;mame-mame4all
+gradius3a;arcade
+gradius3a;fba
+gradius3a;mame-advmame
+gradius3a;mame-libretro
+gradius3a;mame-mame4all
+gradius3j;arcade
+gradius3j;fba
+gradius3j;mame-advmame
+gradius3j;mame-libretro
+gradius3j;mame-mame4all
+gradius4;arcade
+gradius4;fba
+gradius4;mame-advmame
+gradius4;mame-libretro
+gradius4;mame-mame4all
+gradius;arcade
+gradius;fba
+gradius;mame-advmame
+gradius;mame-libretro
+gradius;mame-mame4all
+pc_grdue;arcade
+pc_grdue;fba
+pc_grdue;mame-advmame
+pc_grdue;mame-libretro
+pc_grdue;mame-mame4all
+pc_grdus;arcade
+pc_grdus;fba
+pc_grdus;mame-advmame
+pc_grdus;mame-libretro
+pc_grdus;mame-mame4all
+vsgradus;arcade
+vsgradus;fba
+vsgradus;mame-advmame
+vsgradus;mame-libretro
+vsgradus;mame-mame4all

@@ -1,0 +1,268 @@
+Star Trek (Cascade Games Ltd.) (Europe);c64
+Star Trek (Cascade) (Europe);vic20
+Star Trek (Europe) (Atmos);oric
+Star Trek (Europe) (Oric-1);oric
+Star Trek (Gemini Software) (Europe);zxspectrum
+Star Trek (IJK Software) (Europe);bbcb
+Star Trek (Impact Software) (Europe);zxspectrum
+Star Trek (Impact) (Europe);vic20
+Star Trek (Interceptor Software) (Europe);c64
+Star Trek (Logic Systems) (Europe);bbcb
+Star Trek (Manic Mailman Designs) (USA) (Unl);c64
+Star Trek (Micropower) (Europe);bbcb
+Star Trek (Mikro-Gen) (Europe);zxspectrum
+Star Trek (Sharedata, Inc. + Green Valley Publishing, Inc.) (USA);c64
+Star Trek (USA);atari800
+Star Trek (USA, Europe);colecovision
+Star Trek - 25th Anniversary (R);dendy
+Star Trek - 25th Anniversary (USA);nes
+Star Trek - 25th Anniversary (USA, Europe);gb
+Star Trek - Deep Space Nine - Crossroads of Time (USA);megadrive
+Star Trek - Deep Space Nine - Crossroads of Time (USA);snes
+Star Trek - Encounters (USA);ps2
+Star Trek - First Contact (USA) (Disk 1);apple2
+Star Trek - First Contact (USA) (Disk 2);apple2
+Star Trek - First Contact (USA) (Disk 3);apple2
+Star Trek - First Contact (USA) (Disk 4);apple2
+Star Trek - Invasion (USA);psx
+Star Trek - Promethean Prophecy (USA) (Side A);apple2
+Star Trek - Promethean Prophecy (USA) (Side B);apple2
+Star Trek - S.O.S. (USA);vic20
+Star Trek - Starfleet Academy - Starship Bridge Simulator (USA);snes
+Star Trek - Strategic Operations Simulator (USA);apple2
+Star Trek - Strategic Operations Simulator (USA);atari2600
+Star Trek - Strategic Operations Simulator (USA);atari5200
+Star Trek - Strategic Operations Simulator (USA);c64
+Star Trek - Tactical Assault (USA);psp
+Star Trek - Tactical Assault (USA);nds
+Star Trek - The Computer Game (USA);c64
+Star Trek - The Computer Program (Europe);zxspectrum
+Star Trek - The Kobayashi Alternative (USA) (Disk 1);apple2
+Star Trek - The Kobayashi Alternative (USA) (Disk 2);apple2
+Star Trek - The Kobayashi Alternative (USA) (Side A);c64
+Star Trek - The Kobayashi Alternative (USA) (Side B);c64
+Star Trek - The Motion Picture (USA);vectrex
+Star Trek - The Next Generation (USA) (Unl);atarist
+Star Trek - The Next Generation (USA) (Unl);c64
+Star Trek - The Next Generation (USA);nes
+Star Trek - The Next Generation (USA, Europe);gb
+Star Trek - The Next Generation - Echoes from the Past (USA);megadrive
+Star Trek - The Next Generation - Future's Past (USA);snes
+Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA);gamegear
+Star Trek - The Promethean Prophecy (USA) (Side A);c64
+Star Trek - The Promethean Prophecy (USA) (Side B);c64
+Star Trek - The Rebel Universe (Europe);c64
+Star Trek - The Rebel Universe (USA);atarist
+Star Trek 3000 (Europe);zxspectrum
+Star Trek Adventure #2 (Howard F. Batie);coco
+Star Trek Adventure (Europe);bbcb
+Star Trek Adventure, The (USA);atari800
+Star Trek Adventure;coco
+Star Trek Generations - Beyond the Nexus (USA);gb
+Star Trek Generations - Beyond the Nexus (USA);sgb
+Star Trek Generations - Beyond the Nexus (USA, Europe);gamegear
+Star Trek III (Adventure International);coco
+Star Trek Starfleet Academy - Starship Bridge Simulator (USA);sega32x
+Star Trek V - Final Frontier (Prototype) (R);dendy
+Star Trek V - The Final Frontier (USA) (Proto);nes
+Star Trek the Game (Europe);bbcb
+Star Trek;dragon32
+Star Trek;ti99
+Star Trekking - The Game (USA);c64
+StarTrek25thAnniversary_v1.0_AGA_1466;amiga1200
+StarTrek25thAnniversary_v1.0_AGA_1466;amiga
+Super Star Trek (USA);c64
+Super Star Trek (USA);vic20
+Super Star Trek;sorcerer
+Super Star Trek;fm7
+m1startr;arcade
+m1startr;fba
+m1startr;mame-advmame
+m1startr;mame-libretro
+m1startr;mame-mame4all
+m1startra;arcade
+m1startra;fba
+m1startra;mame-advmame
+m1startra;mame-libretro
+m1startra;mame-mame4all
+m1startrb;arcade
+m1startrb;fba
+m1startrb;mame-advmame
+m1startrb;mame-libretro
+m1startrb;mame-mame4all
+m1startrc;arcade
+m1startrc;fba
+m1startrc;mame-advmame
+m1startrc;mame-libretro
+m1startrc;mame-mame4all
+m1startrd;arcade
+m1startrd;fba
+m1startrd;mame-advmame
+m1startrd;mame-libretro
+m1startrd;mame-mame4all
+m1startre;arcade
+m1startre;fba
+m1startre;mame-advmame
+m1startre;mame-libretro
+m1startre;mame-mame4all
+m1startrf;arcade
+m1startrf;fba
+m1startrf;mame-advmame
+m1startrf;mame-libretro
+m1startrf;mame-mame4all
+m1startrg;arcade
+m1startrg;fba
+m1startrg;mame-advmame
+m1startrg;mame-libretro
+m1startrg;mame-mame4all
+m1startrh;arcade
+m1startrh;fba
+m1startrh;mame-advmame
+m1startrh;mame-libretro
+m1startrh;mame-mame4all
+m1startri;arcade
+m1startri;fba
+m1startri;mame-advmame
+m1startri;mame-libretro
+m1startri;mame-mame4all
+m1startrj;arcade
+m1startrj;fba
+m1startrj;mame-advmame
+m1startrj;mame-libretro
+m1startrj;mame-mame4all
+m1startrk;arcade
+m1startrk;fba
+m1startrk;mame-advmame
+m1startrk;mame-libretro
+m1startrk;mame-mame4all
+m1startrm;arcade
+m1startrm;fba
+m1startrm;mame-advmame
+m1startrm;mame-libretro
+m1startrm;mame-mame4all
+m1startrn;arcade
+m1startrn;fba
+m1startrn;mame-advmame
+m1startrn;mame-libretro
+m1startrn;mame-mame4all
+m1startro;arcade
+m1startro;fba
+m1startro;mame-advmame
+m1startro;mame-libretro
+m1startro;mame-mame4all
+m1startrp;arcade
+m1startrp;fba
+m1startrp;mame-advmame
+m1startrp;mame-libretro
+m1startrp;mame-mame4all
+m1startrq;arcade
+m1startrq;fba
+m1startrq;mame-advmame
+m1startrq;mame-libretro
+m1startrq;mame-mame4all
+m1startrr;arcade
+m1startrr;fba
+m1startrr;mame-advmame
+m1startrr;mame-libretro
+m1startrr;mame-mame4all
+startrek;pc
+startrek;arcade
+startrek;fba
+startrek;mame-advmame
+startrek;mame-libretro
+startrek;mame-mame4all
+startrep;arcade
+startrep;fba
+startrep;mame-advmame
+startrep;mame-libretro
+startrep;mame-mame4all
+startrkd;arcade
+startrkd;fba
+startrkd;mame-advmame
+startrkd;mame-libretro
+startrkd;mame-mame4all
+startrks;arcade
+startrks;fba
+startrks;mame-advmame
+startrks;mame-libretro
+startrks;mame-mame4all
+sttng_g7;arcade
+sttng_g7;fba
+sttng_g7;mame-advmame
+sttng_g7;mame-libretro
+sttng_g7;mame-mame4all
+sttng_l1;arcade
+sttng_l1;fba
+sttng_l1;mame-advmame
+sttng_l1;mame-libretro
+sttng_l1;mame-mame4all
+sttng_l2;arcade
+sttng_l2;fba
+sttng_l2;mame-advmame
+sttng_l2;mame-libretro
+sttng_l2;mame-mame4all
+sttng_l3;arcade
+sttng_l3;fba
+sttng_l3;mame-advmame
+sttng_l3;mame-libretro
+sttng_l3;mame-mame4all
+sttng_l7;arcade
+sttng_l7;fba
+sttng_l7;mame-advmame
+sttng_l7;mame-libretro
+sttng_l7;mame-mame4all
+sttng_p4;arcade
+sttng_p4;fba
+sttng_p4;mame-advmame
+sttng_p4;mame-libretro
+sttng_p4;mame-mame4all
+sttng_p5;arcade
+sttng_p5;fba
+sttng_p5;mame-advmame
+sttng_p5;mame-libretro
+sttng_p5;mame-mame4all
+sttng_p8;arcade
+sttng_p8;fba
+sttng_p8;mame-advmame
+sttng_p8;mame-libretro
+sttng_p8;mame-mame4all
+sttng_s7;arcade
+sttng_s7;fba
+sttng_s7;mame-advmame
+sttng_s7;mame-libretro
+sttng_s7;mame-mame4all
+sttng_x7;arcade
+sttng_x7;fba
+sttng_x7;mame-advmame
+sttng_x7;mame-libretro
+sttng_x7;mame-mame4all
+trek_110;arcade
+trek_110;fba
+trek_110;mame-advmame
+trek_110;mame-libretro
+trek_110;mame-mame4all
+trek_11a;arcade
+trek_11a;fba
+trek_11a;mame-advmame
+trek_11a;mame-libretro
+trek_11a;mame-mame4all
+trek_120;arcade
+trek_120;fba
+trek_120;mame-advmame
+trek_120;mame-libretro
+trek_120;mame-mame4all
+trek_200;arcade
+trek_200;fba
+trek_200;mame-advmame
+trek_200;mame-libretro
+trek_200;mame-mame4all
+trek_201;arcade
+trek_201;fba
+trek_201;mame-advmame
+trek_201;mame-libretro
+trek_201;mame-mame4all
+voyager;arcade
+voyager;fba
+voyager;mame-advmame
+voyager;mame-libretro
+voyager;mame-mame4all

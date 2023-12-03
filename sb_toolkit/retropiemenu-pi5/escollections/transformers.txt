@@ -1,0 +1,32 @@
+Beast Wars - Transformers (USA);psx
+Transformers (Europe);c64
+Transformers (Europe);zxspectrum
+Transformers - Autobots (USA) (Rev 1);nds
+Transformers - Autobots (USA);nds
+Transformers - Beast Wars Transmetals (USA);n64
+Transformers - Beast Wars Transmetals (USA);psx
+Transformers - Convoy no Nazo (Japan) (Translated En);famicom
+Transformers - Dark of the Moon - Autobots (USA) (En,Fr);nds
+Transformers - Dark of the Moon - Decepticons (USA) (En,Fr);nds
+Transformers - Dark of the Moon - Stealth Force Edition (USA);3ds
+Transformers - Decepticons (USA);nds
+Transformers - Revenge of the Fallen (USA);psp
+Transformers - Revenge of the Fallen - Autobots Version (USA) (En,Fr) [b];nds
+Transformers - Revenge of the Fallen - Decepticons Version (USA) (En,Fr) [b];nds
+Transformers - Rise of the Dark Spark (USA);3ds
+Transformers - Rise of the Dark Spark (USA);wiiu
+Transformers - The Battle to Save the Earth (USA) (Side A);c64
+Transformers - The Battle to Save the Earth (USA) (Side B);c64
+Transformers - The Game (USA);psp
+Transformers - The Headmasters (Japan);fds
+Transformers - War for Cybertron - Autobots (USA) (En,Fr);nds
+Transformers - War for Cybertron - Decepticons (USA) (En,Fr);nds
+Transformers Animated - The Game (USA) [b];nds
+Transformers Prime - The Game (Europe);nds
+Transformers Prime - The Game (USA);3ds
+Transformers Prime - The Game (USA);wiiu
+tbeastw2;arcade
+tbeastw2;fba
+tbeastw2;mame-advmame
+tbeastw2;mame-libretro
+tbeastw2;mame-mame4all

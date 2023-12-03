@@ -1,0 +1,67 @@
+Q Bert! (19xx)(Simon Software);zx81
+Q-Bert (1987);plus4
+Q-Bert (Europe);bbcb
+Q-Bert (Europe);odyssey2
+Q-Bert (USA);atari800
+Q-Bert (USA);c64
+Q-Bert (USA);vic20
+Q-Bert;ti99
+Q-bert (Japan) (Alt 1);msx
+Q-bert (Japan);msx
+Q-bert (Japan);sc-3000
+Q-bert (Japan);sg-1000
+Q-bert (R);dendy
+Q-bert (USA);atari2600
+Q-bert (USA);atari5200
+Q-bert (USA);colecovision
+Q-bert (USA);nes
+Q-bert (USA);gbc
+Q-bert (USA);dreamcast
+Q-bert (USA);psx
+Q-bert (World);intellivision
+Q-bert 3 (USA);snes
+Q-bert II (USA);colecovision
+Q-bert for Game Boy (USA, Europe);gb
+Q-bert's Qubes (USA);atari2600
+QBert (Europe) (Proto);zxspectrum
+Qbert (1983);multivision
+myqbert;arcade
+myqbert;fba
+myqbert;mame-advmame
+myqbert;mame-libretro
+myqbert;mame-mame4all
+qbert;arcade
+qbert;fba
+qbert;mame-advmame
+qbert;mame-libretro
+qbert;mame-mame4all
+qberta;arcade
+qberta;fba
+qberta;mame-advmame
+qberta;mame-libretro
+qberta;mame-mame4all
+qbertj;arcade
+qbertj;fba
+qbertj;mame-advmame
+qbertj;mame-libretro
+qbertj;mame-mame4all
+qbertqub;arcade
+qbertqub;fba
+qbertqub;mame-advmame
+qbertqub;mame-libretro
+qbertqub;mame-mame4all
+qberttst;arcade
+qberttst;fba
+qberttst;mame-advmame
+qberttst;mame-libretro
+qberttst;mame-mame4all
+qbtrktst;arcade
+qbtrktst;fba
+qbtrktst;mame-advmame
+qbtrktst;mame-libretro
+qbtrktst;mame-mame4all
+sqbert;arcade
+sqbert;fba
+sqbert;mame-advmame
+sqbert;mame-libretro
+sqbert;mame-mame4all

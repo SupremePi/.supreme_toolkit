@@ -1,0 +1,2025 @@
+11 A Side Soccer (Europe);amstradcpc
+11beat;arcade
+11beat;fba
+11beat;mame-advmame
+11beat;mame-libretro
+11beat;mame-mame4all
+1st Division Manager (Europe);amstradcpc
+1st Division Manager (Europe);atarist
+1st Division Manager (Europe);c64
+1st Division Manager (Europe);zxspectrum
+2 Player Soccer Squad (Europe);amstradcpc
+2 Player Soccer Squad (Europe);zxspectrum
+2 Player Super League (Europe);amstradcpc
+2002 FIFA World Cup (USA);gc
+2006 FIFA World Cup (USA);gc
+2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It);gba
+2010 FIFA World Cup - South Africa (USA);psp
+3-D Soccer (USA) (Unl);atarist
+3D Soccer (Europe);arcadia
+4 Soccer Simulators (Europe);amstradcpc
+4 Soccer Simulators (Europe);c64
+90 Minutes - European Prime Goal (Europe);snes
+AWS Pro Moves Soccer (USA);megadrive
+Actua Soccer (Europe);psx
+Actua Soccer - Club Edition (Europe);psx
+Actua Soccer 2 (Europe);psx
+Actua Soccer 3 (Europe);psx
+Adidas Championship Football (Europe);amstradcpc
+Adidas Championship Football (Europe);c64
+Adidas Championship Football (Europe);zxspectrum
+Adidas Power Soccer (USA);psx
+Adidas Power Soccer 2 (Europe);psx
+Adidas Power Soccer 98 (USA);psx
+Adidas Power Soccer International '97 (Europe);psx
+Advanced Soccer Simulator (Europe);zxspectrum
+Alex Ferguson's Player Manager 2002 (Europe) (En,Fr,De,Es,It,Nl);gba
+Alexi Lalas International Soccer (USA);psx
+Alien Soccer (Europe);vic20
+All Star Soccer (Europe);psx
+American Soccer (Japan);msx2
+Amsoccer (Europe);amstradcpc
+Anstoss (Germany);c64
+Aoki Densetsu Shoot! (Japan);sfc
+Arcade Soccer (1989)(The Fourth Dimension);electron
+Arcade Soccer! (Europe);bbcb
+Backyard Soccer (USA);psx
+Bashi Blocks (USA);pspminis
+Battle Soccer - Field no Hasha (Hack);snesh
+Battle Soccer - Field no Hasha (Japan) (Translated En);sfc
+Battle Soccer 2 (Japan);sfc
+Big League Soccer (Europe);amstradcpc
+Big League Soccer 2 (Europe);amstradcpc
+Big Match Soccer (Europe);zxspectrum
+Block Soccer (USA) (Unl);c64
+Bobby Charlton Soccer (1985)(D.A.C.C. Software);electron
+Bobby Charlton Soccer (Europe);bbcb
+Bodo Illgner's Super Soccer (Germany);amstradcpc
+Boss, The (Europe);zxspectrum
+Boss, The (Europe);oric
+Brian Clough's Footbal Fortunes (Europe);amstradcpc
+Brian Clough's Football Fortunes (Europe);bbcb
+Brian Clough's Football Fortunes (Europe);atarist
+British Super League (Europe);amstradcpc
+British Super League (Europe);c64
+British Super League (Europe);zxspectrum
+Bundesliga Manager Professional (Europe) (Disk 1);atarist
+Bundesliga Manager Professional (Europe) (Disk 2);atarist
+Bundesliga Manager v2.0 (Germany);c64
+Calcio (Italy);c64
+CannonSoccer_v1.0_0165;amiga1200
+CannonSoccer_v1.0_0165;amiga
+Capcom's Soccer Shootout (USA);snes
+Captain Tsubasa - Ougon Sedai No Chousen (Japan);gc
+Captain Tsubasa III - Koutei no Chousen (Japan) (Translated En);sfc
+Captain Tsubasa IV - Pro no Rival-tachi (Japan);sfc
+Captain Tsubasa J - The Way to World Youth (Japan);sfc
+Captain Tsubasa J - Zenkoku Seiha e no Chousen (Japan);gb
+Captain Tsubasa V - Hasha no Shougou Campione (Japan) (Translated Pt);sfc
+Captain Tsubasa Vol. II - Super Striker (Japan) (Translated En);famicom
+Challenge Foot (France);amstradcpc
+Challenge Foot Junior (France);atarist
+Champion Soccer (Japan);msx
+Champion Soccer (Japan);sg-1000
+Champions - World Class Soccer (USA);snes
+Champions World Class Soccer (World);megadrive
+Champions of Europe (Europe);mastersystem
+Champions! (Europe);bbcb
+Champions! (Europe);zxspectrum
+Championship Manager '93 (Europe) (Disk 1);atarist
+Championship Manager '93 (Europe) (Disk 2);atarist
+Championship Manager (Europe);atarist
+Championship Manager (Europe);psp
+Championship Manager 2006 (Europe);psp
+Championship Manager 2007 (Europe);psp
+Championship Manager End of Season 1994 (Europe) (Disk 1);atarist
+Championship Manager End of Season 1994 (Europe) (Disk 2);atarist
+Championship Manager End of Season 1994 (Europe) (Disk 3);atarist
+Championship Manager Italia (Europe) (Disk 1);atarist
+Championship Manager Italia (Europe) (Disk 2);atarist
+Championship Soccer '94 (USA);segacd
+Championship Soccer '94 (USA);snes
+Championship Soccer (Europe);zxspectrum
+Championship Soccer (USA);atari2600
+Chris Kamara's Street Soccer (Europe);psx
+Cup Football (Europe);amstradcpc
+Cup Football (Europe);c64
+Cup Football (Europe);zxspectrum
+Cup Manager (Europe);zxspectrum
+Cyberball (Europe);atarist
+David Beckham Soccer (Europe);gbc
+David Beckham Soccer (USA) (En,Es);gba
+David Beckham Soccer (USA);psx
+Day of the Match (Europe);zxspectrum
+Dino Dini's Soccer (Europe);megadrive
+Dino Dini's Soccer! (Europe);snes
+Disney Sports - Soccer (USA);gba
+Disney Sports - Soccer (USA);gc
+Division One '92 (Europe);atarist
+Division One 85 (Europe);bbcb
+Dolucky no A.League Soccer (Japan);sfc
+Double, The (Europe);c64
+Double, The (Europe);zxspectrum
+Dundee's European Challenge (Europe);zxspectrum
+Dynamic Fomesion Soccer (MIX);x68000
+ESPN MLS ExtraTime 2002 (USA);gc
+Electra Sport Soccer (Europe);vic20
+Electron Soccer (Germany);c64
+Electronic Table Soccer (USA, Europe);odyssey2
+Elite Soccer (USA);gb
+Elite Soccer (USA);sgb
+Elite Soccer (USA);snes
+Emilio Butrageno Futbol (Spain);amstradcpc
+Emilio Butragueno Futbol (Europe);c64
+Emilio Butragueno Futbol (Spain);zxspectrum
+Emlyn Hughes International Soccer (Europe);amstradcpc
+Emlyn Hughes International Soccer (Europe);atarist
+Emlyn Hughes International Soccer (Europe);c64
+Emlyn Hughes International Soccer (Europe);zxspectrum
+EmlynHughesInternationalSoccer_v1.0_1077;amiga1200
+EmlynHughesInternationalSoccer_v1.0_1077;amiga
+EmpireSoccer94_v1.1_0844;amiga1200
+EmpireSoccer94_v1.1_0844;amiga
+England Championship Special (Europe);atarist
+England Championship Special (Europe);c64
+England Team Manager (Europe);atarist
+Euro Boss (Europe);amstradcpc
+Euro Boss (Europe);c64
+Euro Boss (Europe);zxspectrum
+European 5-a-Side (Europe);c64
+European Champions (Challenge Software) (Europe);c64
+European Champions (Europe);amstradcpc
+European Champions (Europe);atarist
+European Champions (Europe);zxspectrum
+European Champions (Idea Software) (Europe);c64
+European Championship 1992 (Europe);atarist
+European Club Soccer (Europe);megadrive
+European Five-a-Side (Europe);zxspectrum
+European Football Champ (Europe);atarist
+European Football Champ (Europe);c64
+European II (Europe);amstradcpc
+European II (Europe);c64
+European Soccer Challenge (Europe);amstradcpc
+European Soccer Challenge (Europe);atarist
+European Soccer Challenge (Europe);c64
+European Soccer Challenge (Europe);zxspectrum
+European Soccer Challenge (USA, Europe);atarilynx
+European Super League (Europe) (En,Fr,De,Es,It);gba
+European Superleague (Europe) (Disk 1);atarist
+European Superleague (Europe) (Disk 2);atarist
+European Superleague (Europe);amstradcpc
+European Superleague (Europe);zxspectrum
+European Trophy (Europe);zxspectrum
+European Trophy II (Europe);zxspectrum
+Eurosoccer '88 (Germany);atarist
+Exciting Soccer - Konami Cup (Japan);fds
+F.A. Cup '87 (Europe);amstradcpc
+FA Cup Football (Europe);c64
+FA Cup Football (Europe);zxspectrum
+FC Manager (Europe);atarist
+FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv);n64
+FIFA - Road to World Cup 98 (USA);saturn
+FIFA 07 Soccer (USA);ps2
+FIFA 14 (USA);psp
+FIFA 2000 (USA, Europe);gbc
+FIFA 2000 - Major League Soccer (USA);psx
+FIFA 2010 (USA) (Unl);vic20
+FIFA 97 International Soccer (Unl);dendy
+FIFA 98 - Road to World Cup (Europe);megadrive
+FIFA 98 - Road to World Cup (Europe);snes
+FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv);n64
+FIFA International Soccer (Brazil);mastersystem
+FIFA International Soccer (USA);3do
+FIFA International Soccer (USA);segacd
+FIFA International Soccer (USA);snes
+FIFA International Soccer (USA, Europe);gb
+FIFA International Soccer (USA, Europe);sgb
+FIFA International Soccer (USA, Europe);gamegear
+FIFA International Soccer (USA, Europe);megadrive
+FIFA Road to the World Cup '98 (Europe);gb
+FIFA Soccer '96 (Europe);sega32x
+FIFA Soccer '96 (USA, Europe);gb
+FIFA Soccer '96 (USA, Europe);sgb
+FIFA Soccer '97 (USA, Europe);gb
+FIFA Soccer '97 (USA, Europe);sgb
+FIFA Soccer (USA);psp
+FIFA Soccer 06 (USA);gc
+FIFA Soccer 06 (USA);psp
+FIFA Soccer 06 (USA);nds
+FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl);gba
+FIFA Soccer 07 (USA);gc
+FIFA Soccer 07 (USA);psp
+FIFA Soccer 07 (USA);nds
+FIFA Soccer 07 (USA, Europe) (En,Fr,De,Es);gba
+FIFA Soccer 08 (USA) (En,Fr,De,Es,It);nds
+FIFA Soccer 08 (USA);psp
+FIFA Soccer 09 (USA) (En,Fr,De,Es,It);nds
+FIFA Soccer 09 (USA);psp
+FIFA Soccer 10 (USA) (En,Fr,De,Es,It);nds
+FIFA Soccer 10 (USA);psp
+FIFA Soccer 11 (USA);psp
+FIFA Soccer 12 (USA);3ds
+FIFA Soccer 12 (USA);psp
+FIFA Soccer 13 (USA);3ds
+FIFA Soccer 13 (USA);wiiu
+FIFA Soccer 13 (USA);psp
+FIFA Soccer 2002 (USA);gc
+FIFA Soccer 2002 (USA);ps2
+FIFA Soccer 2002 (USA);psx
+FIFA Soccer 2003 (USA);gc
+FIFA Soccer 2003 (USA);psx
+FIFA Soccer 2003 (USA, Europe) (En,Fr,De,Es,It);gba
+FIFA Soccer 2004 (USA);gc
+FIFA Soccer 2004 (USA);psx
+FIFA Soccer 2004 (USA, Europe) (En,Fr,De,Es,It);gba
+FIFA Soccer 2005 (USA);gc
+FIFA Soccer 2005 (USA);psx
+FIFA Soccer 2005 (USA, Europe) (En,Fr,De,Es,It,Nl);gba
+FIFA Soccer 64 (USA) (En,Fr,De);n64
+FIFA Soccer 95 (USA, Europe);megadrive
+FIFA Soccer 96 (USA);saturn
+FIFA Soccer 96 (USA);psx
+FIFA Soccer 96 (USA);snes
+FIFA Soccer 96 (USA, Europe);gamegear
+FIFA Soccer 96 (USA, Europe);megadrive
+FIFA Soccer 97 (USA);saturn
+FIFA Soccer 97 (USA);psx
+FIFA Soccer 97 (USA, Europe);megadrive
+FIFA Soccer 97 - Gold Edition (USA);snes
+FIFA Soccer 99 (Hack);genh
+FIFA Street (USA);gc
+FIFA Street 2 (USA);gc
+FIFA Street 2 (USA);psp
+FIFA World Cup - Germany 2006 (USA);psp
+FIFAInternationalSoccer_v1.0_0501;amiga1200
+FIFAInternationalSoccer_v1.0_0501;amiga
+FOX Sports Soccer '99 (USA);psx
+Fab 5 Soccer (USA);nds
+Fantastic Soccer (Europe);c64
+Fever Pitch Soccer (World) (En,Fr,De,Es,It);atarijaguar
+Fifa World Cup (CPC+) (Europe) (Unl);amstradcpc
+Fighting Soccer (Europe);amstradcpc
+Fighting Soccer (Europe);atarist
+Fighting Soccer (Europe);zxspectrum
+Fighting Soccer (USA);c64
+Final Whistle (Europe);c64
+Five A Side Soccer (Europe);amstradcpc
+Five a Side (Europe);c64
+Five-A-Side Football (Europe);bbcb
+Five-A-Side Footy (Europe);amstradcpc
+Foot (Europe);amstradcpc
+Football (Europe);bbcb
+Football (Europe);oric
+Football Champ (Europe) (Disk 1);atarist
+Football Champ (Europe) (Disk 2);atarist
+Football Champions (Europe);amstradcpc
+Football Champions (Europe);c64
+Football Champions (Europe);zxspectrum
+Football Crazy (Europe);atarist
+Football Director (Europe);bbcb
+Football Director (Europe);amstradcpc
+Football Director (Europe);atarist
+Football Director (Europe);c64
+Football Director (Europe);zxspectrum
+Football Director - 2 Player Super League (Europe);zxspectrum
+Football Director II (Europe);atarist
+Football Director II (Europe);c64
+Football Director II (Europe);zxspectrum
+Football Fever (Europe);zxspectrum
+Football Glory (Europe);zxspectrum
+Football International (Europe);gb
+Football Manager (Europe);bbcb
+Football Manager (Europe);amstradcpc
+Football Manager (Europe);atarist
+Football Manager (Europe);c64
+Football Manager (Europe);vic20
+Football Manager (Europe);oric
+Football Manager - Players (Europe);zxspectrum
+Football Manager - World Cup Edition (Europe);amstradcpc
+Football Manager - World Cup Edition (Europe);atarist
+Football Manager - World Cup Edition (Europe);c64
+Football Manager - World Cup Edition (Europe);zxspectrum
+Football Manager 2 (Europe);amstradcpc
+Football Manager 2 (Europe);atarist
+Football Manager 2 - Expansion Kit (Europe);amstradcpc
+Football Manager 2 - Expansion Kit (Europe);atarist
+Football Manager 2 - Expansion Kit (Europe);zxspectrum
+Football Manager 3 (Europe);amstradcpc
+Football Manager 3 (Europe);zxspectrum
+Football Manager 95 (Europe) (Unl);c64
+Football Manager Handheld (Europe);psp
+Football Manager Handheld 2007 (Europe);psp
+Football Manager Handheld 2008 (Europe);psp
+Football Manager Handheld 2009 (Europe);psp
+Football Manager Handheld 2010 (Europe);psp
+Football Manager Handheld 2011 (Europe);psp
+Football Manager Handheld 2012 (Europe);psp
+Football Manager Handheld 2013 (Europe);psp
+Football Manager II (Europe);c64
+Football Manager III (Europe);c64
+Football Masters (Europe);atarist
+Football Simulation (Europe);atarist
+Footballer (Europe);zxspectrum
+Footballer of the Year (Europe);bbcb
+Footballer of the Year (Europe);amstradcpc
+Footballer of the Year (Europe);c64
+Footballer of the Year (Europe);zxspectrum
+Footballer of the Year 2 (Europe);amstradcpc
+Footballer of the Year 2 (Europe);atarist
+Footballer of the Year 2 (Europe);zxspectrum
+Footballer of the Year II (Europe);c64
+Footballer, The (Europe);amstradcpc
+Formation Soccer - Human Cup '90 (Japan);pcengine
+Formation Soccer - On J-League (Japan);pcengine
+Freestyle Street Soccer (USA);gc
+Futbol-Party (Spain);zxspectrum
+GFL Championship Football (Europe);atarist
+Gary Lineker's Hot Shot (Europe);c64
+Gary Lineker's Hot-Shot! (Europe);amstradcpc
+Gary Lineker's Hot-Shot! (Europe);atarist
+Gary Lineker's Hot-Shot! (Europe);zxspectrum
+Gary Lineker's Super Skills (Europe);amstradcpc
+Gary Lineker's Super Skills (Europe);c64
+Gary Lineker's Super Skills (Europe);zxspectrum
+Gary Lineker's Super Star Soccer (Europe);amstradcpc
+Gary Lineker's Super Star Soccer (Europe);zxspectrum
+Gazza II (Europe);amstradcpc
+Gazza II (Europe);atarist
+Gazza II (Europe);c64
+Gazza II (Europe);zxspectrum
+Gazza's Super Soccer (Europe);atarist
+Gazza's Super Soccer (Europe);c64
+Gazza's Super Soccer (Europe);zxspectrum
+Glen Hoddle Soccer (Europe);amstradcpc
+Go! Go! Beckham! - Adventure on Soccer Island (Europe) (En,Fr,De,Es,It);gba
+Goal! (Europe);bbcb
+Goal! (Europe);atarist
+Goal! (USA);nes
+Goal! (USA);gb
+Goal! (USA);snes
+Goal! Two (USA);nes
+Golden Goal (Europe);gbc
+Graeme Souness International Soccer (Europe);c64
+Graeme Souness Soccer Manager (Europe);atarist
+Graeme Souness Soccer Manager (Europe);c64
+Graeme Souness Soccer Manager (Europe);zxspectrum
+Graeme Souness Vector Soccer (Europe);atarist
+GraemeSounessSoccerManager_v1.0;amiga1200
+GraemeSounessSoccerManager_v1.0;amiga
+GraemeSounessVectorSoccer_v1.1_1700;amiga1200
+GraemeSounessVectorSoccer_v1.1_1700;amiga
+Graham Taylor Soccer Challenge (Europe);atarist
+Great Soccer (Europe);mastersystem
+Great Soccer (USA);mastersystem
+Gridiron! (Europe);atarist
+Hat Trick Hero 2 (Japan);sfc
+Head-On Soccer (USA);megadrive
+Head-On Soccer (USA);snes
+Heads-Up - Action Soccer (USA);vectrex
+Hi-Res Soccer (USA);apple2
+High School Soccer - Kunio Kun (J) [!];megadrive-japan
+Hockey + Soccer (USA, Europe);odyssey2
+Hotball (Europe);atarist
+I Play - 3D Soccer (Italy);c64
+I Play - Football Champ (Italy);c64
+I Play 3-D Soccer (Italy);atarist
+Ico Soccer (Europe) (En,Fr,De,Es,It) [b];nds
+Imagine - Soccer Captain (USA) (En,Fr,Es) [b];nds
+Indoor Soccer (1986);plus4
+Indoor Soccer (198x)(Alternative Sofware);electron
+Indoor Soccer (19xx)(Alternative Software);electron
+Indoor Soccer (Codemasters) (Europe);amstradcpc
+Indoor Soccer (Europe);bbcb
+Indoor Soccer (Europe);zxspectrum
+Indoor Soccer (Magnificent 7 Software) (Europe);amstradcpc
+International 5 A-Side (Europe);c64
+International 5-a-Side Football (Europe);zxspectrum
+International Football (Europe);amstradcpc
+International Football (Europe);c64
+International Football (Europe);zxspectrum
+International Manager (Europe);amstradcpc
+International Manager (Europe);c64
+International Manager (Europe);zxspectrum
+International Match Day (Europe);zxspectrum
+International Sensible Soccer - World Champions Limited Edition (Europe);snes
+International Soccer (USA);atari2600
+International Soccer (USA);c64
+International Soccer Challenge (Europe);atarist
+International Superstar Soccer '98 (USA);n64
+International Superstar Soccer '99 (Europe);gbc
+International Superstar Soccer '99 (Europe);sgb
+International Superstar Soccer (Europe);gba
+International Superstar Soccer (Europe);psx
+International Superstar Soccer (USA);snes
+International Superstar Soccer (USA, Europe);gb
+International Superstar Soccer (USA, Europe);sgb
+International Superstar Soccer 2 (Europe);gc
+International Superstar Soccer 2000 (USA) (En,Es);n64
+International Superstar Soccer 2000 (USA);gbc
+International Superstar Soccer 3 (Europe);gc
+International Superstar Soccer 64 (USA);n64
+International Superstar Soccer Advance (Europe);gba
+International Superstar Soccer Deluxe (Europe);megadrive
+International Superstar Soccer Deluxe (Europe);psx
+International Superstar Soccer Deluxe (USA);snes
+International Superstar Soccer Pro '98 (USA);psx
+InternationalSoccer_v1.0_2429;amiga1200
+InternationalSoccer_v1.0_2429;amiga
+Italia '90 - World Cup Soccer (Europe);zxspectrum
+Italy '90 Soccer (Italy);c64
+Italy 1990 (Codemasters) (Europe);atarist
+Italy 1990 (Europe);amstradcpc
+Italy 1990 (Europe);zxspectrum
+Italy 1990 (US Gold) (Europe);atarist
+Italy 1990 - Winners Edition (Europe);amstradcpc
+Italy 1990 - Winners Edition (Europe);atarist
+Italy 1990 - Winners Edition (Europe);c64
+Italy 1990 - Winners Edition (Europe);zxspectrum
+J League Tremendous Soccer '94 (Japan);pce-cd
+J-League Big Wave Soccer (Japan);gb
+J-League Fighting Soccer - The King of Ace Strikers (Japan);gb
+J-League GG Pro Striker '94 (Japan);gamegear
+J-League Greatest Eleven (Japan);pcengine
+J-League Live '95 (Japan);gb
+J-League Soccer - Dream Eleven (Japan);gamegear
+J-League Virtual Stadium '95 (Japan);3do
+J-League Virtual Stadium (Japan);3do
+J-League Winning Goal (Japan);gb
+J. League Champion Soccer (Japan);megadrive-japan
+J. League Champion Soccer (Japan);megadrive
+J. League Pro Striker (Japan);megadrive
+J. League Pro Striker 2 (Japan);megadrive
+J. League Pro Striker Final Stage (Japan);megadrive
+J. League Pro Striker Perfect (Japan);megadrive
+J.League '96 Dream Stadium (Japan);sfc
+J.League Dynamite Soccer 64 (Japan);n64-japan
+J.League Eleven Beat 1997 (Japan);n64-japan
+J.League Excite Stage '94 (Japan);sfc
+J.League Excite Stage '95 (Japan);sfc
+J.League Excite Stage '96 (Japan);sfc
+J.League Fighting Soccer - The King of Ace Strikers (Japan);famicom
+J.League Live 64 (Japan);n64-japan
+J.League Soccer Prime Goal (Japan);sfc
+J.League Soccer Prime Goal 2 (Japan);sfc
+J.League Soccer Prime Goal 3 (Japan);sfc
+J.League Super Soccer '95 - Jikkyou Stadium (Japan);sfc
+J.League Super Soccer (Japan);sfc
+J.League Tactics Soccer (Japan);n64-japan
+J.League Winning Goal (Japan) (Translated En);famicom
+Jikkyou J.League 1999 - Perfect Striker 2 (Japan);n64-japan
+Jikkyou J.League Perfect Striker (Japan);n64-japan
+Jikkyou World Soccer 2002 (Japan);gc
+Jimmy's Soccer Manager (Europe);c64
+Jimmy's Soccer Manager (Europe);zxspectrum
+Jimmy's Super League (Europe);c64
+Jimmy's Super League (Europe);zxspectrum
+Jimmys Socer Manager (Europe);amstradcpc
+John Barnes European Football (Europe);atarist
+Kenny Dalglish Soccer (Europe);c64
+Kenny Dalglish Soccer Manager (Europe);amstradcpc
+Kenny Dalglish Soccer Manager (Europe);atari800
+Kenny Dalglish Soccer Manager (Europe);atarist
+Kenny Dalglish Soccer Manager (Europe);c64
+Kenny Dalglish Soccer Manager (Europe);zxspectrum
+Kenny Dalglish Soccer Match (Europe);amstradcpc
+Kenny Dalglish Soccer Match (Europe);zxspectrum
+Kick Off (Anco) (Europe);c64
+Kick Off (Bubble Bus) (Europe);c64
+Kick Off (Europe);amstradcpc
+Kick Off (Europe);atarist
+Kick Off (Europe);nes
+Kick Off (Europe);zxspectrum
+Kick Off (Europe);snes
+Kick Off - Extra Time (Europe);atarist
+Kick Off 2 (Europe) (Side A);amstradcpc
+Kick Off 2 (Europe) (Side B);amstradcpc
+Kick Off 2 (Europe);atarist
+Kick Off 2 (Europe);zxspectrum
+Kick Off 2 - Final Whistle (Europe);atarist
+Kick Off 2 - Return to Europe (Europe);atarist
+Kick Off 3 - European Challenge (Europe);megadrive
+Kick Off 3 - European Challenge (Europe);snes
+Kick Off II (Europe);c64
+Kick Off World Cup Edition (Europe);amstradcpc
+Kick and Run (Japan);fds
+Konami Hyper Soccer (Europe);nes
+Konami's Soccer (Japan) (Alt 1);msx
+Konami's Soccer (Japan) (Alt 2);msx
+Konami's Soccer (Japan) (Alt 3);msx
+Konami's Soccer (Japan);msx
+Kunio-kun no Nekketsu Soccer League (Japan) (Translated En);famicom
+Kunio-kun no Nekketsu Soccer League (R);dendy
+LEGO Soccer Mania (USA, Europe) (En,Fr,De,Es,It,Nl,Sv,Da);gba
+League Challege (Europe);bbcb
+League Challenge (Europe);amstradcpc
+League Challenge (Europe);atarist
+League Challenge (Europe);c64
+League Challenge (Europe);zxspectrum
+League Champions (Europe);oric
+League Football (Europe);amstradcpc
+League Football (Europe);c64
+League Football (Europe);zxspectrum
+League Soccer (USA);c64
+League Soccer - Long Game (USA);vic20
+League Soccer - Short Game (USA);vic20
+Leeds United Champions (Europe);atarist
+Liverpool (Europe);amstradcpc
+Liverpool (Europe);zxspectrum
+Liverpool - The Computer Game (Europe) (Disk 1);atarist
+Liverpool - The Computer Game (Europe) (Disk 2);atarist
+Liverpool - The Computer Game (Europe);c64
+MISL - Major Indoor Soccer League (USA);c64
+MSX Soccer (Japan) (Alt 1);msx
+MSX Soccer (Japan);msx
+Magnetic Soccer (Europe);gb
+Manager, The (Europe);amstradcpc
+Manager, The (Europe);zxspectrum
+Manchester United (Europe) (Disk 1);atarist
+Manchester United (Europe) (Disk 2);atarist
+Manchester United (Europe) (Side A);c64
+Manchester United (Europe) (Side B);c64
+Manchester United (Europe);amstradcpc
+Manchester United (Europe);zxspectrum
+Manchester United Championship Soccer (Europe);snes
+Manchester United Europe (Europe);amstradcpc
+Manchester United Europe (Europe);atarist
+Manchester United Europe (Europe);c64
+Manchester United Europe (Europe);zxspectrum
+Match Day (Europe);bbcb
+Match Day (Europe);amstradcpc
+Match Day (Europe);c64
+Match Day (Europe);zxspectrum
+Match Day II (Europe);amstradcpc
+Match Day II (Europe);c64
+Match Day II (Europe);zxspectrum
+Match of the Day (Europe) (Disk 1);atarist
+Match of the Day (Europe) (Disk 2);atarist
+Match of the Day (Europe);c64
+Match of the Day (Europe);zxspectrum
+Match, The (Europe);amstradcpc
+Match, The (Europe);c64
+Match, The (Europe);zxspectrum
+Matthias Sammer Soccer (Germany);gb
+Mega Man Soccer (USA);snes
+Mexico '86 - Finals (Europe);zxspectrum
+Mexico '86 - Qualifiers (Europe);zxspectrum
+Mexico '86 A World Cup Management Simulation (Europe);amstradcpc
+Mexico 86 (Europe);bbcb
+Mia Hamm Soccer 64 (USA) (En,Es);n64
+Mia Hamm Soccer Shootout (USA);gbc
+Michael Owen's World League Soccer 99 (Europe);psx
+Michel Futbol Master (Side A) (Spain);zxspectrum
+Michel Futbol Master (Side B) (Spain);zxspectrum
+Michel Futbol Master - Super Skills (Spain);amstradcpc
+MicroProseSoccer_v1.1;amiga1200
+MicroProseSoccer_v1.1;amiga
+Microprose Soccer (Europe);amstradcpc
+Microprose Soccer (Europe);atarist
+Microprose Soccer (Europe);zxspectrum
+Microprose Soccer (USA);c64
+Multi Player Soccer Manager (Europe);amstradcpc
+Multi Player Soccer Manager (Europe);atarist
+Multi-Player Soccer Manager (Europe);c64
+Multi-Player Soccer Manager (Europe);zxspectrum
+MultiPlayerSoccerManager_v1.0;amiga1200
+MultiPlayerSoccerManager_v1.0;amiga
+Mundial de Futbol (Spain);amstradcpc
+Mundial de Futbol (Spain);zxspectrum
+NASL Soccer (World);intellivision
+Namco Soccer Prime Goal (Europe);psx
+Nekketsu Koukou Dodgeball Bu - Soccer Hen (Japan);pce-cd
+Nekketsu Koukou Dodgeball Bu - Soccer Hen MD (Japan);megadrive
+Nekketsu Koukou Dodgeball Bu - Soccer PC Hen (Japan);pcengine
+Neo Geo Cup '98 (Japan, Europe);ngp
+Neo Geo Cup '98 Plus (World) (En,Ja);ngpc
+Nihon Daihyou Team - Eikou no Eleven (Japan);gb
+Nintendo World Cup (USA);nes
+Nintendo World Cup (USA, Europe);gb
+Nippon Daihyou Team - Eikou no Eleven (Japan);gb
+Numero 10 (France);atarist
+Official F.A. Cup Football, The (Europe);amstradcpc
+Olympic Soccer (USA);3do
+Olympic Soccer (USA);saturn
+Olympic Soccer (USA);psx
+On The Bench (Europe);amstradcpc
+On the Bench (Europe);c64
+On the Bench (Europe);zxspectrum
+OnSide Soccer (Europe);3do
+Onside Complete Soccer (Europe);psx
+Pele II - World Tournament Soccer (USA, Europe);megadrive
+Pele! (USA, Europe);megadrive
+Penalty Soccer (Europe);amstradcpc
+Penalty Soccer (Europe);c64
+Penalty Soccer (Europe);zxspectrum
+Peter Beardsley's International Football (Europe);atarist
+Peter Beardsley's International Football (Europe);c64
+Peter Beardsley's International Football (Europe);zxspectrum
+Peter Beardsley's Soccer (Europe);amstradcpc
+Peter Shilton's Handball Maradona (Europe);amstradcpc
+Peter Shilton's Handball Maradona (Europe);c64
+Peter Shilton's Handball Maradona (Europe);zxspectrum
+PeterSchmeichelSoccer_v1.0;amiga1200
+PeterSchmeichelSoccer_v1.0;amiga
+Player Manager (Europe);atarist
+Pleasuregoal - 5 on 5 Mini Soccer (World);neocdz
+Pocket Soccer (Europe);gbc
+Power Soccer (Japan);famicom
+Premier Action Soccer (Europe) (En,Fr,De,Es,It);gba
+Premier II (Europe);c64
+Premier II - Superleague (Europe);zxspectrum
+Premier II Superleague (Europe);amstradcpc
+Premier League (Europe);c64
+Premier League (Europe);zxspectrum
+Premier Manager (Europe);atarist
+Premier Manager (Europe);megadrive
+Premier Manager 2 (Europe) (Disk 1);atarist
+Premier Manager 2 (Europe) (Disk 2);atarist
+Premier Manager 2003-04 (Europe) (En,Fr,De,It);gba
+Premier Manager 2004-2005 (Europe) (En,Fr,De,It);gba
+Premier Manager 2005-2006 (Europe) (En,Fr,De,It);gba
+Premier Manager 64 (Europe);n64
+Premier Manager 97 (Europe);megadrive
+Pro Evolution Soccer (Europe);psx
+Pro Evolution Soccer 2 (Europe);psx
+Pro Evolution Soccer 2008 (USA) (En,Es);nds
+Pro Evolution Soccer 2008 (USA);psp
+Pro Evolution Soccer 2009 (USA);psp
+Pro Evolution Soccer 2010 (USA);psp
+Pro Evolution Soccer 2011 (USA);psp
+Pro Evolution Soccer 2011 3D (USA);3ds
+Pro Evolution Soccer 2012 (USA);psp
+Pro Evolution Soccer 2012 3D (USA);3ds
+Pro Evolution Soccer 2013 (USA);psp
+Pro Evolution Soccer 2013 3D (USA);3ds
+Pro Evolution Soccer 2014 (Europe);psp
+Pro Soccer 2190 (Europe);atarist
+Pro Soccer 68 (Anco);x68000
+ProSoccer2190_v1.0_1563;amiga1200
+ProSoccer2190_v1.0_1563;amiga
+Profesional Footballer (Europe);amstradcpc
+Professional Football Masters (Europe);atarist
+Professional Footballer (Europe);c64
+Professional Footballer (Europe);zxspectrum
+Professional Soccer (Europe);zxspectrum
+Puma Street Soccer (Europe);psx
+Real Madrid - The Game (Europe);psp
+Real Soccer 2008 (USA) (En,Fr,Es);nds
+Real Soccer 2009 (USA) (En,Fr,Es) [b];nds
+RealSports Soccer (USA);atari2600
+RealSports Soccer (USA);atari5200
+RedCard 2003 (USA);gc
+River City - Soccer Hooligans (USA);nds
+Rome 90 (Tape 1) (Europe);zxspectrum
+Rome 90 (Tape 2) (Europe);zxspectrum
+Ronaldo V-Soccer (USA);gbc
+Roy of the Rovers (Europe) (Disk 1);atarist
+Roy of the Rovers (Europe) (Disk 2);atarist
+Roy of the Rovers (Europe);amstradcpc
+Roy of the Rovers (Europe);c64
+ST Soccer (Europe);atarist
+Scottish League Football (Europe);c64
+Sega Soccer Slam (USA);gc
+Sega Soccer Slam (USA);ps2
+Sega Worldwide Soccer '97 (USA);saturn
+Sega Worldwide Soccer '98 (USA);saturn
+Sensible Soccer (Europe) (Disk 1);atarist
+Sensible Soccer (Europe) (Disk 2);atarist
+Sensible Soccer (Europe);mastersystem
+Sensible Soccer (Europe);megadrive
+Sensible Soccer - European Champions (Europe);gb
+Sensible Soccer - European Champions (Europe);gamegear
+Sensible Soccer - International Edition (Europe);megadrive
+Sensible Soccer - International Edition (World);atarijaguar
+Sensible Soccer 1992-93 Season Edition (Europe);atarist
+Sensible Soccer International Edition (Europe);atarist
+SensibleSoccer9293_v1.1_2391;amiga1200
+SensibleSoccer9293_v1.1_2391;amiga
+SensibleSoccerBulldogBlighty_v1.0;amiga1200
+SensibleSoccerBulldogBlighty_v1.0;amiga
+SensibleSoccerEuropeanChampions_v1.1_0722;amiga1200
+SensibleSoccerEuropeanChampions_v1.1_0722;amiga
+SensibleSoccerInternationalEdition_v1.1_1681;amiga1200
+SensibleSoccerInternationalEdition_v1.1_1681;amiga
+SensibleSoccer_v1.1_0384;amiga1200
+SensibleSoccer_v1.1_0384;amiga
+SensibleWorldOfMoonSoccer_v1.0;amiga1200
+SensibleWorldOfMoonSoccer_v1.0;amiga
+SensibleWorldOfSoccer11_v1.7_0201;amiga1200
+SensibleWorldOfSoccer11_v1.7_0201;amiga
+SensibleWorldOfSoccer9596EuropeanChampions_v1.7_1825;amiga1200
+SensibleWorldOfSoccer9596EuropeanChampions_v1.7_1825;amiga
+SensibleWorldOfSoccer9596_v1.7_1755;amiga1200
+SensibleWorldOfSoccer9596_v1.7_1755;amiga
+SensibleWorldOfSoccer9697_v1.7_0842;amiga1200
+SensibleWorldOfSoccer9697_v1.7_0842;amiga
+SensibleWorldOfSoccer_v1.7_0840;amiga1200
+SensibleWorldOfSoccer_v1.7_0840;amiga
+Sensible_Soccer_-_International_Edition_v1.2_CD32_(Europe);amigacd32
+Shijou Saikyou League Serie A - Ace Striker (Japan);sfc
+Shoot (Europe) (Unl);amstradcpc
+SierraSoccer_v1.0_1539;amiga1200
+SierraSoccer_v1.0_1539;amiga
+Soccer '97 (Europe);psx
+Soccer (Asia, Europe);crvision
+Soccer (Europe);atari800
+Soccer (Europe);vic20
+Soccer (Europe);vc4000
+Soccer (Gamma Software) (USA);atari800
+Soccer (Japan);fds
+Soccer (R);dendy
+Soccer (USA) (Unl);apple2
+Soccer (USA);astrocde
+Soccer (USA, Europe);arcadia
+Soccer (World);nes
+Soccer 7 (Europe);amstradcpc
+Soccer 7 (Europe);c64
+Soccer 7 (Europe);zxspectrum
+Soccer 86 (Europe);amstradcpc
+Soccer Boss (198x)(-);electron
+Soccer Boss (Europe);bbcb
+Soccer Boss (Europe);amstradcpc
+Soccer Boss (Europe);c64
+Soccer Brawl (World);neocdz
+Soccer Challenge (Europe);amstradcpc
+Soccer Challenge (Europe);c64
+Soccer Challenge (Europe);zxspectrum
+Soccer Champion (USA, Europe);supervision
+Soccer Cup II (Europe);c64
+Soccer Director (Europe);amstradcpc
+Soccer Director (Europe);zxspectrum
+Soccer Director (USA);c64
+Soccer Glory (Europe);atarist
+Soccer Kid (Europe);psx
+Soccer Kid (USA);3do
+Soccer Kid (USA, Europe);gba
+Soccer Kid (World);atarijaguar
+Soccer King (Germany);atarist
+Soccer Manager (Europe);bbcb
+Soccer Manager (Europe);gbc
+Soccer Manager Plus (Germany);atarist
+Soccer Mania (Japan, USA);gb
+Soccer Pinball (Europe);amstradcpc
+Soccer Pinball (Europe);c64
+Soccer Pinball (Europe);zxspectrum
+Soccer Q (Europe) (Side A);amstradcpc
+Soccer Q (Europe) (Side B);amstradcpc
+Soccer Q (Europe);zxspectrum
+Soccer Quiz (Europe);c64
+Soccer Rematch (Side A) (Europe);zxspectrum
+Soccer Rematch (Side B) (Europe);zxspectrum
+Soccer Rematch - Italia 90 (Side A) (Europe);zxspectrum
+Soccer Rematch - Italia 90 (Side B) (Europe);zxspectrum
+Soccer Rematch - Misc Datafiles (Europe);zxspectrum
+Soccer Rematch Data Cassette 1 (Side A) (Europe);zxspectrum
+Soccer Rematch Data Cassette 1 (Side B) (Europe);zxspectrum
+Soccer Rivals (Europe);amstradcpc
+Soccer Rivals (Europe);c64
+Soccer Rivals (Europe);zxspectrum
+Soccer Skills (Europe);amstradcpc
+Soccer Star (Europe);amstradcpc
+Soccer Star (Europe);c64
+Soccer Star (Europe);zxspectrum
+Soccer Supremo (Europe);bbcb
+Soccer Supremo (Europe);atarist
+Soccer Supremo (Europe);c64
+Soccer Supremo (Europe);zxspectrum
+Soccer Supremo - A Football League Managment Simulation (1986)(Qual-soft);electron
+Soccer Supremo - A Football League Managment Simulation (1986)(Qual-soft)[a];electron
+Soccer Supremo! (Europe);bbcb
+Soccer Yarou! - Challenge the World (Japan);wonderswan
+Soccer;mz700
+Soccer;ti99
+SoccerKid_v1.1_AGA_1150;amiga1200
+SoccerKid_v1.1_AGA_1150;amiga
+SoccerPinball_v1.2_2522;amiga1200
+SoccerPinball_v1.2_2522;amiga
+Soccer_Kid_CD32_(Europe);amigacd32
+Sport Spectacular (Europe) (Side 1);bbcb
+Sport Spectacular (Europe) (Side 2);bbcb
+Star Soccer (Europe);bbcb
+Star Soccer (Side A) (Europe);zxspectrum
+Star Soccer (Side B) (Europe);zxspectrum
+Starbyte Supersoccer (Germany);c64
+Steven Gerrard's Total Soccer 2002 (Europe) (En,Fr,De,Es,It,Nl);gba
+Street Cred Football (Europe);amstradcpc
+Street Cred Football (Europe);c64
+Street Cred Football (Europe);zxspectrum
+Street Gang Football (Europe);amstradcpc
+Street Gang Football (Europe);zxspectrum
+Street Soccer (Europe);amstradcpc
+Street Sport Soccer (USA);apple2
+Street Sports Soccer (USA);c64
+StreetKix - Freestyle (USA);psp
+Striker '96 (USA);saturn
+Striker (Europe);amstradcpc
+Striker (Europe);c64
+Striker (Europe);gamegear
+Striker (Europe);megadrive
+Striker (Europe);zxspectrum
+Striker (Impressions) (Europe);atarist
+Striker (Rage Software) (Europe);atarist
+Striker - World Cup Special (Europe);3do
+Striker Manager (Europe);amstradcpc
+Striker Manager (Europe);atarist
+Striker Manager (Europe);c64
+Striker Manager (Europe);zxspectrum
+Subbuteo (Europe);c64
+Subbuteo - The Computer Game (Europe);amstradcpc
+Subbuteo - The Computer Game (Europe);atarist
+Super Action Soccer (USA, Europe);colecovision
+Super Copa (Brazil);snes
+Super Cup Football (Europe);c64
+Super Formation Soccer 94 - World Cup Edition (Japan);sfc
+Super Formation Soccer 94 - World Cup Final Data (Japan);sfc
+Super Formation Soccer 95 della Serie A (Japan);sfc
+Super Formation Soccer 96 - World Club Edition (Japan);sfc
+Super Formation Soccer II (Japan);sfc
+Super Goal! 2 (USA);snes
+Super Kick Off (Europe);gb
+Super Kick Off (Europe);mastersystem
+Super Kick Off (Europe);megadrive
+Super Kick Off (Europe, Japan);gamegear
+Super League (Cross Software) (Europe);zxspectrum
+Super League (Europe);amstradcpc
+Super League (Europe);c64
+Super League (Players Premier Software) (Europe);zxspectrum
+Super League Soccer (Europe);atarist
+Super Mario Strikers (USA);gc
+Super Match Soccer (Europe);psx
+Super Shot Soccer (USA);psx
+Super Soccer (Europe);amstradcpc
+Super Soccer (Europe);zxspectrum
+Super Soccer (Imagine) (Europe);c64
+Super Soccer (Japan);msx
+Super Soccer (Memory Soft) (Europe);c64
+Super Soccer (USA);snes
+Super Soccer Challenge (Europe);atarist
+Super Soccer Champ (USA);snes
+Super Soccer;scv
+Supercup (Europe);amstradcpc
+Superior Soccer (1989)(Superior Software-Acornsoft);electron
+Superior Soccer (Europe);bbcb
+Superleague Soccer (Europe);c64
+Superleague Soccer (Europe);zxspectrum
+Superstar Soccer (USA);c64
+System 8 - The Pools Predictor (Europe);c64
+Table Football (Europe);amstradcpc
+Table Football (Europe);zxspectrum
+Table Soccer (Europe);c64
+Tactical Manager (Europe) (Disk 1);atarist
+Tactical Manager (Europe) (Disk 2);atarist
+Tactical Soccer (Japan);sfc
+Takeda Nobuhiro no Super League Soccer (Japan);sfc
+Team (Europe);atarist
+Tecmo Cup - Soccer Game (R);dendy
+Tecmo Cup - Soccer Game (USA);nes
+Tecmo Cup Football Game (Japan) (Proto);megadrive
+Tecmo World Cup '93 (Europe);mastersystem
+Tecmo World Cup (USA);megadrive
+Tecmo World Cup Soccer (Europe);nes
+Tecmo World Cup Soccer (R);dendy
+Tecmo World Cup Super Soccer (Japan);pce-cd
+Tengen World Cup Soccer (USA, Europe);gamegear
+Tony Meola's Sidekicks Soccer (USA);snes
+Top Of The League (Europe);amstradcpc
+Total Football (Europe);megadrive
+Total Soccer 2000 (Europe);gbc
+Track Suit Manager (Europe);amstradcpc
+Track Suit Manager (Europe);zxspectrum
+Tracksuit Manager (Europe);atarist
+Tracksuit Manager (Europe);c64
+Treble Champions (Europe);amstradcpc
+Treble Champions (Europe);atarist
+Treble Champions (Europe);c64
+Treble Champions (Europe);zxspectrum
+Treble Champions II (Europe);atarist
+Trener (Poland);c64
+Trevor Brooking's World Cup Glory (Europe);amstradcpc
+Trevor Brooking's World Cup Glory (Europe);c64
+Trevor Brooking's World Cup Glory (Europe);zxspectrum
+Two Player Soccer Squad (Europe);c64
+Two Player Super League (Europe);c64
+UEFA Champions League 2004-2005 (Europe);gc
+UEFA Champions League 2006-2007 (USA);psp
+UEFA Euro 2008 (USA);psp
+UEFA Euro 96 England (Europe);saturn
+Ultimate Beach Soccer (USA);gba
+Ultimate League Soccer (USA) (Unl);nes
+Ultimate Soccer (Europe);mastersystem
+Ultimate Soccer (Europe);megadrive
+Ultimate Soccer (Japan, Europe);gamegear
+Ultimate Soccer Quiz, The (Europe);zxspectrum
+Ultra CD-i Soccer (Europe);cdimono1
+Ultra League - Moero! Soccer Daikessen!! (Japan);sfc
+United (Europe);zxspectrum
+UnsensibleSoccer_v1.0;amiga1200
+UnsensibleSoccer_v1.0;amiga
+V Goal Soccer '96 (Japan);3do
+VR Soccer '96 (USA);psx
+VR Soccer (USA);saturn
+Virtua Striker 2002 (USA);gc
+Virtual Soccer (Europe);snes
+Viva Soccer (USA);psx
+WildCupSoccer_v1.0_0229;amiga1200
+WildCupSoccer_v1.0_0229;amiga
+Winning Eleven - Pro Evolution Soccer 2007 (USA) (En,Es);nds
+Winning Eleven - Pro Evolution Soccer 2007 (USA);psp
+Winning Eleven - Pro Evolution Soccer 2007 (USA);ps2
+World Champions (Europe);amstradcpc
+World Champions (Europe);c64
+World Champions (Europe);zxspectrum
+World Championship Soccer (Europe);amstradcpc
+World Championship Soccer (Europe);atarist
+World Championship Soccer (Europe);c64
+World Championship Soccer (Europe);zxspectrum
+World Championship Soccer (Japan, USA);megadrive
+World Championship Soccer II (USA);megadrive
+World Class Soccer (USA, Europe);atarilynx
+World Cup '86 (Europe);zxspectrum
+World Cup (Artic Computing Ltd.) (Europe);c64
+World Cup (Artic Computing) (Europe);amstradcpc
+World Cup (Cult Games) (Europe);c64
+World Cup (Cult) (Europe);amstradcpc
+World Cup (Europe);zxspectrum
+World Cup (USA) (Unl);vic20
+World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da);n64
+World Cup 98 (USA, Europe);gb
+World Cup Carnival (Europe);zxspectrum
+World Cup Carnival - Mexico '86 (Europe);c64
+World Cup Carnival Mexico 86 (Europe);amstradcpc
+World Cup Challenge (Europe);amstradcpc
+World Cup Challenge (Europe);zxspectrum
+World Cup Football (Europe);zxspectrum
+World Cup Glory (Europe);zxspectrum
+World Cup Italia '90 (Europe);mastersystem
+World Cup Manager (Europe);bbcb
+World Cup Manager (Europe);amstradcpc
+World Cup Soccer (Macmillan Software) (Europe);c64
+World Cup Soccer (Sharedata, Inc.) (USA);c64
+World Cup Soccer (World);intellivision
+World Cup Soccer Italia '90 (Europe);amstradcpc
+World Cup Soccer Italia '90 (Europe);c64
+World Cup USA '94 (Europe);gb
+World Cup USA '94 (USA);segacd
+World Cup USA 94 (Europe);mastersystem
+World Cup USA 94 (USA);snes
+World Cup USA 94 (USA, Europe);gamegear
+World Cup USA 94 (USA, Europe);megadrive
+World League Soccer '98 (Europe);saturn
+World League Soccer '98 (Europe);psx
+World League Soccer (USA);snes
+World League Soccer Manager (Europe) (Unl);atarist
+World Soccer (Europe);amstradcpc
+World Soccer (Europe);atari800
+World Soccer (Europe);atarist
+World Soccer (Europe);c64
+World Soccer (Europe);zxspectrum
+World Soccer 94 - Road to Glory (USA);snes
+World Soccer League (Europe);amstradcpc
+World Soccer League (Europe);c64
+World Soccer League (Europe);zxspectrum
+World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen (Japan);psp-japan
+World Soccer Winning Eleven 2010 - Aoki Samurai no Chousen (Japan);psp
+World Soccer Winning Eleven 6 - Final Evolution (Japan);gc
+World Soccer Winning Eleven 9 (USA);psp
+World Tour Soccer (USA);psp
+World Tour Soccer 06 (USA);psp
+World Tour Soccer 2002 (USA);ps2
+World Trophy Soccer (Europe);atarist
+World Trophy Soccer (USA);megadrive
+World of Soccer (Europe);c64
+World of Soccer (Europe);zxspectrum
+WorldChampionshipSoccer_v1.0_1063;amiga1200
+WorldChampionshipSoccer_v1.0_1063;amiga
+WorldClassSoccer_v1.2;amiga1200
+WorldClassSoccer_v1.2;amiga
+WorldSoccer_v1.1_2150;amiga1200
+WorldSoccer_v1.1_2150;amiga
+Worldcup 90 - Arcade Soccer (Europe);c64
+Worldwide Soccer - Sega International Victory Goal Edition (USA);saturn
+XS Junior League Soccer (USA);psx
+ZX Football Manager 2005 (Europe);zxspectrum
+Zenkoku Koukou Soccer (Japan);sfc
+Zenkoku Koukou Soccer 2 (Japan);sfc
+Zico Soccer (Japan);sfc
+Zidane Football Generation (Europe) (En,Fr,De,Es,It);gba
+agsoccer;arcade
+agsoccer;fba
+agsoccer;mame-advmame
+agsoccer;mame-libretro
+agsoccer;mame-mame4all
+ar_socc;arcade
+ar_socc;fba
+ar_socc;mame-advmame
+ar_socc;mame-libretro
+ar_socc;mame-mame4all
+asoccer;arcade
+asoccer;fba
+asoccer;mame-advmame
+asoccer;mame-libretro
+asoccer;mame-mame4all
+bestleag;arcade
+bestleag;fba
+bestleag;mame-advmame
+bestleag;mame-libretro
+bestleag;mame-mame4all
+bestleaw;arcade
+bestleaw;fba
+bestleaw;mame-advmame
+bestleaw;mame-libretro
+bestleaw;mame-mame4all
+bigstrik;arcade
+bigstrik;fba
+bigstrik;mame-advmame
+bigstrik;mame-libretro
+bigstrik;mame-mame4all
+bigstrkb;arcade
+bigstrkb;fba
+bigstrkb;mame-advmame
+bigstrkb;mame-libretro
+bigstrkb;mame-mame4all
+bigstrkba;arcade
+bigstrkba;fba
+bigstrkba;mame-advmame
+bigstrkba;mame-libretro
+bigstrkba;mame-mame4all
+bssoccer;arcade
+bssoccer;fba
+bssoccer;mame-advmame
+bssoccer;mame-libretro
+bssoccer;mame-mame4all
+bssoccera;arcade
+bssoccera;fba
+bssoccera;mame-advmame
+bssoccera;mame-libretro
+bssoccera;mame-mame4all
+cpsoccer;arcade
+cpsoccer;fba
+cpsoccer;mame-advmame
+cpsoccer;mame-libretro
+cpsoccer;mame-mame4all
+cpsoccerj;arcade
+cpsoccerj;fba
+cpsoccerj;mame-advmame
+cpsoccerj;mame-libretro
+cpsoccerj;mame-mame4all
+cupfinal;arcade
+cupfinal;fba
+cupfinal;mame-advmame
+cupfinal;mame-libretro
+cupfinal;mame-mame4all
+cupsoc;arcade
+cupsoc;fba
+cupsoc;mame-advmame
+cupsoc;mame-libretro
+cupsoc;mame-mame4all
+cupsoca;arcade
+cupsoca;fba
+cupsoca;mame-advmame
+cupsoca;mame-libretro
+cupsoca;mame-mame4all
+cupsocb;arcade
+cupsocb;fba
+cupsocb;mame-advmame
+cupsocb;mame-libretro
+cupsocb;mame-mame4all
+cupsocs2;arcade
+cupsocs2;fba
+cupsocs2;mame-advmame
+cupsocs2;mame-libretro
+cupsocs2;mame-mame4all
+cupsocs;arcade
+cupsocs;fba
+cupsocs;mame-advmame
+cupsocs;mame-libretro
+cupsocs;mame-mame4all
+cupsocsb2;arcade
+cupsocsb2;fba
+cupsocsb2;mame-advmame
+cupsocsb2;mame-libretro
+cupsocsb2;mame-mame4all
+cupsocsb3;arcade
+cupsocsb3;fba
+cupsocsb3;mame-advmame
+cupsocsb3;mame-libretro
+cupsocsb3;mame-mame4all
+cupsocsb;arcade
+cupsocsb;fba
+cupsocsb;mame-advmame
+cupsocsb;mame-libretro
+cupsocsb;mame-mame4all
+dribling;arcade
+dribling;fba
+dribling;mame-advmame
+dribling;mame-libretro
+dribling;mame-mame4all
+driblingbr;arcade
+driblingbr;fba
+driblingbr;mame-advmame
+driblingbr;mame-libretro
+driblingbr;mame-mame4all
+driblingo;arcade
+driblingo;fba
+driblingo;mame-advmame
+driblingo;mame-libretro
+driblingo;mame-mame4all
+dsoccr94;arcade
+dsoccr94;fba
+dsoccr94;mame-advmame
+dsoccr94;mame-libretro
+dsoccr94;mame-mame4all
+dsoccr94j;arcade
+dsoccr94j;fba
+dsoccr94j;mame-advmame
+dsoccr94j;mame-libretro
+dsoccr94j;mame-mame4all
+dynashot;arcade
+dynashot;fba
+dynashot;mame-advmame
+dynashot;mame-libretro
+dynashot;mame-mame4all
+euroch92;arcade
+euroch92;fba
+euroch92;mame-advmame
+euroch92;mame-libretro
+euroch92;mame-mame4all
+evosocc;arcade
+evosocc;fba
+evosocc;mame-advmame
+evosocc;mame-libretro
+evosocc;mame-mame4all
+exctscc2;arcade
+exctscc2;fba
+exctscc2;mame-advmame
+exctscc2;mame-libretro
+exctscc2;mame-mame4all
+exctsccr;arcade
+exctsccr;fba
+exctsccr;mame-advmame
+exctsccr;mame-libretro
+exctsccr;mame-mame4all
+exctsccra;arcade
+exctsccra;fba
+exctsccra;mame-advmame
+exctsccra;mame-libretro
+exctsccra;mame-mame4all
+exctsccrb;arcade
+exctsccrb;fba
+exctsccrb;mame-advmame
+exctsccrb;mame-libretro
+exctsccrb;mame-mame4all
+exctsccrj;arcade
+exctsccrj;fba
+exctsccrj;mame-advmame
+exctsccrj;mame-libretro
+exctsccrj;mame-mame4all
+exctsccrjo;arcade
+exctsccrjo;fba
+exctsccrjo;mame-advmame
+exctsccrjo;mame-libretro
+exctsccrjo;mame-mame4all
+exctsccru;arcade
+exctsccru;fba
+exctsccru;mame-advmame
+exctsccru;mame-libretro
+exctsccru;mame-mame4all
+feversoc;arcade
+feversoc;fba
+feversoc;mame-advmame
+feversoc;mame-libretro
+feversoc;mame-mame4all
+fiveside;arcade
+fiveside;fba
+fiveside;mame-advmame
+fiveside;mame-libretro
+fiveside;mame-mame4all
+footchmp;arcade
+footchmp;fba
+footchmp;mame-advmame
+footchmp;mame-libretro
+footchmp;mame-mame4all
+footchmpbl;arcade
+footchmpbl;fba
+footchmpbl;mame-advmame
+footchmpbl;mame-libretro
+footchmpbl;mame-mame4all
+fsoccer;arcade
+fsoccer;fba
+fsoccer;mame-advmame
+fsoccer;mame-libretro
+fsoccer;mame-mame4all
+fsoccerb;arcade
+fsoccerb;fba
+fsoccerb;mame-advmame
+fsoccerb;mame-libretro
+fsoccerb;mame-mame4all
+fsoccerba;arcade
+fsoccerba;fba
+fsoccerba;mame-advmame
+fsoccerba;mame-libretro
+fsoccerba;mame-mame4all
+fsoccerj;arcade
+fsoccerj;fba
+fsoccerj;mame-advmame
+fsoccerj;mame-libretro
+fsoccerj;mame-mame4all
+gghost;arcade
+gghost;fba
+gghost;mame-advmame
+gghost;mame-libretro
+gghost;mame-mame4all
+goal92;arcade
+goal92;fba
+goal92;mame-advmame
+goal92;mame-libretro
+goal92;mame-mame4all
+goalx3;arcade
+goalx3;fba
+goalx3;mame-advmame
+goalx3;mame-libretro
+goalx3;mame-mame4all
+goalx3;neogeo
+gstrik2;arcade
+gstrik2;fba
+gstrik2;mame-advmame
+gstrik2;mame-libretro
+gstrik2;mame-mame4all
+gstrik2j;arcade
+gstrik2j;fba
+gstrik2j;mame-advmame
+gstrik2j;mame-libretro
+gstrik2j;mame-mame4all
+gstriker;arcade
+gstriker;fba
+gstriker;mame-advmame
+gstriker;mame-libretro
+gstriker;mame-mame4all
+gstrikera;arcade
+gstrikera;fba
+gstrikera;mame-advmame
+gstrikera;mame-libretro
+gstrikera;mame-mame4all
+gstrikerj;arcade
+gstrikerj;fba
+gstrikerj;mame-advmame
+gstrikerj;mame-libretro
+gstrikerj;mame-mame4all
+heatof11;arcade
+heatof11;fba
+heatof11;mame-advmame
+heatof11;mame-libretro
+heatof11;mame-mame4all
+hthero93;arcade
+hthero93;fba
+hthero93;mame-advmame
+hthero93;mame-libretro
+hthero93;mame-mame4all
+hthero94;arcade
+hthero94;fba
+hthero94;mame-advmame
+hthero94;mame-libretro
+hthero94;mame-mame4all
+hthero95;arcade
+hthero95;fba
+hthero95;mame-advmame
+hthero95;mame-libretro
+hthero95;mame-mame4all
+hthero95u;arcade
+hthero95u;fba
+hthero95u;mame-advmame
+hthero95u;mame-libretro
+hthero95u;mame-mame4all
+hthero;arcade
+hthero;fba
+hthero;mame-advmame
+hthero;mame-libretro
+hthero;mame-mame4all
+idsoccer;arcade
+idsoccer;fba
+idsoccer;mame-advmame
+idsoccer;mame-libretro
+idsoccer;mame-mame4all
+idsoccera;arcade
+idsoccera;fba
+idsoccera;mame-advmame
+idsoccera;mame-libretro
+idsoccera;mame-mame4all
+intcup94;arcade
+intcup94;fba
+intcup94;mame-advmame
+intcup94;mame-libretro
+intcup94;mame-mame4all
+jleague;arcade
+jleague;fba
+jleague;mame-advmame
+jleague;mame-libretro
+jleague;mame-mame4all
+kick4csh;arcade
+kick4csh;fba
+kick4csh;mame-advmame
+kick4csh;mame-libretro
+kick4csh;mame-mame4all
+kick4csh;naomi
+kickgoal;arcade
+kickgoal;fba
+kickgoal;mame-advmame
+kickgoal;mame-libretro
+kickgoal;mame-mame4all
+kicknrun;arcade
+kicknrun;fba
+kicknrun;mame-advmame
+kicknrun;mame-libretro
+kicknrun;mame-mame4all
+kicknrunu;arcade
+kicknrunu;fba
+kicknrunu;mame-advmame
+kicknrunu;mame-libretro
+kicknrunu;mame-mame4all
+kickoff;arcade
+kickoff;fba
+kickoff;mame-advmame
+kickoff;mame-libretro
+kickoff;mame-mame4all
+kyustrkr;arcade
+kyustrkr;fba
+kyustrkr;mame-advmame
+kyustrkr;mame-libretro
+kyustrkr;mame-mame4all
+lbgrande;arcade
+lbgrande;fba
+lbgrande;mame-advmame
+lbgrande;mame-libretro
+lbgrande;mame-mame4all
+lbgrandeja;arcade
+lbgrandeja;fba
+lbgrandeja;mame-advmame
+lbgrandeja;mame-libretro
+lbgrandeja;mame-mame4all
+m4csoc;arcade
+m4csoc;fba
+m4csoc;mame-advmame
+m4csoc;mame-libretro
+m4csoc;mame-mame4all
+m4csoc__a;arcade
+m4csoc__a;fba
+m4csoc__a;mame-advmame
+m4csoc__a;mame-libretro
+m4csoc__a;mame-mame4all
+m4csoc__b;arcade
+m4csoc__b;fba
+m4csoc__b;mame-advmame
+m4csoc__b;mame-libretro
+m4csoc__b;mame-mame4all
+m4csoc__c;arcade
+m4csoc__c;fba
+m4csoc__c;mame-advmame
+m4csoc__c;mame-libretro
+m4csoc__c;mame-mame4all
+m4csoc__d;arcade
+m4csoc__d;fba
+m4csoc__d;mame-advmame
+m4csoc__d;mame-libretro
+m4csoc__d;mame-mame4all
+m4csoc__e;arcade
+m4csoc__e;fba
+m4csoc__e;mame-advmame
+m4csoc__e;mame-libretro
+m4csoc__e;mame-mame4all
+m4csoc__f;arcade
+m4csoc__f;fba
+m4csoc__f;mame-advmame
+m4csoc__f;mame-libretro
+m4csoc__f;mame-mame4all
+m4csoc__g;arcade
+m4csoc__g;fba
+m4csoc__g;mame-advmame
+m4csoc__g;mame-libretro
+m4csoc__g;mame-mame4all
+m4csoc__h;arcade
+m4csoc__h;fba
+m4csoc__h;mame-advmame
+m4csoc__h;mame-libretro
+m4csoc__h;mame-mame4all
+m4csoc__i;arcade
+m4csoc__i;fba
+m4csoc__i;mame-advmame
+m4csoc__i;mame-libretro
+m4csoc__i;mame-mame4all
+m4csoc__j;arcade
+m4csoc__j;fba
+m4csoc__j;mame-advmame
+m4csoc__j;mame-libretro
+m4csoc__j;mame-mame4all
+m4supscr;arcade
+m4supscr;fba
+m4supscr;mame-advmame
+m4supscr;mame-libretro
+m4supscr;mame-mame4all
+m4supscr__a;arcade
+m4supscr__a;fba
+m4supscr__a;mame-advmame
+m4supscr__a;mame-libretro
+m4supscr__a;mame-mame4all
+m4supscr__b;arcade
+m4supscr__b;fba
+m4supscr__b;mame-advmame
+m4supscr__b;mame-libretro
+m4supscr__b;mame-mame4all
+m4supscr__c;arcade
+m4supscr__c;fba
+m4supscr__c;mame-advmame
+m4supscr__c;mame-libretro
+m4supscr__c;mame-mame4all
+m4supscr__d;arcade
+m4supscr__d;fba
+m4supscr__d;mame-advmame
+m4supscr__d;mame-libretro
+m4supscr__d;mame-mame4all
+m4supscr__e;arcade
+m4supscr__e;fba
+m4supscr__e;mame-advmame
+m4supscr__e;mame-libretro
+m4supscr__e;mame-mame4all
+m4supscr__f;arcade
+m4supscr__f;fba
+m4supscr__f;mame-advmame
+m4supscr__f;mame-libretro
+m4supscr__f;mame-mame4all
+m4supscr__g;arcade
+m4supscr__g;fba
+m4supscr__g;mame-advmame
+m4supscr__g;mame-libretro
+m4supscr__g;mame-mame4all
+m4supscr__h;arcade
+m4supscr__h;fba
+m4supscr__h;mame-advmame
+m4supscr__h;mame-libretro
+m4supscr__h;mame-mame4all
+m4supscr__i;arcade
+m4supscr__i;fba
+m4supscr__i;mame-advmame
+m4supscr__i;mame-libretro
+m4supscr__i;mame-mame4all
+m4supscr__j;arcade
+m4supscr__j;fba
+m4supscr__j;mame-advmame
+m4supscr__j;mame-libretro
+m4supscr__j;mame-mame4all
+m4supscr__k;arcade
+m4supscr__k;fba
+m4supscr__k;mame-advmame
+m4supscr__k;mame-libretro
+m4supscr__k;mame-mame4all
+m4supscr__l;arcade
+m4supscr__l;fba
+m4supscr__l;mame-advmame
+m4supscr__l;mame-libretro
+m4supscr__l;mame-mame4all
+m4supscr__m;arcade
+m4supscr__m;fba
+m4supscr__m;mame-advmame
+m4supscr__m;mame-libretro
+m4supscr__m;mame-mame4all
+m4supscr__n;arcade
+m4supscr__n;fba
+m4supscr__n;mame-advmame
+m4supscr__n;mame-libretro
+m4supscr__n;mame-mame4all
+mexico86;arcade
+mexico86;fba
+mexico86;mame-advmame
+mexico86;mame-libretro
+mexico86;mame-mame4all
+mp_twc;arcade
+mp_twc;fba
+mp_twc;mame-advmame
+mp_twc;mame-libretro
+mp_twc;mame-mame4all
+mt_gsocr;arcade
+mt_gsocr;fba
+mt_gsocr;mame-advmame
+mt_gsocr;mame-libretro
+mt_gsocr;mame-mame4all
+mt_wcsoc;arcade
+mt_wcsoc;fba
+mt_wcsoc;mame-advmame
+mt_wcsoc;mame-libretro
+mt_wcsoc;mame-mame4all
+neocup98;neogeo
+neocup98;arcade
+neocup98;fba
+neocup98;mame-advmame
+neocup98;mame-libretro
+neocup98;mame-mame4all
+nss_ssoc;arcade
+nss_ssoc;fba
+nss_ssoc;mame-advmame
+nss_ssoc;mame-libretro
+nss_ssoc;mame-mame4all
+olysoc92;arcade
+olysoc92;fba
+olysoc92;mame-advmame
+olysoc92;mame-libretro
+olysoc92;mame-mame4all
+olysoc92a;arcade
+olysoc92a;fba
+olysoc92a;mame-advmame
+olysoc92a;mame-libretro
+olysoc92a;mame-mame4all
+pc_wcup;arcade
+pc_wcup;fba
+pc_wcup;mame-advmame
+pc_wcup;mame-libretro
+pc_wcup;mame-mame4all
+pgoal;arcade
+pgoal;fba
+pgoal;mame-advmame
+pgoal;mame-libretro
+pgoal;mame-mame4all
+pgoal;neogeo
+pkscram;arcade
+pkscram;fba
+pkscram;mame-advmame
+pkscram;mame-libretro
+pkscram;mame-mame4all
+powrplay;arcade
+powrplay;fba
+powrplay;mame-advmame
+powrplay;mame-libretro
+powrplay;mame-mame4all
+primglex;arcade
+primglex;fba
+primglex;mame-advmame
+primglex;mame-libretro
+primglex;mame-mame4all
+prmrsocr;arcade
+prmrsocr;fba
+prmrsocr;mame-advmame
+prmrsocr;mame-libretro
+prmrsocr;mame-mame4all
+prmrsocrj;arcade
+prmrsocrj;fba
+prmrsocrj;mame-advmame
+prmrsocrj;mame-libretro
+prmrsocrj;mame-mame4all
+prosoccr;arcade
+prosoccr;fba
+prosoccr;mame-advmame
+prosoccr;mame-libretro
+prosoccr;mame-mame4all
+pwrgoal;arcade
+pwrgoal;fba
+pwrgoal;mame-advmame
+pwrgoal;mame-libretro
+pwrgoal;mame-mame4all
+pwrkick;arcade
+pwrkick;fba
+pwrkick;mame-advmame
+pwrkick;mame-libretro
+pwrkick;mame-mame4all
+scfinals;arcade
+scfinals;fba
+scfinals;mame-advmame
+scfinals;mame-libretro
+scfinals;mame-mame4all
+scfinalso;arcade
+scfinalso;fba
+scfinalso;mame-advmame
+scfinalso;mame-libretro
+scfinalso;mame-mame4all
+sfchamp;arcade
+sfchamp;fba
+sfchamp;mame-advmame
+sfchamp;mame-libretro
+sfchamp;mame-mame4all
+sfchampj;arcade
+sfchampj;fba
+sfchampj;mame-advmame
+sfchampj;mame-libretro
+sfchampj;mame-mame4all
+sfchampo;arcade
+sfchampo;fba
+sfchampo;mame-advmame
+sfchampo;mame-libretro
+sfchampo;mame-mame4all
+sfchampu;arcade
+sfchampu;fba
+sfchampu;mame-advmame
+sfchampu;mame-libretro
+sfchampu;mame-mame4all
+socbrawl;arcade
+socbrawl;fba
+socbrawl;mame-advmame
+socbrawl;mame-libretro
+socbrawl;mame-mame4all
+socbrawl;neogeo
+socbrawlh;arcade
+socbrawlh;fba
+socbrawlh;mame-advmame
+socbrawlh;mame-libretro
+socbrawlh;mame-mame4all
+soccer;arcade
+soccer;fba
+soccer;mame-advmame
+soccer;mame-libretro
+soccer;mame-mame4all
+soccernw;arcade
+soccernw;fba
+soccernw;mame-advmame
+soccernw;mame-libretro
+soccernw;mame-mame4all
+soccerss;arcade
+soccerss;fba
+soccerss;mame-advmame
+soccerss;mame-libretro
+soccerss;mame-mame4all
+soccerssa;arcade
+soccerssa;fba
+soccerssa;mame-advmame
+soccerssa;mame-libretro
+soccerssa;mame-mame4all
+soccerssj;arcade
+soccerssj;fba
+soccerssj;mame-advmame
+soccerssj;mame-libretro
+soccerssj;mame-mame4all
+soccerssja;arcade
+soccerssja;fba
+soccerssja;mame-advmame
+soccerssja;mame-libretro
+soccerssja;mame-mame4all
+socrking;arcade
+socrking;fba
+socrking;mame-advmame
+socrking;mame-libretro
+socrking;mame-mame4all
+socrkingg;arcade
+socrkingg;fba
+socrkingg;mame-advmame
+socrkingg;mame-libretro
+socrkingg;mame-mame4all
+socrkingi;arcade
+socrkingi;fba
+socrkingi;mame-advmame
+socrkingi;mame-libretro
+socrkingi;mame-mame4all
+ssideki2;arcade
+ssideki2;fba
+ssideki2;mame-advmame
+ssideki2;mame-libretro
+ssideki2;mame-mame4all
+ssideki2;neogeo
+ssideki3;arcade
+ssideki3;fba
+ssideki3;mame-advmame
+ssideki3;mame-libretro
+ssideki3;mame-mame4all
+ssideki3;neogeo
+ssideki4;neogeo
+ssideki4;arcade
+ssideki4;fba
+ssideki4;mame-advmame
+ssideki4;mame-libretro
+ssideki4;mame-mame4all
+ssideki;arcade
+ssideki;fba
+ssideki;mame-advmame
+ssideki;mame-libretro
+ssideki;mame-mame4all
+ssideki;neogeo
+stonebal2;arcade
+stonebal2;fba
+stonebal2;mame-advmame
+stonebal2;mame-libretro
+stonebal2;mame-mame4all
+stonebal;arcade
+stonebal;fba
+stonebal;mame-advmame
+stonebal;mame-libretro
+stonebal;mame-mame4all
+svf;arcade
+svf;fba
+svf;mame-advmame
+svf;mame-libretro
+svf;mame-mame4all
+svs;arcade
+svs;fba
+svs;mame-advmame
+svs;mame-libretro
+svs;mame-mame4all
+tecmowcm;arcade
+tecmowcm;fba
+tecmowcm;mame-advmame
+tecmowcm;mame-libretro
+tecmowcm;mame-mame4all
+tehkanwc;arcade
+tehkanwc;fba
+tehkanwc;mame-advmame
+tehkanwc;mame-libretro
+tehkanwc;mame-mame4all
+tehkanwcb;arcade
+tehkanwcb;fba
+tehkanwcb;mame-advmame
+tehkanwcb;mame-libretro
+tehkanwcb;mame-mame4all
+tehkanwcc;arcade
+tehkanwcc;fba
+tehkanwcc;mame-advmame
+tehkanwcc;mame-libretro
+tehkanwcc;mame-mame4all
+tvfsoc90;arcade
+tvfsoc90;fba
+tvfsoc90;mame-advmame
+tvfsoc90;mame-libretro
+tvfsoc90;mame-mame4all
+tvpow11;arcade
+tvpow11;fba
+tvpow11;mame-advmame
+tvpow11;mame-libretro
+tvpow11;mame-mame4all
+twcup98;arcade
+twcup98;fba
+twcup98;mame-advmame
+twcup98;mame-libretro
+twcup98;mame-mame4all
+twrldc94;arcade
+twrldc94;fba
+twrldc94;mame-advmame
+twrldc94;mame-libretro
+twrldc94;mame-mame4all
+twrldc94a;arcade
+twrldc94a;fba
+twrldc94a;mame-advmame
+twrldc94a;mame-libretro
+twrldc94a;mame-mame4all
+tws96;arcade
+tws96;fba
+tws96;mame-advmame
+tws96;mame-libretro
+tws96;mame-mame4all
+tws96;neogeo
+vgoalsca;arcade
+vgoalsca;fba
+vgoalsca;mame-advmame
+vgoalsca;mame-libretro
+vgoalsca;mame-mame4all
+vgoalsoc;arcade
+vgoalsoc;fba
+vgoalsoc;mame-advmame
+vgoalsoc;mame-libretro
+vgoalsoc;mame-mame4all
+vs2002ex;arcade
+vs2002ex;fba
+vs2002ex;mame-advmame
+vs2002ex;mame-libretro
+vs2002ex;mame-mame4all
+vs2002j;arcade
+vs2002j;fba
+vs2002j;mame-advmame
+vs2002j;mame-libretro
+vs2002j;mame-mame4all
+vs215;arcade
+vs215;fba
+vs215;mame-advmame
+vs215;mame-libretro
+vs215;mame-mame4all
+vs215o;arcade
+vs215o;fba
+vs215o;mame-advmame
+vs215o;mame-libretro
+vs215o;mame-mame4all
+vs29815;arcade
+vs29815;fba
+vs29815;mame-advmame
+vs29815;mame-libretro
+vs29815;mame-mame4all
+vs298;arcade
+vs298;fba
+vs298;mame-advmame
+vs298;mame-libretro
+vs298;mame-mame4all
+vs299;arcade
+vs299;fba
+vs299;mame-advmame
+vs299;mame-libretro
+vs299;mame-mame4all
+vs299a;arcade
+vs299a;fba
+vs299a;mame-advmame
+vs299a;mame-libretro
+vs299a;mame-mame4all
+vs299b;arcade
+vs299b;fba
+vs299b;mame-advmame
+vs299b;mame-libretro
+vs299b;mame-mame4all
+vs2;arcade
+vs2;fba
+vs2;mame-advmame
+vs2;mame-libretro
+vs2;mame-mame4all
+vs2_2k;arcade
+vs2_2k;fba
+vs2_2k;mame-advmame
+vs2_2k;mame-libretro
+vs2_2k;mame-mame4all
+vs2_2k;naomi
+vs2v991;arcade
+vs2v991;fba
+vs2v991;mame-advmame
+vs2v991;mame-libretro
+vs2v991;mame-mame4all
+vs42006;arcade
+vs42006;fba
+vs42006;mame-advmame
+vs42006;mame-libretro
+vs42006;mame-mame4all
+vs42k6ex;arcade
+vs42k6ex;fba
+vs42k6ex;mame-advmame
+vs42k6ex;mame-libretro
+vs42k6ex;mame-mame4all
+vs4;arcade
+vs4;fba
+vs4;mame-advmame
+vs4;mame-libretro
+vs4;mame-mame4all
+vs4j;arcade
+vs4j;fba
+vs4j;mame-advmame
+vs4j;mame-libretro
+vs4j;mame-mame4all
+vshoot;arcade
+vshoot;fba
+vshoot;mame-advmame
+vshoot;mame-libretro
+vshoot;mame-mame4all
+vsnetscr;arcade
+vsnetscr;fba
+vsnetscr;mame-advmame
+vsnetscr;mame-libretro
+vsnetscr;mame-mame4all
+vsnetscra;arcade
+vsnetscra;fba
+vsnetscra;mame-advmame
+vsnetscra;mame-libretro
+vsnetscra;mame-mame4all
+vsnetscreb;arcade
+vsnetscreb;fba
+vsnetscreb;mame-advmame
+vsnetscreb;mame-libretro
+vsnetscreb;mame-mame4all
+vsnetscrj;arcade
+vsnetscrj;fba
+vsnetscrj;mame-advmame
+vsnetscrj;mame-libretro
+vsnetscrj;mame-mame4all
+vsnetscru;arcade
+vsnetscru;fba
+vsnetscru;mame-advmame
+vsnetscru;mame-libretro
+vsnetscru;mame-mame4all
+vssoccer;arcade
+vssoccer;fba
+vssoccer;mame-advmame
+vssoccer;mame-libretro
+vssoccer;mame-mame4all
+vssoccera;arcade
+vssoccera;fba
+vssoccera;mame-advmame
+vssoccera;mame-libretro
+vssoccera;mame-mame4all
+vstrik3;naomi
+vstrik3;arcade
+vstrik3;fba
+vstrik3;mame-advmame
+vstrik3;mame-libretro
+vstrik3;mame-mame4all
+vstrik3c;naomi
+vstrik3c;arcade
+vstrik3c;fba
+vstrik3c;mame-advmame
+vstrik3c;mame-libretro
+vstrik3c;mame-mame4all
+vstrik3cb;naomi
+vstriker;arcade
+vstriker;fba
+vstriker;mame-advmame
+vstriker;mame-libretro
+vstriker;mame-mame4all
+vstrikero;arcade
+vstrikero;fba
+vstrikero;mame-advmame
+vstrikero;mame-libretro
+vstrikero;mame-mame4all
+wc90;arcade
+wc90;fba
+wc90;mame-advmame
+wc90;mame-libretro
+wc90;mame-mame4all
+wc90a;arcade
+wc90a;fba
+wc90a;mame-advmame
+wc90a;mame-libretro
+wc90a;mame-mame4all
+wc90b1;arcade
+wc90b1;fba
+wc90b1;mame-advmame
+wc90b1;mame-libretro
+wc90b1;mame-mame4all
+wc90b2;arcade
+wc90b2;fba
+wc90b2;mame-advmame
+wc90b2;mame-libretro
+wc90b2;mame-mame4all
+wc90b;arcade
+wc90b;fba
+wc90b;mame-advmame
+wc90b;mame-libretro
+wc90b;mame-mame4all
+wc90ba;arcade
+wc90ba;fba
+wc90ba;mame-advmame
+wc90ba;mame-libretro
+wc90ba;mame-mame4all
+wc90t;arcade
+wc90t;fba
+wc90t;mame-advmame
+wc90t;mame-libretro
+wc90t;mame-mame4all
+wcs_l2;arcade
+wcs_l2;fba
+wcs_l2;mame-advmame
+wcs_l2;mame-libretro
+wcs_l2;mame-mame4all
+wcs_la2;arcade
+wcs_la2;fba
+wcs_la2;mame-advmame
+wcs_la2;mame-libretro
+wcs_la2;mame-mame4all
+wcs_p2;arcade
+wcs_p2;fba
+wcs_p2;mame-advmame
+wcs_p2;mame-libretro
+wcs_p2;mame-mame4all
+wcs_p3;arcade
+wcs_p3;fba
+wcs_p3;mame-advmame
+wcs_p3;mame-libretro
+wcs_p3;mame-mame4all
+wcsoccer;arcade
+wcsoccer;fba
+wcsoccer;mame-advmame
+wcsoccer;mame-libretro
+wcsoccer;mame-mame4all
+wcsoccerd2;arcade
+wcsoccerd2;fba
+wcsoccerd2;mame-advmame
+wcsoccerd2;mame-libretro
+wcsoccerd2;mame-mame4all
+wldcp_l1;arcade
+wldcp_l1;fba
+wldcp_l1;mame-advmame
+wldcp_l1;mame-libretro
+wldcp_l1;mame-mame4all
+wldkicks;arcade
+wldkicks;fba
+wldkicks;mame-advmame
+wldkicks;mame-libretro
+wldkicks;mame-mame4all
+wldkicks;naomi
+wldkicksa;arcade
+wldkicksa;fba
+wldkicksa;mame-advmame
+wldkicksa;mame-libretro
+wldkicksa;mame-mame4all
+wpksoc;arcade
+wpksoc;fba
+wpksoc;mame-advmame
+wpksoc;mame-libretro
+wpksoc;mame-mame4all
+wpksocv2;arcade
+wpksocv2;fba
+wpksocv2;mame-advmame
+wpksocv2;mame-libretro
+wpksocv2;mame-mame4all
+wsf;arcade
+wsf;fba
+wsf;mame-advmame
+wsf;mame-libretro
+wsf;mame-mame4all
+wswe2k3;arcade
+wswe2k3;fba
+wswe2k3;mame-advmame
+wswe2k3;mame-libretro
+wswe2k3;mame-mame4all
+wswe;arcade
+wswe;fba
+wswe;mame-advmame
+wswe;mame-libretro
+wswe;mame-mame4all
+xtheball;arcade
+xtheball;fba
+xtheball;mame-advmame
+xtheball;mame-libretro
+xtheball;mame-mame4all

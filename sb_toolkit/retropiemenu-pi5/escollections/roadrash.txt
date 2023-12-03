@@ -1,0 +1,18 @@
+RoadRash_v1.4_1313;amiga1200
+RoadRash_v1.4_1313;amiga
+Road Rash 64 (USA);n64
+Road Rash - Jailbreak (USA);gba
+Road Rash (USA);gbc
+Road Rash (USA, Europe);gb
+Road Rash Revolution;openbor
+Road Rash (USA);3do
+Road Rash (USA);segacd
+Road Rash (USA);gamegear
+Road Rash (USA, Europe);genesis
+Road Rash 3 (USA, Europe);genesis
+Road Rash II (USA, Europe);genesis
+Road Rash (Europe);mastersystem
+Road Rash (USA);saturn
+Road Rash (USA);psx
+Road Rash - Jailbreak (USA);psx
+Road Rash 3D (USA);psx

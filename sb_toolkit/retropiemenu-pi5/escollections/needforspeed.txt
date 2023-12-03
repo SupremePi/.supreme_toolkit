@@ -1,0 +1,44 @@
+For Speed We Need (Europe) (Unl);c64
+For Speed We Need v2 (Europe) (Unl);c64
+Need for Speed - Carbon (USA);gc
+Need for Speed - Carbon (USA);wii
+Need for Speed - High Stakes (USA);psx
+Need for Speed - Hot Pursuit 2 (USA);gc
+Need for Speed - Most Wanted (USA);gc
+Need for Speed - Most Wanted (USA);nds
+Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It);gba
+Need for Speed - Most Wanted 5-1-0 (USA);psp
+Need for Speed - Most Wanted U (USA);wiiu
+Need for Speed - Nitro (USA) (En,Fr,De,Es,It,Nl) [b];nds
+Need for Speed - Porsche Unleashed (USA);gba
+Need for Speed - Porsche Unleashed (USA);psx
+Need for Speed - ProStreet (USA) (En,Fr,De,Es,It);nds
+Need for Speed - ProStreet (USA);psp
+Need for Speed - Shift (USA);psp
+Need for Speed - The Run (USA);3ds
+Need for Speed - Undercover (USA) (En,Fr,De,Es,It,Nl) [b];nds
+Need for Speed - Undercover (USA);psp
+Need for Speed - Underground (USA);gc
+Need for Speed - Underground (USA, Europe) (En,Fr,De,It);gba
+Need for Speed - Underground 2 (USA) (En,Fr,De,Es,It);nds
+Need for Speed - Underground 2 (USA);gc
+Need for Speed - Underground 2 (USA, Europe) (En,Fr,De,It);gba
+Need for Speed - Underground Rivals (USA);psp
+Need for Speed - V-Rally (USA);psx
+Need for Speed - V-Rally 2 (USA);psx
+Need for Speed Carbon (USA);ps2
+Need for Speed Carbon - Own the City (USA);psp
+Need for Speed Carbon - Own the City (USA);nds
+Need for Speed Carbon - Own the City (USA, Europe) (En,Fr,De,Es,It);gba
+Need for Speed Hot Pursuit 2 (USA);ps2
+Need for Speed II (USA);psx
+Need for Speed III - Hot Pursuit (USA);psx
+Need for Speed Most Wanted (USA);ps2
+Need for Speed ProStreet (USA);ps2
+Need for Speed Undercover (USA);ps2
+Need for Speed Underground (USA);ps2
+Need for Speed Underground 2 (USA);ps2
+Need for Speed, The (USA);saturn
+Need for Speed, The (USA, Europe);3do
+Road & Track Presents - The Need for Speed (USA);psx
+nfs;pc

@@ -1,0 +1,27 @@
+Crash & Spyro Super Pack Volume 1 (Europe) (En,Fr,De,Es,It,Nl);gba
+Crash & Spyro Super Pack Volume 2 (Europe) (En,Fr,De,Es,It,Nl);gba
+Crash & Spyro Superpack - Spyro - Season of Ice + Crash Bandicoot - The Huge Adventure (USA);gba
+Crash & Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA);gba
+Legend of Spyro - The Eternal Night, The (USA);ps2
+Legend of Spyro, The - A New Beginning (USA);gba
+Legend of Spyro, The - A New Beginning (USA);gc
+Legend of Spyro, The - A New Beginning (USA);ps2
+Legend of Spyro, The - A New Beginning (USA);nds
+Legend of Spyro, The - Dawn of the Dragon (USA) (En,Fr,De,Es,It,Nl) [b];nds
+Legend of Spyro, The - The Eternal Night (USA) (En,Fr);gba
+Legend of Spyro, The - The Eternal Night (USA);nds
+Skylanders - Spyro no Daiboken (Japan);wiiu
+Skylanders - Spyro's Adventure (USA);3ds
+Spyro - A Hero's Tail (USA);gc
+Spyro - A Hero's Tail (USA);ps2
+Spyro - Attack of the Rhynocs (USA);gba
+Spyro - Enter the Dragonfly (USA);gc
+Spyro - Enter the Dragonfly (USA);ps2
+Spyro - Season of Ice (USA);gba
+Spyro - Shadow Legacy (USA);nds
+Spyro - Year of the Dragon (USA);psx
+Spyro 2 - Ripto's Rage! (USA);psx
+Spyro 2 - Season of Flame (USA);gba
+Spyro Orange - The Cortex Conspiracy (USA);gba
+Spyro Superpack (USA);gba
+Spyro the Dragon (USA);psx

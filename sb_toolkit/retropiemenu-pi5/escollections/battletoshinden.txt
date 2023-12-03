@@ -1,0 +1,23 @@
+ts2j;arcade
+ts2j;fba
+ts2j;mame-advmame
+ts2j;mame-libretro
+ts2j;mame-mame4all
+ts2;arcade
+ts2;fba
+ts2;mame-advmame
+ts2;mame-libretro
+ts2;mame-mame4all
+ts2a;arcade
+ts2a;fba
+ts2a;mame-advmame
+ts2a;mame-libretro
+ts2a;mame-mame4all
+Battle Arena Toshinden (USA);gb
+Battle Arena Toshinden (USA);sgb
+Battle Arena Toshinden Remix (USA);saturn
+Battle Arena Toshinden URA (USA);saturn
+Battle Arena Toshinden (USA);psx
+Battle Arena Toshinden 2 (USA);psx
+Battle Arena Toshinden 3 (USA);psx
+Toshinden 4 (Europe);psx

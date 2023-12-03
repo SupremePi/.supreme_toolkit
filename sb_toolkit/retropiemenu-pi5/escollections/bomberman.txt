@@ -1,0 +1,79 @@
+3D Bomberman (Craig);x1
+3D Bomberman;x1
+Bomberman '93 (Japan);pcengine
+Bomberman '93 (USA);tg16
+Bomberman '94 (Japan);pcengine
+Bomberman (Craig);x1
+Bomberman (Europe) (Unl);c64
+Bomberman (Japan);fds
+Bomberman (Japan);pcengine
+Bomberman (R);dendy
+Bomberman (USA);tg16
+Bomberman (USA);nes
+Bomberman (USA);psp
+Bomberman (USA);nds
+Bomberman - Bakufuu Sentai Bombermen (Japan);psp-japan
+Bomberman - Bakufuu Sentai Bombermen (Japan);psp
+Bomberman - Bomber Mario (Hack);nesh
+Bomberman - Mario Maze (Hack);nesh
+Bomberman - Panic Bomber (Japan);pce-cd
+Bomberman - Panic Bomber (Japan);psp-japan
+Bomberman - Panic Bomber (Japan);psp
+Bomberman - Party Edition (USA);psx
+Bomberman - Users Battle (Japan);pcengine
+Bomberman 2 (Europe) (En,Fr,De,Es,It);nds
+Bomberman 2002 (R);dendy
+Bomberman 64 (USA);n64
+Bomberman 64 - The Second Attack! (USA);n64
+Bomberman 64 Arcade Edition (Japan);n64-japan
+Bomberman C64 (Poland) (Unl);c64
+Bomberman Collection (R);dendy
+Bomberman Fantasy Race (USA);psx
+Bomberman GB (USA, Europe);gb
+Bomberman GB (USA, Europe);sgb
+Bomberman Generation (USA);gc
+Bomberman Hero (USA);n64
+Bomberman II (R);dendy
+Bomberman II (USA);nes
+Bomberman II Penuts (Europe) (Unl);c64
+Bomberman Jetters (USA);gc
+Bomberman Land (USA);psp
+Bomberman Land Touch! (USA);nds
+Bomberman Land Touch! 2 (USA);nds
+Bomberman Max - Blue Champion (USA);gbc
+Bomberman Max - Red Challenger (USA);gbc
+Bomberman Max 2 - Blue Advance (USA);gba
+Bomberman Max 2 - Red Advance (USA);gba
+Bomberman Online (USA);dreamcast
+Bomberman Quest (USA);gbc
+Bomberman Story DS (Europe) (En,Fr,De,Es,It);nds
+Bomberman Tournament (USA, Europe);gba
+Bomberman World (USA);psx
+Bomberman;mz700
+Bomberman;x1
+Classic NES Series - Bomberman (USA, Europe);gba
+M-Tee's Box-Art Bomberman (Hack);nesh
+Mega Bomberman (USA);megadrive
+Pocket Bomberman (Europe);gb
+Pocket Bomberman (USA, Europe);gbc
+Saturn Bomberman Fight!! (Japan);saturn-japan
+Super Bomberman (USA);snes
+Super Bomberman - Panic Bomber W (Japan);sfc
+Super Bomberman 2 (USA);snes
+Super Bomberman 3 (Europe);snes
+Super Bomberman 4 (Japan) (Translated En);sfc
+Super Bomberman 5 (Japan);sfc
+Wario Blast Featuring Bomberman! (USA, Europe);gb
+Wario Blast Featuring Bomberman! (USA, Europe);sgb
+neobombe;arcade
+neobombe;fba
+neobombe;mame-advmame
+neobombe;mame-libretro
+neobombe;mame-mame4all
+neobombe;neogeo
+pss64;arcade
+pss64;fba
+pss64;mame-advmame
+pss64;mame-libretro
+pss64;mame-mame4all
+super bomberman;satellaview

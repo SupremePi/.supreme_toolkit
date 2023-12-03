@@ -1,0 +1,32 @@
+Battle Spirit - Digimon Frontier (Japan);wonderswancolor
+Digimon - Anode Tamer & Cathode Tamer (Asia);wonderswancolor
+Digimon Adventure 02 - D1 Tamers (Japan);wonderswancolor
+Digimon Tamers - Battle Spirit (Japan);wonderswancolor
+Digimon Tamers - Battle Spirit Ver. 1.5 (Japan);wonderswancolor
+Digimon Tamers - Brave Tamer (Japan);wonderswancolor
+Digimon Tamers - Digimon Medley (Japan);wonderswancolor
+Digimon Adventure - Anode Tamer (Japan);wonderswan
+Digimon Adventure - Cathode Tamer (Japan);wonderswan
+Digimon Adventure 02 - Tag Tamers (Japan);wonderswan
+Digimon World - Dawn (USA);nds
+Digimon World - Dusk (USA);nds
+Digimon World Championship (USA);nds
+Digimon World DS (USA);nds
+Digimon - Battle Spirit (USA);gba
+Digimon - Battle Spirit 2 (USA) (En,Fr,De,Es,It);gba
+Digimon Racing (USA) (En,Fr,De,Es,It);gba
+Digimon Rumble Arena 2 (USA);gc
+Digimon World 4 (USA);gc
+Digimon Rumble Arena 2 (USA);ps2
+Digimon World 4 (USA);ps2
+Digimon World Data Squad (USA);ps2
+Digimon Digital Card Battle (USA);psx
+Digimon Rumble Arena (USA);psx
+Digimon World (USA);psx
+Digimon World 2 (USA);psx
+Digimon World 3 (USA);psx
+Digimon Adventure v5 (Japan) (Translated En);psp-japan
+Digimon World Re Digitize (Japan) (Translated En);psp-japan
+Digimon Adventure v5 (Japan) (Translated En);psp
+Digimon World Re Digitize (Japan) (Translated En);psp
+Digimon Adventure (Hack);snesh

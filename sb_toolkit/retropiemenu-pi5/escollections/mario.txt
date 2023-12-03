@@ -1,0 +1,477 @@
+2 Games in One! - Dr. Mario + Puzzle League (USA, Australia);gba
+A Super Mario Thing (Hack);snesh
+Adventures of Ice Mario (Hack);nesh
+All Night Nippon Super Mario Bros. (Japan);fds
+Arkanoid III (Europe) (Unl);atarist
+Brutal Mario (Hack);snesh
+Classic NES Series - Dr. Mario (USA, Europe);gba
+Classic NES Series - Super Mario Bros. (USA, Europe);gba
+Coin Quest - Starring Mario & Luigi (Hack);nesh
+Dance Dance Revolution - Mario Mix (USA);gc
+Dr Mario (R);dendy
+Dr. Mario (Japan);sfc
+Dr. Mario (Japan, USA);nes
+Dr. Mario (World) (Rev A);gb
+Dr. Mario (World) (Rev A);sgb
+Dr. Mario (World);gb
+Dr. Mario 64 (USA);n64
+DrMario_v1.0;amiga1200
+DrMario_v1.0;amiga
+Extra Mario Bros (Hack);nesh
+Just Another Mario Hack (Hack);snesh
+Kaettekita Mario Bros. (Japan);fds
+Kung Fu Mario (Hack);nesh
+Mario & Luigi - Bowser's Inside Story (USA) (En,Fr,Es);nds
+Mario & Luigi - Dream Team (USA);3ds
+Mario & Luigi - Paper Jam (USA);3ds
+Mario & Luigi - Partners in Time (USA);nds
+Mario & Luigi - Superstar Saga (USA, Australia);gba
+Mario & Luigi - Superstar Saga + Bowser's Minions (USA);3ds
+Mario & Sonic at London 2012 (USA);wii
+Mario & Sonic at the London 2012 Olympic Games (USA);3ds
+Mario & Sonic at the Olympic Games (USA) (En,Fr,De,Es,It);nds
+Mario & Sonic at the Olympic Winter Games (USA) (En,Fr,Es);nds
+Mario & Sonic at the Rio 2016 Olympic Games (USA);3ds
+Mario & Sonic at the Rio 2016 Olympic Games (USA);wiiu
+Mario & Sonic at the Sochi 2014 Olympic Winter Games (USA);wiiu
+Mario Adventure (Hack);nesh
+Mario Artist Communication Kit (Japan);n64dd
+Mario Artist Paint Studio (Japan);n64dd
+Mario Artist Polygon Studio (Japan);n64dd
+Mario Artist Talent Studio (Japan);n64dd
+Mario Bros (Europe);amstradcpc
+Mario Bros (Europe);zxspectrum
+Mario Bros (R);dendy
+Mario Bros (USA);apple2
+Mario Bros (USA);c64
+Mario Bros Classic (R);dendy
+Mario Bros II (Netherlands);c64
+Mario Bros Punch Ball;fm7
+Mario Bros Special;fm7
+Mario Bros. (-);x68000
+Mario Bros. (Europe);c64
+Mario Bros. (Nintendo, Multi Screen);gameandwatch
+Mario Bros. (USA);atari2600
+Mario Bros. (USA);atari5200
+Mario Bros. (USA);atari7800
+Mario Bros. (USA);atari800
+Mario Bros. (USA);atarixegs
+Mario Bros. (World);nes
+Mario Bros. - Evil Tetris Hack (Hack);nesh
+Mario Bros. - Hell Bros. Edition (Hack);nesh
+Mario Bros. Special (Craig);x1
+Mario Bros. Special;x1
+Mario Bros;tic80
+Mario Clash (Japan, USA);virtualboy
+Mario Fantasy (Hack);nesh
+Mario Goes to Diamonds (USA) (Unl);c64
+Mario Golf (USA);n64
+Mario Golf (USA);gbc
+Mario Golf - Advance Tour (USA);gba
+Mario Golf - Toadstool Tour (USA);gc
+Mario Golf - World Tour (USA);3ds
+Mario Hoops 3 on 3 (USA);nds
+Mario Is Missing! (USA);nes
+Mario Is Missing! (USA);snes
+Mario Kart - Double Dash!! (USA);gc
+Mario Kart - Super Circuit (USA);gba
+Mario Kart 64 (USA);n64
+Mario Kart 7 (USA);3ds
+Mario Kart 8 (USA);wiiu
+Mario Kart Black (USA);wii
+Mario Kart DS (USA) (En,Fr,De,Es,It);nds
+Mario Kart Wii (USA);wii
+Mario Lemieux Hockey (USA, Europe);megadrive
+Mario Paint (Japan, USA);snes
+Mario Party (USA);n64
+Mario Party - Island Tour (USA);3ds
+Mario Party - Star Rush (USA);3ds
+Mario Party 10 (USA);wiiu
+Mario Party 2 (USA);n64
+Mario Party 3 (USA);n64
+Mario Party 4 (USA);gc
+Mario Party 5 (USA);gc
+Mario Party 6 (USA);gc
+Mario Party 7 (USA);gc
+Mario Party 8 (USA);wii
+Mario Party 9 (USA);wii
+Mario Party Advance (USA);gba
+Mario Party DS (USA);nds
+Mario Pinball Land (USA, Australia);gba
+Mario Power Tennis (USA);gc
+Mario Power Tennis (USA);wii
+Mario Runner (Hack);nesh
+Mario Runner 2 - AID (Hack);nesh
+Mario Sports Mix (USA);wii
+Mario Sports Superstars (USA);3ds
+Mario Superstar Baseball (USA);gc
+Mario Tennis (USA);n64
+Mario Tennis (USA);gbc
+Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It);gba
+Mario Tennis - Ultra Smash (USA);wiiu
+Mario Tennis Open (USA);3ds
+Mario World - Starlight Remix (Hack);snesh
+Mario no Photopie (Japan);n64-japan
+Mario no Super Picross (Japan);sfc
+Mario to Wario (Japan);sfc
+Mario vs Mario (Hack);nesh
+Mario vs. Donkey Kong (USA, Australia);gba
+Mario vs. Donkey Kong - Mini-Land Mayhem! (USA) (En,Fr,Es) (Rev 1) (NDSi Enhanced) [b];nds
+Mario vs. Donkey Kong - Minna de Mini-Land (Japan);wiiu
+Mario vs. Donkey Kong 2 - March of the Minis (USA);nds
+Mario's Awesome Adventure (Hack);snesh
+Mario's Brewery (USA);c64
+Mario's Early Years! - Fun with Letters (USA);snes
+Mario's Early Years! - Fun with Numbers (USA);snes
+Mario's Early Years! - Preschool Fun (USA);snes
+Mario's Picross (USA, Europe);gb
+Mario's Picross (USA, Europe);sgb
+Mario's Tennis (Japan, USA);virtualboy
+Mario's Time Machine (USA);nes
+Mario's Time Machine (USA);snes
+Mario's Time Machine! (R);dendy
+Mario;tic80
+Metroid Mario (Hack);nesh
+Moai-kun - Mario-kun (Hack);nesh
+New Mario Bros. (Hack);nesh
+New Retro Mario Bros. (Hack);snesh
+New Super Mario Bros 3 (Hack);nesh
+New Super Mario Bros. (USA);nds
+New Super Mario Bros. 2 (USA);3ds
+New Super Mario Bros. U (USA);wiiu
+New Super Mario Bros. Wii (USA);wii
+Paper Mario (USA);n64
+Paper Mario - Color Splash (USA);wiiu
+Paper Mario - Sticker Star (USA);3ds
+Paper Mario - The Thousand-Year Door (USA);gc
+Punch Ball Mario Bros (Craig);x1
+Punch Ball Mario Bros;fm7
+Punch Ball Mario Bros;x1
+Puzzle & Dragons Z - Puzzle & Dragons Super Mario Bros. Edition (USA);3ds
+SUPER MARIO KART 8 (Hack);snesh
+Super Mario 3D Land (USA);3ds
+Super Mario 3D World (USA);wiiu
+Super Mario 64 (Japan) (Proto);n64dd
+Super Mario 64 (USA);n64
+Super Mario 64 DS (USA) (Rev 1);nds
+Super Mario 64 DS (USA);nds
+Super Mario Advance (USA, Europe);gba
+Super Mario Advance 2 - Super Mario World (USA, Australia);gba
+Super Mario Advance 3 - Yoshi's Island (USA);gba
+Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1);gba
+Super Mario Adventures (Hack);nesh
+Super Mario All-Stars (USA);snes
+Super Mario All-Stars + Super Mario World (USA);snes
+Super Mario Brawl;openbor
+Super Mario Bros (25 Anniversary Edition) (Japan);famicom
+Super Mario Bros (R);dendy
+Super Mario Bros (USA) (Unl);c64
+Super Mario Bros - Cozy With Death. (Hack);nesh
+Super Mario Bros - Luigi Xmas Quest (Hack);nesh
+Super Mario Bros 2 (Lost Levels) (Unl) (R);dendy
+Super Mario Bros 2 (R);dendy
+Super Mario Bros 3 (R);dendy
+Super Mario Bros 3 mix (Hack);nesh
+Super Mario Bros Continued. (Hack);nesh
+Super Mario Bros III (USA) (Unl);c64
+Super Mario Bros Suicide Extreme. (Hack);nesh
+Super Mario Bros. (Japan);fds
+Super Mario Bros. (World);nes
+Super Mario Bros. - Yoshi's Quest (Hack);nesh
+Super Mario Bros. 2 (Japan);fds
+Super Mario Bros. 2 (USA);nes
+Super Mario Bros. 2 - Christmas Edition by BMF54123 (Hack);nesh
+Super Mario Bros. 3 (USA);nes
+Super Mario Bros. 3 - Present Panic - A Princess Adventure (Hack);nesh
+Super Mario Bros. 3 Ridley X Hack 4 (Hack);nesh
+Super Mario Bros. 3.87 Heartless (Hack);nesh
+Super Mario Bros. Deluxe (Hack);snesh
+Super Mario Bros. Deluxe (USA, Europe) (Rev B);gbc
+Super Mario Bros. Special;x1
+Super Mario Escape (Netherlands) (Unl);c64
+Super Mario Forever Frustation (Hack);nesh
+Super Mario Galaxy (USA);wii
+Super Mario Galaxy 2 (USA);wii
+Super Mario Kart (MSU-1);snesmsu1
+Super Mario Kart (USA);snes
+Super Mario Kart - Offroad EX (Hack);snesh
+Super Mario Kart - S Parigo Kart (Hack);snesh
+Super Mario Kart R (Hack);snesh
+Super Mario Land (Hack);gbh
+Super Mario Land (World) (Rev A);gb
+Super Mario Land (World) (Rev A);sgb
+Super Mario Land (World);gb
+Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B);gb
+Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B);sgb
+Super Mario Land 2 - 6 Golden Coins (USA, Europe);gb
+Super Mario Land 2 DX (Hack);gbh
+Super Mario Maker (USA);wiiu
+Super Mario Maker for Nintendo 3DS (USA);3ds
+Super Mario RPG - Bob-omb Mafia (Hack);snesh
+Super Mario RPG - Drug Addict (Hack);snesh
+Super Mario RPG - Legend of the Seven Stars (USA);snes
+Super Mario RPG - Revolution (Hack);snesh
+Super Mario Strikers (USA);gc
+Super Mario Sunshine (USA);gc
+Super Mario Unlimited (Hack);nesh
+Super Mario Warrior (Hack);nesh
+Super Mario World  3+ - The New Islands (Hack);snesh
+Super Mario World (Hack);genh
+Super Mario World (MSU-1);snesmsu1
+Super Mario World (R);dendy
+Super Mario World (USA);snes
+Super Mario World - 2nd RP Reload (Hack);snesh
+Super Mario World - AHW (Hack);snesh
+Super Mario World - AXW (Hack);snesh
+Super Mario World - After Years (Hack);snesh
+Super Mario World - Brutal M World (Hack);snesh
+Super Mario World - Central Prod (Hack);snesh
+Super Mario World - Dr Mario (Hack);snesh
+Super Mario World - Dr Mario World (Hack);snesh
+Super Mario World - Lost Levels (Hack);snesh
+Super Mario World - MIM 2 - LNA (Hack);snesh
+Super Mario World - MQ 4 - Redrawn (Hack);snesh
+Super Mario World - MQ 8 - F Quest (Hack);snesh
+Super Mario World - Mario Xmas (Hack);snesh
+Super Mario World - N Retro Mario (Hack);snesh
+Super Mario World - Omega (Hack);snesh
+Super Mario World - PIMK (Hack);snesh
+Super Mario World - PIMK 2 (Hack);snesh
+Super Mario World - SoT7GS (Hack);snesh
+Super Mario World - The LA Ep 1 (Hack);snesh
+Super Mario World - The LA Ep 2 (Hack);snesh
+Super Mario World - The LA Ep 2_LE (Hack);snesh
+Super Mario World - The Ninji Saga (Hack);snesh
+Super Mario World - Toads World (Hack);snesh
+Super Mario World - Universe (Hack);snesh
+Super Mario World 2 - New Y Island (Hack);snesh
+Super Mario World 2 - Yoshi's Island (USA);snes
+Super Mario World 2-3 Essence Star (Hack);snesh
+Super Mario World 3 - IoM (Hack);snesh
+Super Mario World 3 - Islands of Mistery (Hack);snesh
+Super Marios Revenge (Netherlands) (Unl);c64
+Super Paper Mario (USA);wii
+Tetris & Dr. Mario (USA);snes
+Uncle Mario Bros (Hack);nesh
+Undake 30 Same Game Daisakusen - Mario Version (Japan);sfc
+Vs. Super Mario Bros. - Home Edition (Hack);nesh
+Wario Land - Super Mario Land 3 (World);gb
+Wario Land - Super Mario Land 3 (World);sgb
+dr. mario;satellaview
+drmario;arcade
+drmario;fba
+drmario;mame-advmame
+drmario;mame-libretro
+drmario;mame-mame4all
+ep_mario;arcade
+ep_mario;fba
+ep_mario;mame-advmame
+ep_mario;mame-libretro
+ep_mario;mame-mame4all
+ep_marioa;arcade
+ep_marioa;fba
+ep_marioa;mame-advmame
+ep_marioa;mame-libretro
+ep_marioa;mame-mame4all
+ep_mariob;arcade
+ep_mariob;fba
+ep_mariob;mame-advmame
+ep_mariob;mame-libretro
+ep_mariob;mame-mame4all
+ep_marioc;arcade
+ep_marioc;fba
+ep_marioc;mame-advmame
+ep_marioc;mame-libretro
+ep_marioc;mame-mame4all
+ep_mariod;arcade
+ep_mariod;fba
+ep_mariod;mame-advmame
+ep_mariod;mame-libretro
+ep_mariod;mame-mame4all
+ep_marioe;arcade
+ep_marioe;fba
+ep_marioe;mame-advmame
+ep_marioe;mame-libretro
+ep_marioe;mame-mame4all
+ep_mariof;arcade
+ep_mariof;fba
+ep_mariof;mame-advmame
+ep_mariof;mame-libretro
+ep_mariof;mame-mame4all
+ep_mariog;arcade
+ep_mariog;fba
+ep_mariog;mame-advmame
+ep_mariog;mame-libretro
+ep_mariog;mame-mame4all
+ep_marioh;arcade
+ep_marioh;fba
+ep_marioh;mame-advmame
+ep_marioh;mame-libretro
+ep_marioh;mame-mame4all
+ep_mkart;arcade
+ep_mkart;fba
+ep_mkart;mame-advmame
+ep_mkart;mame-libretro
+ep_mkart;mame-mame4all
+ep_mkarta;arcade
+ep_mkarta;fba
+ep_mkarta;mame-advmame
+ep_mkarta;mame-libretro
+ep_mkarta;mame-mame4all
+ep_mkartb;arcade
+ep_mkartb;fba
+ep_mkartb;mame-advmame
+ep_mkartb;mame-libretro
+ep_mkartb;mame-mame4all
+ep_mkartc;arcade
+ep_mkartc;fba
+ep_mkartc;mame-advmame
+ep_mkartc;mame-libretro
+ep_mkartc;mame-mame4all
+ep_mkartd;arcade
+ep_mkartd;fba
+ep_mkartd;mame-advmame
+ep_mkartd;mame-libretro
+ep_mkartd;mame-mame4all
+ep_mkarte;arcade
+ep_mkarte;fba
+ep_mkarte;mame-advmame
+ep_mkarte;mame-libretro
+ep_mkarte;mame-mame4all
+mario paint - winner included version;satellaview
+mario paint bs version;satellaview
+mario;arcade
+mario;fba
+mario;mame-advmame
+mario;mame-libretro
+mario;mame-mame4all
+mariobl;arcade
+mariobl;fba
+mariobl;mame-advmame
+mariobl;mame-libretro
+mariobl;mame-mame4all
+marioe;arcade
+marioe;fba
+marioe;mame-advmame
+marioe;mame-libretro
+marioe;mame-mame4all
+marioj;arcade
+marioj;fba
+marioj;mame-advmame
+marioj;mame-libretro
+marioj;mame-mame4all
+marioo;arcade
+marioo;fba
+marioo;mame-advmame
+marioo;mame-libretro
+marioo;mame-mame4all
+masao;arcade
+masao;fba
+masao;mame-advmame
+masao;mame-libretro
+masao;mame-mame4all
+mkartag2;arcade
+mkartag2;fba
+mkartag2;mame-advmame
+mkartag2;mame-libretro
+mkartag2;mame-mame4all
+mkartag2a;arcade
+mkartag2a;fba
+mkartag2a;mame-advmame
+mkartag2a;mame-libretro
+mkartag2a;mame-mame4all
+mkartagp;arcade
+mkartagp;fba
+mkartagp;mame-advmame
+mkartagp;mame-libretro
+mkartagp;mame-mame4all
+nss_smw;arcade
+nss_smw;fba
+nss_smw;mame-advmame
+nss_smw;mame-libretro
+nss_smw;mame-mame4all
+pc_drmro;arcade
+pc_drmro;fba
+pc_drmro;mame-advmame
+pc_drmro;mame-libretro
+pc_drmro;mame-mame4all
+pc_mario;arcade
+pc_mario;fba
+pc_mario;mame-advmame
+pc_mario;mame-libretro
+pc_mario;mame-mame4all
+pc_moglf;arcade
+pc_moglf;fba
+pc_moglf;mame-advmame
+pc_moglf;mame-libretro
+pc_moglf;mame-mame4all
+pc_smb2;arcade
+pc_smb2;fba
+pc_smb2;mame-advmame
+pc_smb2;mame-libretro
+pc_smb2;mame-mame4all
+pc_smb3;arcade
+pc_smb3;fba
+pc_smb3;mame-advmame
+pc_smb3;mame-libretro
+pc_smb3;mame-mame4all
+pc_smb;arcade
+pc_smb;fba
+pc_smb;mame-advmame
+pc_smb;mame-libretro
+pc_smb;mame-mame4all
+pss61;arcade
+pss61;fba
+pss61;mame-advmame
+pss61;mame-libretro
+pss61;mame-mame4all
+smb1;arcade
+smb1;fba
+smb1;mame-advmame
+smb1;mame-libretro
+smb1;mame-mame4all
+smb2;arcade
+smb2;fba
+smb2;mame-advmame
+smb2;mame-libretro
+smb2;mame-mame4all
+smb3;arcade
+smb3;fba
+smb3;mame-advmame
+smb3;mame-libretro
+smb3;mame-mame4all
+smb;arcade
+smb;fba
+smb;mame-advmame
+smb;mame-libretro
+smb;mame-mame4all
+smbmush;arcade
+smbmush;fba
+smbmush;mame-advmame
+smbmush;mame-libretro
+smbmush;mame-mame4all
+super mario collection;satellaview
+super mario usa power challenge 1;satellaview
+super mario usa power challenge 2;satellaview
+super mario usa power challenge 3;satellaview
+super mario usa power challenge 4;satellaview
+suprmrio;arcade
+suprmrio;fba
+suprmrio;mame-advmame
+suprmrio;mame-libretro
+suprmrio;mame-mame4all
+suprmrioa;arcade
+suprmrioa;fba
+suprmrioa;mame-advmame
+suprmrioa;mame-libretro
+suprmrioa;mame-mame4all
+suprmriobl2;arcade
+suprmriobl2;fba
+suprmriobl2;mame-advmame
+suprmriobl2;mame-libretro
+suprmriobl2;mame-mame4all
+suprmriobl;arcade
+suprmriobl;fba
+suprmriobl;mame-advmame
+suprmriobl;mame-libretro
+suprmriobl;mame-mame4all
