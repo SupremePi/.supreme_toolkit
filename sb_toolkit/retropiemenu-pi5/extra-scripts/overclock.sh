@@ -28,7 +28,7 @@ CONFIG_PATH=/boot/config.txt
 OVERCLOCK_DESCRIPTION="#uncomment to enable custom overclock settings"
 
 declare -a OVERCLOCK_SETTINGS=(
-    "over_voltage_delta=50000"
+    "over_voltage_delta=60000"
 	"gpu_freq=900"
 	"force_turbo=1"
 )
