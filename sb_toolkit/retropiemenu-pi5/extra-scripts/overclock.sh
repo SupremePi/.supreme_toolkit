@@ -39,7 +39,7 @@ function main_menu() {
         choice=$(dialog --backtitle "$BACKTITLE" --title " OVERCLOCKING MENU " \
             --ok-label OK --cancel-label Exit \
             --menu "Choose your OverClocking Option:" 25 75 20 \
-            - "*** OVERCLOCKING OPTIONS Pi4  ***" \
+            - "*** OVERCLOCKING OPTIONS Pi5  ***" \
             1 " - Enable  OverClocking - Pi5 [2800MHz]" \
             2 " - Enable  OverClocking - Pi5 [2900MHz]" \
             3 " - Enable  OverClocking - Pi5 [3000MHz]" \
