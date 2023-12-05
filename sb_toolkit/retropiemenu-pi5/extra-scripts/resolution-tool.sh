@@ -78,6 +78,7 @@ sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:3840x2160@60D /' /boot/firmware/cmdline.txt
+sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes?" 0 0 )
 then
 sudo reboot
@@ -98,6 +99,7 @@ sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:1920x1080@60D /' /boot/firmware/cmdline.txt
+sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes? If (No) Script will Close." 0 0 )
 then
 sudo reboot
@@ -118,6 +120,7 @@ sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:1280x720@60D /' /boot/firmware/cmdline.txt
+sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes? If (No) Script will Close." 0 0 )
 then
 sudo reboot
@@ -138,6 +141,7 @@ sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:720x480@60D /' /boot/firmware/cmdline.txt
+sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes? If (No) Script will Close." 0 0 )
 then
 sudo reboot
@@ -154,6 +158,7 @@ sudo sed -i 's/video=HDMI-A-1:3840x2160@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1920x1080@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
+sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes? If (No) Script will Close." 0 0 )
 then
 sudo reboot
