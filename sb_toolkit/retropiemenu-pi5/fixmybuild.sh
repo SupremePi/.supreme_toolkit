@@ -73,7 +73,7 @@ function main_menu() {
             2>&1 > /dev/tty)
 
         case "$choice" in
-            1) fix_menu_pi5  ;; 
+            1) fix_menu_layout_rb_pi5  ;; 
 	        2) supreme_online  ;;
 	        3) supreme_off  ;;
             4) supreme_restart  ;;
@@ -84,21 +84,8 @@ function main_menu() {
 	clear
 }
 
-function fix_menu_pi5() {
-    if [ ! -d /home/pi/.supreme_toolkit ]; then
-	dialog --infobox "OH NO THE TOOLKIT IS MISSING!" 3 33; sleep 2;
-    else 
-    fix_menu_layout_rb_pi5 
-fi	
-}
-
 function supreme_online() {
-    if [ ! -d /home/pi/.supreme_toolkit ]; then
-    dialog --infobox "OH NO THE TOOLKIT IS MISSING!" 3 33; sleep 2;
-    else 
     bash $sb_toolkit/_scripts/supreme-online-tool.sh
-    clear
-fi	
 }
 
 function supreme_off() {
