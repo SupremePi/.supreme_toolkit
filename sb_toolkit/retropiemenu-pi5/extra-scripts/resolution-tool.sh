@@ -8,7 +8,7 @@ function main_menu() {
 if grep -q 'video=HDMI-A-1:3840x2160@60D' "/boot/firmware/cmdline.txt"; then myinfo1="Enabled"; else myinfo1="Disabled"; fi
 if grep -q 'video=HDMI-A-1:1920x1080@60D' "/boot/firmware/cmdline.txt"; then myinfo2="Enabled"; else  myinfo2="Disabled"; fi
 if grep -q 'video=HDMI-A-1:1280x720@60D' "//boot/firmware/cmdline.txt"; then myinfo3="Enabled"; else myinfo3="Disabled"; fi
-if grep -q 'video=HDMI-A-1:720x480@60D' "/boot/firmware/cmdline.txt"; then myinfo4="Enabled"; else myinfo4="Disabled"; fi
+if grep -q 'video=HDMI-A-1:720x480@30D' "/boot/firmware/cmdline.txt"; then myinfo4="Enabled"; else myinfo4="Disabled"; fi
 if grep -q 'video=' "/boot/firmware/cmdline.txt"; then myratio="Disabled"; else myratio="Enabled"; fi
 
 # check for other overscan settings
@@ -75,7 +75,7 @@ dialog --infobox "Now Changing Your Ratio!" 3 28; sleep 2;
 sudo sed -i 's/video=HDMI-A-1:3840x2160@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1920x1080@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
-sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
+sudo sed -i 's/video=HDMI-A-1:720x480@30D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:3840x2160@60D /' /boot/firmware/cmdline.txt
 sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
@@ -96,7 +96,7 @@ dialog --infobox "Now Changing Your Ratio!" 3 28; sleep 2;
 sudo sed -i 's/video=HDMI-A-1:3840x2160@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1920x1080@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
-sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
+sudo sed -i 's/video=HDMI-A-1:720x480@30D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:1920x1080@60D /' /boot/firmware/cmdline.txt
 sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
@@ -117,7 +117,7 @@ dialog --infobox "Now Changing Your Ratio!" 3 28; sleep 2;
 sudo sed -i 's/video=HDMI-A-1:3840x2160@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1920x1080@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
-sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
+sudo sed -i 's/video=HDMI-A-1:720x480@30D //' /boot/firmware/cmdline.txt
 #Adds New Entry
 sudo sed -i '1s/^/video=HDMI-A-1:1280x720@60D /' /boot/firmware/cmdline.txt
 sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
@@ -130,7 +130,7 @@ fi
 }
 
 swap_ratio4() {
-if grep -q 'video=HDMI-A-1:720x480@60D' "/boot/firmware/cmdline.txt"; then
+if grep -q 'video=HDMI-A-1:720x480@30D' "/boot/firmware/cmdline.txt"; then
 dialog --infobox "480P Already Added!" 3 23; sleep 2;
 else
 dialog --infobox "Now Changing Your Ratio!" 3 28; sleep 2;
@@ -138,9 +138,9 @@ dialog --infobox "Now Changing Your Ratio!" 3 28; sleep 2;
 sudo sed -i 's/video=HDMI-A-1:3840x2160@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1920x1080@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
-sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
+sudo sed -i 's/video=HDMI-A-1:720x480@30D //' /boot/firmware/cmdline.txt
 #Adds New Entry
-sudo sed -i '1s/^/video=HDMI-A-1:720x480@60D /' /boot/firmware/cmdline.txt
+sudo sed -i '1s/^/video=HDMI-A-1:720x480@30D /' /boot/firmware/cmdline.txt
 sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes? If (No) Script will Close." 0 0 )
 then
@@ -157,7 +157,7 @@ dialog --infobox "Now Changing Your Ratio!" 3 28; sleep 2;
 sudo sed -i 's/video=HDMI-A-1:3840x2160@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1920x1080@60D //' /boot/firmware/cmdline.txt
 sudo sed -i 's/video=HDMI-A-1:1280x720@60D //' /boot/firmware/cmdline.txt
-sudo sed -i 's/video=HDMI-A-1:720x480@60D //' /boot/firmware/cmdline.txt
+sudo sed -i 's/video=HDMI-A-1:720x480@30D //' /boot/firmware/cmdline.txt
 sudo cp /boot/firmware/cmdline.txt /boot/cmdline.txt > /dev/null 2>&1
 if (dialog --title "REBOOT?" --yesno "FINNISHED!!! Would You Like To Reboot To Save Changes? If (No) Script will Close." 0 0 )
 then
