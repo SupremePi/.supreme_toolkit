@@ -196,7 +196,7 @@
 		<path>./extra-scripts/resolution-tool.sh</path>
 		<name>Raspberry Video Output</name>
 		<desc>This utility will let you choose between various forced screen resolutions and ratio.</desc>
-		<image>./icons/Rresolution-tool.png</image>
+		<image>./icons/resolution-tool.png</image>
 	</game>		
 	<game>
 		<path>./fixmybuild.sh</path>

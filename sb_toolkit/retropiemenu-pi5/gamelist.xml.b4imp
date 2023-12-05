@@ -191,7 +191,13 @@
 		<name>OverClock Optimized</name>
 		<desc>Overclock your Pi5 (USE AT YOUR OWN RISK)</desc>
 		<image>./icons/overclock.png</image>
-	</game>	
+	</game>
+	<game>
+		<path>./extra-scripts/resolution-tool.sh</path>
+		<name>Raspberry Video Output</name>
+		<desc>This utility will let you choose between various forced screen resolutions and ratio.</desc>
+		<image>./icons/resolution-tool.png</image>
+	</game>		
 	<game>
 		<path>./fixmybuild.sh</path>
 		<name>FIX MY BUILD</name>
