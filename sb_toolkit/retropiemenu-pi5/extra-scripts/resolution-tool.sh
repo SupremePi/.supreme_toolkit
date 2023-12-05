@@ -9,7 +9,7 @@ if grep -q 'video=HDMI-A-1:3840x2160@60D' "/boot/firmware/cmdline.txt"; then myi
 if grep -q 'video=HDMI-A-1:1920x1080@60D' "/boot/firmware/cmdline.txt"; then myinfo2="Enabled"; else  myinfo2="Disabled"; fi
 if grep -q 'video=HDMI-A-1:1280x720@60D' "//boot/firmware/cmdline.txt"; then myinfo3="Enabled"; else myinfo3="Disabled"; fi
 if grep -q 'video=HDMI-A-1:720x480@60D' "/boot/firmware/cmdline.txt"; then myinfo4="Enabled"; else myinfo4="Disabled"; fi
-if grep -q 'video=' "/boot/firmware/cmdline.txt"; then myratio="On"; else myratio="Off"; fi
+if grep -q 'video=' "/boot/firmware/cmdline.txt"; then myratio="Disabled"; else myratio="Enabled"; fi
 
 # check for other overscan settings
 if grep -q '#disable_overscan=0' "/boot/firmware/config.txt"; then sudo perl -p -i -e 's/#disable_overscan=0/#disable_overscan=1/g' /boot/firmware/config.txt; fi
@@ -27,7 +27,7 @@ if grep -q '#disable_overscan=1' "/boot/firmware/config.txt"; then ovscn="Enable
 			2 "Set Video Ratio to 1080P ( $myinfo2 )"\
 			3 "Set Video Ratio to 720P ( $myinfo3)"\
 			4 "Set Video Ratio to 480P ( $myinfo4 )"\
-			5 "Turn Off All Ratio and use Auto ( $myratio )"\
+			5 "Turn Off All Ratio's and use Auto ( $myratio )"\
 			6 "Overscan ( $ovscn )"\
 			7 "Open Raspi-Config ( Software Configuration Tool  )"\
             2>&1 > /dev/tty)
