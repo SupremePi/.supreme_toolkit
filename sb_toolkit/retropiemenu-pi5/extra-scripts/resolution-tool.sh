@@ -14,6 +14,8 @@ if grep -q 'video=' "/boot/firmware/cmdline.txt"; then myratio="On"; else myrati
 # check for other overscan settings
 if grep -q '#disable_overscan=0' "/boot/firmware/config.txt"; then sudo perl -p -i -e 's/#disable_overscan=0/#disable_overscan=1/g' /boot/firmware/config.txt; fi
 if grep -q 'disable_overscan=0' "/boot/firmware/config.txt"; then sudo perl -p -i -e 's/disable_overscan=0/#disable_overscan=1/g' /boot/firmware/config.txt; fi
+if grep -q '#overscan_scale=0' "/boot/firmware/config.txt"; then sudo perl -p -i -e 's/#overscan_scale=0/#overscan_scale=1/g' /boot/firmware/config.txt; fi
+if grep -q 'overscan_scale=0' "/boot/firmware/config.txt"; then sudo perl -p -i -e 's/overscan_scale=0/#overscan_scale=1/g' /boot/firmware/config.txt; fi
 if grep -q '#disable_overscan=1' "/boot/firmware/config.txt"; then ovscn="Enabled"; else ovscn="Disabled"; fi
 
     local choice
@@ -49,9 +51,11 @@ dialog --infobox "Now Applying Your Overscan Settings!" 3 40; sleep 2;
 
 if grep -q '#disable_overscan=1' "/boot/firmware/config.txt"; then 
 sudo perl -p -i -e 's/#disable_overscan=1/disable_overscan=1/g' /boot/firmware/config.txt
+sudo perl -p -i -e 's/overscan_scale=1/#overscan_scale=1/g' /boot/firmware/config.txt
 dialog --infobox "Will Now Disable Overscan!" 3 30; sleep 2;
 else
 sudo perl -p -i -e 's/disable_overscan=1/#disable_overscan=1/g' /boot/firmware/config.txt
+sudo perl -p -i -e 's/#overscan_scale=1/overscan_scale=1/g' /boot/firmware/config.txt
 dialog --infobox "Will Now Enable Overscan!" 3 29; sleep 2;
 fi
 
