@@ -22,7 +22,7 @@ function fix_menu_layout_rb_pi5() {
 	dialog --infobox "NOW REBOOTING TO SAVE CHANGES" 3 33 ; sleep 5
     sudo reboot
 	#Restart ES
-	killall emulationstation && emulationstation
+	#killall emulationstation && emulationstation
 
 }
 
