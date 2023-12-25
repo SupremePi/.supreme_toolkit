@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./audiosettings.rp</path>
+		<path>./audiotools/audiosettings.rp</path>
 		<name>Audio</name>
 		<desc>Configure audio settings. Choose default of auto, 3.5mm jack, or HDMI. Mixer controls, and apply default settings.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/audiosettings.png</image>
 	</game>
 	<game>
-		<path>./bluetooth.rp</path>
+		<path>./retropietools/bluetooth.rp</path>
 		<name>Bluetooth</name>
 		<desc>Register and connect to Bluetooth devices. Unregister and remove devices, and display registered and connected devices.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/bluetooth.png</image>
 	</game>
 	<game>
-		<path>./configedit.rp</path>
+		<path>./emulationtools/configedit.rp</path>
 		<name>Configuration Editor</name>
 		<desc>Change common RetroArch options, and manually edit RetroArch configs, global configs, and non-RetroArch configs.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/configedit.png</image>
 	</game>
 	<game>
-		<path>./esthemes.rp</path>
+		<path>./visualtools/esthemes.rp</path>
 		<name>ES Themes</name>
 		<desc>Install, uninstall, or update EmulationStation themes. Most themes can be previewed at https://retropie.org.uk/docs/Themes/.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/esthemes.png</image>
 	</game>
 	<game>
-		<path>./filemanager.rp</path>
+		<path>./retropietools/filemanager.rp</path>
 		<name>File Manager</name>
 		<desc>Basic ASCII file manager for Linux allowing you to browse, copy, delete, and move files.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/filemanager.png</image>
@@ -37,13 +37,13 @@
 		<image>/home/pi/RetroPie/retropiemenu/icons/raspiconfig.png</image>
 	</game>
 	<game>
-		<path>./retroarch.rp</path>
+		<path>./retropietools/retroarch.rp</path>
 		<name>Retroarch</name>
 		<desc>Launches the RetroArch GUI so you can change RetroArch options. Note: Changes will not be saved unless you have enabled the "Save Configuration On Exit" option.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/retroarch.png</image>
 	</game>
 	<game>
-		<path>./retronetplay.rp</path>
+		<path>./retropietools/retronetplay.rp</path>
 		<name>RetroArch Net Play</name>
 		<desc>Set up RetroArch Netplay options, choose host or client, port, host IP, delay frames, and your nickname.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/retronetplay.png</image>
@@ -55,31 +55,55 @@
 		<image>/home/pi/RetroPie/retropiemenu/icons/rpsetup.png</image>
 	</game>
 	<game>
-		<path>./runcommand.rp</path>
+		<path>./retropietools/runcommand.rp</path>
 		<name>Run Command Configuration</name>
 		<desc>Change what appears on the runcommand screen. Enable or disable the menu, enable or disable box art, and change CPU configuration.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/runcommand.png</image>
 	</game>
 	<game>
-		<path>./showip.rp</path>
+		<path>./retropietools/showip.rp</path>
 		<name>Show IP</name>
 		<desc>Displays your current IP address, as well as other information provided by the command "ip addr show."</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/showip.png</image>
 	</game>
 	<game>
-		<path>./splashscreen.rp</path>
+		<path>./visualtools/splashscreen.rp</path>
 		<name>Splash Screens</name>
 		<desc>Enable or disable the splashscreen on RetroPie boot. Choose a splashscreen, download new splashscreens, and return splashscreen to default.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/splashscreen.png</image>
 	</game>
 	<folder>
-		<path>./extra-scripts</path>
-		<name>#-Extra Scripts-#</name>
-		<desc>Extra user script.</desc>
-		<image>/home/pi/RetroPie/retropiemenu/icons/extra-user-scripts.png</image>
+		<path>./audiotools</path>
+		<name>/ Audio Tools</name>
+		<desc>This folder contains Sound related scripts</desc>
+		<image>/home/pi/RetroPie/retropiemenu/icons/audiotools.png</image>
+	</folder>
+	<folder>
+		<path>./controllertools</path>
+		<name>/ Controller Tools</name>
+		<desc>This folder contains contoller related scripts.</desc>
+		<image>/home/pi/RetroPie/retropiemenu/icons/controllertools.png</image>
+	</folder>		
+	<folder>
+		<path>./emulationtools</path>
+		<name>/ Emulation Tools</name>
+		<desc>This folder contains emulator related scripts.</desc>
+		<image>/home/pi/RetroPie/retropiemenu/icons/emulationtools.png</image>
+	</folder>
+	<folder>
+		<path>./retropietools</path>
+		<name>/ RetroPie Tools</name>
+		<desc>This folder contains more system related scripts from A-Z.</desc>
+		<image>/home/pi/RetroPie/retropiemenu/icons/retropietools.png</image>
+	</folder>
+	<folder>
+		<path>./visualtools</path>
+		<name>/ Visual Tools</name>
+		<desc>This folder contains Visuals related scripts.</desc>
+		<image>/home/pi/RetroPie/retropiemenu/icons/visualtools.png</image>
 	</folder>
 	<game>
-		<path>./extra-scripts/hurstythemes.sh</path>
+		<path>./visualtools/hurstythemes.sh</path>
 		<name>Hursty's Themes</name>
 		<desc>Install, uninstall, or update RetroHursty69's EmulationStation themes. It also includes an ES bootup theme randomizer to automatically switch themes on bootup.</desc>
 		<image>./icons/hurstythemes.png</image>
@@ -87,7 +111,7 @@
 		<lastplayed/>
 	</game>
 	<game>
-		<path>./extra-scripts/bezelproject.sh</path>
+		<path>./visualtools/bezelproject.sh</path>
 		<name>Bezel Project</name>
 		<desc>Download and manage games bezels.</desc>
 		<image>./icons/bezelproject.png</image>
@@ -95,7 +119,7 @@
 		<lastplayed/>
 	</game>
 	<game>
-		<path>./extra-scripts/FE-Switcheroo.sh</path>
+		<path>./FE-Switcheroo.sh</path>
 		<name>FE Switcheroo</name>
 		<desc>This script will let you pick your boot up front-end and so much more.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/FE-Switcheroo.png</image>
@@ -103,172 +127,172 @@
 		<lastplayed/>
 	</game>
 	<game>
-		<path>./extra-scripts/basicinfo.sh</path>
+		<path>./basicinfo.sh</path>
 		<name>System Info &amp; Weather</name>
 		<desc>View a summary of your Retropie system info, temperature, partition info, ip, weather etc.! PLEASE GIVE TIME TO GATHER INFO.</desc>
 		<image>./icons/basicinfo.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/loadingmedia-tool.sh</path>
+		<path>./visualtools/loadingmedia-tool.sh</path>
 		<name>loading-Launching Screens Tool</name>
 		<desc>This script will enable or disable the use of launching screens. Launching screensets are located here: /home/pi/RetroPie/LaunchingScreens Each set of launching screens you have located there must be in their own parent folder, with the individual emulator system folders containing the launching.png files underneath.</desc>
 		<image>./icons/loadingmedia-tool.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/joystick_selection.sh</path>
+		<path>./controllertools/joystick_selection.sh</path>
 		<name>Joystick Selection</name>
 		<desc>Select which joystick to use for RetroArch players 1-4 (global or system specific).</desc>
 		<image>./icons/joystick_selection.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/genesis.sh</path>
+		<path>./visualtools/genesis.sh</path>
 		<name>Switch Genesis-Megadrive</name>
 		<desc>This script will switch between the Sega Genesis and the Sega Megadrive themes in both ES and AM to show in the main menu. You will need to restart Emulation Station after making the change. By SUPREME TEAM</desc>
 		<image>./icons/genesis.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/bezels.sh</path>
+		<path>./visualtools/bezels.sh</path>
 		<name>Bezel Custom Sets</name>
 		<desc>You can enable or disable custom folder bezels such as Motion Blue #2 set or future sets.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/bezels.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/clearlastplayed.sh</path>
+		<path>./visualtools/clearlastplayed.sh</path>
 		<name>Clear Last Played</name>
 		<desc>The user friendly Game list cleaner By THE SUPREME TEAM</desc>
 		<image>./icons/clearlastplayed.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/escollections.sh</path>
+		<path>./retropietools/escollections.sh</path>
 		<name>ES Collection List Generator</name>
 		<desc>This will add or update the custom collection gamelist that will be used to show games in the custom collections menu items.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/escollections.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/esgamelist.sh</path>
+		<path>./retropietools/esgamelist.sh</path>
 		<name>ES Gamelist Utility</name>
 		<desc>This script is for installing premade, prescraped Emulation Station gamelist.xml files. The script also provides a cleanup utility to audit existing gamelist.xml files against existing rom files to end up with a gamelist.xml file only containing entries for matching rom files. The premade gamelist files are setup for No Intro filenames like EmuMovies, Hyperspin, Launchbox. They are also setup to use the four folders for PNG/MP4 media. boxart cart snap wheel The premade gamelist files contain multiple entries per game to account for all known filename extensions supported by the particular system.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/esgamelist.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/filefind.sh</path>
+		<path>./retropietools/filefind.sh</path>
 		<name>ES Pathfinder Custom Collections</name>
 		<desc>CygeGhost final release! It compares custom imported collections (by other users) with your Romsets. It will automatically correct paths. If there are more than one possible hit, then you can choose out of a selection of ROMs. Standard &amp; advanced search options.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/filefind.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/reference.sh</path>
+		<path>./retropietools/reference.sh</path>
 		<name>Reference Utility Menu, DM</name>
 		<desc>Find out common information about Retropie, Emulation Station, Attract Mode, RetroArch and ROM information.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/reference.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/removemedia.sh</path>
+		<path>./visualtools/removemedia.sh</path>
 		<name>Media Removal Util </name>
 		<desc>This utility will remove extra media files (mixart, boxart, cartart, snap and wheel) for a chosen system when there is not a matching game/rom for it. Mixart tweak added.</desc>
 		<image>./icons/removemedia.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/resetcontrollers.sh</path>
+		<path>./controllertools/resetcontrollers.sh</path>
 		<name>Reset All Controllers</name>
 		<desc>It will reset all ES cotroller configurations and remove any previous controller profiles. This will give you a clean controllers setup!</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/resetcontrollers.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/retroarch-tool.sh</path>
+		<path>./visualtools/retroarch-tool.sh</path>
 		<name>Retroarch Visual Tool </name>
 		<desc>The all in one RetroArch Visual Tweak script.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/retroarch-tool.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/rpc80-savefile.sh</path>
+		<path>./emulationtools/rpc80-savefile.sh</path>
 		<name>Saves Single Folder, RPC</name>
 		<desc>Not enabled on Retropie ! Creates a "saves" directory at ~/RetroPie/saves and configures all RetroArch emulators with their own config files to store savefiles at ~/RetroPie/saves/{system_name} and savestate files at ~/Retropie/saves/{system_name}/states.</desc>
 		<image>./icons/rpc80-savefile.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/overclock.sh</path>
+		<path>./retropietools/overclock.sh</path>
 		<name>OverClock Optimized</name>
 		<desc>Overclock your Pi5 (USE AT YOUR OWN RISK)</desc>
 		<image>./icons/overclock.png</image>
 	</game>
 	<game>
-		<path>./extra-scripts/resolution-tool.sh</path>
+		<path>./visualtools/resolution-tool.sh</path>
 		<name>Raspberry Video Output</name>
 		<desc>This utility will let you choose between various forced screen resolutions and ratio.</desc>
 		<image>./icons/resolution-tool.png</image>
 	</game>		
 	<game>
 		<path>./fixmybuild.sh</path>
-		<name>FIX MY BUILD</name>
+		<name>* FIX MY BUILD *</name>
 		<desc>Fix all your broken SUPREME BUILD features. Update, maintenance tools and many more.(This tool will also let you fix your RetroPie Menu after a update)</desc>
 		<image>./icons/fixmybuild.png</image>
 		<playcount>2</playcount>
 		<lastplayed>20230719T213801</lastplayed>
 	</game>	
 	<folder>
-		<path>./imp</path>
+		<path>./audiotools/imp</path>
 		<name># Music Player #</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/imp.png</image>
 	</folder>
 	<game>
-		<path>./imp/Previous Track.sh</path>
+		<path>./audiotools/imp/Previous Track.sh</path>
 		<name>&lt;&lt; Previous Track</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impprevious.png</image>
 	</game>
 	<game>
-		<path>./imp/Play.sh</path>
+		<path>./audiotools/imp/Play.sh</path>
 		<name>&lt;&gt; Play</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impplay.png</image>
 	</game>
 	<game>
-		<path>./imp/Pause.sh</path>
+		<path>./audiotools/imp/Pause.sh</path>
 		<name>= Pause</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/imppause.png</image>
 	</game>
 	<game>
-		<path>./imp/Stop.sh</path>
+		<path>./audiotools/imp/Stop.sh</path>
 		<name>&gt;&lt; Stop</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impstop.png</image>
 	</game>
 	<game>
-		<path>./imp/Next Track.sh</path>
+		<path>./audiotools/imp/Next Track.sh</path>
 		<name>&gt;&gt; Next Track</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impnext.png</image>
 	</game>
 	<game>
-		<path>./imp/Current Playlist.sh</path>
+		<path>./audiotools/imp/Current Playlist.sh</path>
 		<name># Current Playlist #</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impplaylist.png</image>
 	</game>
 	<game>
-		<path>./imp/Shuffle On.sh</path>
+		<path>./audiotools/imp/Shuffle On.sh</path>
 		<name>Shuffle On</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impshuffleon.png</image>
 	</game>
 	<game>
-		<path>./imp/Shuffle Off.sh</path>
+		<path>./audiotools/imp/Shuffle Off.sh</path>
 		<name>Shuffle Off</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impshuffleoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Start All Music.sh</path>
+		<path>./audiotools/imp/Start All Music.sh</path>
 		<name>Start All Music</name>
 		<desc>[IMP] Integrated Music Player
  ~/RetroPie/retropiemenu/imp/music/*</desc>
 		<image>./icons/impstartall.png</image>
 	</game>
 	<game>
-		<path>./imp/Start BGM Music.sh</path>
+		<path>./audiotools/imp/Start BGM Music.sh</path>
 		<name>Start BGM Music</name>
 		<desc>[IMP] Integrated Music Player
  ~/RetroPie/retropiemenu/imp/music/bgm/A-SIDE/*
@@ -276,39 +300,39 @@
 		<image>./icons/impstartbgm.png</image>
 	</game>
 	<game>
-		<path>./imp/Start Randomizer.sh</path>
+		<path>./audiotools/imp/Start Randomizer.sh</path>
 		<name>Start Randomizer</name>
 		<desc>[IMP] Integrated Music Player
  ~/RetroPie/retropiemenu/imp/music/*</desc>
 		<image>./icons/impstartrandomizer.png</image>
 	</game>
 	<folder>
-		<path>./imp/music</path>
+		<path>./audiotools/imp/music</path>
 		<name>./Music</name>
 		<desc>[IMP] Integrated Music Player
  ~/RetroPie/retropiemenu/imp/music/</desc>
 		<image>./icons/impmusicdir.png</image>
 	</folder>
 	<folder>
-		<path>./imp/Settings</path>
+		<path>./audiotools/imp/Settings</path>
 		<name>{Settings}</name>
 		<desc>[IMP] Integrated Music Player Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/Current Settings.sh</path>
+		<path>./audiotools/imp/Settings/Current Settings.sh</path>
 		<name># Current Settings #</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impsettingscurrent.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/General Settings</path>
+		<path>./audiotools/imp/Settings/General Settings</path>
 		<name>[General Settings]</name>
 		<desc>[IMP] General Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/General Settings/IMP Lite [On].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/IMP Lite [On].sh</path>
 		<name>IMP Lite [On]</name>
 		<desc>[ENABLE]: IMP Lite Mode.
 Log to TMPFS (RAM)
@@ -316,7 +340,7 @@ Track Position Reset @PowerOff</desc>
 		<image>./icons/impliteon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/IMP Lite [Off].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/IMP Lite [Off].sh</path>
 		<name>IMP Lite [Off]</name>
 		<desc>[DISABLE]: IMP Lite Mode.
 Log to File (Disk)
@@ -324,19 +348,19 @@ Track Position Retained @PowerOff</desc>
 		<image>./icons/impliteoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/Infinite IMP [On].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/Infinite IMP [On].sh</path>
 		<name>Infinite IMP [On]</name>
 		<desc>[ENABLE]: Infinite Repeat Mode.</desc>
 		<image>./icons/impinfiniteon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/Infinite IMP [Off].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/Infinite IMP [Off].sh</path>
 		<name>Infinite IMP [Off]</name>
 		<desc>[DISABLE]: Infinite Repeat Mode.</desc>
 		<image>./icons/impinfiniteoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/Fade Volume [x1].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/Fade Volume [x1].sh</path>
 		<name>Fade Volume [x1]</name>
 		<desc>[ENABLE]: Volume Fade Out-In [x1]
 Fades Volume @Intervals of [x1]
@@ -344,7 +368,7 @@ Fades Volume @Intervals of [x1]
 		<image>./icons/impsettingfadeon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/Fade Volume [x5].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/Fade Volume [x5].sh</path>
 		<name>Fade Volume [x5]</name>
 		<desc>[ENABLE]: Volume Fade Out-In [x5]
 Fades Volume @Intervals of [x5]
@@ -352,7 +376,7 @@ Fades Volume @Intervals of [x5]
 		<image>./icons/impsettingfadeon5.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/Fade Volume [x10].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/Fade Volume [x10].sh</path>
 		<name>Fade Volume: [x10]</name>
 		<desc>[ENABLE]: Volume Fade Out-In [x10]
 Fades Volume @Intervals of [x10]
@@ -360,41 +384,41 @@ Fades Volume @Intervals of [x10]
 		<image>./icons/impsettingfadeon10.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/General Settings/Fade Volume [0ff].sh</path>
+		<path>./audiotools/imp/Settings/General Settings/Fade Volume [0ff].sh</path>
 		<name>Fade Volume [0ff]</name>
 		<desc>[DISABLE]: Volume Fade Out-In
 [Respected @Game + @Idle]</desc>
 		<image>./icons/impsettingfadeoff.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/Randomizer Settings</path>
+		<path>./audiotools/imp/Settings/Randomizer Settings</path>
 		<name>{Randomizer Settings}</name>
 		<desc>[IMP] Randomizer Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/Randomizer Settings/Music Randomizer [Off].sh</path>
+		<path>./audiotools/imp/Settings/Randomizer Settings/Music Randomizer [Off].sh</path>
 		<name>Music Randomizer [Off]</name>
 		<desc>[DISABLE]:  Music Randomizer at Startup
  ~/RetroPie/retropiemenu/imp/music/*</desc>
 		<image>./icons/imprandomizeroff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Randomizer Settings/Music Randomizer [On].sh</path>
+		<path>./audiotools/imp/Settings/Randomizer Settings/Music Randomizer [On].sh</path>
 		<name>Music Randomizer [On]</name>
 		<desc>[ENABLE]:  Music Randomizer at Startup
  ~/RetroPie/retropiemenu/imp/music/*</desc>
 		<image>./icons/impstartrandomizer.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Randomizer Settings/Randomizer Mode [ALL].sh</path>
+		<path>./audiotools/imp/Settings/Randomizer Settings/Randomizer Mode [ALL].sh</path>
 		<name>Randomizer Mode {ALL}</name>
 		<desc>[MODE]:  Music Randomizer [ALL]
  ~/RetroPie/retropiemenu/imp/music/*.MP3</desc>
 		<image>./icons/imprandomizerall.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Randomizer Settings/Randomizer Mode [BGM].sh</path>
+		<path>./audiotools/imp/Settings/Randomizer Settings/Randomizer Mode [BGM].sh</path>
 		<name>Randomizer Mode {BGM}</name>
 		<desc>[MODE]:  Music Randomizer [BGM]
  ~/RetroPie/retropiemenu/imp/music/bgm/A-SIDE/*.MP3
@@ -402,7 +426,7 @@ Fades Volume @Intervals of [x10]
 		<image>./icons/imprandomizerbgm.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Randomizer Settings/Randomizer Mode [PLS].sh</path>
+		<path>./audiotools/imp/Settings/Randomizer Settings/Randomizer Mode [PLS].sh</path>
 		<name>Randomizer Mode {PLS}</name>
 		<desc>[MODE]:  Music Randomizer [PLS]
  ~/RetroPie/retropiemenu/imp/music/*.PLS
@@ -410,75 +434,75 @@ Fades Volume @Intervals of [x10]
 		<image>./icons/imprandomizerpls.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/BGM Settings</path>
+		<path>./audiotools/imp/Settings/BGM Settings</path>
 		<name>{BGM Settings}</name>
 		<desc>[IMP] BGM Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/BGM Settings/BGM A-Side [On].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/BGM A-Side [On].sh</path>
 		<name>BGM A-Side [On]</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm/A-SIDE</desc>
 		<image>./icons/impsettingbgmaon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/BGM A-Side [Off].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/BGM A-Side [Off].sh</path>
 		<name>BGM A-Side [Off]</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm/A-SIDE</desc>
 		<image>./icons/impsettingbgmaoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/BGM B-Side [On].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/BGM B-Side [On].sh</path>
 		<name>BGM B-Side [On]</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm/B-SIDE</desc>
 		<image>./icons/impsettingbgmbon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/BGM B-Side [Off].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/BGM B-Side [Off].sh</path>
 		<name>BGM B-Side [Off]</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm/B-SIDE</desc>
 		<image>./icons/impsettingbgmboff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/Play Quit Song [On].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/Play Quit Song [On].sh</path>
 		<name>Play &lt;Quit Song&gt; [On]</name>
 		<desc>[ENABLE]:  Play Quit Song at ES Quit
  ~/RetroPie/retropiemenu/imp/music/bgm/quit.mp3</desc>
 		<image>./icons/impsettingquitsongon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/Play Quit Song [Off].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/Play Quit Song [Off].sh</path>
 		<name>Play &lt;Quit Song&gt; [Off]</name>
 		<desc>[DISABLE]:  Play Quit Song at ES Quit
  ~/RetroPie/retropiemenu/imp/music/bgm/quit.mp3</desc>
 		<image>./icons/impsettingquitsongoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/Play Startup Song [On].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/Play Startup Song [On].sh</path>
 		<name>Play &lt;Startup&gt; Song [On]</name>
 		<desc>[ENABLE]:  Play Startup Song at B00T
  ~/RetroPie/retropiemenu/imp/music/bgm/startup.mp3</desc>
 		<image>./icons/impsettingstartupsongon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/BGM Settings/Play Startup Song [Off].sh</path>
+		<path>./audiotools/imp/Settings/BGM Settings/Play Startup Song [Off].sh</path>
 		<name>Play &lt;Startup&gt; Song [Off]</name>
 		<desc>[DISABLE]:  Play Startup Song at B00T
  ~/RetroPie/retropiemenu/imp/music/bgm/startup.mp3</desc>
 		<image>./icons/impsettingstartupsongoff.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/Game Settings</path>
+		<path>./audiotools/imp/Settings/Game Settings</path>
 		<name>{Game Settings}</name>
 		<desc>[IMP] Game Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/Game Settings/Music 0ver Games [On].sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/Music 0ver Games [On].sh</path>
 		<name>Music 0ver Games [On]</name>
 		<desc>[ENABLE]: Music Over Games
 Recommend Changing RetroArch Audio Driver to Something 0ther than ALSA.
@@ -487,470 +511,470 @@ Save CFG -&gt; Main Menu -&gt; Configuration File -&gt;  "Save Current Configura
 		<image>./icons/impsettingmusicon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/Music Idle 0ver Games [On].sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/Music Idle 0ver Games [On].sh</path>
 		<name>Music Idle 0ver Games [On]</name>
 		<desc>[ENABLE]: Music Idle Volume Over Games
 [Respects Idle IMP Volume Setting]</desc>
 		<image>./icons/impsettingfadeon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/Music 0ver Games [Off].sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/Music 0ver Games [Off].sh</path>
 		<name>Music 0ver Games [Off]</name>
 		<desc>[DISABLE]: Music Over Games</desc>
 		<image>./icons/impsettingmusicoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[00] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[00] Delay At Game End.sh</path>
 		<name>[00] Delay At Game End</name>
 		<desc>[00] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[05] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[05] Delay At Game End.sh</path>
 		<name>[05] Delay At Game End</name>
 		<desc>[05] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[10] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[10] Delay At Game End.sh</path>
 		<name>[10] Delay At Game End</name>
 		<desc>[10] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[15] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[15] Delay At Game End.sh</path>
 		<name>[15] Delay At Game End</name>
 		<desc>[15] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[20] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[20] Delay At Game End.sh</path>
 		<name>[20] Delay At Game End</name>
 		<desc>[20] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[25] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[25] Delay At Game End.sh</path>
 		<name>[25] Delay At Game End</name>
 		<desc>[25] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Game Settings/[30] Delay At Game End.sh</path>
+		<path>./audiotools/imp/Settings/Game Settings/[30] Delay At Game End.sh</path>
 		<name>[30] Delay At Game End</name>
 		<desc>[30] Delay At Game End</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/Idle Settings</path>
+		<path>./audiotools/imp/Settings/Idle Settings</path>
 		<name>{Idle Settings}</name>
 		<desc>[IMP] Idle Settings.
 [RESTART REQUIRED]</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/Idle Settings/Idle at Screensaver [0ff].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Idle at Screensaver [0ff].sh</path>
 		<name>Idle at Screensaver [0ff]</name>
 		<desc>[DISABLE]: Idle IMP @Screensaver</desc>
 		<image>./icons/impsettingidlescreenoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Idle at Screensaver [Any] [0n].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Idle at Screensaver [Any] [0n].sh</path>
 		<name>Idle at Screensaver [Any] [0n]</name>
 		<desc>[ENABLE]: Idle IMP @Screensaver
 [Any Screensaver]</desc>
 		<image>./icons/impsettingidlescreenon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Idle at Screensaver [Video] [0n].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Idle at Screensaver [Video] [0n].sh</path>
 		<name>Idle at Screensaver [Video] [0n]</name>
 		<desc>[ENABLE]: Idle IMP @Screensaver
 [Random Video Screensaver Only]</desc>
 		<image>./icons/impsettingidlescreenonvid.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Stop IMP at Sleep [0ff].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Stop IMP at Sleep [0ff].sh</path>
 		<name>Stop IMP at Sleep [0ff]</name>
 		<desc>[DISABLE]: Stop IMP @Sleep</desc>
 		<image>./icons/impsettingidlesleepoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Stop IMP Sleep [0n].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Stop IMP Sleep [0n].sh</path>
 		<name>Stop IMP Sleep [0n]</name>
 		<desc>[ENABLE]: Stop IMP @Sleep</desc>
 		<image>./icons/impsettingidlesleepon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Stop+Kill Display at Sleep [0n].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Stop+Kill Display at Sleep [0n].sh</path>
 		<name>Stop+Kill Display at Sleep [0n]</name>
 		<desc>[ENABLE]: Stop IMP @Sleep + Kill Display</desc>
 		<image>./icons/impsettingidlesleeponkilldisplay.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Idle IMP Behavior [Stop].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Idle IMP Behavior [Stop].sh</path>
 		<name>Idle IMP Behavior [Stop]</name>
 		<desc>[Behavior]: IMP will be Stopped while Idle
 [Respected @Screensaver Idle]</desc>
 		<image>./icons/impsettingidlestop.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/Idle IMP Behavior [Volume].sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/Idle IMP Behavior [Volume].sh</path>
 		<name>Idle IMP Behavior [Volume]</name>
 		<desc>[Behavior]: IMP Volume will be Adjusted while Idle
 [Respected @Screensaver Idle]</desc>
 		<image>./icons/impsettingfadeon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[05] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[05] Idle IMP Volume.sh</path>
 		<name>[05] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume05.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[10] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[10] Idle IMP Volume.sh</path>
 		<name>[10] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume10.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[20] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[20] Idle IMP Volume.sh</path>
 		<name>[20] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume20.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[30] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[30] Idle IMP Volume.sh</path>
 		<name>[30] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume30.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[40] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[40] Idle IMP Volume.sh</path>
 		<name>[40] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume40.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[50] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[50] Idle IMP Volume.sh</path>
 		<name>[50] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume50.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[60] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[60] Idle IMP Volume.sh</path>
 		<name>[60] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume60.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[70] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[70] Idle IMP Volume.sh</path>
 		<name>[70] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume70.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[80] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[80] Idle IMP Volume.sh</path>
 		<name>[80] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume80.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[90] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[90] Idle IMP Volume.sh</path>
 		<name>[90] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume90.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Idle Settings/[MAX] Idle IMP Volume.sh</path>
+		<path>./audiotools/imp/Settings/Idle Settings/[MAX] Idle IMP Volume.sh</path>
 		<name>[MAX] Idle IMP Volume</name>
 		<desc>[IMP] Volume Level while Idle.</desc>
 		<image>./icons/impvolume100.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/HTTP Server Settings</path>
+		<path>./audiotools/imp/Settings/HTTP Server Settings</path>
 		<name>{HTTP Server}</name>
 		<desc>[IMP] http.server Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/HTTP Server Settings/HTTP Server Log.sh</path>
+		<path>./audiotools/imp/Settings/HTTP Server Settings/HTTP Server Log.sh</path>
 		<name>HTTP Server Log</name>
 		<desc>[LOG]: http.server</desc>
 		<image>./icons/imphttplog.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/HTTP Server Settings/HTTP Server Music [On].sh</path>
+		<path>./audiotools/imp/Settings/HTTP Server Settings/HTTP Server Music [On].sh</path>
 		<name>HTTP Server Music [On]</name>
 		<desc>[ENABLE]: http.server
  ~/RetroPie/retropiemenu/imp/music/*</desc>
 		<image>./icons/imphttpon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/HTTP Server Settings/HTTP Server Roms [On].sh</path>
+		<path>./audiotools/imp/Settings/HTTP Server Settings/HTTP Server Roms [On].sh</path>
 		<name>HTTP Server Roms [On]</name>
 		<desc>[ENABLE]: http.server
  ~/RetroPie/roms/*</desc>
 		<image>./icons/imphttpon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/HTTP Server Settings/HTTP Server [Off].sh</path>
+		<path>./audiotools/imp/Settings/HTTP Server Settings/HTTP Server [Off].sh</path>
 		<name>HTTP Server [Off]</name>
 		<desc>[DISABLE]: http.server </desc>
 		<image>./icons/imphttpoff.png</image>
 	</game>
 	<folder>
-		<path>./imp/Settings/Startup Settings</path>
+		<path>./audiotools/imp/Settings/Startup Settings</path>
 		<name>{Startup Settings}</name>
 		<desc>[IMP] Startup Settings.</desc>
 		<image>./icons/impsettings.png</image>
 	</folder>
 	<game>
-		<path>./imp/Settings/Startup Settings/Music At Startup [On].sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/Music At Startup [On].sh</path>
 		<name>Music At Startup [On]</name>
 		<desc>[ENABLE]: Music At Startup</desc>
 		<image>./icons/impsettingmusicon.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/Music At Startup [Off].sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/Music At Startup [Off].sh</path>
 		<name>Music At Startup [Off]</name>
 		<desc>[DISABLE]: Music At Startup</desc>
 		<image>./icons/impsettingmusicoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/Shuffle Playlist [On].sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/Shuffle Playlist [On].sh</path>
 		<name>Shuffle Playlist [On]</name>
 		<desc>[ENABLE]:  Shuffle Current Playlist at B00T</desc>
 		<image>./icons/impsettingshufflebooton.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/Shuffle Playlist [Off].sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/Shuffle Playlist [Off].sh</path>
 		<name>Shuffle Playlist [Off]</name>
 		<desc>[DISABLE]:  Shuffle Current Playlist at B00T</desc>
 		<image>./icons/impsettingshufflebootoff.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[000] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[000] Delay At Startup.sh</path>
 		<name>[000] Delay At Startup</name>
 		<desc>[000] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[005] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[005] Delay At Startup.sh</path>
 		<name>[005] Delay At Startup</name>
 		<desc>[005] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[010] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[010] Delay At Startup.sh</path>
 		<name>[010] Delay At Startup</name>
 		<desc>[010] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[015] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[015] Delay At Startup.sh</path>
 		<name>[015] Delay At Startup</name>
 		<desc>[015] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[020] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[020] Delay At Startup.sh</path>
 		<name>[020] Delay At Startup</name>
 		<desc>[020] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[025] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[025] Delay At Startup.sh</path>
 		<name>[025] Delay At Startup</name>
 		<desc>[025] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[030] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[030] Delay At Startup.sh</path>
 		<name>[030] Delay At Startup</name>
 		<desc>[030] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[035] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[035] Delay At Startup.sh</path>
 		<name>[035] Delay At Startup</name>
 		<desc>[035] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[040] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[040] Delay At Startup.sh</path>
 		<name>[040] Delay At Startup</name>
 		<desc>[040] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[045] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[045] Delay At Startup.sh</path>
 		<name>[045] Delay At Startup</name>
 		<desc>[045] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[050] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[050] Delay At Startup.sh</path>
 		<name>[050] Delay At Startup</name>
 		<desc>[050] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[055] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[055] Delay At Startup.sh</path>
 		<name>[055] Delay At Startup</name>
 		<desc>[055] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[060] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[060] Delay At Startup.sh</path>
 		<name>[060] Delay At Startup</name>
 		<desc>[060] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[070] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[070] Delay At Startup.sh</path>
 		<name>[070] Delay At Startup</name>
 		<desc>[070] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[080] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[080] Delay At Startup.sh</path>
 		<name>[080] Delay At Startup</name>
 		<desc>[080] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[090] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[090] Delay At Startup.sh</path>
 		<name>[090] Delay At Startup</name>
 		<desc>[090] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[100] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[100] Delay At Startup.sh</path>
 		<name>[100] Delay At Startup</name>
 		<desc>[100] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[110] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[110] Delay At Startup.sh</path>
 		<name>[110] Delay At Startup</name>
 		<desc>[110] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<game>
-		<path>./imp/Settings/Startup Settings/[120] Delay At Startup.sh</path>
+		<path>./audiotools/imp/Settings/Startup Settings/[120] Delay At Startup.sh</path>
 		<name>[120] Delay At Startup</name>
 		<desc>[120] Seconds Delay At Startup</desc>
 		<image>./icons/impsettingadjust.png</image>
 	</game>
 	<folder>
-		<path>./imp/Volume</path>
+		<path>./audiotools/imp/Volume</path>
 		<name>{Volume}</name>
 		<desc>[IMP] Integrated Music Player Volume.</desc>
 		<image>./icons/impvolume.png</image>
 	</folder>
 	<game>
-		<path>./imp/Volume/[05] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[05] Player Volume.sh</path>
 		<name>[05] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume05.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[10] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[10] Player Volume.sh</path>
 		<name>[10] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume10.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[20] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[20] Player Volume.sh</path>
 		<name>[20] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume20.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[30] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[30] Player Volume.sh</path>
 		<name>[30] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume30.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[40] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[40] Player Volume.sh</path>
 		<name>[40] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume40.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[50] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[50] Player Volume.sh</path>
 		<name>[50] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume50.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[60] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[60] Player Volume.sh</path>
 		<name>[60] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume60.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[70] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[70] Player Volume.sh</path>
 		<name>[70] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume70.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[80] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[80] Player Volume.sh</path>
 		<name>[80] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume80.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[90] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[90] Player Volume.sh</path>
 		<name>[90] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume90.png</image>
 	</game>
 	<game>
-		<path>./imp/Volume/[MAX] Player Volume.sh</path>
+		<path>./audiotools/imp/Volume/[MAX] Player Volume.sh</path>
 		<name>[MAX] Player Volume</name>
 		<desc>[IMP] Integrated Music Player.</desc>
 		<image>./icons/impvolume100.png</image>
 	</game>
 	<folder>
-		<path>./imp/music/bgm</path>
+		<path>./audiotools/imp/music/bgm</path>
 		<name># BGM #</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm</desc>
 		<image>./icons/impbgmdirs.png</image>
 	</folder>
 	<game>
-		<path>./imp/music/bgm/startup.mp3</path>
+		<path>./audiotools/imp/music/bgm/startup.mp3</path>
 		<name>&lt;Startup Song&gt;</name>
 		<desc>[IMP] Startup Song.
  ~/RetroPie/retropiemenu/imp/music/bgm/startup.mp3</desc>
 		<image>./icons/impstartupsong.png</image>
 	</game>
 	<game>
-		<path>./imp/music/bgm/quit.mp3</path>
+		<path>./audiotools/imp/music/bgm/quit.mp3</path>
 		<name>&lt;Quit Song&gt;</name>
 		<desc>[IMP] Quit Song.
  ~/RetroPie/retropiemenu/imp/music/bgm/quit.mp3</desc>
 		<image>./icons/impquitsong.png</image>
 	</game>
 	<folder>
-		<path>./imp/music/bgm/A-SIDE</path>
+		<path>./audiotools/imp/music/bgm/A-SIDE</path>
 		<name># A-SIDE #</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm/A-SIDE</desc>
 		<image>./icons/impbgmdira.png</image>
 	</folder>
 	<folder>
-		<path>./imp/music/bgm/B-SIDE</path>
+		<path>./audiotools/imp/music/bgm/B-SIDE</path>
 		<name># B-SIDE #</name>
 		<desc>[IMP] Background Music.
  ~/RetroPie/retropiemenu/imp/music/bgm/B-SIDE</desc>
 		<image>./icons/impbgmdirb.png</image>
 	</folder>
 	<folder>
-		<path>./imp/music/_roms_music</path>
+		<path>./audiotools/imp/music/_roms_music</path>
 		<name># ROMs/MUSIC #</name>
 		<desc>[IMP] ROMs Music.
  ~/RetroPie/roms/music/
