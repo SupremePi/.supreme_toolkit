@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./audiotools/audiosettings.rp</path>
+		<path>./retropietools/audiosettings.rp</path>
 		<name>Audio</name>
 		<desc>Configure audio settings. Choose default of auto, 3.5mm jack, or HDMI. Mixer controls, and apply default settings.</desc>
 		<image>/home/pi/RetroPie/retropiemenu/icons/audiosettings.png</image>
@@ -224,7 +224,7 @@
 	</game>		
 	<game>
 		<path>./fixmybuild.sh</path>
-		<name>* FIX MY BUILD *</name>
+		<name>&#x2606; FIX MY BUILD &#x2606;</name>
 		<desc>Fix all your broken SUPREME BUILD features. Update, maintenance tools and many more.(This tool will also let you fix your RetroPie Menu after a update)</desc>
 		<image>./icons/fixmybuild.png</image>
 		<playcount>2</playcount>
