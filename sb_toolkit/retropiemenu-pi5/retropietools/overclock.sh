@@ -22,7 +22,7 @@ dialog --backtitle "Pi 5 OverClocking" \
 --msgbox "${infobox}" 35 110
 
 # Config file path
-CONFIG_PATH=/boot/config.txt
+CONFIG_PATH=/boot/firmware/config.txt
 
 # Overclocking settings description
 OVERCLOCK_DESCRIPTION="#uncomment to enable custom overclock settings"
