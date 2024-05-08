@@ -145,6 +145,12 @@
 		<image>./icons/joystick_selection.png</image>
 	</game>
 	<game>
+		<path>./controllertools/Sinden Lightgun.sh</path>
+		<name>Sinden Lightgun</name>
+		<desc>Start, stop, test and calibrate your Sinden Lightguns. Includes Autostart settings.</desc>
+		<image>./icons/sinden.png</image>
+	</game>		
+	<game>
 		<path>./visualtools/genesis.sh</path>
 		<name>Switch Genesis-Megadrive</name>
 		<desc>This script will switch between the Sega Genesis and the Sega Megadrive themes in both ES and AM to show in the main menu. You will need to restart Emulation Station after making the change. By SUPREME TEAM</desc>
