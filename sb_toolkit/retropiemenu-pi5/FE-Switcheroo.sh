@@ -100,6 +100,36 @@ fi
 #ATTRACT TOOLS#
 #################
 
+function music_romlist_attractmode() {
+# Creates or updates music rom list for IMP attractmode
+
+echo -e "$(tput setaf 2)Now Updating Your Music Rom List For Attract Mode! $(tput sgr0)"
+sleep 3
+
+# Be sure to include /full/path/ with '/' at the end/
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/_roms_music/
+
+# Expected attractmode format: romfolder.txt
+romLIST=/opt/retropie/configs/all/attractmode/romlists/_roms_music.txt
+
+rm /dev/shm/tmp.list > /dev/null 2>&1
+for f in "$(find  "$romDIR"* -maxdepth 1 -exec basename {} \; | rev | cut -c 5- | rev)"; do echo "$f" >> /dev/shm/tmp.list; done
+
+echo '#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons' > $romLIST
+# eg. e1m1;e1m1;A-SIDE;;;;;;;;;;;;;;
+while read line; do
+	echo ""$line";"$line";$(basename "$romLIST" | rev | cut -c 5- | rev);;;;;;;;;;;;;;" >> $romLIST
+done < /dev/shm/tmp.list
+
+rm /dev/shm/tmp.list > /dev/null 2>&1
+
+echo INPUT FOLDER: $romDIR
+echo OUTPUT FILE: $romLIST
+
+echo -e "$(tput setaf 2)Done! $(tput sgr0)"
+sleep 3
+}
+
 function es_attractmode() {
 if (dialog --title "ATTRACT CONTROLLER TOOL!" --yesno "Would You Like To Copy Your ES Controller Input To AM?" 0 0 )
 then
@@ -166,17 +196,22 @@ function main_menu() {
             --menu "Which Frontend or Helper Which You Like To Use?" 25 75 20 \
 	    + "|=========*FRONTENDS*=========|" \
 	    1 "Switch Boot Mode To Attract Mode ( $at_here )" \
-        2 "Switch Boot Mode To Desktop ( $dp_here )" \
-        3 "Switch Boot Mode To Emulationstation ( $es_here )" \
-        4 "Switch Boot Mode To Kodi ( $kodi_here )" \
-        2>&1 > /dev/tty)
+            2 "Switch Boot Mode To Desktop ( $dp_here )" \
+            3 "Switch Boot Mode To Emulationstation ( $es_here )" \
+            4 "Switch Boot Mode To Kodi ( $kodi_here )" \
+	    + "|=========*ATTRACT TOOLS*=========|" \
+            5 "Update Attract Controllers To ES" \
+            6 "Update Attract Music Rom Playlist" \
+            2>&1 > /dev/tty)
 
-        case "$choice" in
+            case "$choice" in
 	    +) none ;;
             1) ATTRACT_MODE ;;
             2) DESKTOP_MODE ;;
             3) EMULATIONSTATION_MODE ;;
             4) KODI_MODE ;;
+            5) es_attractmode ;;
+            6) music_romlist_attractmode ;;			
             *)  break ;;
         esac
     done
@@ -192,6 +227,7 @@ else
     echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag	
     if grep -q 'emulationstation \#auto' "$AUTOSTART"; then
     sudo sed -i 's/emulationstation \#auto/attract \#auto/g' $AUTOSTART
+	music_romlist_attractmode
 	es_attractmode
     if (dialog --title "Attract Mode Now Set!" --yesno "Would You Like To Reboot In Attact Mode Now?" 0 0 )
     then
@@ -205,6 +241,7 @@ else
     fi  
 elif grep -q 'startx \#auto' "$AUTOSTART"; then
     sudo sed -i 's/startx \#auto/attract \#auto/g' $AUTOSTART
+	music_romlist_attractmode
 	es_attractmode
     if (dialog --title "Attract Mode Now Set!" --yesno "Would You Like To Reboot In Attact Mode Now?" 0 0 )
     then
@@ -218,6 +255,7 @@ elif grep -q 'startx \#auto' "$AUTOSTART"; then
     fi  
 elif grep -q 'kodi \#auto' "$AUTOSTART"; then
     sudo sed -i 's/kodi \#auto/attract \#auto/g' $AUTOSTART
+	music_romlist_attractmode
 	es_attractmode
     if (dialog --title "Attract Mode Now Set!" --yesno "Would You Like To Reboot In Attact Mode Now?" 0 0 )
     then
@@ -301,7 +339,7 @@ else
     sudo sed -i 's/attract \#auto/emulationstation \#auto/g' $AUTOSTART
     if (dialog --title "EmulationStation Boot Mode Set!" --yesno "Would You Like To Reboot Into EmulationStation Mode Now?" 0 0 )
     then
-    echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode ! $(tput sgr0)"
+    echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode! $(tput sgr0)"
     sleep 3
     sudo reboot
     else 
@@ -313,7 +351,7 @@ elif grep -q 'startx \#auto' "$AUTOSTART"; then
     sudo sed -i 's/startx \#auto/emulationstation \#auto/g' $AUTOSTART
     if (dialog --title "EmulationStation Boot Mode Set!" --yesno "Would You Like To Reboot Into EmulationStation Mode Now?" 0 0 )
     then
-    echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode ! $(tput sgr0)"
+    echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode! $(tput sgr0)"
     sleep 3
     sudo reboot
     else 
@@ -325,7 +363,7 @@ elif grep -q 'kodi \#auto' "$AUTOSTART"; then
     sudo sed -i 's/kodi \#auto/emulationstation \#auto/g' $AUTOSTART
     if (dialog --title "EmulationStation Boot Mode Set!" --yesno "Would You Like To Reboot Into EmulationStation Mode Now?" 0 0 )
     then
-    echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode ! $(tput sgr0)"
+    echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode! $(tput sgr0)"
     sleep 3
     sudo reboot
     else 
