@@ -13,7 +13,7 @@ AUTOSTART="/opt/retropie/configs/all/autostart.sh"
 #################
 
 install_attract() {
-if (dialog --title "ATTRACT MODE NOT INSTALLED!" --yesno "Would You Like To Install Atrract Mode?" 0 0 )
+if (dialog --title "ATTRACT MODE NOT INSTALLED!" --yesno "Would You Like To Install Attract Mode?" 0 0 )
 then
         if [ $NETCONNECTED  = 1 ]; then
         dialog  --sleep 1 --title "OFFLINE?" --msgbox " 
@@ -22,7 +22,7 @@ then
 	else
         cd $HOME/RetroPie-Setup
         sudo ./retropie_packages.sh attractmode
-        echo -e "$(tput setaf 2)Attract Successfully Installed. $(tput sgr0)"
+        echo -e "$(tput setaf 2)Attract Mode Successfully Installed. $(tput sgr0)"
         sleep 3
         ATTRACT_MODE
 	fi
@@ -100,42 +100,144 @@ fi
 #ATTRACT TOOLS#
 #################
 
-function music_romlist_attractmode() {
-# Creates or updates music rom list for IMP attractmode
+function background_music() {
+if (dialog --title "BACKGROUND MUSIC!" --yesno "Would You Like To Set BackGround Music OFF For AM? YES is Default" 0 0 )
+then
+       echo "0" > /opt/retropie/configs/imp/settings/music-startup.flag
+       echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag
+       echo -e "$(tput setaf 2)Turning BackGround Music Off! $(tput sgr0)"
+       sleep 3
+else 
+        echo "1" > /opt/retropie/configs/imp/settings/music-startup.flag
+        echo "1" > /opt/retropie/configs/imp/settings/startupsong.flag
+        echo -e "$(tput setaf 2)Turning BackGround Music On! $(tput sgr0)"
+        sleep 3
+fi
+}
 
-echo -e "$(tput setaf 2)Now Updating Your Music Rom List For Attract Mode! $(tput sgr0)"
+
+function music_playlist_attractmode() {
+if (dialog --title "ATTRACT MODE IMP MUSIC PLATLISTS UPDATER!" --yesno "Would You Like To Update Your IMP Music Playlists For AM?" 0 0 )
+then
+        attract_imp_playlist
+else 
+        echo -e "$(tput setaf 2)Skipping IMP Music Playlists Update! $(tput sgr0)"
+        sleep 3
+fi
+}
+
+function attract_imp_playlist() {
+
+echo -e "$(tput setaf 2)Now Updating IMP Attract Mode Music Playlists! $(tput sgr0)"
 sleep 3
 
-# Be sure to include /full/path/ with '/' at the end/
-romDIR=/home/pi/RetroPie/retropiemenu/imp/music/_roms_music/
+function scanROMdir() {
+# Only scan if the Directory exists
+if [[ ! -d "$romDIR" ]]; then
+	rm /dev/shm/tmp.list > /dev/null 2>&1; rm /dev/shm/tmp.abc > /dev/null 2>&1
+else
 
 # Expected attractmode format: romfolder.txt
-romLIST=/opt/retropie/configs/all/attractmode/romlists/_roms_music.txt
-
-rm /dev/shm/tmp.list > /dev/null 2>&1
-for f in "$(find  "$romDIR"* -maxdepth 1 -exec basename {} \; | rev | cut -c 5- | rev)"; do echo "$f" >> /dev/shm/tmp.list; done
-
+romLIST=/opt/retropie/configs/all/attractmode/romlists/$(basename "$romDIR").txt
 echo '#Name;Title;Emulator;CloneOf;Year;Manufacturer;Category;Players;Rotation;Control;Status;DisplayCount;DisplayType;AltRomname;AltTitle;Extra;Buttons' > $romLIST
-# eg. e1m1;e1m1;A-SIDE;;;;;;;;;;;;;;
+
+# Scan for Directories
+rm /dev/shm/tmp.list > /dev/null 2>&1; rm /dev/shm/tmp.abc > /dev/null 2>&1
+find "$romDIR" -maxdepth 1 -type d -exec basename {} \; | tail -n +2 >> /dev/shm/tmp.list
+find -L "$romDIR" -maxdepth 1 -xtype l -ls -exec basename {} \; | tail -n +2 >> /dev/shm/tmp.list
+
+# Add Directories to romLIST.txt - eg. A-SIDE;# A-SIDE #;@;;;;;;;;;0;;;;;
+if [[ -f /dev/shm/tmp.list ]]; then
+sort /dev/shm/tmp.list -n > /dev/shm/tmp.abc
 while read line; do
-	echo ""$line";"$line";$(basename "$romLIST" | rev | cut -c 5- | rev);;;;;;;;;;;;;;" >> $romLIST
-done < /dev/shm/tmp.list
+	echo ""$line";# "$line" #;@;;;;;;;;;0;;;;;" >> $romLIST
+done < /dev/shm/tmp.abc > /dev/null 2>&1
+fi
 
-rm /dev/shm/tmp.list > /dev/null 2>&1
+# Scan for mp3 pls m3u
+rm /dev/shm/tmp.list > /dev/null 2>&1; rm /dev/shm/tmp.abc > /dev/null 2>&1
+for f in "$(find  "$romDIR" -maxdepth 1 -type f -iname "*.mp3" -exec basename {} \; | rev | cut -c 5- | rev)"; do if [[ ! "$f" == '' ]]; then echo "$f" >> /dev/shm/tmp.list; fi; done
+for f in "$(find  "$romDIR" -maxdepth 1 -type f -iname "*.pls" -exec basename {} \; | rev | cut -c 5- | rev)"; do if [[ ! "$f" == '' ]]; then echo "$f" >> /dev/shm/tmp.list; fi; done
+for f in "$(find  "$romDIR" -maxdepth 1 -type f -iname "*.m3u" -exec basename {} \; | rev | cut -c 5- | rev)"; do if [[ ! "$f" == '' ]]; then echo "$f" >> /dev/shm/tmp.list; fi; done
 
-echo INPUT FOLDER: $romDIR
-echo OUTPUT FILE: $romLIST
+# Add mp3 pls m3u to romLIST.txt - eg. e1m1;e1m1;A-SIDE;;;;;;;;;;;;;;
+if [[ -f /dev/shm/tmp.list ]]; then
+sort /dev/shm/tmp.list -n > /dev/shm/tmp.abc
+while read line; do
+	echo ""$line";"$line";$(basename "$romDIR");;;;;;;;;;;;;;" >> $romLIST
+done < /dev/shm/tmp.abc > /dev/null 2>&1
+fi
+
+rm /dev/shm/tmp.list > /dev/null 2>&1; rm /dev/shm/tmp.abc > /dev/null 2>&1
+fi
+}
+
+# Scan ONLY the 0ptional [$1] Argument Directory
+if [[ ! "$1" == '' ]]; then
+	romDIR="$1"
+	if [[ -d "$romDIR" ]]; then
+		scanROMdir
+		echo INPUT: $romDIR
+		echo OUTPUT: $(dirname $romLIST)/$(basename "$romDIR").txt
+	else
+		echo Folder Does NOT exist!?
+		echo INPUT: $romDIR
+	fi
+	exit 0
+fi
+
+# Add [ romDIR=/Full/Path/Directory/ ] you want to scan here followed by [ scanROMdir ] function
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/bgm/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/bgm/A-SIDE/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/bgm/B-SIDE/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/_roms_music/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/DnBRadio/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/Mp3RadioFM/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/NightrideFM/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/RainwaveCC/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/SLAYRadio/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/streams/SomaFM/
+scanROMdir
+
+romDIR=/home/pi/RetroPie/retropiemenu/imp/music/QCDE/
+scanROMdir
+
+#echo OUTPUT: $(dirname $romLIST)/'*'.txt
 
 echo -e "$(tput setaf 2)Done! $(tput sgr0)"
 sleep 3
 }
 
 function es_attractmode() {
-if (dialog --title "ATTRACT CONTROLLER TOOL!" --yesno "Would You Like To Copy Your ES Controller Input To AM?" 0 0 )
+if (dialog --title "ATTRACT MODE CONTROLLER UPDATE TOOL!" --yesno "Would You Like To Copy Your ES Controller Input To AM?" 0 0 )
 then
         es_at
 else 
-        echo -e "$(tput setaf 2)Skipping Heading Back To Main Menu! $(tput sgr0)"
+        echo -e "$(tput setaf 2)Skipping Attract Mode Controller Update Tool! $(tput sgr0)"
         sleep 3
 fi
 }
@@ -191,7 +293,7 @@ function main_menu() {
     local choice
 
     while true; do
-        choice=$(dialog --backtitle "RetroPie is Currently Using $md As Your Boot Mode" --title " FRONTENDS SWITCHEROO MENU V 2.0" \
+        choice=$(dialog --backtitle "RetroPie is Currently Using $md As Your Boot Mode" --title " FRONTENDS SWITCHEROO MENU V 3.0" \
             --ok-label OK --cancel-label EXIT \
             --menu "Which Frontend or Helper Which You Like To Use?" 25 75 20 \
 	    + "|=========*FRONTENDS*=========|" \
@@ -199,9 +301,10 @@ function main_menu() {
             2 "Switch Boot Mode To Desktop ( $dp_here )" \
             3 "Switch Boot Mode To Emulationstation ( $es_here )" \
             4 "Switch Boot Mode To Kodi ( $kodi_here )" \
-	    + "|=========*ATTRACT TOOLS*=========|" \
-            5 "Update Attract Controllers To ES" \
-            6 "Update Attract Music Rom Playlist" \
+	    + "|=========*ATTRACT MODE TOOLS*=========|" \
+            5 "Update Attract Mode Controllers To Match ES" \
+            6 "Update Attract Mode IMP Music Playlists" \
+            7 "Turn Back Ground Music ON/OFF" \
             2>&1 > /dev/tty)
 
             case "$choice" in
@@ -211,7 +314,8 @@ function main_menu() {
             3) EMULATIONSTATION_MODE ;;
             4) KODI_MODE ;;
             5) es_attractmode ;;
-            6) music_romlist_attractmode ;;			
+            6) music_playlist_attractmode ;;
+            7) background_music ;;			
             *)  break ;;
         esac
     done
@@ -221,14 +325,16 @@ function ATTRACT_MODE() {
     if [ ! -d /home/pi/.attract ]; then
     install_attract
 else
+    echo -e "$(tput setaf 2)Now Starting Attract Mode Quick Setup! $(tput sgr0)"
+    sleep 3
+    clear
     #perl -p -i -e 's/bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/# bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/g' /opt/retropie/configs/all/autostart.sh
-	perl -p -i -e 's/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
-    echo "0" > /opt/retropie/configs/imp/settings/music-startup.flag
-    echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag	
+    perl -p -i -e 's/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     if grep -q 'emulationstation \#auto' "$AUTOSTART"; then
     sudo sed -i 's/emulationstation \#auto/attract \#auto/g' $AUTOSTART
-	music_romlist_attractmode
-	es_attractmode
+    es_attractmode
+    music_playlist_attractmode
+    background_music
     if (dialog --title "Attract Mode Now Set!" --yesno "Would You Like To Reboot In Attact Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into Attract Mode! $(tput sgr0)"
@@ -241,8 +347,9 @@ else
     fi  
 elif grep -q 'startx \#auto' "$AUTOSTART"; then
     sudo sed -i 's/startx \#auto/attract \#auto/g' $AUTOSTART
-	music_romlist_attractmode
-	es_attractmode
+    es_attractmode
+    music_playlist_attractmode
+    background_music
     if (dialog --title "Attract Mode Now Set!" --yesno "Would You Like To Reboot In Attact Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into Attract Mode! $(tput sgr0)"
@@ -255,8 +362,9 @@ elif grep -q 'startx \#auto' "$AUTOSTART"; then
     fi  
 elif grep -q 'kodi \#auto' "$AUTOSTART"; then
     sudo sed -i 's/kodi \#auto/attract \#auto/g' $AUTOSTART
-	music_romlist_attractmode
-	es_attractmode
+    es_attractmode
+    music_playlist_attractmode
+    background_music
     if (dialog --title "Attract Mode Now Set!" --yesno "Would You Like To Reboot In Attact Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into Attract Mode! $(tput sgr0)"
@@ -268,7 +376,7 @@ elif grep -q 'kodi \#auto' "$AUTOSTART"; then
     quit 2>/dev/null
     fi  
 elif grep -q 'attract \#auto' "$AUTOSTART"; then
-    echo -e "$(tput setaf 2)Attract Mode Already Set! $(tput sgr0)"
+    echo -e "$(tput setaf 2)Looks Like Attract Mode Is Already Set! $(tput sgr0)"
     sleep 3
 fi
 mode_check
@@ -279,13 +387,16 @@ function DESKTOP_MODE() {
     if [ ! -f /usr/bin/startx ]; then
     install_desktop
 else
+    echo -e "$(tput setaf 2)Boot Mode Now Set To Desktop! $(tput sgr0)"
+    sleep 3
+    clear
     #perl -p -i -e 's/bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/# bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/g' /opt/retropie/configs/all/autostart.sh
-	perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
+    perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     echo "0" > /opt/retropie/configs/imp/settings/music-startup.flag
     echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag	
-	if grep -q 'attract \#auto' "$AUTOSTART"; then
+    if grep -q 'attract \#auto' "$AUTOSTART"; then
     sudo sed -i 's/attract \#auto/startx \#auto/g' $AUTOSTART
-    if (dialog --title "  Mode Set!" --yesno "Would You Like To Reboot In Desktop Mode Now?" 0 0 )
+    if (dialog --title "Desktop Boot Mode Set!" --yesno "Would You Like To Reboot In Desktop Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into Desktop Mode! $(tput sgr0)"
     sleep 3
@@ -331,8 +442,11 @@ function EMULATIONSTATION_MODE() {
     if [ ! -d /opt/retropie/configs/all/emulationstation ]; then
     install_emulationstation
 else
+    echo -e "$(tput setaf 2)Boot Mode Now Set To Emulationstation! $(tput sgr0)"
+    sleep 3
+    clear
     #perl -p -i -e 's/# bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/g' /opt/retropie/configs/all/autostart.sh
-	perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
+    perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     echo "1" > /opt/retropie/configs/imp/settings/music-startup.flag
     echo "1" > /opt/retropie/configs/imp/settings/startupsong.flag	
     if grep -q 'attract \#auto' "$AUTOSTART"; then
@@ -383,8 +497,11 @@ function KODI_MODE() {
     if [ ! -f /usr/bin/kodi ]; then
     install_kodi
 else
+    echo -e "$(tput setaf 2)Boot Mode Now Set To Kodi! $(tput sgr0)"
+    sleep 3
+    clear
     #perl -p -i -e 's/bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/# bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/g' /opt/retropie/configs/all/autostart.sh
-	perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
+    perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     echo "0" > /opt/retropie/configs/imp/settings/music-startup.flag
     echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag	
     if grep -q 'attract \#auto' "$AUTOSTART"; then
