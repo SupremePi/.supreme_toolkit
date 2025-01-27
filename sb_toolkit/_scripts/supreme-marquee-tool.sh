@@ -67,7 +67,7 @@ function main_menu() {
 # Make folder system-themed-marquee SUPREME -----------------------------------------------------------------------------------------------------------------------------------
 function system-themed-marquee() {
 	dialog --infobox "APPLYING CHANGES NOW." 3 25 ; sleep 6
-	if [ ! -d /home/pi/Piethemed-marquee3 ]; then
+	if [ ! -d /home/pi/PieMarquee3 ]; then
 	
 if [ ! -d /home/pi/RetroPie/roms/3do/themed-marquee ]; then
   mkdir /home/pi/RetroPie/roms/3do >/dev/null 2>&1

@@ -205,6 +205,12 @@
 		<image>/home/pi/RetroPie/retropiemenu/icons/resetcontrollers.png</image>
 	</game>
 	<game>
+		<path>./controllertools/[QJoyPad] Desktop.sh</path>
+		<name>✭ QJoyPad</name>
+		<desc>* KEYBOARD/MOUSE REQUIRED *</desc>
+		<image>./icons/Start qjoypad.png</image>
+	</game>	
+	<game>
 		<path>./visualtools/retroarch-tool.sh</path>
 		<name>Retroarch Visual Tool </name>
 		<desc>The all in one RetroArch Visual Tweak script.</desc>
