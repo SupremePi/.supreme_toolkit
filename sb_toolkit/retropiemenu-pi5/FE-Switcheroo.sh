@@ -331,7 +331,7 @@ else
     #perl -p -i -e 's/bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/# bash \/opt\/retropie\/configs\/imp\/boot.sh > \/dev\/null 2>&1 & #auto/g' /opt/retropie/configs/all/autostart.sh
     perl -p -i -e 's/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     if grep -q 'emulationstation \#auto' "$AUTOSTART"; then
-    sudo sed -i 's/emulationstation \#auto/attract \#auto/g' $AUTOSTART
+    sudo sed -i 's/emulationstation \#auto/attract --logfile \/dev\/shm\/run_attractmode.log \#auto/g' $AUTOSTART
     es_attractmode
     music_playlist_attractmode
     background_music
@@ -346,7 +346,7 @@ else
     quit 2>/dev/null
     fi  
 elif grep -q 'startx \#auto' "$AUTOSTART"; then
-    sudo sed -i 's/startx \#auto/attract \#auto/g' $AUTOSTART
+    sudo sed -i 's/startx \#auto/attract --logfile \/dev\/shm\/run_attractmode.log \#auto/g' $AUTOSTART
     es_attractmode
     music_playlist_attractmode
     background_music
@@ -361,7 +361,7 @@ elif grep -q 'startx \#auto' "$AUTOSTART"; then
     quit 2>/dev/null
     fi  
 elif grep -q 'kodi \#auto' "$AUTOSTART"; then
-    sudo sed -i 's/kodi \#auto/attract \#auto/g' $AUTOSTART
+    sudo sed -i 's/kodi \#auto/attract --logfile \/dev\/shm\/run_attractmode.log \#auto/g' $AUTOSTART
     es_attractmode
     music_playlist_attractmode
     background_music
@@ -375,7 +375,7 @@ elif grep -q 'kodi \#auto' "$AUTOSTART"; then
     sleep 3
     quit 2>/dev/null
     fi  
-elif grep -q 'attract \#auto' "$AUTOSTART"; then
+elif grep -q 'attract --logfile \/dev\/shm\/run_attractmode.log \#auto' "$AUTOSTART"; then
     echo -e "$(tput setaf 2)Looks Like Attract Mode Is Already Set! $(tput sgr0)"
     sleep 3
 fi
@@ -394,8 +394,8 @@ else
     perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     echo "0" > /opt/retropie/configs/imp/settings/music-startup.flag
     echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag	
-    if grep -q 'attract \#auto' "$AUTOSTART"; then
-    sudo sed -i 's/attract \#auto/startx \#auto/g' $AUTOSTART
+    if grep -q 'attract --logfile \/dev\/shm\/run_attractmode.log \#auto' "$AUTOSTART"; then
+    sudo sed -i 's/attract --logfile \/dev\/shm\/run_attractmode.log \#auto/startx \#auto/g' $AUTOSTART
     if (dialog --title "Desktop Boot Mode Set!" --yesno "Would You Like To Reboot In Desktop Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into Desktop Mode! $(tput sgr0)"
@@ -449,8 +449,8 @@ else
     perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     echo "1" > /opt/retropie/configs/imp/settings/music-startup.flag
     echo "1" > /opt/retropie/configs/imp/settings/startupsong.flag	
-    if grep -q 'attract \#auto' "$AUTOSTART"; then
-    sudo sed -i 's/attract \#auto/emulationstation \#auto/g' $AUTOSTART
+    if grep -q 'attract --logfile \/dev\/shm\/run_attractmode.log \#auto' "$AUTOSTART"; then
+    sudo sed -i 's/attract --logfile \/dev\/shm\/run_attractmode.log \#auto/emulationstation \#auto/g' $AUTOSTART
     if (dialog --title "EmulationStation Boot Mode Set!" --yesno "Would You Like To Reboot Into EmulationStation Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into EmulationStation Mode! $(tput sgr0)"
@@ -504,8 +504,8 @@ else
     perl -p -i -e 's/\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/#\/opt\/retropie\/configs\/all\/attractmode\/ambootcheck\/amromcheck.sh/g' /opt/retropie/configs/all/autostart.sh
     echo "0" > /opt/retropie/configs/imp/settings/music-startup.flag
     echo "0" > /opt/retropie/configs/imp/settings/startupsong.flag	
-    if grep -q 'attract \#auto' "$AUTOSTART"; then
-    sudo sed -i 's/attract \#auto/kodi \#auto/g' $AUTOSTART
+    if grep -q 'attract --logfile \/dev\/shm\/run_attractmode.log \#auto' "$AUTOSTART"; then
+    sudo sed -i 's/attract --logfile \/dev\/shm\/run_attractmode.log \#auto/kodi \#auto/g' $AUTOSTART
     if (dialog --title "Kodi Mode Set!" --yesno "Would You Like To Reboot In Kodi Mode Now?" 0 0 )
     then
     echo -e "$(tput setaf 2)Now Rebooting Pi Into Kodi Mode! $(tput sgr0)"
@@ -577,7 +577,7 @@ fi
 function mode_check() {
 if grep -q 'emulationstation \#auto' "$AUTOSTART"; then
 	md="Emulationstation Mode"
-elif grep -q 'attract \#auto' "$AUTOSTART"; then
+elif grep -q 'attract --logfile \/dev\/shm\/run_attractmode.log \#auto' "$AUTOSTART"; then
 	md="Attract Mode"
 elif grep -q 'pegasus-fe \#auto' "$AUTOSTART"; then
 	md="Pegasus Mode"
